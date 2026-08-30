@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CarportActive — Wiata, która robi więcej</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Condensed:wght@700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #141414;
+  --anthracite: #2c2f33;
+  --mid: #4a4e54;
+  --steel: #8a9099;
+  --light: #f0f0ee;
+  --white: #ffffff;
+  --green: #5a9a4a;
+  --green-light: #eaf3e6;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(--black); }
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  background: var(--anthracite);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute; inset: 0;
+  background: linear-gradient(160deg, #1a1d20 0%, #2c2f33 60%, #1a2a18 100%);
+}
+.hero-grid {
+  position: absolute; inset: 0;
+  background-image: repeating-linear-gradient(0deg, transparent, transparent 59px, #ffffff08 59px, #ffffff08 60px),
+    repeating-linear-gradient(90deg, transparent, transparent 59px, #ffffff08 59px, #ffffff08 60px);
+}
+.hero-content {
+  position: relative; z-index: 2;
+  padding: 80px 48px 64px;
+  max-width: 900px;
+}
+.hero-eyebrow {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 13px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--green); margin-bottom: 24px;
+  display: flex; align-items: center; gap: 10px;
+}
+.hero-eyebrow::before {
+  content: ''; display: block; width: 32px; height: 2px; background: var(--green);
+}
+.hero h1 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(52px, 8vw, 96px);
+  font-weight: 800; line-height: 0.95;
+  color: var(--white); margin-bottom: 28px;
+  text-transform: uppercase; letter-spacing: -1px;
+}
+.hero h1 em { color: var(--green); font-style: normal; }
+.hero-sub {
+  font-size: 18px; color: #b0b8c0; line-height: 1.6;
+  max-width: 520px; margin-bottom: 40px;
+}
+.hero-cta {
+  display: inline-flex; align-items: center; gap: 10px;
+  background: var(--green); color: var(--white);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  padding: 14px 28px; text-decoration: none;
+  border: none; cursor: pointer;
+  transition: background .2s;
+}
+.hero-cta:hover { background: #4a8a3a; }
+.hero-cta-arrow { font-size: 20px; }
+.hero-modules {
+  position: relative; z-index: 2;
+  display: flex; border-top: 1px solid #ffffff18;
+}
+.hero-mod {
+  flex: 1; padding: 20px 24px;
+  border-right: 1px solid #ffffff18;
+  display: flex; align-items: center; gap: 10px;
+}
+.hero-mod:last-child { border-right: none; }
+.hero-mod-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
+.hero-mod-label { font-size: 13px; color: #808890; font-weight: 500; }
+
+/* MODULES SECTION */
+.modules { padding: 0; }
+.mod-block {
+  display: grid; grid-template-columns: 1fr 1fr;
+  min-height: 560px;
+}
+.mod-block:nth-child(even) .mod-img { order: 2; }
+.mod-block:nth-child(even) .mod-text { order: 1; }
+.mod-img {
+  position: relative; overflow: hidden;
+  background: var(--light);
+}
+.mod-img img {
+  width: 100%; height: 100%;
+  object-fit: cover; display: block;
+  transition: transform .6s ease;
+}
+.mod-block:hover .mod-img img { transform: scale(1.03); }
+.mod-text {
+  padding: 64px 56px;
+  display: flex; flex-direction: column; justify-content: center;
+  background: var(--white);
+}
+.mod-num {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 72px; font-weight: 800; line-height: 1;
+  color: var(--light); margin-bottom: -8px;
+  user-select: none;
+}
+.mod-cat {
+  font-size: 11px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--green); font-weight: 700; margin-bottom: 12px;
+}
+.mod-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 40px; font-weight: 800; text-transform: uppercase;
+  line-height: 1.05; color: var(--black); margin-bottom: 16px;
+}
+.mod-desc {
+  font-size: 16px; color: var(--mid); line-height: 1.65;
+  margin-bottom: 24px;
+}
+.mod-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.tag {
+  background: var(--green-light); color: var(--green);
+  font-size: 12px; font-weight: 700; letter-spacing: 0.5px;
+  padding: 4px 12px; border-radius: 0;
+}
+
+/* DARK BLOCK */
+.mod-block.dark .mod-text { background: var(--anthracite); }
+.mod-block.dark .mod-num { color: #363a40; }
+.mod-block.dark .mod-title { color: var(--white); }
+.mod-block.dark .mod-desc { color: #8a9099; }
+.mod-block.dark .tag { background: #363a40; color: #7ab86a; }
+
+/* WHY STRIP */
+.why-strip {
+  background: var(--black); padding: 80px 48px;
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 0;
+}
+.why-item {
+  padding: 0 40px 0 0;
+  border-right: 1px solid #ffffff12;
+}
+.why-item:last-child { border-right: none; padding-right: 0; padding-left: 40px; }
+.why-item:first-child { padding-left: 0; }
+.why-n {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 48px; font-weight: 800; color: var(--green); line-height: 1;
+  margin-bottom: 8px;
+}
+.why-title { font-size: 15px; font-weight: 700; color: var(--white); margin-bottom: 8px; }
+.why-desc { font-size: 13px; color: var(--steel); line-height: 1.6; }
+
+/* CTA SECTION */
+.cta-section {
+  background: var(--green); padding: 100px 48px;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 80px;
+  align-items: center;
+}
+.cta-left h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(36px, 5vw, 60px); font-weight: 800;
+  text-transform: uppercase; color: var(--white);
+  line-height: 1.05; margin-bottom: 16px;
+}
+.cta-left p { font-size: 16px; color: #d0ecc8; line-height: 1.6; }
+.cta-form { display: flex; flex-direction: column; gap: 10px; }
+.cta-form input, .cta-form textarea, .cta-form select {
+  background: #ffffff22; border: 1px solid #ffffff44;
+  color: var(--white); font-family: 'Barlow', sans-serif;
+  font-size: 15px; padding: 13px 16px; outline: none;
+  border-radius: 0;
+  transition: border-color .2s;
+}
+.cta-form input::placeholder,
+.cta-form textarea::placeholder { color: #ffffffaa; }
+.cta-form input:focus, .cta-form textarea:focus, .cta-form select:focus {
+  border-color: var(--white);
+}
+.cta-form select option { background: var(--anthracite); color: var(--white); }
+.cta-form textarea { min-height: 80px; resize: vertical; }
+.cta-submit {
+  background: var(--white); color: var(--green);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase;
+  padding: 14px 28px; border: none; cursor: pointer;
+  transition: opacity .2s; text-align: center;
+}
+.cta-submit:hover { opacity: .9; }
+.form-ok {
+  display: none; background: #ffffff22; border: 1px solid #ffffff44;
+  padding: 14px 16px; color: var(--white); font-size: 14px; text-align: center;
+}
+
+/* FOOTER */
+footer {
+  background: var(--black); padding: 24px 48px;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.footer-brand {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 20px; font-weight: 800; color: var(--white); letter-spacing: 1px;
+}
+.footer-brand span { color: var(--green); }
+.footer-copy { font-size: 12px; color: var(--steel); }
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .hero-content { padding: 60px 24px 40px; }
+  .hero-modules { flex-direction: column; }
+  .hero-mod { border-right: none; border-bottom: 1px solid #ffffff18; }
+  .mod-block { grid-template-columns: 1fr; min-height: auto; }
+  .mod-block:nth-child(even) .mod-img,
+  .mod-block:nth-child(even) .mod-text { order: unset; }
+  .mod-img { min-height: 280px; }
+  .mod-text { padding: 40px 24px; }
+  .why-strip { grid-template-columns: 1fr 1fr; gap: 40px; padding: 48px 24px; }
+  .why-item { border-right: none; padding: 0; }
+  .cta-section { grid-template-columns: 1fr; gap: 40px; padding: 64px 24px; }
+  footer { flex-direction: column; gap: 8px; padding: 24px; text-align: center; }
+}
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Stalowe konstrukcje modułowe</div>
+    <h1>Wiata,<br>która robi<br><em>więcej</em></h1>
+    <p class="hero-sub">Jeden fundament, nieograniczone możliwości. Dołącz moduł sportowy, ogród wertykalny, plac zabaw lub warsztat — zawsze gdy chcesz.</p>
+    <a class="hero-cta" href="#kontakt">Zapytaj o wycenę <span class="hero-cta-arrow">→</span></a>
+  </div>
+  <div class="hero-modules">
+    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Moduł sportowy</div></div>
+    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Ogród wertykalny</div></div>
+    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Plac zabaw</div></div>
+    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Warsztat / rower</div></div>
+    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Panel narzędziowy</div></div>
+  </div>
+</section>
+
+<section class="modules">
+
+  <div class="mod-block">
+    <div class="mod-img">
+      <img src="https://i.imgur.com/nIpZWV3.png" alt="Wiata z modułem sportowym">
+    </div>
+    <div class="mod-text">
+      <div class="mod-num">01</div>
+      <div class="mod-cat">Dla aktywnych</div>
+      <div class="mod-title">Moduł<br>sportowy</div>
+      <p class="mod-desc">Drabinka szwedzka, drążek i poręcze zintegrowane ze słupami wiaty. Trening na świeżym powietrzu — bez wycieczki na siłownię, bez osobnej konstrukcji w ogrodzie.</p>
+      <div class="mod-tags">
+        <span class="tag">Drabinka szwedzka</span>
+        <span class="tag">Drążek</span>
+        <span class="tag">Poręcze</span>
+        <span class="tag">Ocynk ogniowy</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mod-block dark">
+    <div class="mod-img">
+      <img src="https://i.imgur.com/XEgrk4S.png" alt="Wiata z panelem narzędziowym">
+    </div>
+    <div class="mod-text">
+      <div class="mod-num">02</div>
+      <div class="mod-cat">Dla majsterkowiczów</div>
+      <div class="mod-title">Panel<br>narzędziowy</div>
+      <p class="mod-desc">Każdy klucz na swoim miejscu. Panel narzędziowy na bocznej ścianie wiaty zamienia wjazd garażowy w profesjonalne stanowisko pracy — zawsze pod ręką, zawsze w porządku.</p>
+      <div class="mod-tags">
+        <span class="tag">Panel perforowany</span>
+        <span class="tag">Haki i uchwyty</span>
+        <span class="tag">Skrzynki</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mod-block">
+    <div class="mod-img">
+      <img src="https://i.imgur.com/Vw0MYit.png" alt="Wiata z ogrodem wertykalnym">
+    </div>
+    <div class="mod-text">
+      <div class="mod-num">03</div>
+      <div class="mod-cat">Dla zielonych</div>
+      <div class="mod-title">Ogród<br>wertykalny</div>
+      <p class="mod-desc">Zioła, kwiaty, sałata — pionowy ogród na bocznym panelu wiaty. Estetyczny, praktyczny i zaskakujący. Stal i zieleń tworzą parę, której nie ma nikt z sąsiadów.</p>
+      <div class="mod-tags">
+        <span class="tag">Moduły roślinne</span>
+        <span class="tag">Opcja nawadniania</span>
+        <span class="tag">Dowolna roślinność</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mod-block dark">
+    <div class="mod-img">
+      <img src="https://i.imgur.com/IM4phMh.png" alt="Wiata z placem zabaw dla dzieci">
+    </div>
+    <div class="mod-text">
+      <div class="mod-num">04</div>
+      <div class="mod-cat">Dla rodzin</div>
+      <div class="mod-title">Plac zabaw<br>dla dzieci</div>
+      <p class="mod-desc">Ścianka wspinaczkowa, siatka linowa i liny — wszystko pod dachem wiaty. Dzieci bawią się w każdą pogodę, a Ty masz oko na nich z okna kuchni.</p>
+      <div class="mod-tags">
+        <span class="tag">Ścianka wspinaczkowa</span>
+        <span class="tag">Siatka linowa</span>
+        <span class="tag">Liny</span>
+        <span class="tag">Mata amortyzująca</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="mod-block">
+    <div class="mod-img">
+      <img src="https://i.imgur.com/D84mDT5.jpeg" alt="Wiata z przechowalnią rowerów">
+    </div>
+    <div class="mod-text">
+      <div class="mod-num">05</div>
+      <div class="mod-cat">Dla rowerzystów</div>
+      <div class="mod-title">Przechowalnia<br>rowerów</div>
+      <p class="mod-desc">Rowery, hulajnogi, sprzęt sportowy — wszystko bezpiecznie pod dachem, bez zajmowania miejsca w garażu. Wieszaki i stojaki zintegrowane z konstrukcją wiaty.</p>
+      <div class="mod-tags">
+        <span class="tag">Wieszaki na rowery</span>
+        <span class="tag">Stojaki</span>
+        <span class="tag">Zamknięta strefa</span>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section class="why-strip">
+  <div class="why-item">
+    <div class="why-n">S235</div>
+    <div class="why-title">Stal konstrukcyjna</div>
+    <div class="why-desc">Nie profilówka z marketu. Pełna stal S235, spawana i ocynkowana ogniowo na dekady.</div>
+  </div>
+  <div class="why-item" style="padding-left:40px">
+    <div class="why-n">+∞</div>
+    <div class="why-title">Modułowość</div>
+    <div class="why-desc">Słupy i fundament z zapasem. Dołożysz moduł za rok — bez przeróbek, bez dopłat za projekt.</div>
+  </div>
+  <div class="why-item" style="padding-left:40px">
+    <div class="why-n">PL</div>
+    <div class="why-title">Produkcja własna</div>
+    <div class="why-desc">Spawamy sami, montujemy sami. Odpowiadamy za jakość od projektu do odbioru.</div>
+  </div>
+  <div class="why-item">
+    <div class="why-n">10+</div>
+    <div class="why-title">Lat żywotności</div>
+    <div class="why-desc">Ocynk ogniowy to nie farba. To ochrona, która nie łuszczy się przy pierwszym mrozie.</div>
+  </div>
+</section>
+
+<section class="cta-section" id="kontakt">
+  <div class="cta-left">
+    <h2>Zaprojektujmy<br>Twoją wiatę</h2>
+    <p>Napisz jaki moduł Cię interesuje i podaj przybliżone wymiary działki. Odezwiemy się w ciągu 24 godzin z propozycją i wyceną.</p>
+  </div>
+  <div>
+    <form class="cta-form" onsubmit="submitForm(event)">
+      <input type="text" id="f-name" placeholder="Imię i nazwisko" required>
+      <input type="text" id="f-contact" placeholder="Telefon lub e-mail" required>
+      <select id="f-module">
+        <option value="">Wybierz moduł</option>
+        <option>Moduł sportowy (drabinka, drążek)</option>
+        <option>Panel narzędziowy</option>
+        <option>Ogród wertykalny</option>
+        <option>Plac zabaw dla dzieci</option>
+        <option>Przechowalnia rowerów</option>
+        <option>Kilka modułów — omówię szczegóły</option>
+      </select>
+      <textarea id="f-msg" placeholder="Wymiary, dodatkowe pytania…"></textarea>
+      <button type="submit" class="cta-submit">Wyślij zapytanie →</button>
+    </form>
+    <div class="form-ok" id="form-ok">✓ Dziękujemy! Odezwiemy się wkrótce.</div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-brand">Carport<span>Active</span></div>
+  <div class="footer-copy">© 2026 CarportActive · Stalowe konstrukcje modułowe · Polska</div>
+</footer>
+
+<script>
+function submitForm(e) {
+  e.preventDefault();
+  const name = document.getElementById('f-name').value.trim();
+  const contact = document.getElementById('f-contact').value.trim();
+  if (!name || !contact) return;
+  document.querySelector('.cta-form').style.display = 'none';
+  document.getElementById('form-ok').style.display = 'block';
+}
+</script>
+</body>
+</html>
