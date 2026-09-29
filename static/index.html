@@ -233,6 +233,39 @@ footer {
   .cta-section { grid-template-columns: 1fr; gap: 40px; padding: 64px 24px; }
   footer { flex-direction: column; gap: 8px; padding: 24px; text-align: center; }
 }
+
+/* AI visualizer button + modal */
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.hero-ai {
+  text-decoration: none;
+  display: inline-flex; align-items: center; gap: 10px;
+  background: transparent; color: var(--white);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  padding: 12px 24px; border: 2px solid #ffffff55; cursor: pointer;
+  transition: border-color .2s;
+}
+.hero-ai:hover { border-color: var(--green); }
+.hero-ai-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
+.ai-link { background: none; border: 0; padding: 0; color: var(--green); font: inherit; font-weight: 700;
+  text-decoration: underline; cursor: pointer; }
+.ai-float {
+  position: fixed; right: 16px; bottom: 16px; z-index: 900;
+  display: inline-flex; align-items: center; gap: 10px;
+  background: var(--green); color: var(--white); text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif; font-size: 16px; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase;
+  padding: 12px 18px; box-shadow: 0 6px 20px rgba(0,0,0,.35);
+  transition: background .2s;
+}
+.ai-float:hover { background: #4a8a3a; }
+.ai-float svg { width: 22px; height: 22px; flex-shrink: 0; }
+.ai-float:focus-visible, .hero-ai:focus-visible { outline: 3px solid var(--white); outline-offset: 3px; }
+@media (max-width: 640px) {
+  .hero-actions > * { width: 100%; justify-content: center; text-align: center; line-height: 1.2; }
+  .ai-float { right: 12px; bottom: 12px; font-size: 15px; padding: 11px 14px; }
+  footer { padding-bottom: 88px !important; }
+}
 </style>
 </head>
 <body>
@@ -244,7 +277,10 @@ footer {
     <div class="hero-eyebrow">Stalowe konstrukcje modułowe</div>
     <h1>Wiata,<br>która robi<br><em>więcej</em></h1>
     <p class="hero-sub">Jeden fundament, nieograniczone możliwości. Dołącz moduł sportowy, ogród wertykalny, plac zabaw lub warsztat — zawsze gdy chcesz.</p>
-    <a class="hero-cta" href="#kontakt">Zapytaj o wycenę <span class="hero-cta-arrow">→</span></a>
+    <div class="hero-actions">
+      <a class="hero-cta" href="#kontakt">Zapytaj o wycenę <span class="hero-cta-arrow">→</span></a>
+      <a class="hero-ai" href="/wizualizacja/"><span class="hero-ai-dot"></span>Zobacz wiatę na swoim podwórku (AI)</a>
+    </div>
   </div>
   <div class="hero-modules">
     <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Moduł sportowy</div></div>
@@ -392,6 +428,7 @@ footer {
   <div class="cta-left">
     <h2>Zaprojektujmy<br>Twoją wiatę</h2>
     <p>Napisz jaki moduł Cię interesuje i podaj przybliżone wymiary działki. Odezwiemy się w ciągu 24 godzin z propozycją i wyceną.</p>
+    <p style="margin-top:14px">Masz zdjęcie podwórka? <a class="ai-link" href="/wizualizacja/">Wgraj je – AI pokaże wiatę na miejscu</a>.</p>
   </div>
   <div>
     <form class="cta-form" onsubmit="submitForm(event)">
@@ -418,14 +455,33 @@ footer {
   <div class="footer-copy">© 2026 CarportActive · Stalowe konstrukcje modułowe · Polska</div>
 </footer>
 
+<a class="ai-float" href="/wizualizacja/" aria-label="Zobacz wiatę na swoim podwórku – wizualizacja AI">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 8h3l2-3h8l2 3h3v12H3z"/><circle cx="12" cy="13" r="4"/></svg>
+  Twoja wiata · AI
+</a>
+
 <script>
-function submitForm(e) {
+async function submitForm(e) {
   e.preventDefault();
   const name = document.getElementById('f-name').value.trim();
   const contact = document.getElementById('f-contact').value.trim();
   if (!name || !contact) return;
-  document.querySelector('.cta-form').style.display = 'none';
-  document.getElementById('form-ok').style.display = 'block';
+  const btn = document.querySelector('.cta-submit');
+  const fd = new FormData();
+  fd.append('name', name);
+  fd.append('contact', contact);
+  fd.append('module', document.getElementById('f-module').value);
+  fd.append('msg', document.getElementById('f-msg').value.trim());
+  btn.disabled = true;
+  try {
+    const r = await fetch('/wizualizacja/api/contact', { method: 'POST', body: fd });
+    if (!r.ok) throw new Error();
+    document.querySelector('.cta-form').style.display = 'none';
+    document.getElementById('form-ok').style.display = 'block';
+  } catch {
+    btn.disabled = false;
+    alert('Nie udało się wysłać zapytania. Sprawdź połączenie i spróbuj ponownie.');
+  }
 }
 </script>
 </body>
