@@ -3,8 +3,85 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>CarportActive — Wiata, która robi więcej</title>
+<title>CarportActive — Nowoczesne Wiaty Garażowe i Modułowe Carporty Stalowe</title>
+<meta name="description" content="Stalowe wiaty garażowe S235 ocynkowane ogniowo. Modułowa konstrukcja: carport pod fotowoltaikę (Solar Box), moduł sportowy, warsztat, plac zabaw i ogród wertykalny. Sprawdź wizualizację AI!">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://carportactive.pl/">
+
+<!-- Open Graph / Social Media -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://carportactive.pl/">
+<meta property="og:title" content="CarportActive — Wiata garażowa, która robi więcej">
+<meta property="og:description" content="Jeden fundament, nieograniczone możliwości. Stalowe wiaty modułowe S235 z fotowoltaiką, siłownią, warsztatem lub placem zabaw. Zobacz wiatę na swoim podwórku z AI!">
+<meta property="og:image" content="https://carportactive.pl/img/solar.jpg">
+<meta property="og:locale" content="pl_PL">
+
+<!-- Preconnect & Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Condensed:wght@700;800&display=swap" rel="stylesheet">
+
+<!-- Favicons -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<!-- Schema.org JSON-LD (Produkt + Firma + FAQ dla Google) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://carportactive.pl/#organization",
+      "name": "CarportActive",
+      "url": "https://carportactive.pl/",
+      "description": "Producent stalowych wiat modułowych i carportów fotowoltaicznych ze stali konstrukcyjnej S235.",
+      "areaServed": "PL"
+    },
+    {
+      "@type": "Product",
+      "name": "Modułowa Wiata Garażowa CarportActive S235",
+      "description": "Stalowa wiata samochodowa (carport) ocynkowana ogniowo z możliwością rozbudowy o moduł fotowoltaiczny Solar Box, moduł sportowy, warsztat, ogród wertykalny i plac zabaw.",
+      "brand": {
+        "@type": "Brand",
+        "name": "CarportActive"
+      },
+      "material": "Stal konstrukcyjna S235 ocynkowana ogniowo"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy na wiatę garażową CarportActive potrzebne jest pozwolenie na budowę?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "W większości przypadków wiaty o powierzchni zabudowy do 35 m² (a przy budynkach mieszkalnych nawet do 50 m²) nie wymagają pozwolenia na budowę — wystarczy proste zgłoszenie w urzędzie lub budowa bez formalności zgodnie z aktualnym Prawem Budowlanym."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "W jakich wymiarach dostępne są wiaty modułowe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oferujemy trzy bazowe warianty wysokości 2,7 m: jednostanowiskową (3 × 5 m), jednostanowiskową szeroką (4 × 5 m) oraz dwustanowiskową (6 × 5 m), a także konstrukcje dopasowane indywidualnie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy dodatkowe moduły można dokupić i zamontować później?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak. Słupy ze stali S235 oraz fundamenty projektujemy z zapasem wytrzymałości i gotowymi punktami montażowymi. Możesz zacząć od samej wiaty i dołożyć moduł sportowy, warsztatowy czy Solar Box w dowolnym momencie."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <style>
 :root {
   --black: #141414;
@@ -19,6 +96,25 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
 body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(--black); }
+
+/* TOP NAV */
+.top-nav {
+  position: absolute; top: 0; left: 0; right: 0; z-index: 10;
+  padding: 24px 48px;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.brand-logo {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 24px; font-weight: 800; color: var(--white);
+  text-decoration: none; letter-spacing: 1px; text-transform: uppercase;
+}
+.brand-logo span { color: var(--green); }
+.nav-links { display: flex; gap: 28px; align-items: center; }
+.nav-links a {
+  color: #d0d6dc; text-decoration: none; font-size: 14px; font-weight: 500;
+  transition: color .2s;
+}
+.nav-links a:hover { color: var(--green); }
 
 /* HERO */
 .hero {
@@ -42,8 +138,8 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
 }
 .hero-content {
   position: relative; z-index: 2;
-  padding: 80px 48px 64px;
-  max-width: 900px;
+  padding: 120px 48px 64px;
+  max-width: 920px;
 }
 .hero-eyebrow {
   font-family: 'Barlow Condensed', sans-serif;
@@ -64,7 +160,7 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
 .hero h1 em { color: var(--green); font-style: normal; }
 .hero-sub {
   font-size: 18px; color: #b0b8c0; line-height: 1.6;
-  max-width: 520px; margin-bottom: 40px;
+  max-width: 560px; margin-bottom: 40px;
 }
 .hero-cta {
   display: inline-flex; align-items: center; gap: 10px;
@@ -85,10 +181,12 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
   flex: 1; padding: 20px 24px;
   border-right: 1px solid #ffffff18;
   display: flex; align-items: center; gap: 10px;
+  text-decoration: none; transition: background .2s;
 }
+.hero-mod:hover { background: #ffffff08; }
 .hero-mod:last-child { border-right: none; }
 .hero-mod-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
-.hero-mod-label { font-size: 13px; color: #808890; font-weight: 500; }
+.hero-mod-label { font-size: 13px; color: #b0b8c0; font-weight: 500; }
 
 /* MODULES SECTION */
 .modules { padding: 0; }
@@ -143,7 +241,7 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
 .mod-block.dark .mod-text { background: var(--anthracite); }
 .mod-block.dark .mod-num { color: #363a40; }
 .mod-block.dark .mod-title { color: var(--white); }
-.mod-block.dark .mod-desc { color: #8a9099; }
+.mod-block.dark .mod-desc { color: #b0b8c0; }
 .mod-block.dark .tag { background: #363a40; color: #7ab86a; }
 
 /* WHY STRIP */
@@ -152,18 +250,79 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
   display: grid; grid-template-columns: repeat(4, 1fr); gap: 0;
 }
 .why-item {
-  padding: 0 40px 0 0;
+  padding: 0 40px;
   border-right: 1px solid #ffffff12;
 }
-.why-item:last-child { border-right: none; padding-right: 0; padding-left: 40px; }
 .why-item:first-child { padding-left: 0; }
+.why-item:last-child { border-right: none; padding-right: 0; }
 .why-n {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 48px; font-weight: 800; color: var(--green); line-height: 1;
   margin-bottom: 8px;
 }
-.why-title { font-size: 15px; font-weight: 700; color: var(--white); margin-bottom: 8px; }
-.why-desc { font-size: 13px; color: var(--steel); line-height: 1.6; }
+.why-title { font-size: 16px; font-weight: 700; color: var(--white); margin-bottom: 8px; }
+.why-desc { font-size: 14px; color: var(--steel); line-height: 1.6; }
+
+/* SIZES / MODELS SECTION */
+.sizes-section {
+  background: var(--light); padding: 80px 48px;
+}
+.sizes-header {
+  max-width: 700px; margin-bottom: 48px;
+}
+.sizes-header h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(32px, 4vw, 48px); font-weight: 800;
+  text-transform: uppercase; color: var(--black); line-height: 1.05; margin-bottom: 12px;
+}
+.sizes-header p { font-size: 16px; color: var(--mid); line-height: 1.6; }
+.sizes-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+}
+.size-card {
+  background: var(--white); padding: 36px 32px;
+  border-top: 4px solid var(--green);
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.size-card h3 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 26px; font-weight: 800; text-transform: uppercase;
+  color: var(--black); margin-bottom: 8px;
+}
+.size-dims {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 36px; font-weight: 800; color: var(--green); margin-bottom: 12px;
+}
+.size-desc { font-size: 14px; color: var(--mid); line-height: 1.5; margin-bottom: 20px; }
+.size-meta { font-size: 12px; font-weight: 700; color: var(--anthracite); text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* FAQ SECTION */
+.faq-section {
+  background: var(--white); padding: 80px 48px;
+  max-width: 1000px; margin: 0 auto;
+}
+.faq-section h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(32px, 4vw, 48px); font-weight: 800;
+  text-transform: uppercase; color: var(--black); margin-bottom: 32px;
+}
+.faq-item {
+  border-bottom: 1px solid #e2e4e8; padding: 20px 0;
+}
+.faq-item summary {
+  font-size: 18px; font-weight: 700; color: var(--black);
+  cursor: pointer; list-style: none;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after {
+  content: '+'; font-family: 'Barlow Condensed', sans-serif;
+  font-size: 28px; font-weight: 700; color: var(--green);
+}
+.faq-item[open] summary::after { content: '−'; }
+.faq-item p {
+  margin-top: 12px; font-size: 15px; color: var(--mid); line-height: 1.65;
+}
 
 /* CTA SECTION */
 .cta-section {
@@ -177,22 +336,27 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
   text-transform: uppercase; color: var(--white);
   line-height: 1.05; margin-bottom: 16px;
 }
-.cta-left p { font-size: 16px; color: #d0ecc8; line-height: 1.6; }
-.cta-form { display: flex; flex-direction: column; gap: 10px; }
-.cta-form input, .cta-form textarea, .cta-form select {
-  background: #ffffff22; border: 1px solid #ffffff44;
+.cta-left p { font-size: 16px; color: #eaf3e6; line-height: 1.6; }
+.cta-form { display: flex; flex-direction: column; gap: 12px; }
+.cta-form input[type="text"], .cta-form textarea, .cta-form select {
+  background: #ffffff22; border: 1px solid #ffffff55;
   color: var(--white); font-family: 'Barlow', sans-serif;
   font-size: 15px; padding: 13px 16px; outline: none;
   border-radius: 0;
   transition: border-color .2s;
 }
 .cta-form input::placeholder,
-.cta-form textarea::placeholder { color: #ffffffaa; }
+.cta-form textarea::placeholder { color: #ffffffcc; }
 .cta-form input:focus, .cta-form textarea:focus, .cta-form select:focus {
   border-color: var(--white);
 }
 .cta-form select option { background: var(--anthracite); color: var(--white); }
 .cta-form textarea { min-height: 80px; resize: vertical; }
+.rodo-label {
+  display: flex; align-items: flex-start; gap: 10px;
+  font-size: 12px; color: #eaf3e6; line-height: 1.4; cursor: pointer;
+}
+.rodo-label input { margin-top: 3px; accent-color: var(--anthracite); }
 .cta-submit {
   background: var(--white); color: var(--green);
   font-family: 'Barlow Condensed', sans-serif;
@@ -208,8 +372,8 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
 
 /* FOOTER */
 footer {
-  background: var(--black); padding: 24px 48px;
-  display: flex; justify-content: space-between; align-items: center;
+  background: var(--black); padding: 32px 48px;
+  display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;
 }
 .footer-brand {
   font-family: 'Barlow Condensed', sans-serif;
@@ -217,24 +381,11 @@ footer {
 }
 .footer-brand span { color: var(--green); }
 .footer-copy { font-size: 12px; color: var(--steel); }
+.footer-links { display: flex; gap: 20px; font-size: 12px; }
+.footer-links a { color: var(--steel); text-decoration: none; }
+.footer-links a:hover { color: var(--white); }
 
-/* RESPONSIVE */
-@media (max-width: 768px) {
-  .hero-content { padding: 60px 24px 40px; }
-  .hero-modules { flex-direction: column; }
-  .hero-mod { border-right: none; border-bottom: 1px solid #ffffff18; }
-  .mod-block { grid-template-columns: 1fr; min-height: auto; }
-  .mod-block:nth-child(even) .mod-img,
-  .mod-block:nth-child(even) .mod-text { order: unset; }
-  .mod-img { min-height: 280px; }
-  .mod-text { padding: 40px 24px; }
-  .why-strip { grid-template-columns: 1fr 1fr; gap: 40px; padding: 48px 24px; }
-  .why-item { border-right: none; padding: 0; }
-  .cta-section { grid-template-columns: 1fr; gap: 40px; padding: 64px 24px; }
-  footer { flex-direction: column; gap: 8px; padding: 24px; text-align: center; }
-}
-
-/* AI visualizer button + modal */
+/* AI visualizer button */
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .hero-ai {
   text-decoration: none;
@@ -247,7 +398,7 @@ footer {
 }
 .hero-ai:hover { border-color: var(--green); }
 .hero-ai-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
-.ai-link { background: none; border: 0; padding: 0; color: var(--green); font: inherit; font-weight: 700;
+.ai-link { background: none; border: 0; padding: 0; color: var(--white); font: inherit; font-weight: 700;
   text-decoration: underline; cursor: pointer; }
 .ai-float {
   position: fixed; right: 16px; bottom: 16px; z-index: 900;
@@ -261,51 +412,81 @@ footer {
 .ai-float:hover { background: #4a8a3a; }
 .ai-float svg { width: 22px; height: 22px; flex-shrink: 0; }
 .ai-float:focus-visible, .hero-ai:focus-visible { outline: 3px solid var(--white); outline-offset: 3px; }
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .top-nav { padding: 20px 24px; }
+  .nav-links { display: none; }
+  .hero-content { padding: 100px 24px 40px; }
+  .hero-modules { flex-direction: column; }
+  .hero-mod { border-right: none; border-bottom: 1px solid #ffffff18; }
+  .mod-block { grid-template-columns: 1fr; min-height: auto; }
+  .mod-block:nth-child(even) .mod-img,
+  .mod-block:nth-child(even) .mod-text { order: unset; }
+  .mod-img { min-height: 280px; }
+  .mod-text { padding: 40px 24px; }
+  .why-strip { grid-template-columns: 1fr 1fr; gap: 40px; padding: 48px 24px; }
+  .why-item { border-right: none; padding: 0; }
+  .sizes-section { padding: 56px 24px; }
+  .sizes-grid { grid-template-columns: 1fr; }
+  .faq-section { padding: 56px 24px; }
+  .cta-section { grid-template-columns: 1fr; gap: 40px; padding: 64px 24px; }
+  footer { flex-direction: column; gap: 12px; padding: 24px; text-align: center; }
+}
 @media (max-width: 640px) {
   .hero-actions > * { width: 100%; justify-content: center; text-align: center; line-height: 1.2; }
   .ai-float { right: 12px; bottom: 12px; font-size: 15px; padding: 11px 14px; }
   footer { padding-bottom: 88px !important; }
 }
 </style>
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="alternate icon" href="/favicon.ico" sizes="any">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 </head>
 <body>
 
+<header class="top-nav">
+  <a href="/" class="brand-logo">Carport<span>Active</span></a>
+  <nav class="nav-links" aria-label="Główna nawigacja">
+    <a href="#moduly">Moduły</a>
+    <a href="#wymiary">Wymiary</a>
+    <a href="#faq">FAQ</a>
+    <a href="/wizualizacja/">Wizualizacja AI</a>
+    <a href="#kontakt">Wycena</a>
+  </nav>
+</header>
+
+<main>
 <section class="hero">
   <div class="hero-bg"></div>
   <div class="hero-grid"></div>
   <div class="hero-content">
-    <div class="hero-eyebrow">Stalowe konstrukcje modułowe</div>
+    <div class="hero-eyebrow">Stalowe wiaty garażowe i konstrukcje modułowe</div>
     <h1>Wiata,<br>która robi<br><em>więcej</em></h1>
-    <p class="hero-sub">Jeden fundament, nieograniczone możliwości. Dołącz moduł sportowy, ogród wertykalny, plac zabaw lub warsztat — zawsze gdy chcesz.</p>
+    <p class="hero-sub">Jeden fundament ze stali S235, nieograniczone możliwości. Dołącz moduł sportowy, fotowoltaikę Solar Box, ogród wertykalny, plac zabaw lub warsztat — od razu lub w przyszłości.</p>
     <div class="hero-actions">
       <a class="hero-cta" href="#kontakt">Zapytaj o wycenę <span class="hero-cta-arrow">→</span></a>
       <a class="hero-ai" href="/wizualizacja/"><span class="hero-ai-dot"></span>Zobacz wiatę na swoim podwórku (AI)</a>
     </div>
   </div>
   <div class="hero-modules">
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Moduł sportowy</div></div>
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Ogród wertykalny</div></div>
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Plac zabaw</div></div>
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Warsztat / rower</div></div>
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Panel narzędziowy</div></div>
-    <div class="hero-mod"><div class="hero-mod-dot"></div><div class="hero-mod-label">Solar Box (PV)</div></div>
+    <a class="hero-mod" href="#mod-sport"><div class="hero-mod-dot"></div><div class="hero-mod-label">Moduł sportowy</div></a>
+    <a class="hero-mod" href="#mod-diy"><div class="hero-mod-dot"></div><div class="hero-mod-label">Panel narzędziowy</div></a>
+    <a class="hero-mod" href="#mod-garden"><div class="hero-mod-dot"></div><div class="hero-mod-label">Ogród wertykalny</div></a>
+    <a class="hero-mod" href="#mod-kids"><div class="hero-mod-dot"></div><div class="hero-mod-label">Plac zabaw</div></a>
+    <a class="hero-mod" href="#mod-bike"><div class="hero-mod-dot"></div><div class="hero-mod-label">Warsztat / rower</div></a>
+    <a class="hero-mod" href="#mod-solar"><div class="hero-mod-dot"></div><div class="hero-mod-label">Solar Box (PV)</div></a>
   </div>
 </section>
 
-<section class="modules">
+<section class="modules" id="moduly" aria-label="Moduły funkcjonalne wiaty">
 
-  <div class="mod-block">
+  <article class="mod-block" id="mod-sport">
     <div class="mod-img">
-      <img src="/img/sport.jpg" alt="Wiata z modułem sportowym">
+      <img src="/img/sport.jpg" alt="Stalowa wiata garażowa z modułem sportowym – drabinka szwedzka i drążek" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">01</div>
       <div class="mod-cat">Dla aktywnych</div>
-      <div class="mod-title">Moduł<br>sportowy</div>
-      <p class="mod-desc">Drabinka szwedzka, drążek i poręcze zintegrowane ze słupami wiaty. Trening na świeżym powietrzu — bez wycieczki na siłownię, bez osobnej konstrukcji w ogrodzie.</p>
+      <h2 class="mod-title">Moduł<br>sportowy</h2>
+      <p class="mod-desc">Drabinka szwedzka, drążek do podciągania i poręcze zintegrowane ze słupami wiaty. Trening kalisteniczny i siłowy na świeżym powietrzu — bez osobnej konstrukcji zajmującej miejsce w ogrodzie.</p>
       <div class="mod-tags">
         <span class="tag">Drabinka szwedzka</span>
         <span class="tag">Drążek</span>
@@ -313,51 +494,51 @@ footer {
         <span class="tag">Ocynk ogniowy</span>
       </div>
     </div>
-  </div>
+  </article>
 
-  <div class="mod-block dark">
+  <article class="mod-block dark" id="mod-diy">
     <div class="mod-img">
-      <img src="/img/diy.jpg" alt="Wiata z panelem narzędziowym">
+      <img src="/img/diy.jpg" alt="Wiata samochodowa z panelem narzędziowym i warsztatem" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">02</div>
       <div class="mod-cat">Dla majsterkowiczów</div>
-      <div class="mod-title">Panel<br>narzędziowy</div>
-      <p class="mod-desc">Każdy klucz na swoim miejscu. Panel narzędziowy na bocznej ścianie wiaty zamienia wjazd garażowy w profesjonalne stanowisko pracy — zawsze pod ręką, zawsze w porządku.</p>
+      <h2 class="mod-title">Panel<br>narzędziowy</h2>
+      <p class="mod-desc">Każdy klucz na swoim miejscu. Stalowy panel narzędziowy na bocznej ścianie wiaty zamienia podjazd garażowy w wygodne stanowisko pracy i serwisowania — zawsze pod ręką, zawsze w porządku.</p>
       <div class="mod-tags">
         <span class="tag">Panel perforowany</span>
         <span class="tag">Haki i uchwyty</span>
         <span class="tag">Skrzynki</span>
       </div>
     </div>
-  </div>
+  </article>
 
-  <div class="mod-block">
+  <article class="mod-block" id="mod-garden">
     <div class="mod-img">
-      <img src="/img/garden.jpg" alt="Wiata z ogrodem wertykalnym">
+      <img src="/img/garden.jpg" alt="Nowoczesny carport z ogrodem wertykalnym na bocznej ścianie" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">03</div>
       <div class="mod-cat">Dla zielonych</div>
-      <div class="mod-title">Ogród<br>wertykalny</div>
-      <p class="mod-desc">Zioła, kwiaty, sałata — pionowy ogród na bocznym panelu wiaty. Estetyczny, praktyczny i zaskakujący. Stal i zieleń tworzą parę, której nie ma nikt z sąsiadów.</p>
+      <h2 class="mod-title">Ogród<br>wertykalny</h2>
+      <p class="mod-desc">Zioła, kwiaty, pnącza — pionowy ogród na bocznym panelu wiaty. Osłania samochód przed słońcem i wiatrem, tworząc naturalną zieloną ścianę przy wjeździe na posesję.</p>
       <div class="mod-tags">
         <span class="tag">Moduły roślinne</span>
         <span class="tag">Opcja nawadniania</span>
         <span class="tag">Dowolna roślinność</span>
       </div>
     </div>
-  </div>
+  </article>
 
-  <div class="mod-block dark">
+  <article class="mod-block dark" id="mod-kids">
     <div class="mod-img">
-      <img src="/img/kids.jpg" alt="Wiata z placem zabaw dla dzieci">
+      <img src="/img/kids.jpg" alt="Wiata garażowa z zadaszonym placem zabaw i ścianką wspinaczkową dla dzieci" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">04</div>
       <div class="mod-cat">Dla rodzin</div>
-      <div class="mod-title">Plac zabaw<br>dla dzieci</div>
-      <p class="mod-desc">Ścianka wspinaczkowa, siatka linowa i liny — wszystko pod dachem wiaty. Dzieci bawią się w każdą pogodę, a Ty masz oko na nich z okna kuchni.</p>
+      <h2 class="mod-title">Plac zabaw<br>dla dzieci</h2>
+      <p class="mod-desc">Ścianka wspinaczkowa, siatka linowa i liny gimnastyczne — wszystko bezpiecznie pod dachem wiaty. Dzieci bawią się w każdą pogodę, a Ty oszczędzasz miejsce na trawniku.</p>
       <div class="mod-tags">
         <span class="tag">Ścianka wspinaczkowa</span>
         <span class="tag">Siatka linowa</span>
@@ -365,97 +546,157 @@ footer {
         <span class="tag">Mata amortyzująca</span>
       </div>
     </div>
-  </div>
+  </article>
 
-  <div class="mod-block">
+  <article class="mod-block" id="mod-bike">
     <div class="mod-img">
-      <img src="/img/rower.jpg" alt="Wiata z przechowalnią rowerów">
+      <img src="/img/rower.jpg" alt="Wiata z zamykaną przechowalnią rowerów i sprzętu sportowego" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">05</div>
       <div class="mod-cat">Dla rowerzystów</div>
-      <div class="mod-title">Przechowalnia<br>rowerów</div>
-      <p class="mod-desc">Rowery, hulajnogi, sprzęt sportowy — wszystko bezpiecznie pod dachem, bez zajmowania miejsca w garażu. Wieszaki i stojaki zintegrowane z konstrukcją wiaty.</p>
+      <h2 class="mod-title">Przechowalnia<br>rowerów</h2>
+      <p class="mod-desc">Rowery, hulajnogi, boxy dachowe i sprzęt sportowy — wszystko bezpiecznie pod dachem, bez zagracania garażu. Wieszaki i stojaki zintegrowane bezpośrednio z konstrukcją wiaty.</p>
       <div class="mod-tags">
         <span class="tag">Wieszaki na rowery</span>
         <span class="tag">Stojaki</span>
         <span class="tag">Zamknięta strefa</span>
       </div>
     </div>
-  </div>
+  </article>
 
-</section>
-
-  <div class="mod-block dark">
+  <article class="mod-block dark" id="mod-solar">
     <div class="mod-img">
-      <img src="/img/solar.jpg" alt="Wiata z panelami słonecznymi Solar Box">
+      <img src="/img/solar.jpg" alt="Carport fotowoltaiczny Solar Box – wiata garażowa pod panele słoneczne PV" width="800" height="560" loading="lazy" decoding="async">
     </div>
     <div class="mod-text">
       <div class="mod-num">06</div>
       <div class="mod-cat">Dla oszczędnych</div>
-      <div class="mod-title">Solar<br>Box</div>
-      <p class="mod-desc">Wiata jako elektrownia. Wzmocniona konstrukcja pod panele fotowoltaiczne zamienia miejsce parkingowe w źródło energii. Ładuj auto, ogrzewaj dom — z własnego dachu.</p>
+      <h2 class="mod-title">Solar<br>Box (PV)</h2>
+      <p class="mod-desc">Carport fotowoltaiczny jako domowa elektrownia. Wzmocniona konstrukcja pod panele PV zamienia miejsce parkingowe w źródło darmowej energii. Ładuj samochód elektryczny i zasilaj dom z własnego dachu.</p>
       <div class="mod-tags">
         <span class="tag">Konstrukcja pod PV</span>
         <span class="tag">6–12 paneli</span>
         <span class="tag">Wzmocnione słupy</span>
-        <span class="tag">Montaż instalacji</span>
+        <span class="tag">Gotowość pod Wallbox</span>
       </div>
     </div>
-  </div>
+  </article>
 
-<section class="why-strip">
+</section>
+
+<section class="why-strip" aria-label="Dlaczego warto wybrać wiaty CarportActive">
   <div class="why-item">
     <div class="why-n">S235</div>
-    <div class="why-title">Stal konstrukcyjna</div>
-    <div class="why-desc">Nie profilówka z marketu. Pełna stal S235, spawana i ocynkowana ogniowo na dekady.</div>
+    <h3 class="why-title">Stal konstrukcyjna</h3>
+    <p class="why-desc">Nie cienka profilówka z marketu. Pełna stal konstrukcyjna S235, spawana i zabezpieczona na dekady.</p>
   </div>
-  <div class="why-item" style="padding-left:40px">
+  <div class="why-item">
     <div class="why-n">+∞</div>
-    <div class="why-title">Modułowość</div>
-    <div class="why-desc">Słupy i fundament z zapasem. Dołożysz moduł za rok — bez przeróbek, bez dopłat za projekt.</div>
+    <h3 class="why-title">Pełna modułowość</h3>
+    <p class="why-desc">Słupy i fundament z zapasem nośności. Dołożysz kolejny moduł za rok — bez przeróbek i cięcia stali.</p>
   </div>
-  <div class="why-item" style="padding-left:40px">
+  <div class="why-item">
     <div class="why-n">PL</div>
-    <div class="why-title">Produkcja własna</div>
-    <div class="why-desc">Spawamy sami, montujemy sami. Odpowiadamy za jakość od projektu do odbioru.</div>
+    <h3 class="why-title">Polska produkcja</h3>
+    <p class="why-desc">Projektujemy, spawamy i montujemy w całej Polsce. Odpowiadamy za jakość od pierwszego spawu do odbioru.</p>
   </div>
   <div class="why-item">
     <div class="why-n">10+</div>
-    <div class="why-title">Lat żywotności</div>
-    <div class="why-desc">Ocynk ogniowy to nie farba. To ochrona, która nie łuszczy się przy pierwszym mrozie.</div>
+    <h3 class="why-title">Ocynk ogniowy</h3>
+    <p class="why-desc">Ocynk ogniowy i malowanie proszkowe to ochrona antykorozyjna, która nie łuszczy się po pierwszej zimie.</p>
   </div>
+</section>
+
+<section class="sizes-section" id="wymiary">
+  <div class="sizes-header">
+    <h2>Wymiary i warianty konstrukcji</h2>
+    <p>Wybierz sprawdzony rozmiar bazowy lub zamów wymiar indywidualny. Wszystkie modele budujemy w oparciu o ten sam system modułowy bez konieczności uzyskiwania pozwolenia na budowę (do 35 m²).</p>
+  </div>
+  <div class="sizes-grid">
+    <div class="size-card">
+      <div>
+        <h3>Jednostanowiskowa</h3>
+        <div class="size-dims">3 × 5 m</div>
+        <p class="size-desc">Kompaktowa wiata na jeden samochód osobowy. Idealna na wąskie podjazdy i mniejsze działki podmiejskie.</p>
+      </div>
+      <div class="size-meta">Wysokość: 2,7 m · Powierzchnia: 15 m²</div>
+    </div>
+    <div class="size-card">
+      <div>
+        <h3>Jednostanowiskowa Szeroka</h3>
+        <div class="size-dims">4 × 5 m</div>
+        <p class="size-desc">Swobodne otwieranie drzwi dużego SUV-a oraz dodatkowa przestrzeń boczna na moduł sportowy, rowery lub warsztat.</p>
+      </div>
+      <div class="size-meta">Wysokość: 2,7 m · Powierzchnia: 20 m²</div>
+    </div>
+    <div class="size-card">
+      <div>
+        <h3>Dwustanowiskowa</h3>
+        <div class="size-dims">6 × 5 m</div>
+        <p class="size-desc">Pełny komfort dla dwóch aut oraz duża połać dachowa idealna pod instalację fotowoltaiczną Solar Box (do 12 paneli PV).</p>
+      </div>
+      <div class="size-meta">Wysokość: 2,7 m · Powierzchnia: 30 m²</div>
+    </div>
+  </div>
+</section>
+
+<section class="faq-section" id="faq">
+  <h2>Najczęstsze pytania (FAQ)</h2>
+  <details class="faq-item">
+    <summary>Czy na wiatę garażową potrzebne jest pozwolenie na budowę?</summary>
+    <p>Nie. Zgodnie z polskim Prawem Budowlanym wiaty o powierzchni zabudowy do 35 m² (a na działkach z budynkiem mieszkalnym nawet do 50 m²) nie wymagają pozwolenia na budowę. Wszystkie nasze standardowe modele (15 m², 20 m² oraz 30 m²) mieszczą się w tym limicie.</p>
+  </details>
+  <details class="faq-item">
+    <summary>Czy mogę zamówić samą wiatę, a moduły dokupić w przyszłości?</summary>
+    <p>Tak! Każda wiata CarportActive posiada zunifikowane otwory montażowe i zapas wytrzymałości konstrukcyjnej. Możesz zamontować podstawowe zadaszenie dziś, a moduł sportowy, ściankę dla dzieci czy panele narzędziowe dokręcić w kolejnym sezonie.</p>
+  </details>
+  <details class="faq-item">
+    <summary>Jak wygląda przygotowanie podłoża i montaż?</summary>
+    <p>Wiatę montujemy na stopach fundamentowych (punktowych) lub istniejącej płycie betonowej/kostce z odpowiednim podbudowaniem. Sam montaż gotowej, ocynkowanej konstrukcji na działce klienta zajmuje zazwyczaj 1 dzień roboczy.</p>
+  </details>
 </section>
 
 <section class="cta-section" id="kontakt">
   <div class="cta-left">
     <h2>Zaprojektujmy<br>Twoją wiatę</h2>
-    <p>Napisz jaki moduł Cię interesuje i podaj przybliżone wymiary działki. Odezwiemy się w ciągu 24 godzin z propozycją i wyceną.</p>
-    <p style="margin-top:14px">Masz zdjęcie podwórka? <a class="ai-link" href="/wizualizacja/">Wgraj je – AI pokaże wiatę na miejscu</a>.</p>
+    <p>Napisz jaki rozmiar i moduł Cię interesują. Odezwiemy się w ciągu 24 godzin z propozycją techniczną oraz wyceną.</p>
+    <p style="margin-top:16px">Masz zdjęcie podjazdu? <a class="ai-link" href="/wizualizacja/">Wgraj je – nasz wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach</a>.</p>
   </div>
   <div>
     <form class="cta-form" onsubmit="submitForm(event)">
-      <input type="text" id="f-name" placeholder="Imię i nazwisko" required>
-      <input type="text" id="f-contact" placeholder="Telefon lub e-mail" required>
-      <select id="f-module">
-        <option value="">Wybierz moduł</option>
+      <input type="text" id="f-name" name="name" placeholder="Imię i nazwisko" aria-label="Imię i nazwisko" required>
+      <input type="text" id="f-contact" name="contact" placeholder="Telefon lub e-mail" aria-label="Telefon lub e-mail" required>
+      <select id="f-module" name="module" aria-label="Wybierz interesujący Cię moduł">
+        <option value="">Wybierz główny moduł / wariant</option>
         <option>Moduł sportowy (drabinka, drążek)</option>
-        <option>Panel narzędziowy</option>
+        <option>Solar Box (konstrukcja pod fotowoltaikę PV)</option>
+        <option>Panel narzędziowy / warsztat</option>
         <option>Ogród wertykalny</option>
         <option>Plac zabaw dla dzieci</option>
         <option>Przechowalnia rowerów</option>
         <option>Kilka modułów — omówię szczegóły</option>
       </select>
-      <textarea id="f-msg" placeholder="Wymiary, dodatkowe pytania…"></textarea>
-      <button type="submit" class="cta-submit">Wyślij zapytanie →</button>
+      <textarea id="f-msg" name="msg" placeholder="Wymiary (np. 4x5 m), lokalizacja montażu, dodatkowe pytania…" aria-label="Wiadomość"></textarea>
+      <label class="rodo-label">
+        <input type="checkbox" id="f-rodo" required>
+        <span>Zgadzam się na przetwarzanie moich danych osobowych w celu przygotowania wyceny i kontaktu w sprawie oferty.</span>
+      </label>
+      <button type="submit" class="cta-submit">Wyślij zapytanie o wycenę →</button>
     </form>
-    <div class="form-ok" id="form-ok">✓ Dziękujemy! Odezwiemy się wkrótce.</div>
+    <div class="form-ok" id="form-ok">✓ Dziękujemy! Odezwiemy się w ciągu 24 godzin.</div>
   </div>
 </section>
+</main>
 
 <footer>
   <div class="footer-brand">Carport<span>Active</span></div>
-  <div class="footer-copy">© 2026 CarportActive · Stalowe konstrukcje modułowe · Polska</div>
+  <div class="footer-copy">© 2026 CarportActive · Stalowe wiaty modułowe S235 · Polska</div>
+  <div class="footer-links">
+    <a href="/wizualizacja/">Wizualizacja AI</a>
+    <a href="#wymiary">Wymiary</a>
+    <a href="#kontakt">Kontakt</a>
+  </div>
 </footer>
 
 <a class="ai-float" href="/wizualizacja/" aria-label="Zobacz wiatę na swoim podwórku – wizualizacja AI">
@@ -468,7 +709,8 @@ async function submitForm(e) {
   e.preventDefault();
   const name = document.getElementById('f-name').value.trim();
   const contact = document.getElementById('f-contact').value.trim();
-  if (!name || !contact) return;
+  const rodo = document.getElementById('f-rodo').checked;
+  if (!name || !contact || !rodo) return;
   const btn = document.querySelector('.cta-submit');
   const fd = new FormData();
   fd.append('name', name);
