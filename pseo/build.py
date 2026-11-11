@@ -204,10 +204,12 @@ def main():
         print("podgląd:", len(q), "artykułów -> https://carportactive.pl/podglad/")
         return
     os.makedirs(WYDANE, exist_ok=True)
+    wydane_teraz = []
     if a.publish:
         q = sorted(load(KOLEJKA), key=lambda x: x.get("kolejnosc", x["nr"]))
         today = datetime.date.today().isoformat()
         for x in q[:a.publish]:
+            wydane_teraz.append(x)
             x["wydano"] = today
             json.dump(x, open(os.path.join(WYDANE, x["adres"] + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             os.remove(os.path.join(KOLEJKA, x["adres"] + ".json"))
@@ -217,7 +219,14 @@ def main():
         arts = render(arts, "poradnik", "/poradnik/", False)
     update_module_pages(arts)
     sitemap(arts)
-    print("na stronie:", len(arts), "| w kolejce:", len(load(KOLEJKA)))
+    w_kolejce = len(load(KOLEJKA))
+    print("na stronie:", len(arts), "| w kolejce:", w_kolejce)
+    if a.publish:
+        head = f"Poradnik CarportActive: +{len(wydane_teraz)} | na stronie: {len(arts)} | w kolejce: {w_kolejce}"
+        if not wydane_teraz:
+            head += "\nKolejka jest pusta - nic nie wydano."
+        body = "\n\n".join(f"{x['tytul']}\n{SITE}/poradnik/{x['adres']}/" for x in wydane_teraz)
+        open(os.path.join(HERE, "ostatni.txt"), "w", encoding="utf-8").write(head + ("\n\n" + body if body else ""))
 
 if __name__ == "__main__":
     main()
