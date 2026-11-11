@@ -7,45 +7,81 @@
 <meta name="description" content="Praktyczne porady: jak przechowywać narzędzia, rowery i drewno, jak urządzić podjazd, kącik do ćwiczeń i plac zabaw przy domu.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://carportactive.pl/poradnik/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://carportactive.pl/poradnik/">
+<meta property="og:title" content="Poradnik - wiata, ogród, narzędzia, rowery | CarportActive">
+<meta property="og:description" content="Praktyczne porady: jak przechowywać narzędzia, rowery i drewno, jak urządzić podjazd, kącik do ćwiczeń i plac zabaw przy domu.">
+<meta property="og:image" content="https://carportactive.pl/img/solar.jpg">
+<meta property="og:locale" content="pl_PL">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Condensed:wght@700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="/css/pages.css">
+<link rel="stylesheet" href="/css/site.css">
+
 </head>
 <body>
-<header class="top-nav">
-  <a href="/" class="brand-logo">Carport<span>Active</span></a>
-  <nav class="nav-links" aria-label="Główna nawigacja">
-    <a href="/#moduly">Moduły</a>
-    <a href="/poradnik/">Poradnik</a>
-    <a href="/ai/">Wizualizacja AI</a>
-    <a href="/#kontakt">Wycena</a>
-  </nav>
+<header class="site-head">
+  <div class="wrap">
+    <a class="logo" href="/">Carport<span>Active</span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu" onclick="var m=document.getElementById('menu');var o=m.classList.toggle('open');this.setAttribute('aria-expanded',o);this.textContent=o?'Zamknij':'Menu'">Menu</button>
+    <nav class="menu" id="menu" aria-label="Główna nawigacja">
+      <a href="/#moduly">Moduły</a>
+      <a href="/realizacje/">Realizacje</a>
+      <a href="/dodatki/ca-stand/">Stojaki</a>
+      <a href="/poradnik/" aria-current="page">Poradnik</a>
+      <a href="/ai/">Wizualizacja AI</a>
+      <a class="btn btn-green btn-small" href="/#kontakt">Wycena</a>
+    </nav>
+  </div>
 </header>
 <main>
-<nav class="crumbs" aria-label="Ścieżka"><a href="/">CarportActive</a><span>/</span>Poradnik</nav>
-<section class="art-head"><div class="art-head-inner"><h1>Poradnik</h1>
-<p class="art-lead">Praktyczne porady o podjeździe, ogrodzie i przechowywaniu rzeczy przy domu.</p></div></section>
-<section class="sec"><div class="sec-inner">
-<div class="idx-group"><h2><a href="/moduly/solar-box/">Solar Box (PV)</a></h2><ul class="related"><li><a href="/poradnik/carport-fotowoltaiczny-co-to-jest/">Carport fotowoltaiczny - co to jest i jak działa</a></li></ul></div><div class="idx-group"><h2><a href="/moduly/przechowalnia-rowerow/">Przechowalnia rowerów</a></h2><ul class="related"><li><a href="/poradnik/gdzie-trzymac-rowery-bez-garazu/">Gdzie trzymać rowery bez garażu? Praktyczne sposoby</a></li></ul></div><div class="idx-group"><h2><a href="/moduly/plac-zabaw/">Plac zabaw</a></h2><ul class="related"><li><a href="/poradnik/plac-zabaw-w-malym-ogrodzie/">Plac zabaw w małym ogrodzie. Jak zmieścić strefę dla dzieci</a></li></ul></div><div class="idx-group"><h2><a href="/moduly/ogrod-wertykalny/">Ogród wertykalny</a></h2><ul class="related"><li><a href="/poradnik/ogrod-wertykalny-na-zewnatrz-jak-zaczac/">Ogród wertykalny na zewnątrz - jak zacząć krok po kroku</a></li></ul></div><div class="idx-group"><h2><a href="/moduly/panel-narzedziowy/">Panel narzędziowy</a></h2><ul class="related"><li><a href="/poradnik/gdzie-trzymac-narzedzia-ogrodowe-bez-szopy/">Gdzie trzymać narzędzia ogrodowe bez szopy na działce</a></li></ul></div><div class="idx-group"><h2><a href="/moduly/sportowy/">Moduł sportowy</a></h2><ul class="related"><li><a href="/poradnik/gdzie-zamontowac-drazek-do-podciagania-na-zewnatrz/">Gdzie zamontować drążek do podciągania na zewnątrz</a></li></ul></div>
+<section class="art-head">
+  <div class="wrap-narrow">
+    <nav class="crumbs" aria-label="Ścieżka"><a href="/">CarportActive</a> / Poradnik</nav>
+    <h1>Poradnik</h1>
+    <p class="art-lead">Praktyczne porady o podjeździe, ogrodzie i przechowywaniu rzeczy przy domu.</p>
+  </div>
+</section>
+<section class="art-sec"><div class="wrap-narrow">
+<div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/solar-box/" style="color:inherit;text-decoration:none">Solar Box (PV)</a></h2><ul class="link-list"><li><a href="/poradnik/carport-fotowoltaiczny-co-to-jest/">Carport fotowoltaiczny - co to jest i jak działa</a></li></ul></div><div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/przechowalnia-rowerow/" style="color:inherit;text-decoration:none">Przechowalnia rowerów</a></h2><ul class="link-list"><li><a href="/poradnik/gdzie-trzymac-rowery-bez-garazu/">Gdzie trzymać rowery bez garażu? Praktyczne sposoby</a></li></ul></div><div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/plac-zabaw/" style="color:inherit;text-decoration:none">Plac zabaw</a></h2><ul class="link-list"><li><a href="/poradnik/plac-zabaw-w-malym-ogrodzie/">Plac zabaw w małym ogrodzie. Jak zmieścić strefę dla dzieci</a></li></ul></div><div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/ogrod-wertykalny/" style="color:inherit;text-decoration:none">Ogród wertykalny</a></h2><ul class="link-list"><li><a href="/poradnik/ogrod-wertykalny-na-zewnatrz-jak-zaczac/">Ogród wertykalny na zewnątrz - jak zacząć krok po kroku</a></li></ul></div><div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/panel-narzedziowy/" style="color:inherit;text-decoration:none">Panel narzędziowy</a></h2><ul class="link-list"><li><a href="/poradnik/gdzie-trzymac-narzedzia-ogrodowe-bez-szopy/">Gdzie trzymać narzędzia ogrodowe bez szopy na działce</a></li></ul></div><div style="margin-bottom:40px"><h2 style="font-size:30px;margin-bottom:12px"><a href="/moduly/sportowy/" style="color:inherit;text-decoration:none">Moduł sportowy</a></h2><ul class="link-list"><li><a href="/poradnik/gdzie-zamontowac-drazek-do-podciagania-na-zewnatrz/">Gdzie zamontować drążek do podciągania na zewnątrz</a></li></ul></div>
 </div></section>
 </main>
-<footer>
-  <div class="footer-brand">Carport<span>Active</span></div>
-  <div class="footer-copy">© 2026 CarportActive - stalowe wiaty modułowe S235 - Polska</div>
-  <div class="footer-links">
-    <a href="/">Strona główna</a>
-    <a href="/poradnik/">Poradnik</a>
-    <a href="/ai/">Wizualizacja AI</a>
-    <a href="/#kontakt">Kontakt</a>
+<footer class="site-foot">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="logo" href="/">Carport<span>Active</span></a>
+        <p style="margin-top:12px;max-width:360px">Stalowe wiaty modułowe ze stali S235. Projektujemy, spawamy i montujemy w całej Polsce.</p>
+      </div>
+      <div>
+        <h3>Moduły</h3>
+        <ul>
+          <li><a href="/moduly/sportowy/">Moduł sportowy</a></li>
+          <li><a href="/moduly/panel-narzedziowy/">Panel narzędziowy</a></li>
+          <li><a href="/moduly/ogrod-wertykalny/">Ogród wertykalny</a></li>
+          <li><a href="/moduly/plac-zabaw/">Plac zabaw</a></li>
+          <li><a href="/moduly/przechowalnia-rowerow/">Przechowalnia rowerów</a></li>
+          <li><a href="/moduly/solar-box/">Solar Box (PV)</a></li>
+          <li><a href="/moduly/przeslo-zaluzjowe/">Przęsło żaluzjowe</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Strona</h3>
+        <ul>
+          <li><a href="/realizacje/">Realizacje</a></li>
+          <li><a href="/dodatki/ca-stand/">Stojaki CA-Stand</a></li>
+          <li><a href="/poradnik/">Poradnik</a></li>
+          <li><a href="/ai/">Wizualizacja AI</a></li>
+          <li><a href="/#wymiary">Wymiary</a></li>
+          <li><a href="/#kontakt">Kontakt i wycena</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="copy">© 2026 CarportActive - stalowe wiaty modułowe S235 - Polska</div>
   </div>
 </footer>
-<a class="ai-float" href="/ai/" aria-label="Zobacz wiatę na swoim podwórku - wizualizacja AI">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 8h3l2-3h8l2 3h3v12H3z"/><circle cx="12" cy="13" r="4"/></svg>
-  Twoja wiata AI
-</a>
 </body>
 </html>

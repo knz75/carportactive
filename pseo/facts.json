@@ -152,5 +152,18 @@
   "img": "",
   "pending": true,
   "facts": []
+ },
+ "moduly/przeslo-zaluzjowe": {
+  "name": "Przęsło żaluzjowe",
+  "h1": "Wiata z przęsłami żaluzjowymi",
+  "url": "/moduly/przeslo-zaluzjowe/",
+  "img": "/img/realizacje/r03-wiata-przesla-ciemny-orzech.jpg",
+  "facts": [
+   "Przęsła żaluzjowe z poziomymi lamelami montowane między słupami wiaty, na jednym boku albo na kilku.",
+   "Zasłaniają podjazd od sąsiada i ulicy oraz osłaniają z boku od wiatru.",
+   "Kolory: orzech, ciemny orzech, antracyt RAL 7016 (jak konstrukcja wiaty).",
+   "Do wiaty CarportActive można je dołożyć później.",
+   "Wiaty CarportActive: stal konstrukcyjna S235, ocynk ogniowy i malowanie proszkowe, kolor antracyt RAL 7016, rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m oraz wymiary indywidualne."
+  ]
  }
 }
