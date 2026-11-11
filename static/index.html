@@ -244,6 +244,15 @@ body { font-family: 'Barlow', sans-serif; background: var(--white); color: var(-
 .mod-block.dark .mod-desc { color: #b0b8c0; }
 .mod-block.dark .tag { background: #363a40; color: #7ab86a; }
 
+.mod-more {
+  display: inline-block; margin-top: 24px; align-self: flex-start;
+  font-family: 'Barlow Condensed', sans-serif; font-size: 16px; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase; color: var(--green);
+  text-decoration: none; border-bottom: 2px solid var(--green); padding-bottom: 2px;
+}
+.mod-more:hover { color: #4a8a3a; border-color: #4a8a3a; }
+.mod-block.dark .mod-more { color: #7ab86a; border-color: #7ab86a; }
+
 /* WHY STRIP */
 .why-strip {
   background: var(--black); padding: 80px 48px;
@@ -381,7 +390,7 @@ footer {
 }
 .footer-brand span { color: var(--green); }
 .footer-copy { font-size: 12px; color: var(--steel); }
-.footer-links { display: flex; gap: 20px; font-size: 12px; }
+.footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px 20px; font-size: 12px; }
 .footer-links a { color: var(--steel); text-decoration: none; }
 .footer-links a:hover { color: var(--white); }
 
@@ -425,12 +434,18 @@ footer {
   .mod-block:nth-child(even) .mod-text { order: unset; }
   .mod-img { min-height: 280px; }
   .mod-text { padding: 40px 24px; }
+  .mod-block > * { min-width: 0; }
+  .mod-title { font-size: 32px; }
   .why-strip { grid-template-columns: 1fr 1fr; gap: 40px; padding: 48px 24px; }
   .why-item { border-right: none; padding: 0; }
   .sizes-section { padding: 56px 24px; }
   .sizes-grid { grid-template-columns: 1fr; }
+  .size-card { padding: 28px 20px; min-width: 0; }
+  .size-card h3 { font-size: 23px; }
   .faq-section { padding: 56px 24px; }
   .cta-section { grid-template-columns: 1fr; gap: 40px; padding: 64px 24px; }
+  .cta-section > * { min-width: 0; }
+  .cta-left h2 { font-size: 32px; }
   footer { flex-direction: column; gap: 12px; padding: 24px; text-align: center; }
 }
 @media (max-width: 640px) {
@@ -493,6 +508,7 @@ footer {
         <span class="tag">Poręcze</span>
         <span class="tag">Ocynk ogniowy</span>
       </div>
+      <a class="mod-more" href="/moduly/sportowy/">Więcej o module sportowym</a>
     </div>
   </article>
 
@@ -510,6 +526,7 @@ footer {
         <span class="tag">Haki i uchwyty</span>
         <span class="tag">Skrzynki</span>
       </div>
+      <a class="mod-more" href="/moduly/panel-narzedziowy/">Więcej o panelu narzędziowym</a>
     </div>
   </article>
 
@@ -527,6 +544,7 @@ footer {
         <span class="tag">Opcja nawadniania</span>
         <span class="tag">Dowolna roślinność</span>
       </div>
+      <a class="mod-more" href="/moduly/ogrod-wertykalny/">Więcej o ogrodzie wertykalnym</a>
     </div>
   </article>
 
@@ -545,6 +563,7 @@ footer {
         <span class="tag">Liny</span>
         <span class="tag">Mata amortyzująca</span>
       </div>
+      <a class="mod-more" href="/moduly/plac-zabaw/">Więcej o placu zabaw</a>
     </div>
   </article>
 
@@ -562,6 +581,7 @@ footer {
         <span class="tag">Stojaki</span>
         <span class="tag">Zamknięta strefa</span>
       </div>
+      <a class="mod-more" href="/moduly/przechowalnia-rowerow/">Więcej o przechowalni rowerów</a>
     </div>
   </article>
 
@@ -580,6 +600,7 @@ footer {
         <span class="tag">Wzmocnione słupy</span>
         <span class="tag">Gotowość pod Wallbox</span>
       </div>
+      <a class="mod-more" href="/moduly/solar-box/">Więcej o Solar Box</a>
     </div>
   </article>
 
@@ -694,6 +715,12 @@ footer {
   <div class="footer-copy">© 2026 CarportActive · Stalowe wiaty modułowe S235 · Polska</div>
   <div class="footer-links">
     <a href="/ai/">Wizualizacja AI</a>
+    <a href="/moduly/sportowy/">Moduł sportowy</a>
+    <a href="/moduly/panel-narzedziowy/">Panel narzędziowy</a>
+    <a href="/moduly/ogrod-wertykalny/">Ogród wertykalny</a>
+    <a href="/moduly/plac-zabaw/">Plac zabaw</a>
+    <a href="/moduly/przechowalnia-rowerow/">Rowery</a>
+    <a href="/moduly/solar-box/">Solar Box</a>
     <a href="#wymiary">Wymiary</a>
     <a href="#kontakt">Kontakt</a>
   </div>

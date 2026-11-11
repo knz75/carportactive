@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://carportactive.pl/</loc>
-    <lastmod>2026-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://carportactive.pl/ai/</loc>
-    <lastmod>2026-10-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <url><loc>https://carportactive.pl/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/ai/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/sportowy/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/panel-narzedziowy/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/ogrod-wertykalny/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/plac-zabaw/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/przechowalnia-rowerow/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://carportactive.pl/moduly/solar-box/</loc><lastmod>2026-11-11</lastmod></url>
 </urlset>
