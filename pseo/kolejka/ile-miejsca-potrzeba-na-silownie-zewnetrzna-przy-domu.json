@@ -1,0 +1,48 @@
+{
+ "tytul": "Ile miejsca potrzeba na siłownię zewnętrzną przy domu?",
+ "opis_meta": "Planujesz trening w ogrodzie? Sprawdź, ile miejsca zajmują drążki i poręcze oraz jak zaplanować bezpieczną strefę ćwiczeń przy domu.",
+ "wstep": "Planowanie siłowni zewnętrznej przy domu zależy głównie od ćwiczeń, które chcesz wykonywać. Minimalna przestrzeń na prosty drążek i poręcze to zwykle wąski pas terenu, ale musisz doliczyć strefę bezpiecznego ruchu wokół sprzętu. W praktyce decydujący jest zasięg Twoich rąk i nóg podczas ćwiczeń.",
+ "sekcje": [
+  {
+   "h2": "Ile wolnej przestrzeni zajmuje sam sprzęt do ćwiczeń",
+   "akapity": [
+    "Sam drążek do podciągania lub drabinka gimnastyczna zajmują na gruncie niewiele miejsca. Drążek ma zazwyczaj szerokość nieco ponad metr, a drabinka przylega płasko do ściany lub słupa konstrukcji. Najwięcej przestrzeni potrzebujesz nie na samą stal, ale na swobodny ruch własnego ciała."
+   ]
+  },
+  {
+   "h2": "Strefa bezpieczeństwa wokół przyrządów",
+   "akapity": [
+    "Przy podciąganiu czy pompkach na poręczach musisz mieć wolną przestrzeń na boki oraz w pionie. Drążek wymaga przynajmniej metra wolnego miejsca z przodu i z tyłu, aby przy wymachu nie zawadzić nogami o przeszkody. Istotna jest także wysokość, ponieważ głowa unosi się ponad drążek, a stopy wiszą swobodnie.",
+    "W przypadku poręczy do dipów potrzebujesz swobody na ugięcie ramion i wychylenie tułowia. Zadbaj o to, aby w strefie zeskoku nie leżały ostre kamienie ani krawężniki. Zeskok lub utrata chwytu nie mogą skończyć się uderzeniem w twardą krawędź."
+   ]
+  },
+  {
+   "h2": "Gdzie na działce wygospodarować miejsce na trening",
+   "akapity": [
+    "Często wybiera się trawnik w głębi ogrodu albo utwardzony fragment podjazdu. Osobna konstrukcja postawiona na środku ogrodu zabiera jednak cenną przestrzeń i utrudnia koszenie trawy. Wygodniejszym rozwiązaniem bywa wykorzystanie elementów, które i tak stoją na działce, na przykład stabilnych słupów wiaty."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli nie chcesz stawiać osobnej konstrukcji w ogrodzie, rozwiązaniem jest wiata CarportActive ze stali konstrukcyjnej S235 z modułem sportowym. Drabinka szwedzka, drążek i poręcze są przykręcone bezpośrednio do słupów wiaty, dzięki czemu trenujesz pod dachem obok samochodu. Najwygodniej sprawdza się rozmiar 4 x 6 m o wysokości 2,7 m, gdzie obok auta zostaje sporo miejsca na ćwiczenia. Stal ma ocynk ogniowy i malowanie proszkowe, a moduł możesz zamontować od razu lub dołożyć w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 16,
+ "kolejnosc": 135,
+ "temat": "ile miejsca potrzeba na siłownię zewnętrzną przy domu",
+ "adres": "ile-miejsca-potrzeba-na-silownie-zewnetrzna-przy-domu",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

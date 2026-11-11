@@ -1,0 +1,59 @@
+{
+ "tytul": "Ogród wertykalny zimą - jak o niego zadbać?",
+ "opis_meta": "Jak zabezpieczyć ogród wertykalny na zimę? Sprawdź praktyczne porady dotyczące ochrony roślin, podlewania i przygotowania konstrukcji na mróz.",
+ "wstep": "Zima to trudny czas dla roślin w pionowych modułach. Ziemia w wiszących pojemnikach przemarza szybciej niż w gruncie, a zimowy wiatr dodatkowo wysusza pędy. Kilka prostych kroków pozwoli Twojej zielonej ścianie przetrwać chłody w dobrej kondycji.",
+ "sekcje": [
+  {
+   "h2": "Co dzieje się z roślinami w pionie podczas mrozów?",
+   "akapity": [
+    "Ziemia w wiszących modułach ma mniejszą objętość niż w gruncie ogrodowym. Z tego powodu bryła korzeniowa szybko zamarza i łatwo traci wilgoć podczas mroźnych dni.",
+    "Głównym zagrożeniem zimą bywa susza fizjologiczna. Rośliny tracą wodę przez wiatr i słońce, a zamarznięte korzenie nie są w stanie pobrać wilgoci z podłoża."
+   ]
+  },
+  {
+   "h2": "Jak zabezpieczyć zieleń przed zimowym wiatrem i mrozem?",
+   "akapity": [
+    "Rośliny wieloletnie i pnącza warto osłonić agrowłókniną lub matami. Zabezpieczą one pędy przed wysuszającymi podmuchami wiatru, które w pionie działają mocniej niż przy samej ziemi.",
+    "Gatunki jednoroczne oraz wrażliwe zioła najlepiej usunąć z pojemników przed nadejściem przymrozków. Puste moduły możesz oczyścić z resztek ziemi i przygotować na wiosnę."
+   ]
+  },
+  {
+   "h2": "Podlewanie i instalacja nawadniająca przed zimą",
+   "akapity": [
+    "Przed pierwszymi silnymi przymrozkami podlej obficie rośliny wieloletnie. Wilgotna gleba zamarza wolniej i lepiej chroni korzenie przed gwałtownymi skokami temperatur.",
+    "Jeśli Twoja zielona ściana ma zamontowane nawadnianie, musisz całkowicie opróżnić instalację z wody. Pozostawiona w rurkach woda po zamarznięciu może rozsadzić przewody i złączki."
+   ]
+  },
+  {
+   "h2": "Konstrukcja nośna a zimowa wilgoć",
+   "akapity": [
+    "Zimą pionowa ściana jest stale narażona na śnieg, lód i wodę z roztopów. Konstrukcja podtrzymująca moduły musi być trwale zabezpieczona przed rdzą, by wilgoć z ziemi i opadów nie niszczyła nośnych elementów.",
+    "Warto też sprawdzić stabilność mocowań przed sezonem. Zimą wiatr potrafi mocno napierać na pionowe płaszczyzny, zwłaszcza gdy zalega na nich mokry, ciężki śnieg."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązaliśmy ten problem, montując ogród wertykalny na bocznym panelu wiaty. Stalowa konstrukcja z profilu S235 jest ocynkowana ogniowo i malowana proszkowo, więc wilgoć, śnieg i deszcz nie szkodzą ramie przez cały rok. Zielona ściana osłania auto od wiatru i słońca, a moduły roślinne możesz zamówić od razu lub dołożyć w późniejszym czasie.",
+ "faq": [
+  {
+   "pytanie": "Czy trzeba demontować moduły roślinne na zimę?",
+   "odpowiedz": "Nie ma potrzeby demontażu samych pojemników i ramy. Wystarczy usunąć obumarłe rośliny sezonowe i zabezpieczyć gatunki wieloletnie przed mrozem."
+  },
+  {
+   "pytanie": "Jakie rośliny najlepiej radzą sobie zimą na pionowej ścianie?",
+   "odpowiedz": "Najmniej wymagające są pnącza, które dobrze znoszą spadki temperatur. Zioła i kwiaty w małych pojemnikach są bardziej wrażliwe na przemarzanie bryły korzeniowej."
+  },
+  {
+   "pytanie": "Czy wilgoć z zimowej zielonej ściany nie zniszczy wiaty?",
+   "odpowiedz": "Stal wiat CarportActive jest zabezpieczona cynkowaniem ogniowym i lakierem proszkowym. Taka powłoka w pełni chroni konstrukcję przed wodą, śniegiem i kontaktem z wilgotną ziemią."
+  }
+ ],
+ "nr": 58,
+ "kolejnosc": 110,
+ "temat": "ogród wertykalny zimą",
+ "adres": "ogrod-wertykalny-zima",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

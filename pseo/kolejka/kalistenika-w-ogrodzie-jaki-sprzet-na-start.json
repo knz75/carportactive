@@ -1,0 +1,57 @@
+{
+ "tytul": "Kalistenika w ogrodzie - jaki sprzęt wybrać na start",
+ "opis_meta": "Planujesz kalistenikę w ogrodzie? Sprawdź, jaki sprzęt sprawdzi się na start, na co zwrócić uwagę przy montażu i jak mądrze zagospodarować przestrzeń.",
+ "wstep": "Trening z masą własnego ciała w ogrodzie nie wymaga od razu rozbudowanych konstrukcji. Na start wystarczy kilka podstawowych elementów, które pozwolą przećwiczyć wszystkie partie mięśniowe. Ważne jest jednak to, aby sprzęt był stabilny i odporny na działanie pogody.",
+ "sekcje": [
+  {
+   "h2": "Drążek do podciągania jako baza treningu",
+   "akapity": [
+    "Drążek to pierwszy element, o którym myśli każdy zaczynający kalistenikę. Pozwala na podciąganie różnymi chwytami, unoszenie nóg w zwisie oraz naukę podstawowych elementów siłowych. W warunkach ogrodowych drążek musi być sztywny i pewnie osadzony, bo luzy w mocowaniu utrudniają ćwiczenia.",
+    "Warto zwrócić uwagę na wysokość montażu. Powinieneś móc swobodnie zawisnąć na wyprostowanych rękach bez dotykania stopami ziemi. Jeśli sprzęt stoi pod chmurką, stal musi mieć odpowiednie zabezpieczenie antykorozyjne, inaczej deszcz szybko zniszczy powierzchnię chwytną."
+   ]
+  },
+  {
+   "h2": "Poręcze do dipów i ćwiczeń w podporze",
+   "akapity": [
+    "Równoległe poręcze to drugi kluczowy przyrząd na start. Służą przede wszystkim do pompek na poręczach, które budują siłę klatki piersiowej, barków i tricepsów. Możesz na nich wykonywać także wznosy nóg do brzucha czy naukę stania na rękach.",
+    "Rozstaw poręczy powinien być dobrany do szerokości Twoich barków. Zbyt szerokie lub zbyt wąskie ustawienie obciąża stawy i utrudnia poprawny ruch. Podobnie jak w przypadku drążka, stabilność podstawy jest tu kluczowa dla bezpieczeństwa."
+   ]
+  },
+  {
+   "h2": "Drabinka gimnastyczna do rozgrzewki i rozciągania",
+   "akapity": [
+    "Drabinka szwedzka bywa pomijana, ale w ogrodowym kąciku sportowym daje ogromne możliwości. To świetne narzędzie do rozgrzewki przed bieganiem, rozciągania po treningu oraz ćwiczeń wzmacniających brzuch i plecy.",
+    "Szczeble drabinki służą także jako punkty zaczepienia pod taśmy oporowe czy akcesoria treningowe. Dzięki temu zyskujesz sprzęt pomocny przy nauce pierwszych podciągnięć."
+   ]
+  },
+  {
+   "h2": "Gdzie zamontować sprzęt, żeby nie stracić trawnika",
+   "akapity": [
+    "Wielu właścicieli ogrodów staje przed problemem wolnego miejsca. Samodzielna klatka do kalisteniki zajmuje sporą część trawnika, utrudnia koszenie i po deszczu stoi w błocie. Trening na mokrej trawie szybko przestaje być przyjemny.",
+    "Dobrym podejściem jest wykorzystanie istniejących elementów architektury przy domu. Twarde podłoże i zadaszenie sprawiają, że z drążka czy poręczy możesz korzystać niezależnie od pory roku i opadów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na trening przy domu bez zajmowania ogrodu jest stalowa wiata CarportActive z modułem sportowym. Drabinka szwedzka, drążek do podciągania i poręcze są przykręcane bezpośrednio do słupów wiaty ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym. Masz zadaszone miejsce do ćwiczeń obok samochodu, a najwygodniejsza przestrzeń zostaje przy wiacie 4 x 6 m. Moduł możesz wybrać od razu lub dołożyć w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w standardowym zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 4,
+ "kolejnosc": 27,
+ "temat": "kalistenika w ogrodzie - jaki sprzęt na start",
+ "adres": "kalistenika-w-ogrodzie-jaki-sprzet-na-start",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

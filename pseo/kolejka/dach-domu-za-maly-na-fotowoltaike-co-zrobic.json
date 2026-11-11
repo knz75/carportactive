@@ -1,0 +1,48 @@
+{
+ "tytul": "Dach domu za mały na fotowoltaikę? Sprawdź, co zrobić",
+ "opis_meta": "Masz za mały dach na fotowoltaikę? Poznaj sprawdzone alternatywy na podwórku i dowiedz się, jak zamontować panele poza budynkiem mieszkalnym.",
+ "wstep": "Twój dach ma skomplikowany kształt, okna połaciowe albo po prostu za małą powierzchnię na potrzebną liczbę paneli. To częsta sytuacja, która wcale nie przekreśla planów o własnym prądzie ze słońca. Możesz przenieść moduły w inne miejsce na działce i zyskać pełną wydajność instalacji.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego mały dach bywa problemem przy fotowoltaice",
+   "akapity": [
+    "Na małym dachu trudno zmieścić liczbę modułów odpowiadającą rocznemu zużyciu prądu w Twoim domu. Przeszkodą bywają lukarny, kominy lub wywietrzniki, które dodatkowo rzucają cień na sąsiednie ogniwa. Zacieniony panel obniża sprawność całego łańcucha, przez co instalacja produkuje mniej energii, niż zakładałeś w planach."
+   ]
+  },
+  {
+   "h2": "Panele na gruncie jako jedno z wyjść",
+   "akapity": [
+    "Tradycyjnym wyjściem w takiej sytuacji jest montaż konstrukcji wolnostojącej w ogrodzie. Panele stoją wtedy na stelażu wbitym w ziemię i można je dobrze ustawić względem stron świata. Tracisz jednak w ten sposób część działki, a koszenie trawy wokół podpór bywa uciążliwe."
+   ]
+  },
+  {
+   "h2": "Zagospodarowanie podjazdu pod auto",
+   "akapity": [
+    "Jeśli nie chcesz oddawać trawnika pod stelaże, spójrz na miejsce, w którym parkujesz samochód. Zadaszenie podjazdu chroni auto przed deszczem, gradem i słońcem, a jego górna część tworzy dużą, wolną powierzchnię. Wykorzystujesz ten sam fragment działki podwójnie, bez straty przestrzeni użytkowej w ogrodzie.",
+    "Konstrukcja poza domem pozwala też dobrać korzystny kąt nachylenia paneli. Nie ograniczają Cię wtedy skosy dachu mieszkalnego ani rozmieszczenie rynien."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na ten problem jest Solar Box od CarportActive - wzmocniona wiata ze stali S235 (ocynkowana ogniowo i malowana proszkowo), której dach stanowi gotową konstrukcję pod panele PV. W zależności od wybranego rozmiaru (od 3 x 6 m do 6 x 6 m) zamontujesz od 6 do 12 paneli, przy czym wiata dwustanowiskowa 6 x 6 m mieści do 12 paneli. Słupy i fundamenty mają zapas nośności, więc panele możesz założyć od razu lub dołożyć je w kolejnym sezonie. Przy słupie przygotowano też miejsce na Wallbox do ładowania auta, a sam montaż wiaty zajmuje zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie fotowoltaicznej?",
+   "odpowiedz": "Liczba paneli wynosi od 6 do 12, zależnie od rozmiaru wiaty. Największą połać daje wiata dwustanowiskowa 6 x 6 m, na której mieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament są liczone na dodatkowy ciężar, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto odpowiada za montaż instalacji elektrycznej?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy, że napiszesz, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 109,
+ "kolejnosc": 32,
+ "temat": "dach domu za mały na fotowoltaikę - co zrobić",
+ "adres": "dach-domu-za-maly-na-fotowoltaike-co-zrobic",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

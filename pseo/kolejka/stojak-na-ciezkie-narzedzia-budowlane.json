@@ -1,0 +1,52 @@
+{
+ "tytul": "Stojak na ciężkie narzędzia budowlane - jak go wybrać?",
+ "opis_meta": "Szukasz stojaka na ciężkie narzędzia budowlane? Sprawdź, na co zwrócić uwagę przy wyborze stabilnej konstrukcji na młoty, łopaty i kilofy.",
+ "wstep": "Ciężkie narzędzia budowlane oparte o ścianę szybko niszczą tynk i stwarzają ryzyko wypadku. Zwykłe plastikowe wieszaki łamią się pod ciężarem młotów czy kilofów. Dobry stojak musi wytrzymać spore obciążenie i stać stabilnie na podłożu.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego zwykły wieszak nie wystarczy",
+   "akapity": [
+    "Narzędzia budowlane ważą znacznie więcej niż typowy sprzęt do grabienia liści. Standardowe uchwyty z tworzywa pękają pod punktowym naciskiem kilofa lub ciężkiego młota. Konstrukcja do takich zadań musi być wykonana z litej stali, która nie ugnie się pod dużym ciężarem.",
+    "Ważna jest również grubość ścianek zastosowanego profilu. Cienkie rurki szybko ulegają deformacji podczas odkładania metalowych elementów. Solidna stal amortyzuje przypadkowe uderzenia i zachowuje swój kształt przez lata użytkowania."
+   ]
+  },
+  {
+   "h2": "Stojak wolnostojący czy panel ścienny",
+   "akapity": [
+    "Montaż ciężkiego stojaka na ścianie bywa kłopotliwy, zwłaszcza gdy budynek ma ocieplenie ze styropianu. Wiercenie przez grubą warstwę izolacji osłabia elewację i wymaga stosowania specjalistycznych kotew. Jeśli nie chcesz uszkadzać tynku, lepszym wyborem jest model wolnostojący.",
+    "Taka konstrukcja potrzebuje szerokich stóp z płaskownika, które rozkładają masę na podłożu. Stalowa podstawa zapobiega przewróceniu stojaka, nawet gdy obciążysz tylko jedną stronę. Mebel możesz też swobodnie przestawiać w zależności od prowadzonych prac."
+   ]
+  },
+  {
+   "h2": "Bezpieczne układanie młotów i kilofów",
+   "akapity": [
+    "Najcięższy sprzęt odkładaj zawsze na najniższe poziomy stojaka. Dzięki temu środek ciężkości pozostaje blisko ziemi, co chroni całość przed wywrotką podczas wyciągania pojedynczych sztuk. Wyższe uchwyty przeznacz na lżejsze szpadle, łopaty lub miotły.",
+    "Zwróć też uwagę na odstępy między stanowiskami. Masywne głowice narzędzi budowlanych zajmują dużo miejsca. Zbyt gęsty rozstaw powoduje zahaczanie o sąsiednie trzonki, co utrudnia sprawne odkładanie sprzętu."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwijamy stojaki na narzędzia z serii CA-Stand, które dopasujesz do swoich potrzeb. Na młoty, kilofy i inne ciężkie przedmioty przygotowaliśmy wzmocniony model CA-Hard z grubszego profilu. Możesz też wybrać panel ścienny CA-Lite mocowany do wiaty lub wolnostojący stojak CA-Yard. Produkty są w fazie prototypu, wykonujemy je na zamówienie w kolorze wiat, a ceny zaczynają się od 300 zł.",
+ "faq": [
+  {
+   "pytanie": "Czy stojak na ciężkie narzędzia trzeba mocować do ściany?",
+   "odpowiedz": "Nie, modele wolnostojące mają stabilne stopy z płaskownika i nie wymagają wiercenia w elewacji ani w ociepleniu."
+  },
+  {
+   "pytanie": "Z jakiego materiału powinien być stojak na kilofy i młoty?",
+   "odpowiedz": "Najlepiej sprawdza się wzmocniona stal z grubszego profilu, która nie wygina się pod dużym obciążeniem."
+  },
+  {
+   "pytanie": "Gdzie najlepiej ustawić wolnostojący stojak z narzędziami?",
+   "odpowiedz": "Wybierz równe i utwardzone podłoże pod wiatą, na patio, tarasie lub bezpośrednio na podwórku."
+  }
+ ],
+ "nr": 137,
+ "kolejnosc": 105,
+ "temat": "stojak na ciężkie narzędzia budowlane",
+ "adres": "stojak-na-ciezkie-narzedzia-budowlane",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

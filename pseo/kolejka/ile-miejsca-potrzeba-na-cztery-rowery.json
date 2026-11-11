@@ -1,0 +1,59 @@
+{
+ "tytul": "Ile miejsca potrzeba na cztery rowery? Poradnik",
+ "opis_meta": "Sprawdź, ile miejsca zajmą cztery rowery na podłodze, a ile na ścianie. Poznaj praktyczne sposoby na wygodne przechowywanie sprzętu na co dzień.",
+ "wstep": "Na cztery rowery stojące obok siebie potrzebujesz sporej powierzchni, zwłaszcza jeśli chcesz mieć do nich swobodny dostęp. Wiele zależy od tego, czy planujesz postawić je w jednym rzędzie na podłodze, czy zawiesić na ścianie. W tym poradniku dowiesz się, jak zaplanować tę przestrzeń, aby nie potykać się o kierownice i pedały.",
+ "sekcje": [
+  {
+   "h2": "Ile miejsca zajmują cztery rowery na podłodze",
+   "akapity": [
+    "Standardowy rower dla dorosłego ma około 180 cm długości, a jego kierownica mierzy zazwyczaj od 60 do 70 cm szerokości. Gdy postawisz cztery takie rowery obok siebie, kierownice i pedały zaczną o siebie haczyć. Aby móc swobodnie wyciągnąć dowolny jednoślad bez przestawiania pozostałych, na każdy rower warto przewidzieć minimum 40-50 cm szerokości.",
+    "Oznacza to, że rząd czterech rowerów stojących na podłodze zajmie pas o wymiarach około 1,8 metra na 1,6-2 metry. Do tego musisz doliczyć przynajmniej metr wolnej przestrzeni przed nimi na manewrowanie i wyprowadzanie."
+   ]
+  },
+  {
+   "h2": "Ustawienie naprzemienne i stojaki podłogowe",
+   "akapity": [
+    "Jeśli masz wąskie przejście, rowery możesz ustawiać naprzemiennie, czyli jeden przodem, a drugi tyłem. W ten sposób szerokie kierownice nie znajdują się na tej samej wysokości i nie blokują się nawzajem.",
+    "Przydatne są także dedykowane stojaki podłogowe z naprzemiennymi stanowiskami. Taki układ pozwala zyskać cenne centymetry na szerokości, ale pamiętaj, że jednoślady nadal zajmują posadzkę, co utrudnia na przykład zamiatanie podłogi."
+   ]
+  },
+  {
+   "h2": "Wieszaki ścienne jako sposób na oszczędność miejsca",
+   "akapity": [
+    "Zawieszenie rowerów na ścianie to najprostszy sposób na odzyskanie podłogi. Rower powieszony pionowo za przednie koło odstaje od ściany na głębokość około metra, zależnie od długości ramy.",
+    "Na cztery rowery zawieszone pionowo obok siebie potrzebujesz fragmentu ściany o szerokości około 1,5 do 2 metrów. Odstęp między hakami powinien wynosić około 35-45 cm. Pod wiszącymi rowerami dorosłych zostaje wtedy wolne miejsce na podłodze, na przykład na małe rowerki dziecięce lub hulajnogi."
+   ]
+  },
+  {
+   "h2": "Pamiętaj o strefie do swobodnego przejścia",
+   "akapity": [
+    "Częstym błędem przy planowaniu miejsca na rowery jest brak rezerwy na przejście. Sam rower to jedno, ale obok niego musi zmieścić się człowiek prowadzący jednoślad.",
+    "Zostaw zawsze przynajmniej 80 cm wolnego korytarza wzdłuż stojących lub wiszących jednośladów. Dzięki temu unikniesz obijania ścian pedałami oraz przypadkowego ubrudzenia ubrań o łańcuch."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodnym sposobem na uporządkowanie sprzętu jest wiata z przechowalnią rowerów CarportActive. Wieszaki i stojaki są przykręcone bezpośrednio do stalowej konstrukcji, więc rowery wiszą na ścianie, a garaż i przedpokój zostają wolne. Pod dachem wiaty łańcuch nie rdzewieje na deszczu, a najwięcej miejsca z boku daje wiata o wymiarach 4 x 6 m. Jeśli potrzebujesz dodatkowej ochrony, część wiaty można wydzielić jako strefę zamykaną.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć zapięciem bezpośrednio do stalowej konstrukcji wiaty. Jeśli zależy Ci na większym bezpieczeństwie, można zamówić zamkniętą strefę, której wykonanie ustala się przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To zależy od rozmiaru wiaty i układu wieszaków. Napisz, ile masz rowerów i jakich, a dobierzemy odpowiednie wieszaki ścienne i stojaki podłogowe do wybranej konstrukcji."
+  },
+  {
+   "pytanie": "Czy w strefie rowerowej można też naprawiać sprzęt?",
+   "odpowiedz": "Tak. Przechowalnię rowerów łatwo połączyć z panelem narzędziowym, dzięki czemu narzędzia wiszą na ścianie tuż obok jednośladów."
+  }
+ ],
+ "nr": 105,
+ "kolejnosc": 167,
+ "temat": "ile miejsca potrzeba na cztery rowery",
+ "adres": "ile-miejsca-potrzeba-na-cztery-rowery",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

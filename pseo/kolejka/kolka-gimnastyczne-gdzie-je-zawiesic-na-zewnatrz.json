@@ -1,0 +1,50 @@
+{
+ "tytul": "Kółka gimnastyczne - gdzie je zawiesić na zewnątrz?",
+ "opis_meta": "Szukasz miejsca na kółka gimnastyczne w ogrodzie? Sprawdź bezpieczne punkty montażu na zewnątrz i dowiedz się, na co zwrócić uwagę przed treningiem.",
+ "wstep": "Chcesz trenować na świeżym powietrzu, ale brakuje Ci stabilnego punktu mocowania. Kółka gimnastyczne wymagają pewnego podparcia i wolnej przestrzeni dookoła. Podpowiadamy, gdzie bezpiecznie zamontować pasy w ogrodzie lub na podwórku.",
+ "sekcje": [
+  {
+   "h2": "Mocowanie kółek do drzewa w ogrodzie",
+   "akapity": [
+    "Pasy kółek możesz przerzucić przez grubą, poziomą gałąź zdrowego drzewa liściastego. Zanim zawiśniesz, sprawdź dokładnie stan drewna, aby wykluczyć pęknięcia czy spróchniałe fragmenty. Gałąź musi wytrzymać nie tylko Twoją masę w spoczynku, ale także siły dynamiczne działające podczas wymachów.",
+    "Pamiętaj o zabezpieczeniu kory drzewa oraz samych taśm montażowych. Szorstka powierzchnia kory może szybko przetrzeć materiał pasów pod wpływem ciągłego tarcia. Warto podłożyć pod taśmy kawałek grubego materiału lub gumy w miejscu styku z gałęzią."
+   ]
+  },
+  {
+   "h2": "Belki nośne tarasu lub zadaszenia",
+   "akapity": [
+    "Dobrym miejscem bywa konstrukcja pergoli lub zadaszenia tarasu. Jeśli belki poprzeczne są solidne i stabilnie powiązane ze ścianą domu, kółka możesz powiesić na pasach zaciskowych albo stalowych obejmach. Taki montaż zapewnia wygodne, równe podłoże pod stopami.",
+    "Zwróć uwagę na odległość od ścian budynku, balustrad i mebli ogrodowych. Do swobodnego treningu potrzebujesz przynajmniej metra wolnej przestrzeni z każdej strony kółek. Upewnij się też, że wysokość zadaszenia pozwala na pełny wyprost ramion w zwisie."
+   ]
+  },
+  {
+   "h2": "Stalowe drążki i bramy treningowe",
+   "akapity": [
+    "Najbardziej stabilnym rozwiązaniem w terenie otwartym jest mocny drążek zamontowany między słupami. Stalowa rura nie ugina się podczas ćwiczeń i pozwala precyzyjnie ustalić rozstaw taśm, który zazwyczaj wynosi około 50 centymetrów. Daje to pełną kontrolę nad techniką ruchu.",
+    "Pamiętaj jednak, że sprzęt zawieszony na otwartej przestrzeni szybko moknie na deszczu. Same kółka gimnastyczne, szczególnie drewniane, warto zdejmować po każdym treningu i chować w suchym pomieszczeniu. Zostawienie ich na deszczu może zniszczyć drewno oraz osłabić klamry pasów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego punktu do ćwiczeń pod dachem, sprawdzi się wiata CarportActive z modułem sportowym. Słupy wiaty ze stali konstrukcyjnej S235 są zabezpieczone ocynkiem ogniowym oraz malowaniem proszkowym, więc mogą służyć jako stabilna rama do treningu obok zaparkowanego auta. Zestaw ustalamy indywidualnie, dlatego możesz dobrać mocowanie pod kółka gimnastyczne, a przy rozmiarze 4 x 6 m zyskujesz wygodne miejsce do ćwiczeń bez stawiania osobnej konstrukcji w ogrodzie.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę na kółkach?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł z mocowaniem na kółka można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż te ze standardowego zestawu?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy odpowiednie mocowanie."
+  }
+ ],
+ "nr": 12,
+ "kolejnosc": 99,
+ "temat": "kółka gimnastyczne - gdzie je zawiesić na zewnątrz",
+ "adres": "kolka-gimnastyczne-gdzie-je-zawiesic-na-zewnatrz",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

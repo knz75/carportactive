@@ -1,0 +1,49 @@
+{
+ "tytul": "Bluszcz na wiacie - zalety i wady zielonej ściany",
+ "opis_meta": "Zastanawiasz się nad posadzeniem bluszczu przy wiacie garażowej? Poznaj najważniejsze zalety i wady takiego rozwiązania, zanim podejmiesz decyzję.",
+ "wstep": "Sadzenie bluszczu przy wiacie garażowej to prosty sposób na osłonięcie auta i poprawę wyglądu posesji. Zanim jednak pozwolisz pnączom zarosnąć konstrukcję, warto poznać praktyczne plusy i minusy tego wyboru. Jako monterzy widzieliśmy wiele takich podwórek i wiemy, jak zieleń zachowuje się po kilku sezonach.",
+ "sekcje": [
+  {
+   "h2": "Zalety bluszczu na wiacie",
+   "akapity": [
+    "Zielona ściana osłania zaparkowany samochód przed ostrym słońcem oraz porywami wiatru. Żywa roślinność wygląda też znacznie cieplej niż goła ściana konstrukcji. Pnącza należą do roślin mało wymagających, dlatego radzą sobie w cieniu i nie potrzebują ciągłej uwagi.",
+    "Boczna ściana wiaty ma zazwyczaj kilka metrów kwadratowych powierzchni, a zajmuje niewiele miejsca na gruncie. Obsadzenie jej zielenią pozwala zyskać ładny ogród bez zabierania przestrzeni manewrowej na podjeździe."
+   ]
+  },
+  {
+   "h2": "Wady i ryzyka związane z tradycyjnym bluszczem",
+   "akapity": [
+    "Pnącza rosnące bezpośrednio z gruntu szybko wymykają się spod kontroli. Ich pędy z czasem drewnieją, stają się ciężkie i potrafią wciskać się w szczeliny zadaszenia. Usunięcie starego, rozrośniętego bluszczu bywa uciążliwe i potrafi zabrudzić konstrukcję.",
+    "Gęste liście zatrzymują wilgoć po deszczu i gromadzą kurz oraz opadające szczątki organiczne. Jeśli szkielet wiaty nie ma trwałego zabezpieczenia antykorozyjnego, ciągły kontakt z mokrą masą liści może z czasem osłabić materiał."
+   ]
+  },
+  {
+   "h2": "Jak pogodzić zieleń z trwałością wiaty",
+   "akapity": [
+    "Kluczem jest kontrolowanie wzrostu roślin i odpowiednie podłoże konstrukcyjne. Zamiast puszczać pędy samopas po słupach, lepiej prowadzić je w wydzielonych panelach lub pojemnikach. Wiata musi być też wykonana ze stali odpornej na warunki atmosferyczne, aby stała wilgoć nie powodowała rdzewienia."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli chcesz mieć zieleń bez ryzyka zniszczenia konstrukcji, sprawdź wiatę z ogrodem wertykalnym CarportActive. Moduły roślinne to pojemniki ustawione jeden nad drugim na bocznym panelu wiaty, gdzie możesz posadzić pnącza, kwiaty lub zioła. Konstrukcja zrobiona jest ze stali S235 ocynkowanej ogniowo i malowanej proszkowo, więc wilgoć jej nie szkodzi. Możesz wybrać rozmiar bazowy 3 x 6 m, 4 x 6 m, 6 x 6 m lub zamówić wymiar indywidualny, dobrać opcję nawadniania, a przed zakupem wgrać zdjęcie podjazdu do wizualizatora AI, który pokaże wiatę w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo, dzięki czemu jest w pełni przygotowana na deszcz i wilgoć przez cały rok."
+  },
+  {
+   "pytanie": "Jak często trzeba podlewać rośliny na bocznej ścianie?",
+   "odpowiedz": "W pionie ziemia wysycha szybciej niż na grządce, zwłaszcza podczas upałów. Z tego względu można dodać dedykowaną opcję nawadniania, której zakres ustala się indywidualnie."
+  },
+  {
+   "pytanie": "Jakie rośliny najlepiej wybrać na panel wiaty?",
+   "odpowiedz": "Wybór zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, z kolei zioła i kwiaty potrzebują więcej słońca oraz regularnego podlewania."
+  }
+ ],
+ "nr": 65,
+ "kolejnosc": 165,
+ "temat": "bluszcz na wiacie - zalety i wady",
+ "adres": "bluszcz-na-wiacie-zalety-i-wady",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

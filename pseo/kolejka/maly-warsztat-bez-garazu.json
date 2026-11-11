@@ -1,0 +1,52 @@
+{
+ "tytul": "Mały warsztat bez garażu. Jak zorganizować miejsce do pracy?",
+ "opis_meta": "Brak garażu nie oznacza rezygnacji z majsterkowania. Sprawdź, jak zorganizować mały warsztat na podjeździe pod zadaszeniem i uporządkować narzędzia.",
+ "wstep": "Nie potrzebujesz murowanego budynku, żeby zyskać wygodny kącik do majsterkowania i drobnych napraw. Najważniejsze to wydzielić stałą przestrzeń, osłonić sprzęt przed deszczem i mądrze wykorzystać pionowe powierzchnie. Nawet na zwykłym podjeździe możesz zorganizować miejsce do pracy, w którym wszystko masz pod ręką.",
+ "sekcje": [
+  {
+   "h2": "Zadaszenie jako baza dla małego warsztatu",
+   "akapity": [
+    "Praca pod gołym niebem zawsze zależy od pogody. Drobne naprawy przy aucie, czyszczenie sprzętu ogrodowego czy skręcanie mebli wymagają ochrony przed opadami. Wystarczy proste, solidne zadaszenie, aby deszcz nie przerywał zaplanowanych zadań.",
+    "Dzięki zadaszonej przestrzeni Twój podjazd staje się naturalnym przedłużeniem domu. Możesz swobodnie rozłożyć narzędzia i materiały bez obawy o nagłe załamanie pogody. Nie wnosisz też brudu ani pyłu do wnętrza budynku."
+   ]
+  },
+  {
+   "h2": "Wykorzystaj ściany zamiast zastawiać podłoże",
+   "akapity": [
+    "Głównym problemem przy braku garażu jest ograniczony metraż. Jeśli postawisz na ziemi regały i szafki, szybko zabraknie Ci miejsca na swobodne ruchy wokół samochodu czy stołu roboczego.",
+    "Najlepszym rozwiązaniem jest przeniesienie organizacji na pionowe płaszczyzny. Ściany boczne wiaty lub ogrodzenia to doskonała przestrzeń na tablice narzędziowe. Zawieszenie sprzętu na hakach sprawia, że podłoga pozostaje wolna, a Ty od razu widzisz potrzebny klucz lub kabel."
+   ]
+  },
+  {
+   "h2": "Dobra organizacja drobiazgów i sprzętu",
+   "akapity": [
+    "W otwartym lub półotwartym kąciku majsterkowicza porządek to podstawa. Rzeczy odkładane byle gdzie łatwo gubią się na zewnątrz, a wiatr może rozwiewać lżejsze przedmioty.",
+    "Warto wyposażyć stanowisko w zamykane skrzynki i pojemniki na śruby oraz nakrętki. Narzędzia o dłuższych trzonkach, przedłużacze czy węże powinny mieć swoje stałe uchwyty. Dzięki temu po skończonej pracy sprzątanie zajmuje tylko chwilę."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata CarportActive z panelem narzędziowym rozwiązuje problem braku garażu i zamienia podjazd w miejsce do drobnych napraw. Na bocznej ścianie montujemy stalowy panel perforowany, na którym łopaty, grabie, klucze i przedłużacze wiszą na hakach pod dachem. Na wiacie 4 x 6 m z boku zostaje też miejsce na stanowisko pracy. Haki i skrzynki na drobne części rozmieszczasz samodzielnie, a cały moduł możesz zamówić od razu lub dołożyć później.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia nie zamokną na panelu pod wiatą?",
+   "odpowiedz": "Panel jest zamontowany pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy panel narzędziowy można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma przygotowane punkty montażowe. Przy wiacie innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków można dopasować do własnych narzędzi?",
+   "odpowiedz": "Tak. Panel wykonany jest ze stalowej płyty z otworami, więc haki i uchwyty ustawiasz sam. Możesz też zmieniać ich układ w dowolnym momencie, kiedy zmienią się Twoje narzędzia."
+  }
+ ],
+ "nr": 43,
+ "kolejnosc": 150,
+ "temat": "mały warsztat bez garażu",
+ "adres": "maly-warsztat-bez-garazu",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

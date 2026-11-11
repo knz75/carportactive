@@ -1,0 +1,50 @@
+{
+ "tytul": "Panel perforowany na narzędzia - jak z niego dobrze korzystać",
+ "opis_meta": "Szukasz sposobu na porządek w narzędziach? Zobacz, jak ustawić haki, rozmieścić sprzęt i wygodnie korzystać ze stalowego panelu perforowanego.",
+ "wstep": "Oparty o ścianę szpadel i skrzynka z narzędziami pod nogami to częsty widok na podwórku. Panel perforowany pozwala przenieść ten bałagan na pionową ścianę i odzyskać przestrzeń. Wystarczy poznać kilka prostych zasad montażu haków i podziału stref, żeby wszystko było pod ręką.",
+ "sekcje": [
+  {
+   "h2": "Podziel panel na strefy robocze",
+   "akapity": [
+    "Najcięższy sprzęt zawieś najniżej. Łopaty, szpadle czy grabie powinny wisieć tak, żeby ich podnoszenie nie obciążało Twoich pleców. Dłuższe trzonki potrzebują solidnych haków, które utrzymają je w pionie bez kołysania na boki.",
+    "Środkową część tablicy przeznacz na rzeczy, po które sięgasz najczęściej. To dobre miejsce na wkrętaki, młotki czy klucze. Z kolei pod samą górą możesz powiesić lżejsze przedmioty lub zapasowe przedłużacze, po które sięgasz rzadziej."
+   ]
+  },
+  {
+   "h2": "Dopasuj haki i skrzynki do swoich potrzeb",
+   "akapity": [
+    "Nie każdy hak pasuje do każdego narzędzia. Do narzędzi ręcznych sprawdzą się pojedyncze uchwyty, a do kabli i węży ogrodowych przydadzą się głębokie wieszaki. Perforacja daje Ci pełną swobodę, więc możesz testować różne układy bez używania wiertarki.",
+    "Drobne elementy, takie jak śruby, nakrętki czy bity, łatwo gubią się podczas majsterkowania. Warto zawiesić na otworach małe skrzynki na drobiazgi. Dzięki temu masz czyste podłoże do pracy, a wszystkie części leżą posortowane w jednym miejscu."
+   ]
+  },
+  {
+   "h2": "Zmieniaj układ, gdy przybywa sprzętu",
+   "akapity": [
+    "Zaletą stalowej płyty z otworami jest to, że żaden element nie jest przymocowany na stałe. Kiedy kupisz nowe narzędzie albo zmienią się Twoje nawyki, po prostu przekładasz haki w inne miejsca. Nie niszczysz ściany kolejnymi kołkami.",
+    "Zostaw sobie trochę wolnej przestrzeni między poszczególnymi grupami narzędzi. Z czasem na tablicy pojawią się nowe rzeczy, a zbyt ciasno upakowane wieszaki utrudniają szybkie odkładanie sprzętu na swoje miejsce."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive montujemy stalowy panel perforowany na bocznej ścianie wiaty, zamieniając podjazd w wygodne miejsce do drobnych napraw. Łopaty, grabie, klucze i przedłużacze wiszą na hakach pod dachem, tam gdzie pracujesz. Panel pasuje do każdego rozmiaru wiaty, a na wariancie 4 x 6 m zostaje też miejsce na stanowisko pracy. Konstrukcja z ocynkowanej i malowanej proszkowo stali S235 chroni sprzęt, a moduły możesz domówić od razu lub dołożyć później.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu nie zamokną?",
+   "odpowiedz": "Panel znajduje się pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Pamiętaj jednak, że przy silnym wietrze i zacinającym deszczu ściana osłania narzędzia tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy panel można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma już przygotowane punkty montażowe. W przypadku wiaty innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go bezpiecznie zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków można dopasować do moich narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty rozmieszczasz samodzielnie według swoich potrzeb. Odpowiedni zestaw haków dobieramy wspólnie przy wycenie wiaty."
+  }
+ ],
+ "nr": 28,
+ "kolejnosc": 19,
+ "temat": "panel perforowany na narzędzia - jak z niego korzystać",
+ "adres": "panel-perforowany-na-narzedzia-jak-z-niego-korzystac",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

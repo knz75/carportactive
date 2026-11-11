@@ -1,0 +1,52 @@
+{
+ "tytul": "Nie chcesz wiercić w elewacji? Jak przechowywać narzędzia",
+ "opis_meta": "Szukasz sposobu na narzędzia ogrodowe bez dziurawienia ocieplenia? Zobacz praktyczne metody na organizację sprzętu bez wiercenia w elewacji.",
+ "wstep": "Nowa elewacja ze styropianem to częsty powód, dla którego unikasz sięgania po wiertarkę. Dziurawienie warstwy izolacji może prowadzić do zacieków i uszkodzenia tynku. Na szczęście sprzęt ogrodowy możesz wygodnie uporządkować bez naruszania ścian budynku.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego lepiej unikać wiercenia w ociepleniu",
+   "akapity": [
+    "Wiercenie w wykończonej ścianie z ociepleniem zawsze niesie ze sobą ryzyko. Przebicie warstwy tynku otwiera drogę wilgoci, która pod wpływem mrozu może rozsadzać elewację. Trudno też o trwałe uszczelnienie takiego punktu na lata.",
+    "Ciężkie narzędzia wymagają mocnego podparcia. Zwykły kołek w styropianie nie utrzyma ciężaru szpadli czy grabi, a kotwy sięgające muru są kłopotliwe w montażu. Z tego powodu montaż ścienny na elewacji bywa po prostu nieopłacalny."
+   ]
+  },
+  {
+   "h2": "Wykorzystaj ogrodzenie lub konstrukcję wiaty",
+   "akapity": [
+    "Zamiast dziurawić ściany domu, rozejrzyj się po działce za innymi punktami mocowania. Dobrym miejscem bywa ogrodzenie panelowe lub drewniany płot na tyłach posesji. Haki zamocowane na słupkach ogrodzeniowych utrzymają podstawowy sprzęt bez dotykania budynku.",
+    "Świetną bazą pod narzędzia są także wolnostojące wiaty i altany. Stalowe lub drewniane słupy konstrukcyjne pozwalają na bezpieczny montaż listew narzędziowych. Narzędzia wiszą wtedy pod dachem, a ściany domu pozostają nienaruszone."
+   ]
+  },
+  {
+   "h2": "Rozwiązania wolnostojące zamiast wieszaków ściennych",
+   "akapity": [
+    "Najprostszym sposobem na uniknięcie jakiegokolwiek montażu są konstrukcje wolnostojące. Taki stojak stawiasz na kostce brukowej, tarasie lub ubitym gruncie w dowolnym miejscu posesji. Narzędzia wkłada się pionowo do przegród lub odwiesza na zintegrowanych uchwytach.",
+    "To rozwiązanie daje pełną elastyczność w codziennym użytkowaniu. Gdy zmieniasz organizację przestrzeni w ogrodzie, po prostu przenosisz stojak w inne miejsce. Nie zostawiasz po sobie żadnych dziur, załatanych tynkiem plam ani śladów na ścianie."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy ten problem za pomocą metalowych stojaków CA-Stand, które są w fazie prototypu i powstają na zamówienie w cenach od 300 zł. Wolnostojące modele CA-Entry ze stopami z płaskownika 100 x 4 mm, szeroki CA-Yard oraz wzmocniony CA-Hard na ciężki sprzęt nie wymagają wiercenia w elewacji ani ociepleniu. Stojaki wykonujemy w tym samym stylu i kolorze co nasze wiaty, a alternatywą jest panel CA-Lite przykręcany bezpośrednio do wiaty lub ogrodzenia.",
+ "faq": [
+  {
+   "pytanie": "Czy stojak wolnostojący na narzędzia jest stabilny?",
+   "odpowiedz": "Tak, modele oparte na szerokich stopach z płaskownika zachowują stabilność pod obciążeniem łopat czy grabi bez konieczności kotwienia do ściany."
+  },
+  {
+   "pytanie": "Gdzie najlepiej ustawić stojak na narzędzia bez wiercenia?",
+   "odpowiedz": "Najlepiej sprawdza się utwardzone podłoże pod zadaszeniem wiaty garażowej, w narożniku patio lub w strefie przy drzwiach wejściowych."
+  },
+  {
+   "pytanie": "Czy ciężkie narzędzia, jak kilofy czy młoty, wymagają wieszania na murze?",
+   "odpowiedz": "Nie, do takich zadań sprawdzają się wolnostojące konstrukcje wykonane ze wzmocnionych, grubszych profili stalowych."
+  }
+ ],
+ "nr": 130,
+ "kolejnosc": 42,
+ "temat": "nie chcę wiercić w elewacji - jak powiesić narzędzia",
+ "adres": "nie-chce-wiercic-w-elewacji-jak-powiesic-narzedzia",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

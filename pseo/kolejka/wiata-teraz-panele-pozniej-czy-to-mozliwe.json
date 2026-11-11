@@ -1,0 +1,52 @@
+{
+ "tytul": "Wiata teraz, panele później - czy to możliwe?",
+ "opis_meta": "Planujesz budowę wiaty, a fotowoltaikę chcesz dodać w kolejnym sezonie? Sprawdź, jak przygotować konstrukcję i fundament pod montaż paneli.",
+ "wstep": "Tak, postawienie samej wiaty teraz i montaż paneli w późniejszym terminie jest w pełni możliwe. Wymaga to jednak wcześniejszego zaplanowania, ponieważ dach oraz słupy muszą utrzymać dodatkowe obciążenie. Jeśli wybierzesz odpowiednią konstrukcję na samym początku, unikniesz kosztownych przeróbek w przyszłości.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego konstrukcja musi być wzmocniona od początku",
+   "akapity": [
+    "Zwykła wiata garażowa jest projektowana tak, aby utrzymać jedynie własne zadaszenie. Panele fotowoltaiczne tworzą dodatkowy ciężar, na który konstrukcja musi być przygotowana już na etapie produkcji.",
+    "Słupy oraz fundamenty muszą posiadać odpowiedni zapas nośności. Gdy zadbasz o wzmocniony szkielet od razu, moduły możesz bezpiecznie zamontować w kolejnym sezonie bez obaw o stabilność całości."
+   ]
+  },
+  {
+   "h2": "Wybór wielkości wiaty a liczba paneli",
+   "akapity": [
+    "Dach wiaty i tak jest potrzebny do ochrony Twojego samochodu, ale jego metraż decyduje o wielkości przyszłej elektrowni. Na wiatach montuje się zazwyczaj od 6 do 12 paneli, zależnie od wybranego rozmiaru konstrukcji.",
+    "Największą połać zapewnia wiata dwustanowiskowa o wymiarach 6 x 6 m. Zmieści się na niej do 12 paneli, dzięki czemu miejsce parkingowe zacznie produkować prąd zarówno dla domu, jak i dla samochodu elektrycznego."
+   ]
+  },
+  {
+   "h2": "Przygotowanie pod instalację elektryczną i ładowarkę",
+   "akapity": [
+    "Nawet jeśli odkładasz zakup paneli, warto od razu zaplanować przestrzeń na osprzęt elektryczny. Dobrym rozwiązaniem jest przygotowanie miejsca na ładowarkę typu Wallbox bezpośrednio przy słupie wiaty.",
+    "Kwestię instalacji elektrycznej, falownika oraz samego podłączenia modułów możesz ustalić wcześniej. Możesz skorzystać z usług swojego elektryka lub zlecić całość jednemu wykonawcy w momencie, gdy zdecydujesz się na montaż paneli."
+   ]
+  }
+ ],
+ "rozwiazanie": "Ten problem rozwiązuje wiata Solar Box od CarportActive, której dach jest od razu przystosowany do montażu paneli PV. Konstrukcja ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym ma wzmocnione słupy oraz fundamenty z zapasem nośności, więc moduły możesz zamówić od razu lub dołożyć w kolejnym sezonie. Wiata dostępna jest w wymiarach bazowych 3 x 6 m, 4 x 6 m oraz 6 x 6 m o wysokości 2,7 m, a także na wymiar indywidualny. Montaż wiaty zajmuje zazwyczaj 1 dzień roboczy, a na stronie możesz wgrać zdjęcie podjazdu, by wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, dzięki czemu panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "W zależności od rozmiaru wiaty zmieści się od 6 do 12 paneli. Na wiacie dwustanowiskowej 6 x 6 m zamontujesz do 12 paneli."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy napisać, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 123,
+ "kolejnosc": 154,
+ "temat": "wiata teraz, panele później - czy to możliwe",
+ "adres": "wiata-teraz-panele-pozniej-czy-to-mozliwe",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Rośliny na ścianę od strony południowej. Co sprawdzi się na słońcu?",
+ "opis_meta": "Szukasz roślin na ścianę od strony południowej? Sprawdź, jakie pnącza, zioła i kwiaty poradzą sobie z ostrym słońcem i jak dbać o nie w pionie.",
+ "wstep": "Ściana od południa to najcieplejsze i najbardziej nasłonecznione miejsce wokół domu. Mocne słońce szybko wysusza podłoże, dlatego dobór gatunków ma tutaj kluczowe znaczenie. Jeśli wybierzesz odpowiednie rośliny, stworzysz zieloną osłonę na lata.",
+ "sekcje": [
+  {
+   "h2": "Warunki na ścianie od strony południowej",
+   "akapity": [
+    "Południowa wystawa oznacza bezpośrednie słońce przez większość dnia. Pionowa ściana mocno się nagrzewa i oddaje ciepło otoczeniu. Ziemia w pojemnikach traci wilgoć znacznie szybciej niż w gruncie na rabacie.",
+    "Z tego powodu rośliny na tę stronę muszą dobrze znosić wysokie temperatury. Nie każda zieleń poradzi sobie bez ciągłego cienia, dlatego warto postawić na gatunki odporne na przesychanie."
+   ]
+  },
+  {
+   "h2": "Zioła, kwiaty czy pnącza na pełne słońce",
+   "akapity": [
+    "Wybór zależy od strony świata i tego, ile czasu chcesz poświęcić na pielęgnację. Pnącza są najmniej wymagające i po ukorzenieniu same radzą sobie z mocnym nasłonecznieniem.",
+    "Zioła uwielbiają słońce, bo dzięki niemu zyskują intensywny aromat. Potrzebują jednak regularnego podlewania, ponieważ w pionie podłoże wysycha w szybkim tempie. Dobrze sprawdzą się też kwiaty sezonowe, które lubią jasne stanowiska i kwitną przez całe lato."
+   ]
+  },
+  {
+   "h2": "Pielęgnacja roślin w układzie pionowym",
+   "akapity": [
+    "W pionie ziemia wysycha szybciej niż na tradycyjnej grządce. W upalne dni ręczne podlewanie bywa uciążliwe i wymaga systematyczności. Warto zaplanować nawadnianie, które dostarczy wodę wprost do bryły korzeniowej.",
+    "Pionowa zieleń pozwala zaoszczędzić miejsce w ogrodzie. Wystarczy obsadzić pionowy panel, aby zyskać kilka metrów kwadratowych zwartej, zielonej powierzchni chroniącej przed słońcem."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy ten problem za pomocą wiaty z ogrodem wertykalnym. Moduły roślinne to pojemniki na bocznym panelu wiaty, ustawione jeden nad drugim, co świetnie sprawdza się od strony słońca. Zielona ściana osłania samochód od słońca i wiatru, a opcjonalny system nawadniania ułatwia dbanie o zioła, kwiaty lub pnącza. Stal konstrukcyjna S235 jest ocynkowana ogniowo i malowana proszkowo, więc wilgoć z podlewania nie szkodzi konstrukcji.",
+ "faq": [
+  {
+   "pytanie": "Czy rośliny na południowej ścianie trzeba podlewać codziennie?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Dlatego proponujemy opcję nawadniania, a jej zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Jakie rośliny wybrać na zieloną ścianę?",
+   "odpowiedz": "Zależy to od strony świata i Twojego czasu. Pnącza są najmniej wymagające, natomiast zioła potrzebują słońca i regularnego podlewania."
+  },
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo, czyli w pełni przygotowana na deszcz i wilgoć przez cały rok."
+  }
+ ],
+ "nr": 54,
+ "kolejnosc": 74,
+ "temat": "rośliny na ścianę od strony południowej",
+ "adres": "rosliny-na-sciane-od-strony-poludniowej",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

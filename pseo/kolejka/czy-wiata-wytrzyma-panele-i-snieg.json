@@ -1,0 +1,50 @@
+{
+ "tytul": "Czy wiata wytrzyma panele i śnieg? Sprawdź nośność",
+ "opis_meta": "Zastanawiasz się, czy wiata garażowa utrzyma panele fotowoltaiczne i zalegający śnieg? Sprawdź, na co zwrócić uwagę, aby konstrukcja była w pełni stabilna.",
+ "wstep": "Zwykła wiata ogrodowa z marketu może nie poradzić sobie z łącznym ciężarem modułów i mokrego śniegu. Aby konstrukcja była bezpieczna, potrzebuje odpowiednio dobranych słupów, solidnych fundamentów oraz sztywnego dachu. Odpowiedź brzmi: tak, wiata wytrzyma, ale tylko wtedy, gdy została od początku zaprojektowana pod takie obciążenie.",
+ "sekcje": [
+  {
+   "h2": "Jak śnieg i panele obciążają konstrukcję dachu",
+   "akapity": [
+    "Same panele fotowoltaiczne ważą swoje, ale prawdziwym testem dla konstrukcji jest zima. Mokry, zlodowaciały śnieg potrafi ważyć wielokrotnie więcej niż same moduły. Kiedy połączysz ciężar szkła, ram montażowych i grubej warstwy białego puchu, dach musi unieść spory nacisk.",
+    "Dodatkowo dochodzi parcie oraz ssanie wiatru, który potrafi podrywać połać lub mocno dociskać ją do ziemi. Zadaszenia z wiotkich profili uginają się w takich warunkach i stwarzają zagrożenie. Sztywność ramy dachowej ma kluczowe znaczenie dla bezpieczeństwa zaparkowanego auta."
+   ]
+  },
+  {
+   "h2": "Dlaczego fundament i słupy są najważniejsze",
+   "akapity": [
+    "Nawet mocny dach nie pomoże, jeśli słupy nośne oraz fundamenty będą zbyt słabe. Cały nacisk z powierzchni dachu schodzi w dół, prosto do gruntu. Jeśli stopy fundamentowe są zbyt małe, konstrukcja może z czasem osiadać lub tracić pion pod wpływem zimowych obciążeń.",
+    "Kluczowa jest odpowiednia grubość stali i stabilne zakotwienie w podłożu. Konstrukcja musi mieć zapas nośności, który uwzględnia nagłe, intensywne opady śniegu bez ryzyka pękania czy trwałych odkształceń materiału."
+   ]
+  },
+  {
+   "h2": "Kąt nachylenia dachu a zsuwanie się śniegu",
+   "akapity": [
+    "Powierzchnia paneli fotowoltaicznych jest gładka, co ułatwia zsuwanie się czap śnieżnych podczas odwilży. Wszystko zależy jednak od nachylenia zadaszenia. Jeśli dach ma mały spadek, śnieg będzie leżał na nim dłużej i stopniowo zwiększał swoją gęstość.",
+    "W takich sytuacjach wiata musi bez problemu znieść długotrwały, statyczny nacisk. Nie warto zakładać, że wiatr od razu zdmuchnie każdy opad. Konstrukcja powinna być gotowa na najtrudniejsze warunki pogodowe, jakie mogą wystąpić na Twoim podwórku."
+   ]
+  }
+ ],
+ "rozwiazanie": "Rozwiązaniem tego problemu jest Solar Box - wiata pod fotowoltaikę ze stali konstrukcyjnej S235, chroniona przez ocynk ogniowy i malowanie proszkowe. Jej dach stanowi gotową konstrukcję pod montaż paneli, a wzmocnione słupy i fundamenty mają fabryczny zapas nośności liczony na dodatkowy ciężar modułów oraz śniegu. Model dostępny jest w wymiarach bazowych 3 x 6 m, 4 x 6 m oraz 6 x 6 m przy wysokości 2,7 m, a jego montaż zajmuje zazwyczaj 1 dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Ile paneli fotowoltaicznych zmieści się na wiacie?",
+   "odpowiedz": "Liczba paneli zależy od rozmiaru wiaty i wynosi od 6 do 12 sztuk. Na wiacie dwustanowiskowej 6 x 6 m zmieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Kto odpowiada za wykonanie instalacji elektrycznej?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy, że napiszesz, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 116,
+ "kolejnosc": 95,
+ "temat": "czy wiata wytrzyma panele i śnieg",
+ "adres": "czy-wiata-wytrzyma-panele-i-snieg",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

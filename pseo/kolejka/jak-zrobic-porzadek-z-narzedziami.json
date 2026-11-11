@@ -1,0 +1,52 @@
+{
+ "tytul": "Jak zrobić porządek z narzędziami wokół domu",
+ "opis_meta": "Szukasz sposobu na bałagan w narzędziach? Poznaj sprawdzone zasady segregacji sprzętu ogrodowego i warsztatowego. Zadbaj o ład wokół domu.",
+ "wstep": "Kiedy szukasz łopaty lub klucza, zwykle tracisz czas na przekopywanie przypadkowych kątów. Dobry porządek z narzędziami polega na tym, że odkładasz sprzęt zawsze w to samo miejsce. Pokażę Ci, jak zaplanować tę przestrzeń prosto i bez zbędnych kosztów.",
+ "sekcje": [
+  {
+   "h2": "Zacznij od twardej selekcji i podziału na grupy",
+   "akapity": [
+    "Najczęstszy błąd to trzymanie wszystkiego w jednym wielkim stosie. Wyjmij cały sprzęt na podjazd i zrób solidny przegląd. Zepsute grabie, pęknięte wiadra czy zardzewiałe sekatory oddaj na złom lub wyrzuć. Zostaw tylko to, z czego faktycznie korzystasz w sezonie i przy bieżących naprawach.",
+    "Następnie podziel narzędzia na dwie główne grupy. Pierwsza to sprzęt ogrodowy o długich trzonkach, taki jak łopaty, grabie czy miotły. Druga to podręczne narzędzia warsztatowe, klucze, wkrętaki, a także przedłużacze i węże ogrodowe."
+   ]
+  },
+  {
+   "h2": "Podnieś narzędzia z ziemi na ściany",
+   "akapity": [
+    "Narzędzia oparte luźno o ścianę w końcu się przewrócą. Kiedy stoją na ziemi, zajmują cenne miejsce podłogi i bardzo łatwo się o nie potknąć. Znacznie lepszym wyjściem jest wykorzystanie pionowych powierzchni ścian.",
+    "Długie trzonki powinny wisieć pionowo w jednym rzędzie. Dzięki temu od razu widzisz potrzebny sprzęt, bez konieczności przesuwania innych rzeczy. Narzędzia wiszące na hakach nie niszczą się i nie stoją w wilgoci przy podłożu."
+   ]
+  },
+  {
+   "h2": "Zorganizuj drobiazgi w małe pojemniki",
+   "akapity": [
+    "Śruby, gwoździe, nakrętki i małe wiertła tworzą największy bałagan, gdy leżą luzem. Zamiast trzymać je w przypadkowych słoikach, przypisz im małe skrzynki lub kuwety. Podpisz je prostymi kategoriami, aby nie tracić czasu na szukanie właściwego rozmiaru.",
+    "W osobnym pojemniku trzymaj rzeczy, które najłatwiej zgubić, na przykład taśmy, nożyki czy ołówki. Gdy każdy drobiazg ma swoje stałe miejsce, sprzątanie po skończonej pracy zajmuje chwilę."
+   ]
+  }
+ ],
+ "rozwiazanie": "Gotowym rozwiązaniem tego problemu jest stalowy panel perforowany na bocznej ścianie wiaty CarportActive. Łopaty, grabie, klucze i przedłużacze wiszą na hakach pod dachem, a podjazd staje się miejscem do drobnych napraw. Stalowa płyta z otworami pozwala przekładać haki i montować skrzynki na śruby dokładnie tak, jak zmieniają się Twoje potrzeby. Na wiacie 4 x 6 m z boku zostaje też wygodne miejsce na stanowisko pracy.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia nie zamokną na ścianie wiaty?",
+   "odpowiedz": "Panel jest pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ nie jest to zamknięte pomieszczenie."
+  },
+  {
+   "pytanie": "Czy panel można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ ma przygotowane punkty montażowe. Przy wiacie innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków można dopasować do moich narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty ustawiasz sam, a zestaw dobieramy przy wycenie."
+  }
+ ],
+ "nr": 39,
+ "kolejnosc": 118,
+ "temat": "jak zrobić porządek z narzędziami",
+ "adres": "jak-zrobic-porzadek-z-narzedziami",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

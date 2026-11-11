@@ -1,0 +1,59 @@
+{
+ "tytul": "Przechowywanie narzędzi przy wejściu do domu - poradnik",
+ "opis_meta": "Sprawdź, jak zorganizować narzędzia przy wejściu do domu bez niszczenia elewacji. Praktyczne wskazówki na porządek z miotłą i łopatą.",
+ "wstep": "Przy wejściu do domu często ląduje miotła, szufla do śniegu czy małe grabki. Oparte o ścianę brudzą tynk i przewracają się przy silniejszym wietrze. Pokażę Ci, jak uporządkować ten sprzęt w prosty i bezpieczny dla budynku sposób.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego zwykłe opieranie narzędzi o ścianę to błąd",
+   "akapity": [
+    "Zostawianie grabi czy szpadla tuż przy drzwiach kusi wygodą. Niestety, brudne trzonki i metalowe części szybko niszczą tynk. Zostawiają na ścianie trudne do usunięcia zacieki, plamy z błota i głębokie rysy.",
+    "Oparty sprzęt stwarza też zagrożenie pod samymi drzwiami. Wystarczy chwila nieuwagi, zahaczenie kurtką lub podmuch wiatru, aby narzędzia runęły na podłoże. Mogą wtedy uszkodzić skrzydło drzwiowe albo spaść komuś prosto pod nogi."
+   ]
+  },
+  {
+   "h2": "Problem z montażem na ocieplonej ścianie",
+   "akapity": [
+    "Wielu właścicieli domów próbuje powiesić listwę z hakami na elewacji. Jeśli budynek jest ocieplony styropianem lub wełną, sprawa staje się trudna. Wiercenie w tynku i izolacji niesie ryzyko nieszczelności, przez które pod ocieplenie może wnikać wilgoć.",
+    "Zwykłe kołki szybko się obluzują pod ciężarem kilku narzędzi. Montaż na długich kotwach chemicznych bywa z kolei kosztowny i pracochłonny. Dlatego przy samym wejściu najlepiej unikać dziurawienia ocieplenia."
+   ]
+  },
+  {
+   "h2": "Konstrukcje wolnostojące zamiast wiercenia",
+   "akapity": [
+    "Najwygodniejszym wyborem przy drzwiach są organizery wolnostojące. Ustawiasz je na kostce brukowej, podeście lub betonie bez użycia wiertarki. W każdej chwili możesz je przesunąć podczas zamiatania czy mycia ganku.",
+    "Zwróć uwagę na podstawę takiego organizera. Powinna być płaska i odpowiednio dociążona, aby sprzęt stał stabilnie nawet podczas silnych podmuchów wiatru. Metalowe elementy sprawdzają się tu lepiej niż tworzywo, które po zimie staje się kruche."
+   ]
+  },
+  {
+   "h2": "Selekcja sprzętu w strefie wejściowej",
+   "akapity": [
+    "Przy wejściu trzymaj tylko to, po co sięgasz na bieżąco. Zimą wystarczy miejsce na szuflę do odśnieżania i szczotkę do butów. Latem przydaje się miotła do podjazdu oraz małe rękawice robocze.",
+    "Ciężkie szpadle, kilofy i zapasowe narzędzia warto oddelegować na podwórko, taras lub pod zadaszenie gospodarcze. W strefie wejściowej kluczowa jest wygoda domowników i estetyczny wygląd."
+   ]
+  }
+ ],
+ "rozwiazanie": "W rozwiązaniu tego problemu pomóc może stojak na narzędzia ogrodowe CA-Stand od CarportActive, tworzony w tym samym stylu i kolorze co wiaty. Do strefy drzwi wejściowych zaprojektowano niski, wolnostojący model CA-Entry o wysokości 60-80 cm, ze stopami z płaskownika 100 x 4 mm, który nie wymaga wiercenia w elewacji. W ofercie na zamówienie znajdują się też panel ścienny CA-Lite, szeroki stojak CA-Yard oraz wzmocniony CA-Hard, a alternatywą jest panel przykręcany bezpośrednio do wiaty. Produkty są w fazie prototypu, ich ceny zaczynają się od 300 zł, a dostawa pozostaje do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy wolnostojący stojak nie przewróci się na wietrze?",
+   "odpowiedz": "Dobrze zaprojektowany stojak ze stalowymi, szerokimi stopami zachowuje pełną stabilność na płaskim podłożu z kostki lub betonu."
+  },
+  {
+   "pytanie": "Gdzie zamontować wiszący panel, jeśli nie chcę wiercić w domu?",
+   "odpowiedz": "Możesz przykręcić go do metalowego ogrodzenia, podmurówki albo bezpośrednio do konstrukcji wiaty garażowej."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć podłoże pod stojakiem na narzędzia?",
+   "odpowiedz": "Stalowe stopy o gładkich krawędziach nie niszczą kostki brukowej, a woda z ociekających po deszczu narzędzi swobodnie paruje na świeżym powietrzu."
+  }
+ ],
+ "nr": 135,
+ "kolejnosc": 87,
+ "temat": "przechowywanie narzędzi przy wejściu do domu",
+ "adres": "przechowywanie-narzedzi-przy-wejsciu-do-domu",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

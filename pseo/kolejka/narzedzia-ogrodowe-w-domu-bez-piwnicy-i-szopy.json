@@ -1,0 +1,52 @@
+{
+ "tytul": "Narzędzia ogrodowe w domu bez piwnicy i szopy. Gdzie je trzymać?",
+ "opis_meta": "Nie masz piwnicy ani szopy? Sprawdź, jak wygodnie i bezpiecznie przechowywać narzędzia ogrodowe przy domu, bez wiercenia w ociepleniu i bałaganu.",
+ "wstep": "Brak piwnicy i domku narzędziowego to częsty problem na nowoczesnych posesjach. Narzędzia ogrodowe lądują wtedy na trawniku, opierają się o świeży tynk lub zagracają wiatrołap. Możesz jednak zaprowadzić porządek na podwórku bez stawiania dużych budynków gospodarczych.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego opieranie łopat o elewację to zły pomysł",
+   "akapity": [
+    "Często widzę na posesjach grabie i łopaty oparte bezpośrednio o ścianę domu. Każdy silniejszy podmuch wiatru powoduje uderzenie metalu lub trzonka w tynk. Po jednym sezonie na elewacji zostają czarne przetarcia i wgniecenia w styropianie, które bardzo trudno zamaskować.",
+    "Kolejny kłopot to ziemia i wilgoć z narzędzi. Błoto ścieka prosto na opaskę z kostki brukowej lub brudzi cokół budynku. Dodatkowo mokry sprzęt pozostawiony na ziemi szybko zaczyna rdzewieć, a drewniane trzonki butwieją."
+   ]
+  },
+  {
+   "h2": "Wykorzystaj przestrzeń przy ogrodzeniu lub pod wiatą",
+   "akapity": [
+    "Jeśli parkujesz samochód pod wiatą garażową, to naturalne miejsce na zorganizowanie kącika gospodarczego. Sprzęt stoi wtedy pod dachem i nie moknie na deszczu, a Ty nie musisz wnosić brudnych narzędzi do części mieszkalnej.",
+    "Dobrym punktem bywa także wewnętrzna strona ogrodzenia posesji. Pionowe odłożenie narzędzi zajmuje ułamek metra kwadratowego i pozwala zachować czyste przejścia wokół budynku. Trzeba tylko zadbać o to, aby ciężki sprzęt opierał się stabilnie o podłoże."
+   ]
+  },
+  {
+   "h2": "Przechowywanie w pionie bez wiercenia w ociepleniu",
+   "akapity": [
+    "Wiercenie otworów w ocieplonym domu niesie ryzyko rozszczelnienia tynku i tworzenia mostków termicznych. Dlatego zamiast wieszaków ściennych na kołki znacznie bezpieczniej wybrać stabilne konstrukcje wolnostojące.",
+    "Stojak ustawiony na kostce brukowej, tarasie lub patio porządkuje łopaty, miotły i grabie w jednym miejscu. Sprzęt wkłada się od góry, więc nic się nie przewraca. W razie potrzeby całą konstrukcję możesz łatwo przesunąć w inne miejsce podwórka."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive opracowaliśmy serię metalowych stojaków CA-Stand na łopaty, grabie, miotły i rękawice. Do wyboru jest panel ścienny CA-Lite (100-150 x 50 cm) do ściany lub ogrodzenia, niski CA-Entry na stopach z płaskownika 100 x 4 mm, szeroki CA-Yard oraz wzmocniony CA-Hard na ciężki sprzęt, młoty i mokre węże. Modele wolnostojące nie wymagają wiercenia w elewacji ani w ociepleniu, pasują stylem i kolorem do naszych wiat, a alternatywą jest montaż panelu bezpośrednio do wiaty. Produkty są w fazie prototypu na zamówienie, z dostawą do uzgodnienia, a ceny zaczynają się od 300 zł.",
+ "faq": [
+  {
+   "pytanie": "Gdzie ustawić stojak na narzędzia przy braku szopy?",
+   "odpowiedz": "Dobrym miejscem jest przestrzeń pod wiatą garażową, zadaszony taras, patio lub utwardzony fragment podłoża przy drzwiach wejściowych."
+  },
+  {
+   "pytanie": "Czy stojaki wolnostojące niszczą elewację domu?",
+   "odpowiedz": "Nie, modele wolnostojące opierają się na własnych stopach i nie wymagają żadnego wiercenia w ociepleniu ani kotwienia do ścian."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć narzędzia przed rdzewieniem na zewnątrz?",
+   "odpowiedz": "Najważniejsze to trzymać je pionowo nad ziemią i pod zadaszeniem, na przykład pod wiatą, aby nie stały w wodzie i błocie."
+  }
+ ],
+ "nr": 143,
+ "kolejnosc": 155,
+ "temat": "narzędzia ogrodowe w domu bez piwnicy i szopy",
+ "adres": "narzedzia-ogrodowe-w-domu-bez-piwnicy-i-szopy",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

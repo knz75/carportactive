@@ -1,0 +1,50 @@
+{
+ "tytul": "Trening z ciężarem własnego ciała przy domu - jak zacząć",
+ "opis_meta": "Sprawdź, jak zorganizować trening z ciężarem własnego ciała przy domu. Poznaj zasady doboru ćwiczeń, sprzętu oraz miejsca do ćwiczeń na zewnątrz.",
+ "wstep": "Trening z ciężarem własnego ciała przy domu nie wymaga skomplikowanego sprzętu, ale potrzebuje stabilnego miejsca. Najważniejsze to dobrać ćwiczenia bazowe, zadbać o pewny chwyt i zapewnić sobie bezpieczną przestrzeń do ruchu. Dzięki temu możesz zrobić pełny trening na świeżym powietrzu o każdej porze roku.",
+ "sekcje": [
+  {
+   "h2": "Podstawowe ćwiczenia z masą ciała na świeżym powietrzu",
+   "akapity": [
+    "Trening kalisteniczny opiera się na kilku kluczowych ruchach wielostawowych. Należą do nich podciąganie, pompki, dipy oraz zwisy i unoszenia nóg w zwisie. Te proste ćwiczenia angażują całe ciało, wzmacniają plecy, ramiona i mięśnie brzucha bez konieczności kupowania ciężarów.",
+    "Warto zacząć każdy trening od solidnej rozgrzewki i rozciągania. Wykorzystaj proste podpory lub szczeble do przygotowania stawów i mięśni do wysiłku. Regularne zwisy na drążku pomagają też rozluźnić i odciążyć kręgosłup po całym dniu pracy w pozycji siedzącej."
+   ]
+  },
+  {
+   "h2": "Czego potrzebujesz do ćwiczeń na podwórku",
+   "akapity": [
+    "Do pełnego planu treningowego wystarczą trzy podstawowe elementy: drążek do podciągania, poręcze do pompek oraz drabinka. Drążek pozwala na pracę nad plecami i bicepsem, a poręcze umożliwiają głębokie pompki na triceps i klatkę piersiową. Drabinka ułatwia rozciąganie, rozgrzewkę oraz ćwiczenia mięśni brzucha.",
+    "Konstrukcja, na której ćwiczysz na zewnątrz, musi stać stabilnie i znosić obciążenie dynamiczne. Nie może się chwiać przy gwałtownym ruchu ani uginać pod Twoim ciężarem. Ważne jest też, aby metal był zabezpieczony przed korozją, ponieważ deszcz i wilgoć szybko niszczą niezabezpieczoną stal."
+   ]
+  },
+  {
+   "h2": "Gdzie wyznaczyć strefę do ćwiczeń wokół domu",
+   "akapity": [
+    "Częstym błędem jest stawianie osobnych przyrządów na środku trawnika. Taka konstrukcja zabiera miejsce w ogrodzie i utrudnia regularne koszenie trawy. Po opadach deszczu grunt pod przyrządami zamienia się w błoto, co skutecznie zniechęca do regularnego ruchu.",
+    "Znacznie lepiej sprawdzają się utwardzone nawierzchnie, na przykład podjazd z kostki brukowej. Jeśli masz tam solidne zadaszenie, zyskujesz ochronę przed deszczem i mocnym słońcem. Wtedy trening jest możliwy bez względu na pogodę, a sprzęt nie blokuje zielonej części działki."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem tego problemu jest wiata CarportActive z modułem sportowym. Drabinka szwedzka, drążek i poręcze są przykręcone bezpośrednio do słupów wiaty ze stali konstrukcyjnej S235, więc nie tracisz miejsca w ogrodzie. Najwygodniej ćwiczy się przy wiacie 4 x 6 m, gdzie obok samochodu zostaje wolna przestrzeń pod dachem. Cała konstrukcja jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe, dlatego stoi na zewnątrz cały rok.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 8,
+ "kolejnosc": 63,
+ "temat": "trening z ciężarem własnego ciała przy domu",
+ "adres": "trening-z-ciezarem-wlasnego-ciala-przy-domu",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,59 @@
+{
+ "tytul": "Wiata pod fotowoltaikę - jaka konstrukcja sprawdzi się najlepiej?",
+ "opis_meta": "Zastanawiasz się, jaka konstrukcja wiaty utrzyma fotowoltaikę? Sprawdź, na co zwrócić uwagę przy nośności, materiale i montażu paneli na dachu.",
+ "wstep": "Wybór konstrukcji wiaty pod panele fotowoltaiczne to przede wszystkim kwestia bezpieczeństwa i stabilności. Zwykła wiata ogrodowa nie poradzi sobie z dodatkowym obciążeniem modułów i parciem wiatru. Zobacz, z czego powinna być wykonana konstrukcja i jak zaplanować takie zadaszenie na lata.",
+ "sekcje": [
+  {
+   "h2": "Materiał konstrukcji - stal zamiast lekkich profili",
+   "akapity": [
+    "Jeśli planujesz montaż paneli na dachu wiaty, zrezygnuj z wiotkich profili. Wiata pod fotowoltaikę musi utrzymać ciężar modułów, a także zalegający śnieg i podmuchy wiatru. Dobrym wyborem jest solidna stal konstrukcyjna, na przykład S235, która zapewnia odpowiednią sztywność.",
+    "Zwróć uwagę na zabezpieczenie antykorozyjne. Stal musi przejść proces cynkowania ogniowego oraz malowania proszkowego. Dzięki temu zadaszenie nie zardzewieje po kilku sezonach i nie będzie wymagać ciągłego odnawiania."
+   ]
+  },
+  {
+   "h2": "Słupy i fundamenty z zapasem nośności",
+   "akapity": [
+    "Dach pod fotowoltaikę tworzy dużą połać podatną na działanie wiatru. Słupy nośne i fundamenty muszą być policzone z wyraźnym zapasem nośności, by cała konstrukcja stała stabilnie w każdych warunkach pogodowych.",
+    "Warto pomyśleć o tym wcześniej, nawet jeśli panele chcesz zamontować dopiero w kolejnym sezonie. Słupy i fundament z zapasem nośności dają Ci pewność, że dołożenie modułów w przyszłości nie naruszy konstrukcji."
+   ]
+  },
+  {
+   "h2": "Powierzchnia dachu a liczba paneli",
+   "akapity": [
+    "Dach wiaty i tak jest potrzebny nad samochodem, więc warto wykorzystać go do produkcji prądu. Liczba modułów, które zdołasz zamontować, zależy bezpośrednio od wymiarów zadaszenia.",
+    "Na wiacie zmieści się od 6 do 12 paneli. Największą połać daje wiata dwustanowiskowa o wymiarach 6 x 6 m, na której zamontujesz do 12 paneli. W mniejszych wariantach liczba modułów będzie odpowiednio mniejsza."
+   ]
+  },
+  {
+   "h2": "Praktyczne detale - kable i punkt ładowania",
+   "akapity": [
+    "Dobra konstrukcja pod fotowoltaikę powinna ułatwiać prowadzenie instalacji elektrycznej. Sprawdź, czy budowa wiaty pozwala na estetyczne poprowadzenie przewodów z dachu.",
+    "Warto też zwrócić uwagę na miejsce przy słupie wiaty pod domową stację ładowania, czyli Wallbox. Dzięki temu miejsce parkingowe zaczyna produkować prąd bezpośrednio dla Twojego samochodu elektrycznego lub domu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz sprawdzonego zadaszenia, wybierz Solar Box - wiatę pod fotowoltaikę od CarportActive. To wzmocniona konstrukcja ze stali S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym, z dachem przygotowanym pod montaż modułów oraz gotowością pod Wallbox. Panele możesz zamówić od razu lub dołożyć w kolejnym sezonie, a montaż wiaty zajmuje zazwyczaj 1 dzień roboczy. Na stronie możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, dzięki czemu panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Liczba paneli zależy od rozmiaru wiaty i wynosi od 6 do 12 sztuk. Największą połać daje wiata dwustanowiskowa 6 x 6 m, na której zmieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy, że napiszesz, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 113,
+ "kolejnosc": 68,
+ "temat": "wiata pod fotowoltaikę - jaka konstrukcja",
+ "adres": "wiata-pod-fotowoltaike-jaka-konstrukcja",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

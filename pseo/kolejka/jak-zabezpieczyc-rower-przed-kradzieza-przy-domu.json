@@ -1,0 +1,52 @@
+{
+ "tytul": "Jak zabezpieczyć rower przed kradzieżą przy domu",
+ "opis_meta": "Dowiedz się, jak zabezpieczyć rower przed kradzieżą przy domu. Poznaj sprawdzone zapięcia, punkty kotwienia i zasady bezpiecznego parkowania.",
+ "wstep": "Rower zostawiony na podwórku bez mocowania to łatwy cel dla złodzieja. Ogrodzenie posesji samo w sobie nie wystarczy, bo intruz może je szybko pokonać. Aby skutecznie chronić jednoślad przy domu, musisz połączyć solidne zapięcie ze stałym elementem podłoża lub budynku.",
+ "sekcje": [
+  {
+   "h2": "Do czego przypinać rower na posesji",
+   "akapity": [
+    "Częsty błąd to oparcie jednośladu o ścianę i zapięcie samego koła z ramą. Złodziej bez problemu wrzuci taki rower do auta lub po prostu przeniesie go za bramę. Rower zawsze musi być solidnie połączony z obiektem, którego nie da się podnieść ani odkręcić prostym narzędziem.",
+    "Dobrym punktem mocowania są masywne słupy nośne zadaszeń, grube barierki lub stalowe kotwy wkręcane w beton. Zawsze sprawdzaj, czy element, do którego przypinasz sprzęt, jest stabilnie osadzony w gruncie i nie da się go łatwo rozmontować od zewnątrz."
+   ]
+  },
+  {
+   "h2": "Wybór zapięcia do ochrony jednośladu",
+   "akapity": [
+    "Zwykłe cienkie linki stalowe nie stanowią żadnej przeszkody i można je przeciąć w kilka sekund. Na podwórku najlepiej sprawdzają się grube łańcuchy ze stali hartowanej oraz masywne U-locki. Przecięcie takiego materiału wymaga ciężkiego sprzętu i powoduje hałas, który odstrasza intruza.",
+    "Zamek zawsze przekładaj przez główny trójkąt ramy oraz koło. Staraj się też zapinać łańcuch wyżej nad podłożem, ponieważ zapięcie leżące na betonie znacznie łatwiej rozbić młotkiem lub przeciąć nożycami z podparciem."
+   ]
+  },
+  {
+   "h2": "Lokalizacja miejsca postojowego na podwórku",
+   "akapity": [
+    "Sprzęt nie powinien rzucać się w oczy z ulicy ani zza ogrodzenia. Dobrze jest wybrać miejsce z boku domu lub na podjeździe objętym oświetleniem z czujnikiem ruchu. Złodzieje unikają otwartej, jasnej przestrzeni, gdzie mogą zostać zauważeni z okien.",
+    "Równie ważna jest ochrona przed opadami. Wilgoć niszczy napęd, a łańcuch wystawiony na deszcz szybko rdzewieje. Zadaszona przestrzeń pozwala połączyć ochronę mechaniczną przed kradzieżą z zachowaniem roweru w dobrym stanie technicznym."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów CarportActive pozwala bezpiecznie przypiąć rower bezpośrednio do stalowej konstrukcji wiaty. Rowery wiszą na ścianie na wieszakach lub stoją w stojakach, dzięki czemu nie zajmują miejsca na podłodze, a łańcuch nie rdzewieje na deszczu. Jeśli zależy Ci na dodatkowej ochronie, część wiaty można wydzielić jako zamykaną strefę, której wykonanie ustala się przy wycenie.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę - jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "Zależy to od rozmiaru wiaty i układu wieszaków. Najwięcej miejsca z boku daje wiata 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy pod wiatą można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  }
+ ],
+ "nr": 93,
+ "kolejnosc": 67,
+ "temat": "jak zabezpieczyć rower przed kradzieżą przy domu",
+ "adres": "jak-zabezpieczyc-rower-przed-kradzieza-przy-domu",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

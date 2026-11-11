@@ -1,0 +1,58 @@
+{
+ "tytul": "Siatka linowa dla dzieci - na czym ją zamontować?",
+ "opis_meta": "Zastanawiasz się, na czym zamontować siatkę linową dla dzieci w ogrodzie? Sprawdź bezpieczne konstrukcje, punkty mocowania i podłoże.",
+ "wstep": "Montaż siatki linowej wymaga stabilnej i sztywnej bazy, która bez problemu wytrzyma ciężar oraz dynamiczne ruchy dzieci. Zwykły płot ogrodowy lub cienkie listwy nie poradzą sobie z takimi obciążeniami. Sprawdź, na jakich konstrukcjach najlepiej zawiesić siatkę i o czym pamiętać przy montażu.",
+ "sekcje": [
+  {
+   "h2": "Samodzielna rama z belek drewnianych",
+   "akapity": [
+    "Jednym z popularnych rozwiązań jest budowa ramy z litych belek drewnianych. Aby konstrukcja była bezpieczna, pionowe słupy musisz solidnie osadzić w gruncie. Drewno pracuje pod wpływem wilgoci i słońca, dlatego wymaga regularnej kontroli oraz impregnacji w miejscach połączeń ze śrubami."
+   ]
+  },
+  {
+   "h2": "Konstrukcja ze stali",
+   "akapity": [
+    "Profile stalowe zapewniają wysoką sztywność i nie uginają się podczas wspinaczki. Zabezpieczona przed korozją stal nie niszczeje pod wpływem opadów, co daje stabilne punkty podparcia na wiele sezonów.",
+    "Siatkę mocuje się do stali za pomocą atestowanych uchwytów oczkowych lub szekli. Dzięki temu liny nie ocierają się o ostre krawędzie metalu i nie przecierają w trakcie zabawy."
+   ]
+  },
+  {
+   "h2": "Prawidłowy naciąg i punkty podparcia",
+   "akapity": [
+    "Siatka linowa nie może wisieć zbyt luźno, ponieważ utrudnia to wspinaczkę i grozi zaplątaniem. Z kolei zbyt mocny naciąg wywołuje duże siły wyrywające na punktach mocowania.",
+    "Zaleca się montaż w narożnikach oraz w kilku równych odstępach na górnej i dolnej belce. Taki układ równomiernie rozkłada siły na całą ramę nośną."
+   ]
+  },
+  {
+   "h2": "Bezpieczne podłoże w strefie zabawy",
+   "akapity": [
+    "Nawet najlepiej zamocowana siatka wymaga zadbania o przestrzeń pod nią. Twarda, ubita ziemia, kostka brukowa czy beton nie nadają się pod strefę wspinaczki.",
+    "Bezpośrednio pod siatką warto zastosować miękkie podłoże, na przykład specjalną matę amortyzującą. Trzeba również zachować wolną przestrzeń wokół ramy, aby dziecko podczas zeskoku nie uderzyło w inne elementy ogrodu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na montaż siatki linowej jest wiata z placem zabaw CarportActive. Siatkę do wspinania, liny gimnastyczne oraz ściankę wspinaczkową mocujemy do stalowych słupów z ocynkowanej i malowanej proszkowo stali S235 pod dachem wiaty. Dzieci bawią się w cieniu i podczas deszczu, a strefa zabaw powstaje z boku, poza miejscem parkowania na wiatach 4 x 6 m lub 6 x 6 m, dzięki czemu trawnik w ogrodzie pozostaje wolny.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą korzystać z siatki, kiedy auto stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw planujemy z boku, poza miejscem parkowania. Mimo to zabawa w pobliżu auta wymaga obecności dorosłych, dlatego dokładne ustawienie modułów ustalamy na etapie projektu."
+  },
+  {
+   "pytanie": "Co kładzie się na ziemi pod siatką linową przy wiacie?",
+   "odpowiedz": "Pod strefą wspinania umieszczana jest mata amortyzująca, która tworzy miękkie i bezpieczne podłoże w razie zeskoku."
+  },
+  {
+   "pytanie": "Co zrobić z konstrukcją, kiedy dzieci wyrosną z siatki?",
+   "odpowiedz": "Mocowania na słupach wiaty zostają nienaruszone. W miejsce modułów dziecięcych można w przyszłości zamontować moduł sportowy dla dorosłych lub panel narzędziowy."
+  }
+ ],
+ "nr": 71,
+ "kolejnosc": 48,
+ "temat": "siatka linowa dla dzieci - na czym ją zamontować",
+ "adres": "siatka-linowa-dla-dzieci-na-czym-ja-zamontowac",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

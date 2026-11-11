@@ -1,0 +1,57 @@
+{
+ "tytul": "Przechowywanie hulajnóg i rowerków dziecięcych - poradnik",
+ "opis_meta": "Jak zorganizować przechowywanie hulajnóg i rowerków dziecięcych? Sprawdź proste sposoby na porządek pod dachem i wolne miejsce w korytarzu.",
+ "wstep": "Rowerki dziecięce i hulajnogi rzucone pod drzwiami potrafią zablokować każde przejście. Zostawione pod chmurką szybko niszczeją, a wnoszenie ich do domu po każdym spacerze bywa uciążliwe. Wystarczy jednak kilka prostych zasad, aby ten sprzęt miał swoje stałe miejsce i nie przeszkadzał domownikom.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego sprzęt dziecięcy blokuje przejścia",
+   "akapity": [
+    "Sprzęt dziecięcy ma różne kształty i rzadko stoi stabilnie na własnej nóżce. Gdy dzieci wracają z podwórka, odruchowo zostawiają hulajnogi tuż za progiem lub tuż obok auta. Po kilku dniach korytarz lub wąski garaż stają się torem przeszkód, o który łatwo się potknąć.",
+    "Kółka hulajnóg nanoszą też piasek i błoto wprost do przedpokoju. Z kolei rzucenie rowerka na trawnik sprawia, że pada na niego deszcz, a metalowe części zaczynają rdzewieć."
+   ]
+  },
+  {
+   "h2": "Niski stojak to wygoda dla dziecka",
+   "akapity": [
+    "Dziecko nie powiesi ciężkiego rowerka na wysokim haku ściennym. Jeśli chcesz, żeby maluch sam odkładał swoje rzeczy, potrzebujesz rozwiązania na poziomie podłogi. Niski stojak pozwala szybko wsunąć koło hulajnogi lub rowerka biegowego bez pomocy dorosłego.",
+    "Taki stojak wyznacza jasną strefę parkingową dla najmłodszych. Warto ustawić go tak, by nie blokował przejścia do drzwi i nie przeszkadzał przy wysiadaniu z samochodu."
+   ]
+  },
+  {
+   "h2": "Wykorzystaj ściany na większe jednoślady",
+   "akapity": [
+    "Gdy małe pojazdy stoją na dole, większe rowery najlepiej przenieść na ścianę. Wieszaki ścienne unoszą sprzęt do góry, dzięki czemu cała podłoga zostaje pusta.",
+    "Wiszący sprzęt nie przewróci się na karoserię auta i nie porysuje lakieru. Dodatkowo dużo łatwiej zamieść podłoże, gdy nie musisz przestawiać kilku rowerów naraz."
+   ]
+  },
+  {
+   "h2": "Dach i ochrona przed kradzieżą",
+   "akapity": [
+    "Każdy sprzęt na kołach wymaga stałej ochrony przed opadami. Wilgoć niszczy łańcuchy, linki i łożyska, dlatego trzymanie zabawek pod gołym niebem skraca ich żywotność.",
+    "Warto też pomyśleć o zabezpieczeniu przed kradzieżą. Nawet dziecięcy rowerek dobrze jest przypiąć do stabilnego, stalowego elementu konstrukcji, zwłaszcza na otwartej posesji."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata CarportActive z przechowalnią rowerów rozwiązuje problem braku miejsca. Rowery, hulajnogi i sprzęt sportowy zyskują stałe miejsce pod dachem, więc korytarz i garaż zostają wolne. Wieszaki i stojaki są przykręcone do konstrukcji ze stali S235, a łańcuchy nie rdzewieją na deszczu. W zależności od potrzeb część wiaty można też zamknąć i zabezpieczyć.",
+ "faq": [
+  {
+   "pytanie": "Czy na hulajnogi i małe rowerki lepszy jest wieszak czy stojak?",
+   "odpowiedz": "Dla hulajnóg i małych rowerków dziecięcych wygodniejszy jest stojak, w który łatwiej wstawić koło. Wieszaki ścienne lepiej sprawdzają się przy większych rowerach, które wiszą i nie zajmują podłogi."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć rowery i hulajnogi przed kradzieżą pod wiatą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli potrzebujesz większej ochrony, część wiaty można wydzielić jako zamkniętą strefę, której wykonanie ustala się przy wycenie."
+  },
+  {
+   "pytanie": "Jaki rozmiar wiaty wybrać, aby pomieścić auto i sprzęt dziecięcy?",
+   "odpowiedz": "To zależy od liczby pojazdów i układu stojaków. Najwięcej miejsca z boku na stojaki i wieszaki daje wiata o wymiarach 4 x 6 m."
+  }
+ ],
+ "nr": 95,
+ "kolejnosc": 85,
+ "temat": "przechowywanie hulajnóg i rowerków dziecięcych",
+ "adres": "przechowywanie-hulajnog-i-rowerkow-dzieciecych",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

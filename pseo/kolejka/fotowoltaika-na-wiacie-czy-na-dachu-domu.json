@@ -1,0 +1,52 @@
+{
+ "tytul": "Fotowoltaika na wiacie czy na dachu domu? Porównanie",
+ "opis_meta": "Zastanawiasz się, gdzie zamontować panele: na dachu domu czy na wiacie? Poznaj wady i zalety obu rozwiązań i wybierz najlepsze miejsce.",
+ "wstep": "Zastanawiasz się, gdzie zamontować fotowoltaikę - na dachu domu czy na wiacie garażowej. Obie opcje mają swoje plusy, ale wybór zależy głównie od kształtu dachu, zacienienia i Twoich planów na przyszłość. Sprawdź, co sprawdzi się lepiej na Twojej działce.",
+ "sekcje": [
+  {
+   "h2": "Kiedy warto wybrać dach domu",
+   "akapity": [
+    "Dach budynku to popularny wybór, gdy ma prosty kształt i połać skierowaną na południe. Jeśli pokrycie dachowe jest w dobrym stanie, montaż paneli nie wymaga zajmowania dodatkowej przestrzeni na działce.",
+    "Trudności zaczynają się, gdy dach ma skomplikowaną bryłę, liczne lukarny lub kominy rzucające cień. W takich warunkach uzyski z prądu spadają, a prace montażowe wiążą się z ingerencją w poszycie budynku mieszkalnego."
+   ]
+  },
+  {
+   "h2": "Dlaczego wiata może być lepszym miejscem",
+   "akapity": [
+    "Wiata garażowa daje znacznie większą swobodę ustawienia względem słońca. Możesz zaplanować konstrukcję w miejscu wolnym od cienia rzucanego przez dom lub wysokie drzewa.",
+    "Dach wiaty i tak jest potrzebny, aby chronić samochód przed opadami i słońcem. Wykorzystanie go pod moduły sprawia, że ta sama powierzchnia zyskuje podwójną funkcję, a dostęp do paneli podczas mycia czy przeglądu jest łatwy."
+   ]
+  },
+  {
+   "h2": "Na co zwrócić uwagę przed wyborem konstrukcji",
+   "akapity": [
+    "Zwróć uwagę na nośność konstrukcji, na której mają leżeć moduły. Zwykła wiata gospodarcza nie utrzyma takiego obciążenia, dlatego szkielet oraz fundamenty muszą być fabrycznie przeliczone pod dodatkowy ciężar paneli.",
+    "Warto pomyśleć także o ładowaniu samochodu elektrycznego. Produkcja energii bezpośrednio nad stanowiskiem postojowym ułatwia montaż ładowarki i skraca drogę przewodów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te potrzeby jest wiata Solar Box od CarportActive, wykonana ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym, której dach stanowi gotową konstrukcję pod montaż od 6 do 12 paneli fotowoltaicznych. Słupy i fundamenty mają zapas nośności, a przy słupie przewidziano miejsce na ładowarkę Wallbox do auta elektrycznego. Konstrukcję montuje się zazwyczaj w 1 dzień roboczy, panele możesz założyć od razu lub w kolejnym sezonie, a dopasowanie do podjazdu sprawdzisz w wizualizatorze AI po wgraniu zdjęcia podwórka.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Na wiacie mieści się od 6 do 12 paneli, zależnie od wybranego rozmiaru. Największą połać daje wiata dwustanowiskowa 6 x 6 m, na której mieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundamenty są liczone na dodatkowy ciężar paneli, więc moduły można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną i podłączenie?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy, że napiszesz, czy masz już swojego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 114,
+ "kolejnosc": 77,
+ "temat": "fotowoltaika na wiacie czy na dachu domu",
+ "adres": "fotowoltaika-na-wiacie-czy-na-dachu-domu",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "tytul": "Jak przechowywać narzędzia akumulatorowe na co dzień",
+ "opis_meta": "Sprawdź, jak prawidłowo przechowywać narzędzia akumulatorowe i baterie. Poznaj proste zasady, które chronią sprzęt przed wilgocią i zimnem.",
+ "wstep": "Narzędzia akumulatorowe ułatwiają pracę wokół domu, ale wymagają odpowiedniego traktowania poza sezonem i po skończonej pracy. Największym wrogiem tego sprzętu nie jest intensywne użytkowanie, lecz wilgoć oraz skrajne temperatury. Kilka prostych nawyków pozwoli Ci zachować sprawność wkrętarek czy szlifierek na znacznie dłużej.",
+ "sekcje": [
+  {
+   "h2": "Baterie i narzędzia przechowuj osobno",
+   "akapity": [
+    "Po skończonej pracy zawsze odłączaj akumulator od urządzenia. Pozostawienie baterii w gnieździe wkrętarki czy piły może powodować powolne rozładowywanie ogniw, nawet gdy sprzęt jest wyłączony. To także podstawowa zasada bezpieczeństwa, która zapobiega przypadkowemu uruchomieniu narzędzia podczas przenoszenia.",
+    "Akumulatory litowo-jonowe najlepiej znoszą przechowywanie w stanie częściowego naładowania. Zostawianie ich całkowicie rozładowanych na dłuższy czas prowadzi do trwałego spadku pojemności. Z kolei trzymanie ich stale na ładowarce pod prądem również nie jest wskazane."
+   ]
+  },
+  {
+   "h2": "Temperatura ma kluczowe znaczenie",
+   "akapity": [
+    "Same korpusy elektronarzędzi dobrze znoszą chłód, ale ogniwa w bateriach bardzo źle reagują na mróz. Zimą nie zostawiaj akumulatorów w nieogrzewanych miejscach, na przykład w metalowych szafkach czy bagażniku auta. Na czas mrozów zabierz same baterie do domu lub do pomieszczenia z dodatnią temperaturą.",
+    "Unikaj także przegrzewania sprzętu w upalne dni. Bezpośrednie słońce nagrzewa plastikowe obudowy i niszczy chemię wewnątrz akumulatora. Wystarczy zacienione miejsce pod dachem, by uniknąć tego problemu."
+   ]
+  },
+  {
+   "h2": "Ochrona przed wilgocią i dobra wentylacja",
+   "akapity": [
+    "Elektronika w nowoczesnych narzędziach akumulatorowych jest wrażliwa na wodę. Korozja styków elektrycznych i płytki sterującej to częsty powód awarii. Sprzęt powinien leżeć w miejscu przewiewnym, gdzie wilgoć z powietrza nie skrapla się na metalowych częściach.",
+    "Zamiast chować mokre od pracy narzędzia do szczelnych walizek z tworzywa, odłóż je najpierw do wyschnięcia. Szczelnie zamknięta walizka zatrzymuje wilgoć w środku, co szybko prowadzi do rdzewienia uchwytów wiertarskich i osprzętu."
+   ]
+  },
+  {
+   "h2": "Porządek na stanowisku pracy",
+   "akapity": [
+    "Narzędzia rzucone na blat roboczy lub do jednego pudła obijają się o siebie i niszczą. Dobrym rozwiązaniem jest odwieszenie korpusów na dedykowane uchwyty ścienne. Sprzęt wisi stabilnie, nie zabiera miejsca na stole i jest zawsze pod ręką, gdy chcesz szybko dokręcić śrubę w aucie lub przyciąć deskę.",
+    "Do przechowywania wierteł, bitów i drobnych akcesoriów najlepiej wykorzystać małe pojemniki lub skrzynki montowane obok narzędzi. Dzięki temu nie tracisz czasu na szukanie odpowiedniej końcówki."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodne miejsce na sprzęt możesz zorganizować na bocznej ścianie wiaty CarportActive dzięki stalowemu panelowi perforowanemu. Narzędzia, klucze i przedłużacze wiszą na hakach pod dachem, a podjazd staje się miejscem do drobnych napraw. Panel to stalowa płyta z otworami, w której haki przekładasz według własnych potrzeb, a drobiazgi porządkujesz w skrzynkach. Pamiętaj, że panel jest osłonięty dachem wiaty, ale przy zacinającym deszczu ściana chroni tylko częściowo, więc na mroźną zimę same akumulatory warto zabrać do cieplejszego miejsca.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia akumulatorowe mogą wisieć na zewnątrz pod zadaszeniem?",
+   "odpowiedz": "Mogą wisieć pod dachem w suchych okresach roku, o ile są osłonięte przed bezpośrednim deszczem. Na zimę lub podczas zacinających opadów zaleca się jednak schowanie samych akumulatorów do suchego i cieplejszego pomieszczenia."
+  },
+  {
+   "pytanie": "Czy panel perforowany można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma przygotowane punkty montażowe. Przy wiacie innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków na panelu można dopasować do własnych narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty ustawiasz sam, a zestaw dobieramy przy wycenie."
+  }
+ ],
+ "nr": 44,
+ "kolejnosc": 157,
+ "temat": "jak przechowywać narzędzia akumulatorowe",
+ "adres": "jak-przechowywac-narzedzia-akumulatorowe",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

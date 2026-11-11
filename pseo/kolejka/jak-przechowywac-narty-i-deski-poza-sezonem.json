@@ -1,0 +1,57 @@
+{
+ "tytul": "Jak przechowywać narty i deski poza sezonem. Poradnik",
+ "opis_meta": "Dowiedz się, jak zabezpieczyć i przechowywać narty oraz deski poza sezonem. Poznaj sprawdzone zasady czyszczenia, konserwacji i wyboru miejsca.",
+ "wstep": "Koniec zimy oznacza, że sprzęt zjazdowy musi poczekać na kolejny wyjazd. Jeśli po prostu rzucisz narty w kąt, krawędzie zardzewieją, a ślizg wyschnie. Kilka prostych kroków pozwoli Ci uniknąć wydatków na serwis przed kolejną zimą.",
+ "sekcje": [
+  {
+   "h2": "Dokładne mycie i suszenie sprzętu",
+   "akapity": [
+    "Po powrocie ze stoku na nartach i desce zostaje brud, sól drogowa oraz resztki śniegu. Umyj ślizgi i wierzch desek letnią wodą z miękką ściereczką. Zwykła woda wystarczy, nie używaj agresywnej chemii domowej.",
+    "Wytrzyj sprzęt do sucha, zwracając szczególną uwagę na stalowe krawędzie. Zostawienie wilgoci na kilka miesięcy to pewna rdza, która niszczy strukturę krawędzi."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie ślizgów i krawędzi",
+   "akapity": [
+    "Przed odłożeniem sprzętu warto nałożyć na ślizg grubszą warstwę smaru na gorąco. Nie cyklinuj go przed latem, ponieważ warstwa wosku chroni tworzywo przed utlenianiem i wysychaniem. Zdrapiesz go dopiero przed pierwszym wyjazdem w nowym sezonie.",
+    "Krawędzie możesz przetrzeć preparatem antykorozyjnym lub cienką warstwą wosku. W wiązaniach narciarskich poluzuj sprężyny, żeby zachowały swoją siłę i elastyczność na kolejne lata."
+   ]
+  },
+  {
+   "h2": "W jakiej pozycji trzymać narty i snowboard",
+   "akapity": [
+    "Narty najlepiej spiąć rzepami z miękkimi przekładkami, ale bez mocnego ściskania. Zbyt ciasno spięte deski tracą sprężystość i swój naturalny profil.",
+    "Przechowuj sprzęt w pozycji pionowej lub poziomej na stabilnych wspornikach. Unikaj stawiania desek bezpośrednio na zimnej, betonowej posadzce, od której ciągnie wilgoć."
+   ]
+  },
+  {
+   "h2": "Odpowiednie warunki w pomieszczeniu",
+   "akapity": [
+    "Miejsce na narty i deski powinno być suche oraz przewiewne. Unikaj nagrzewających się balkonów i wilgotnych kątów w nieogrzewanych piwnicach.",
+    "Sprzęt nie powinien też stać tuż obok grzejników ani pieców. Zbyt wysoka temperatura i suche powietrze mogą powodować rozwarstwianie się rdzenia i osłabienie klejów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Sprzęt sportowy, boxy dachowe, rowery i hulajnogi możesz wygodnie przechowywać pod dachem wiaty CarportActive. Wieszaki i stojaki są przykręcone do konstrukcji, więc garaż i przedpokój zostają wolne. Jeśli chcesz, część wiaty można wydzielić i zamykać, co daje dodatkową przestrzeń magazynową na posesji.",
+ "faq": [
+  {
+   "pytanie": "Czy narty mogą wisieć za dzioby na hakach?",
+   "odpowiedz": "Lepiej podeprzeć je poziomo pod wiązaniami lub postawić pionowo na podłożu. Długotrwałe obciążenie samych dziobów może z czasem odkształcić profil narty."
+  },
+  {
+   "pytanie": "Dlaczego należy poluzować wiązania narciarskie na lato?",
+   "odpowiedz": "Ściśnięte sprężyny w wiązaniach z czasem tracą sprężystość. Zmniejszenie nastawu DIN pozwala im odpocząć, ale musisz pamiętać o ponownym wyregulowaniu skali przed wyjściem na stok."
+  },
+  {
+   "pytanie": "Czy sprzęt poza sezonem powinien leżeć w pokrowcu?",
+   "odpowiedz": "Pokrowiec chroni przed kurzem i zarysowaniami, ale musi być suchy i przepuszczać powietrze. Nie zamykaj sprzętu w szczelnych workach foliowych, bo brak cyrkulacji sprzyja korozji krawędzi."
+  }
+ ],
+ "nr": 99,
+ "kolejnosc": 121,
+ "temat": "jak przechowywać narty i deski poza sezonem",
+ "adres": "jak-przechowywac-narty-i-deski-poza-sezonem",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

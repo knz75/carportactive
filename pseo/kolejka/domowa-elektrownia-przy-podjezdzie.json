@@ -1,0 +1,52 @@
+{
+ "tytul": "Domowa elektrownia przy podjeździe - jak ją zaplanować",
+ "opis_meta": "Szukasz miejsca na panele fotowoltaiczne? Sprawdź, jak działa domowa elektrownia przy podjeździe i jak wykorzystać zadaszenie auta do produkcji prądu.",
+ "wstep": "Brak miejsca na dachu budynku często zmusza do szukania innych rozwiązań na działce. Podjazd to wolna przestrzeń, którą możesz z powodzeniem przekształcić w źródło prądu. Odpowiednio zaplanowane zadaszenie ochroni auto i jednocześnie zasili domowe sprzęty.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego podjazd to dobre miejsce na fotowoltaikę",
+   "akapity": [
+    "Dach Twojego domu może mieć niekorzystny kąt nachylenia, okna dachowe lub cień rzucany przez komin i wysokie drzewa. Na podjeździe masz zazwyczaj znacznie lepszą ekspozycję na słońce i łatwiejszy dostęp do samej instalacji.",
+    "Stawiając zadaszenie nad autem, tworzysz nową połać dachową. Warto połączyć dwie funkcje w jednej konstrukcji, aby miejsce parkingowe zaczęło realnie obniżać rachunki za prąd."
+   ]
+  },
+  {
+   "h2": "O czym pamiętać przed postawieniem konstrukcji",
+   "akapity": [
+    "Zwykłe zadaszenie nie utrzyma modułów fotowoltaicznych. Panele słoneczne to dodatkowe obciążenie, dlatego słupy nośne i fundamenty muszą mieć odpowiedni zapas wytrzymałości.",
+    "Warto też od razu zaplanować trasę przewodów oraz miejsce na ładowarkę samochodową. Montaż punktu ładowania bezpośrednio przy stanowisku postojowym ułatwia codzienne uzupełnianie energii w aucie elektrycznym."
+   ]
+  },
+  {
+   "h2": "Rozłożenie inwestycji w czasie",
+   "akapity": [
+    "Nie musisz montować wszystkiego w tym samym momencie. Dobrym rozwiązaniem jest postawienie wzmocnionej wiaty w pierwszym etapie, a zakup modułów w kolejnym sezonie.",
+    "Ważne jest tylko to, aby szkielet był od początku przygotowany pod fotowoltaikę. Unikniesz wtedy kosztownych przeróbek dachu i wzmacniania profili w przyszłości."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive odpowiedzią na te potrzeby jest wiata Solar Box ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym. Jej dach to wzmocniona konstrukcja przygotowana pod montaż od 6 do 12 paneli, zależnie od wybranego rozmiaru: 3 x 6 m, 4 x 6 m lub 6 x 6 m o wysokości 2,7 m. Słupy i fundamenty mają zapas nośności na ciężar modułów oraz przygotowane miejsce na Wallbox, a montaż samej wiaty zajmuje zazwyczaj 1 dzień roboczy. Na stronie możesz wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał konstrukcję na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Zmieści się od 6 do 12 paneli, zależnie od rozmiaru wiaty. Największa dwustanowiskowa wiata 6 x 6 m mieści do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Panele można bez problemu zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Napisz do nas, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 121,
+ "kolejnosc": 140,
+ "temat": "domowa elektrownia przy podjeździe",
+ "adres": "domowa-elektrownia-przy-podjezdzie",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "tytul": "Carport fotowoltaiczny - na co zwrócić uwagę przed wyborem",
+ "opis_meta": "Planujesz carport fotowoltaiczny? Sprawdź, na co zwrócić uwagę przy nośności konstrukcji, prowadzeniu kabli i planowaniu miejsca pod ładowarkę.",
+ "wstep": "Wybór carportu fotowoltaicznego to coś więcej niż zakup zwykłego zadaszenia. Musisz połączyć stabilne parkowanie auta z bezpieczną pracą paneli słonecznych. Zobacz, na jakie elementy techniczne warto zwrócić uwagę przed montażem konstrukcji na podjeździe.",
+ "sekcje": [
+  {
+   "h2": "Nośność konstrukcji i przygotowanie fundamentów",
+   "akapity": [
+    "Zwykła wiata ogrodowa nie utrzyma ciężaru modułów fotowoltaicznych. Panele wraz z systemem mocowań stanowią stałe obciążenie, na które konstrukcja musi być w pełni odporna. Zwróć uwagę na to, czy słupy oraz dach zostały fabrycznie policzone pod dodatkowe kilogramy.",
+    "Fundament to podstawa stabilności całej konstrukcji. Zanim postawisz wiatę, upewnij się, że stopy fundamentowe poradzą sobie z masą stali oraz paneli. Zapas nośności gwarantuje bezpieczeństwo podczas trudnych warunków pogodowych."
+   ]
+  },
+  {
+   "h2": "Wymiary dachu a liczba paneli",
+   "akapity": [
+    "Powierzchnia zadaszenia decyduje o mocy Twojej przyszłej mikroinstalacji. Zastanów się, ile prądu chcesz produkować na własne potrzeby i czy planujesz ładować samochód elektryczny. Zadaszenie jednostanowiskowe pomieści mniej modułów niż szeroka konstrukcja na dwa auta.",
+    "Warto dokładnie wymierzyć przestrzeń na działce przed wyborem wielkości zadaszenia. Większy dach pozwala wygenerować więcej energii dla domu, ale musi pasować do układu Twojego podjazdu."
+   ]
+  },
+  {
+   "h2": "Prowadzenie kabli i miejsce na Wallbox",
+   "akapity": [
+    "Carport z panelami PV naturalnie staje się punktem ładowania pojazdu. Zaplanuj trasę przewodów elektrycznych zanim ekipa skończy montaż. Kable biegnące z dachu do falownika powinny być zabezpieczone i estetycznie ukryte przy elementach nośnych.",
+    "Jeśli myślisz o aucie na prąd, sprawdź możliwość montażu ładowarki na jednym ze słupów. Dedykowane miejsce na stację Wallbox ułatwia codzienne podłączanie samochodu i pozwala uniknąć plątaniny przewodów pod kołami."
+   ]
+  },
+  {
+   "h2": "Rozłożenie inwestycji w czasie",
+   "akapity": [
+    "Nie musisz montować paneli w tym samym dniu, w którym staje wiata. Dobrym rozwiązaniem jest postawienie konstrukcji przystosowanej pod fotowoltaikę, a same moduły możesz dokupić później. Warunkiem jest wybór zadaszenia ze wzmocnionym dachem, który przyjmie obciążenie w kolejnym sezonie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te potrzeby jest wiata Solar Box od CarportActive wykonana ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym. Dach, słupy oraz fundamenty mają wzmocnioną konstrukcję z zapasem nośności, która mieści od 6 do 12 paneli (do 12 paneli na wiacie 6 x 6 m). Wiata ma przygotowane miejsce pod Wallbox przy słupie, a jej montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz też wgrać zdjęcie swojego podjazdu, aby sprawdzić wygląd zadaszenia w 3 wariantach w wizualizatorze AI.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Zależy to od rozmiaru wiaty. Na konstrukcji mieści się od 6 do 12 paneli. Wiata dwustanowiskowa o wymiarach 6 x 6 m pomieści do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i dach mają zapas nośności, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto wykonuje instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy podczas wyceny. Wystarczy podać, czy masz już własnego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 125,
+ "kolejnosc": 168,
+ "temat": "carport fotowoltaiczny - na co zwrócić uwagę",
+ "adres": "carport-fotowoltaiczny-na-co-zwrocic-uwage",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

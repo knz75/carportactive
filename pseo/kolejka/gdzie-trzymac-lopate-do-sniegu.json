@@ -1,0 +1,59 @@
+{
+ "tytul": "Gdzie trzymać łopatę do śniegu? Praktyczny poradnik",
+ "opis_meta": "Zastanawiasz się, gdzie trzymać łopatę do śniegu zimą? Sprawdź praktyczne miejsca przy domu, wiaty i sposoby przechowywania bez bałaganu.",
+ "wstep": "Kiedy rano zasypie podjazd, potrzebujesz szybkiego dostępu do łopaty. Szukanie jej w głębi garażu za zaparkowanym autem mija się z celem. Sprawdź, w jakich miejscach najlepiej trzymać sprzęt do odśnieżania, aby był pod ręką i nie niszczał.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego garaż nie zawsze jest dobrym wyborem",
+   "akapity": [
+    "Wielu właścicieli domów chowa łopatę głęboko do garażu. Problem pojawia się, gdy brama zamarznie lub gdy musisz przeciskać się ze śniegiem obok auta. Wnoszenie ośnieżonej łopaty do ogrzewanego wnętrza powoduje powstawanie kałuż i podnosi poziom wilgoci.",
+    "Lepiej wybrać punkt, do którego dojdziesz bez otwierania dużych wrót. Sprawdza się strefa wejściowa, wiatrołap lub zadaszona przestrzeń na zewnątrz."
+   ]
+  },
+  {
+   "h2": "Miejsce przy drzwiach wejściowych i na ganku",
+   "akapity": [
+    "Najwygodniej mieć łopatę tuż przy wyjściu z budynku. Ganek lub podcień chronią narzędzie przed zasypaniem przez świeży opad. Dzięki temu rano otwierasz drzwi i od razu oczyszczasz schody oraz przejście.",
+    "Zwróć uwagę na stabilność takiego rozwiązania. Łopata oparta luźno o ścianę często przewraca się pod wpływem wiatru i potrafi porysować elewację. Warto zadbać o prosty punkt podparcia lub dedykowaną podstawę."
+   ]
+  },
+  {
+   "h2": "Wiata garażowa jako strefa robocza",
+   "akapity": [
+    "Wiata to jedno z najbardziej naturalnych miejsc na sprzęt do odśnieżania. Zapewnia stały przewiew, więc mokry śnieg na szufli szybko wysycha, zamiast zamieniać się w lód. Narzędzie pozostaje osłonięte przed deszczem i bezpośrednim opadem.",
+    "Sprzęt możesz odłożyć przy słupie nośnym lub w narożniku konstrukcji. Nie blokujesz wtedy przejścia do samochodu i nie nanosisz mokrego błota do wnętrza domu."
+   ]
+  },
+  {
+   "h2": "Zasady bezpiecznego odkładania łopaty",
+   "akapity": [
+    "Niezależnie od wybranego miejsca, odkładaj łopatę w pozycji pionowej z szuflą skierowaną do dołu. Zapobiega to zbieraniu się wody w zagłębieniach i ogranicza ryzyko potknięcia się o leżący trzonek.",
+    "Unikaj bezpośredniego kontaktu metalowych okuć z mokrym gruntem, aby ograniczyć ryzyko rdzewienia. Utwardzona kostka pod dachem lub stabilny stojak to znacznie lepsze podłoże niż trawnik czy błoto."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na przechowywanie narzędzi są metalowe stojaki i panele CA-Stand od CarportActive, dostępne na zamówienie w fazie prototypu w cenach od 300 zł z dostawą do uzgodnienia. Przy drzwiach wejściowych sprawdza się niski, wolnostojący model CA-Entry o wysokości 60-80 cm na stopach z płaskownika 100 x 4 mm, który nie wymaga wiercenia w ociepleniu, a na podwórku szeroki CA-Yard o szerokości 80-100 cm. Do wyboru jest też ścienny panel CA-Lite na ścianę lub ogrodzenie, wersja CA-Hard z grubszego profilu na ciężki sprzęt oraz panel przykręcany bezpośrednio do wiaty w tym samym stylu i kolorze.",
+ "faq": [
+  {
+   "pytanie": "Czy łopata do śniegu może stać na mrozie?",
+   "odpowiedz": "Tak, łopaty z tworzywa i metalu dobrze znoszą ujemne temperatury, ale powinny stać pod zadaszeniem, aby nie zasypał ich nowy śnieg."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć elewację przed porysowaniem przez łopatę?",
+   "odpowiedz": "Unikaj opierania trzonka bezpośrednio o tynk. Lepszym wyborem są stojaki wolnostojące, które stabilizują narzędzia bez konieczności wiercenia w ociepleniu."
+  },
+  {
+   "pytanie": "Czy warto wnosić mokrą łopatę do domu?",
+   "odpowiedz": "Nie warto, ponieważ topniejący śnieg tworzy kałuże na podłodze, brudzi posadzkę i niepotrzebnie podnosi wilgotność w pomieszczeniu."
+  }
+ ],
+ "nr": 127,
+ "kolejnosc": 15,
+ "temat": "gdzie trzymać łopatę do śniegu",
+ "adres": "gdzie-trzymac-lopate-do-sniegu",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

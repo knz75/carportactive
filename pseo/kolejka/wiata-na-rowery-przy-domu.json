@@ -1,0 +1,52 @@
+{
+ "tytul": "Wiata na rowery przy domu - jak wygodnie trzymać sprzęt",
+ "opis_meta": "Szukasz miejsca na rowery przy domu? Zobacz, jak zaplanować wieszaki i stojaki pod zadaszeniem, by chronić sprzęt przed deszczem i zyskać wolną przestrzeń.",
+ "wstep": "Trzymanie rowerów w przedpokoju lub ciasnym garażu bywa uciążliwe. Zadaszona przestrzeń na zewnątrz pozwala wygodnie parkować jednoślady tuż przy domu. Dzięki temu łańcuch nie rdzewieje na deszczu, a sprzęt jest zawsze gotowy do drogi.",
+ "sekcje": [
+  {
+   "h2": "Gdzie najlepiej zaplanować miejsce na jednoślady",
+   "akapity": [
+    "Jeśli parkujesz rowery na zewnątrz, kluczowy jest swobodny dostęp i ochrona przed opadami. Oparcie jednośladu o płot lub ścianę bez dachu sprawia, że napęd szybko niszczeje. Zadaszona wiata rozwiązuje ten problem, bo woda nie stoi na newralgicznych podzespołach.",
+    "Warto też pomyśleć o komunikacji na podwórku. Sprzęt powinien stać w miejscu, z którego łatwo wyjechać na drogę bez manewrowania między autami. Dobrze zaplanowana strefa sprawia, że przedpokój i przejścia wokół domu zostają całkowicie wolne."
+   ]
+  },
+  {
+   "h2": "Wieszaki ścienne czy stojaki na podłodze",
+   "akapity": [
+    "Wybór zależy głównie od tego, kto korzysta ze sprzętu na co dzień. Wieszaki ścienne to dobre wyjście na rowery dorosłych, bo unoszą ramę do góry. Rowery wiszą na ścianie wiaty i nie zajmują miejsca na podłodze, co ułatwia zamiatanie nawierzchni.",
+    "Stojaki podłogowe sprawdzają się lepiej na rowery dzieci oraz hulajnogi. Najmłodsi nie muszą wtedy dźwigać ciężkiego sprzętu na wysokość ściany. Na stojakach wygodniej postawić też rzeczy, po które sięgasz każdego dnia."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie sprzętu przed kradzieżą",
+   "akapity": [
+    "Nawet na ogrodzonej działce rower przypięty do stałego elementu daje większy spokój. Najprościej jest przypiąć ramę bezpośrednio do stalowej konstrukcji wiaty. Zabezpiecza to jednoślady przed przypadkowym wyprowadzeniem z posesji.",
+    "Gdy przechowujesz droższe rowery lub cenny osprzęt, dobrym rozwiązaniem bywa zamknięta strefa. Wydzielone pomieszczenie chroni wyposażenie przed wzrokiem osób postronnych. Dzięki temu nie musisz wnosić sprzętu sportowego do wnętrza domu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata CarportActive ze stali S235 rozwiązuje problem braku miejsca, łącząc parking dla auta z przechowalnią rowerów. Wieszaki i stojaki są przykręcone do konstrukcji, co uwalnia podłogę, a najwięcej przestrzeni z boku daje wariant 4 x 6 m. Jeśli chcesz, część wiaty można wydzielić jako zamykaną strefę, a moduły możesz dodać od razu lub w przyszłości.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę - jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To zależy od rozmiaru wiaty i układu wieszaków. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy można tam też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  }
+ ],
+ "nr": 88,
+ "kolejnosc": 22,
+ "temat": "wiata na rowery przy domu",
+ "adres": "wiata-na-rowery-przy-domu",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Pionowe przechowywanie rowerów. Jak zyskać miejsce",
+ "opis_meta": "Szukasz sposobu na pionowe przechowywanie rowerów? Zobacz, jak wieszać jednoślady na ścianie, żeby zaoszczędzić miejsce i nie niszczyć sprzętu.",
+ "wstep": "Gdy rowery stoją na podłodze, szybko zaczynają przeszkadzać i blokują przejście. Pionowe przechowywanie rowerów to najprostszy sposób, by odzyskać przestrzeń w garażu lub pod zadaszeniem. Wystarczy powiesić jednoślad na ścianie, aby zwolnić cenne miejsce pod kołami.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego warto powiesić rower pionowo",
+   "akapity": [
+    "Rower oparty o ścianę zajmuje ponad metr szerokości i łatwo go przewrócić. Kiedy wieszasz go za przednie koło, sprzęt przylega do ściany i zabiera ułamek tej przestrzeni. Dzięki temu swobodnie przejdziesz obok, bez ryzyka porysowania lakieru lub potknięcia się o pedały.",
+    "Pionowy montaż ułatwia też dbanie o porządek. Podłoga pod wiszącym rowerem zostaje pusta, więc łatwo zmieciesz naniesiony piasek lub błoto. Koła nie stoją w wodzie po deszczu, co ogranicza ryzyko zabrudzenia innych rzeczy."
+   ]
+  },
+  {
+   "h2": "Jak rozmieścić wieszaki na ścianie",
+   "akapity": [
+    "Kluczem jest odpowiednia wysokość montażu haków. Rower powinien wisieć tak, aby tylne koło nie dotykało ziemi, ale nie za wysoko, by nie trzeba było go ciężko dźwigać. Dobrze sprawdza się montaż wieszaków na przemian, wyżej i niżej.",
+    "Taki naprzemienny układ sprawia, że kierownice sąsiednich rowerów nie zahaczają o siebie. W ten sposób na tym samym kawałku ściany zmieścisz znacznie więcej sprzętu. Pamiętaj też o stabilnym podłożu, do którego przykręcasz wieszaki, bo cięższy rower wymaga pewnego mocowania."
+   ]
+  },
+  {
+   "h2": "Kiedy wieszak pionowy to za mało",
+   "akapity": [
+    "Pionowe wieszaki ścienne świetnie sprawdzają się dla dorosłych rowerzystów. Sprawa wygląda inaczej, gdy z jednośladów korzystają małe dzieci. Dziecko nie podniesie samodzielnie roweru na hak, dlatego dla najmłodszych lepiej zaplanować tradycyjny stojak przy samej ziemi.",
+    "Podobnie jest ze sprzętem o nietypowej budowie lub hulajnogami, które wygodniej po prostu wsunąć w uchwyt podłogowy. Najlepsze efekty daje połączenie obu metod, czyli powieszenie dużych rowerów na ścianie i pozostawienie małych stojaków na poziomie posadzki."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy ten problem za pomocą wiaty z przechowalnią rowerów. Rowery, hulajnogi i boxy dachowe trafiają pod dach wiaty, gdzie wieszaki i stojaki są przykręcone bezpośrednio do stalowej konstrukcji, więc garaż i przedpokój zostają wolne. Rowery wiszą na ścianie, dzięki czemu łańcuch nie rdzewieje na deszczu, a najwięcej miejsca z boku daje wiata 4 x 6 m. Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę, a jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To zależy od rozmiaru wiaty i układu wieszaków. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy w strefie przechowywania można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  }
+ ],
+ "nr": 101,
+ "kolejnosc": 139,
+ "temat": "pionowe przechowywanie rowerów",
+ "adres": "pionowe-przechowywanie-rowerow",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

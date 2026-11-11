@@ -1,0 +1,50 @@
+{
+ "tytul": "Warsztat pod wiatą - jak go urządzić z głową",
+ "opis_meta": "Planujesz warsztat pod wiatą? Sprawdź, jak zaplanować miejsce do majsterkowania, przechowywanie sprzętu i ochronę narzędzi przed wilgocią.",
+ "wstep": "Podjazd pod wiatą łatwo zamienić w wygodne miejsce do majsterkowania i drobnych napraw. Wystarczy dobrze wykorzystać dostępną przestrzeń pod dachem, aby nie potykać się o kosiarkę i kable. Zobacz, jak krok po kroku zorganizować taki kącik do pracy.",
+ "sekcje": [
+  {
+   "h2": "Wybór i podział przestrzeni pod dachem",
+   "akapity": [
+    "Zanim przyniesiesz pierwsze narzędzia, spójrz na szerokość wiaty. Potrzebujesz miejsca nie tylko na zaparkowany samochód, ale też na swobodne przejście wokół niego. Dobre stanowisko pracy wymaga wolnego pasa wzdłuż ściany lub na końcu zadaszenia.",
+    "Zaplanuj strefy tak, aby brudne prace nie przeszkadzały w codziennym korzystaniu z auta. Przestrzeń roboczą najlepiej zorganizować z boku lub w głębi wiaty, z dala od głównego wjazdu."
+   ]
+  },
+  {
+   "h2": "Pionowa organizacja, czyli ściany w ruch",
+   "akapity": [
+    "Największym błędem pod wiatą jest stawianie wszystkiego na ziemi. Skrzynki i wiadra na posadzce szybko zagracają podjazd i utrudniają parkowanie.",
+    "Wykorzystaj pionowe ściany konstrukcji. Wieszaj sprzęt na hakach i uchwytach, od dużych grabi czy łopat po drobne klucze. Kiedy każda rzecz ma swoje stałe miejsce, od razu widzisz, czego brakuje, a podłoga zostaje pusta."
+   ]
+  },
+  {
+   "h2": "Wilgoć i wiatr a przechowywanie narzędzi",
+   "akapity": [
+    "Pamiętaj, że wiata to przestrzeń otwarta lub półotwarta, a nie zamknięty garaż. Zadaszenie chroni przed deszczem padającym z góry, ale przy silnym wietrze krople mogą docierać głębiej pod konstrukcję.",
+    "Wrażliwe elektronarzędzia czy drobne elementy metalowe warto trzymać w zamykanych skrzynkach. Na otwartych uchwytach zostawiaj sprzęt odporniejszy na zmiany wilgotności powietrza."
+   ]
+  }
+ ],
+ "rozwiazanie": "W wiatach CarportActive problem organizacji rozwiązuje stalowy panel perforowany montowany na bocznej ścianie. Stalowa płyta z otworami pozwala wieszać łopaty, przedłużacze i narzędzia ręczne na hakach oraz montować skrzynki na śruby. Panel pasuje do każdego rozmiaru wiaty, a na modelu 4 x 6 m zostaje też miejsce na stanowisko pracy. Konstrukcja ze stali S235 jest cynkowana ogniowo i malowana proszkowo, a układ haków dopasowujesz sam.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu pod wiatą nie zamokną?",
+   "odpowiedz": "Panel znajduje się pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Pamiętaj jednak, że przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, bo to nie jest zamknięte pomieszczenie."
+  },
+  {
+   "pytanie": "Czy panel narzędziowy można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ ma przygotowane punkty montażowe. Jeśli masz wiatę innego producenta, prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków na panelu można dopasować do własnych narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty ustawiasz sam i zmieniasz ich układ, gdy zmieniają się Twoje narzędzia. Zestaw akcesoriów dobieramy przy wycenie."
+  }
+ ],
+ "nr": 32,
+ "kolejnosc": 55,
+ "temat": "warsztat pod wiatą - jak go urządzić",
+ "adres": "warsztat-pod-wiata-jak-go-urzadzic",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

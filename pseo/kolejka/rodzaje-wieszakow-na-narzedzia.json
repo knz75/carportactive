@@ -1,0 +1,53 @@
+{
+ "tytul": "Rodzaje wieszaków na narzędzia. Jak uporządkować sprzęt?",
+ "opis_meta": "Poznaj popularne rodzaje wieszaków na narzędzia do garażu i wiaty. Sprawdź, jak dobrać haki i uchwyty na grabie, łopaty oraz drobne akcesoria.",
+ "wstep": "Narzędzia oparte o ścianę przewracają się przy każdym ruchu, a drobne klucze gubią się w kartonach. Dobrze dobrany wieszak pozwala wykorzystać pionową przestrzeń i utrzymać stały porządek. Zobacz, jakie masz opcje do wyboru i na co zwrócić uwagę przed montażem.",
+ "sekcje": [
+  {
+   "h2": "Haki pojedyncze i podwójne na narzędzia ogrodowe",
+   "akapity": [
+    "Najprostszym rozwiązaniem są wieszaki mocowane bezpośrednio do ściany. Modele podwójne sprawdzają się najlepiej przy szpadlach, grabiach czy widłach, ponieważ trzonek wchodzi stabilnie między dwa stalowe ramiona. Z kolei haki pojedyncze przydają się do powieszenia narzędzi ze specjalnym otworem w rączce, nożyc do żywopłotu lub zwiniętego kabla."
+   ]
+  },
+  {
+   "h2": "Uchwyty zaciskowe na kije i trzonki",
+   "akapity": [
+    "Inny popularny wariant to uchwyty samozaciskowe wyposażone w gumowe rolki lub sprężyny. Wciskasz trzonek od przodu, a mechanizm blokuje go pod własnym ciężarem narzędzia. Taki system zdaje egzamin przy lekkich miotłach lub mopach, jednak przy ciężkich łopatach oblepionych mokrą ziemią zacisk może z czasem zacząć się ślizgać."
+   ]
+  },
+  {
+   "h2": "Profilowane wieszaki na węże i przedłużacze",
+   "akapity": [
+    "Zwijane przewody i węże ogrodowe wymagają innego podparcia niż twardy trzonek szpadla. Zwykły, wąski hak może zaginać tworzywo, co grozi pękaniem gumy lub przerwaniem żył w przedłużaczu. Zamiast tego stosuje się szerokie, zaokrąglone uchwyty ścienne, na których wąż układa się w równe zwoje bez ryzyka uszkodzenia."
+   ]
+  },
+  {
+   "h2": "Panele perforowane z wymiennymi hakami",
+   "akapity": [
+    "Zamiast wiercić osobny otwór pod każdy wieszak, możesz zamontować całą płytę perforowaną z gęstą siatką otworów. W otwory wkłada się różne zawieszki, od małych haczyków na klucze płaskie po głębokie uchwyty na narzędzia ogrodowe i skrzynki na śruby. Kiedy dokupujesz nowy sprzęt, po prostu przekładasz haki w inne miejsca bez niszczenia ściany."
+   ]
+  }
+ ],
+ "rozwiazanie": "W wiatach CarportActive możesz zamontować stalowy panel perforowany bezpośrednio na bocznej ścianie. Na hakach i uchwytach zawiesisz łopaty, grabie, klucze, węże oraz przedłużacze, a podwieszane skrzynki pomieszczą drobne śruby. Wszystko wisi pod dachem w miejscu, w którym pracujesz, więc Twój podjazd staje się wygodną przestrzenią do drobnych napraw.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu zamontowanym pod wiatą nie zamokną?",
+   "odpowiedz": "Panel znajduje się pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Trzeba jednak pamiętać, że przy silnym wietrze i zacinającym deszczu ściana osłania sprzęt tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy układ haków na panelu można dopasować do własnych narzędzi?",
+   "odpowiedz": "Tak. Stalowa płyta jest perforowana, dzięki czemu haki, uchwyty i skrzynki rozmieszczasz samodzielnie wedle potrzeb, a zestaw akcesoriów dobierany jest podczas wyceny."
+  },
+  {
+   "pytanie": "Czy panel narzędziowy można zamontować do stojącej już wiaty?",
+   "odpowiedz": "Do konstrukcji CarportActive tak, ponieważ posiada ona fabrycznie przygotowane punkty montażowe. W przypadku wiaty od innego producenta możesz przesłać zdjęcia swojej konstrukcji, aby sprawdzić możliwość montażu."
+  }
+ ],
+ "nr": 40,
+ "kolejnosc": 127,
+ "temat": "rodzaje wieszaków na narzędzia",
+ "adres": "rodzaje-wieszakow-na-narzedzia",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

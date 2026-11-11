@@ -1,0 +1,50 @@
+{
+ "tytul": "Krótki trening przy domu przed pracą. Jak zacząć",
+ "opis_meta": "Sprawdź, jak zorganizować krótki trening przy domu przed pracą. Proste ćwiczenia z masą własnego ciała, oszczędność czasu i zadaszone miejsce na podwórku.",
+ "wstep": "Rano liczy się każda minuta, a dojazd na siłownię przed pracą bywa uciążliwy. Aby rozruszać ciało, wystarczy kwadrans na własnym podjeździe lub w ogrodzie. Potrzebujesz tylko kawałka stabilnego podłoża i prostego planu na ćwiczenia z masą własnego ciała.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego warto ćwiczyć na zewnątrz rano",
+   "akapity": [
+    "Poranny ruch na świeżym powietrzu pobudza lepiej niż mocna kawa. Nie tracisz czasu na pakowanie torby, dojazdy i szukanie miejsca parkingowego pod klubem fitness. Wychodzisz przed dom w ubraniu sportowym, robisz swoje i od razu wracasz pod prysznic.",
+    "Regularny, krótki wysiłek z samego rana buduje nawyk. Nawet kilkanaście minut prostych ćwiczeń przygotowuje kręgosłup i stawy do wielu godzin siedzenia przy biurku."
+   ]
+  },
+  {
+   "h2": "Prosty zestaw ćwiczeń z masą własnego ciała",
+   "akapity": [
+    "Skup się na podstawowych ruchach, które angażują całe ciało. Na początek zrób krótką rozgrzewkę, krążenia stawów i kilka przysiadów. Następnie przejdź do pompek, podciągania lub zwisów, jeśli masz do dyspozycji stabilny drążek.",
+    "Dobrym uzupełnieniem są ćwiczenia mięśni brzucha oraz rozciąganie pleców. Nie potrzebujesz skomplikowanych maszyn ani dodatkowych ciężarów. Wystarczy praca z własnym ciałem, aby wzmocnić mięśnie i poczuć energię na resztę dnia."
+   ]
+  },
+  {
+   "h2": "Przygotowanie miejsca i ochrona przed pogodą",
+   "akapity": [
+    "Największą przeszkodą w porannych ćwiczeniach przy domu bywa pogoda. Mokra trawa, poranna rosa czy mżawka potrafią skutecznie zniechęcić do wyjścia na zewnątrz. Dlatego warto zorganizować przestrzeń na utwardzonym gruncie, najlepiej pod dachem.",
+    "Trening pod zadaszeniem uniezależnia Cię od aury. Stabilna nawierzchnia podjazdu zapewnia dobrą przyczepność pod butami. W ten sposób Twój poranny plan możesz realizować niezależnie od pory roku."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem problemu z miejscem jest wiata CarportActive z modułem sportowym. Drabinka szwedzka, drążek i poręcze są przykręcone bezpośrednio do słupów wiaty ze stali konstrukcyjnej S235, więc zyskujesz zadaszoną przestrzeń do treningu bez stawiania osobnych konstrukcji w ogrodzie. Najwygodniej ćwiczy się przy wiacie 4 x 6 m, gdzie przyrządy są zamontowane z boku i zostaje wolne miejsce obok auta. Stal jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe, dlatego sprzęt stoi na zewnątrz przez cały rok.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Do czego przydaje się drabinka szwedzka przy wiacie?",
+   "odpowiedz": "Drabinka szwedzka służy do rozciągania, ćwiczeń na brzuch i plecy oraz do rozgrzewki przed bieganiem."
+  }
+ ],
+ "nr": 21,
+ "kolejnosc": 170,
+ "temat": "krótki trening przy domu przed pracą",
+ "adres": "krotki-trening-przy-domu-przed-praca",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

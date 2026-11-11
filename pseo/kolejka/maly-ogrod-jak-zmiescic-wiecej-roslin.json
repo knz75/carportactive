@@ -1,0 +1,57 @@
+{
+ "tytul": "Mały ogród - jak zmieścić więcej roślin na ograniczonej przestrzeni",
+ "opis_meta": "Brakuje Ci miejsca na rabaty? Zobacz, jak wykorzystać pionowe ściany i piętrowe donice, aby zmieścić więcej ziół, kwiatów i pnączy w małym ogrodzie.",
+ "wstep": "Gdy na działce brakuje wolnego gruntu, zwykle rezygnujesz z kolejnych rabat. To błąd, bo zieleń nie musi rosnąć wyłącznie płasko przy ziemi. Wystarczy spojrzeć w górę i zacząć wykorzystywać pionowe powierzchnie, które już masz wokół domu.",
+ "sekcje": [
+  {
+   "h2": "Wykorzystaj ogrodzenia, mury i ściany budynków",
+   "akapity": [
+    "Zwykły płot, mur garażu czy ściana budynku gospodarczego to gotowa przestrzeń dla zieleni. Zamiast zajmować trawnik, zamontuj na nich kratownice lub listwy pod donice.",
+    "Pnącza potrzebują zaledwie wąskiego paska ziemi przy samym fundamencie. W zamian potrafią w krótkim czasie zarosnąć całą pionową płaszczyznę, tworząc zwartą osłonę od wiatru i słońca."
+   ]
+  },
+  {
+   "h2": "Sadzenie piętrowe i pojemniki jeden nad drugim",
+   "akapity": [
+    "W małym ogrodzie tradycyjne grządki szybko zapełniają całe podwórko. Dużo lepszym wyborem są moduły i pojemniki ustawiane pionowo, jeden nad drugim.",
+    "Dzięki temu na powierzchni zaledwie kilkudziesięciu centymetrów kwadratowych gruntu zyskujesz miejsce na kilkanaście różnych sadzonek. Taki układ sprawdza się zwłaszcza przy uprawie świeżych ziół, truskawek czy drobnych kwiatów sezonowych."
+   ]
+  },
+  {
+   "h2": "Dobór roślin do stron świata i Twojego czasu",
+   "akapity": [
+    "To, jakie rośliny sprawdzą się najlepiej, zależy od strony świata i ilości czasu, jaką chcesz poświęcić na pielęgnację. Ściany południowe i zachodnie mocno się nagrzewają, dlatego sprawdzą się tam zioła i kwiaty lubiące słońce.",
+    "Jeśli nie masz czasu na częste doglądanie zieleni, postaw na wieloletnie pnącza. Są najmniej wymagające, dobrze znoszą trudniejsze warunki i nie potrzebują ciągłej uwagi."
+   ]
+  },
+  {
+   "h2": "Pamiętaj o częstym podlewaniu w pionie",
+   "akapity": [
+    "W uprawie pionowej ziemia w pojemnikach wysycha znacznie szybciej niż na tradycyjnej grządce w gruncie. Podczas letnich upałów podłoże potrafi stracić wilgoć w ciągu kilku godzin.",
+    "Warto zaplanować podlewanie tak, aby woda docierała równomiernie do każdego poziomu. Dobrze sprawdza się prosta linia kroplująca, która ogranicza straty wody i ułatwia codzienną opiekę nad roślinami."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na zyskanie miejsca na zieleń jest wiata CarportActive z ogrodem wertykalnym na bocznym panelu. Taka zielona ściana osłania samochód od słońca i wiatru, dając kilka metrów kwadratowych powierzchni na zioła, kwiaty lub pnącza bez zabierania przestrzeni na podjeździe. Konstrukcja ze stali S235 jest ocynkowana ogniowo i malowana proszkowo, więc wilgoć jej nie szkodzi, a do modułów roślinnych można dodać system nawadniania. Moduły możesz zamówić od razu lub dołożyć później, a przed zakupem sprawdzisz wygląd całości w wizualizatorze AI na zdjęciu własnego podwórka.",
+ "faq": [
+  {
+   "pytanie": "Jakie rośliny wybrać na zieloną ścianę?",
+   "odpowiedz": "Wybór zależy od strony świata i tego, ile czasu chcesz poświęcić na pielęgnację. Pnącza są najmniej wymagające, natomiast zioła potrzebują słońca i regularnego podlewania."
+  },
+  {
+   "pytanie": "Czy rośliny w modułach pionowych trzeba codziennie podlewać?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Dlatego proponujemy opcję nawadniania, której zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z ziemi nie zaszkodzi stalowej konstrukcji?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na kontakt z wodą, deszczem i wilgocią przez cały rok."
+  }
+ ],
+ "nr": 51,
+ "kolejnosc": 47,
+ "temat": "mały ogród - jak zmieścić więcej roślin",
+ "adres": "maly-ogrod-jak-zmiescic-wiecej-roslin",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

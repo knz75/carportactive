@@ -1,0 +1,49 @@
+{
+ "tytul": "Carport solarny dla dwóch samochodów - co warto wiedzieć?",
+ "opis_meta": "Planujesz carport solarny dla dwóch samochodów? Sprawdź, ile paneli zmieści dach 6 x 6 m, jak zaplanować konstrukcję i ładowanie auta elektrycznego.",
+ "wstep": "Jeśli szukasz zadaszenia dla dwóch aut i chcesz produkować własny prąd, carport solarny jest logicznym wyborem. Zamiast budować osobną wiatę i kłaść instalację na gruncie, łączysz obie te funkcje na podjeździe. W tym tekście podpowiadamy, na co zwrócić uwagę przed montażem takiej konstrukcji.",
+ "sekcje": [
+  {
+   "h2": "Jaki rozmiar wiaty sprawdzi się na dwa samochody",
+   "akapity": [
+    "Przy dwóch samochodach wygodnym standardem jest wymiar 6 x 6 m oraz wysokość 2,7 m. Taki rozstaw pozwala bez problemu zaparkować dwa auta obok siebie i swobodnie otwierać drzwi. Daje to również największą zwartą połać dachową, na której zmieści się do 12 paneli fotowoltaicznych."
+   ]
+  },
+  {
+   "h2": "Wytrzymałość słupów pod dodatkowy ciężar",
+   "akapity": [
+    "Dach nad samochodem i tak jest potrzebny, ale moduły fotowoltaiczne to dodatkowe obciążenie. Zwykła konstrukcja może go nie utrzymać, dlatego słupy i fundament muszą być policzone z myślą o panelach. Zastosowanie stali konstrukcyjnej S235, ocynku ogniowego oraz malowania proszkowego daje stabilną bazę pod instalację."
+   ]
+  },
+  {
+   "h2": "Ładowanie auta i rozłożenie prac w czasie",
+   "akapity": [
+    "Planując carport, warto przewidzieć miejsce na ładowarkę Wallbox bezpośrednio przy słupie. Dzięki temu miejsce parkingowe zaczyna produkować prąd bezpośrednio dla Twojego domu i auta elektrycznego. Co ważne, nie musisz kupować wszystkiego na raz. Przy odpowiednio wzmocnionym szkielecie wiatę możesz postawić teraz, a same panele dołożyć w kolejnym sezonie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Rozwiązaniem łączącym te elementy jest Solar Box od CarportActive, wykonany ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym. Dwustanowiskowa wiata 6 x 6 m mieści do 12 paneli, ma wzmocnione słupy z miejscem na Wallbox, a jej montaż zajmuje zazwyczaj 1 dzień roboczy. Na stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli fotowoltaicznych zmieści się na wiacie dwustanowiskowej?",
+   "odpowiedz": "Na dwustanowiskowej wiacie o wymiarach 6 x 6 m zmieści się do 12 paneli fotowoltaicznych."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli wybierzesz wersję Solar Box. Słupy i fundament mają zapas nośności, więc moduły PV możesz zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto odpowiada za instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy montażu paneli, doborze falownika i podłączeniu ustalamy podczas wyceny. Wystarczy podać, czy masz już instalatora, czy szukasz kompletnego rozwiązania."
+  }
+ ],
+ "nr": 119,
+ "kolejnosc": 122,
+ "temat": "carport solarny dla dwóch samochodów",
+ "adres": "carport-solarny-dla-dwoch-samochodow",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

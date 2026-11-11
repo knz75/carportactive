@@ -1,0 +1,57 @@
+{
+ "tytul": "Jak przygotować rower do zimy. Krok po kroku",
+ "opis_meta": "Sprawdź, jak przygotować rower do zimy. Zobacz, jak wyczyścić napęd, zadbać o opony i gdzie bezpiecznie przechować sprzęt, aby nie zardzewiał.",
+ "wstep": "Zimowa przerwa potrafi zniszczyć rower szybciej niż setki przejechanych kilometrów. Wilgoć oraz brud pozostawione na podzespołach prowadzą do korozji i zatarcia części. Jeśli poświęcisz godzinę na proste zabiegi, na wiosnę od razu wyjedziesz w trasę.",
+ "sekcje": [
+  {
+   "h2": "Czyszczenie ramy i odtłuszczanie napędu",
+   "akapity": [
+    "Zacznij od dokładnego umycia roweru wodą z delikatnym środkiem czyszczącym. Usuń zaschnięte błoto i piasek z ramy, widelca oraz kół. Zwróć szczególną uwagę na łańcuch, kasetę oraz kółka tylnej przerzutki. Do tych elementów użyj odtłuszczacza, który rozpuści stary smar zebrany w trakcie sezonu.",
+    "Po myciu wytrzyj cały rower do sucha czystą szmatką. Pozostawienie wody w zakamarkach ramy sprzyja powstawaniu rdzy na śrubach i łożyskach. Daj rowerowi przeschnąć w przewiewnym miejscu, zanim przejdziesz do kolejnych kroków."
+   ]
+  },
+  {
+   "h2": "Smarowanie łańcucha i zabezpieczenie części ruchomych",
+   "akapity": [
+    "Gdy napęd jest czysty i suchy, nałóż świeży olej do łańcucha. Wystarczy jedna kropla preparatu na każde ogniwo. Następnie zakręć korbą kilkanaście razy, a nadmiar oleju zetrzyj suchą szmatką, aby nie przyciągał kurzu.",
+    "Warto zabezpieczyć też odsłonięte fragmenty linek przerzutek kilkoma kroplami smaru. Czystą szmatką z odrobiną oleju przetrzyj również golenie amortyzatora. Zabezpieczony w ten sposób sprzęt nie będzie narażony na działanie wilgoci podczas chłodnych miesięcy."
+   ]
+  },
+  {
+   "h2": "Odciążenie sprężyn przerzutek i kontrola ciśnienia w kołach",
+   "akapity": [
+    "Przed odstawieniem roweru zrzuć łańcuch na najmniejsze zębatki z przodu i z tyłu. W ten sposób zwalniasz napięcie sprężyn w wózku przerzutki oraz manetkach. Mechanizm odpoczywa, co pozwala zachować precyzję zmiany biegów na kolejny sezon.",
+    "Dopompuj opony, jeżeli rower ma stać oparty o podłogę. Długie stanie na flaku może zdeformować oponę i doprowadzić do popękania gumy pod ciężarem roweru. Przy sprzęcie zawieszonym na hakach ciśnienie nie ma aż takiego znaczenia."
+   ]
+  },
+  {
+   "h2": "Wybór odpowiedniego miejsca na zimowanie",
+   "akapity": [
+    "Najgorszym wyborem jest pozostawienie roweru na deszczu lub pod szczelną plandeką. Pod folią zbiera się para wodna, która nie ma jak odparować, co natychmiast wywołuje rdzę. Miejsce musi być zadaszone, suche i zapewniać swobodny przepływ powietrza.",
+    "Najwygodniejszym rozwiązaniem jest uniesienie jednośladu nad ziemię. Zawieszenie roweru na ścianie chroni opony, zabezpiecza sprzęt przed obijaniem i pozostawia wolną przestrzeń pod stopami. Pamiętaj też o przypięciu ramy do stałego elementu, jeśli przechowujesz rower poza domem."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata CarportActive z przechowalnią rowerów rozwiązuje problem ciasnoty w garażu i przedpokoju. Rowery wiszą na ścianie wiaty na przykręconych wieszakach, dzięki czemu łańcuch nie rdzewieje na deszczu, a podłoga zostaje wolna. Sprzęt możesz przypiąć do stalowej konstrukcji wiaty lub zamówić wydzieloną, zamkniętą strefę. Całość powstaje ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym, a montaż zajmuje zazwyczaj jeden dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy na zimę lepiej powiesić rower, czy postawić go na kołach?",
+   "odpowiedz": "Zdecydowanie lepiej powiesić rower na wieszaku ściennym. Opony nie odkształcają się wtedy pod ciężarem ramy, a podłoga w pomieszczeniu lub pod wiatą pozostaje wolna."
+  },
+  {
+   "pytanie": "Dlaczego przed zimą trzeba ustawić łańcuch na najmniejszych zębatkach?",
+   "odpowiedz": "Takie ułożenie luzuje sprężyny w przerzutkach. Dzięki temu naciąg nie osłabia się przez kilka miesięcy bezruchu, a przerzutki zachowują właściwą regulację."
+  },
+  {
+   "pytanie": "Czy można bezpiecznie zimować rowery pod wiatą garażową?",
+   "odpowiedz": "Tak, pod warunkiem że są pod dachem i mają przewiew. Rower można przypiąć do stalowej konstrukcji wiaty, a w razie potrzeby zamówić opcję z zamkniętą strefą."
+  }
+ ],
+ "nr": 103,
+ "kolejnosc": 153,
+ "temat": "jak przygotować rower do zimy",
+ "adres": "jak-przygotowac-rower-do-zimy",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,59 @@
+{
+ "tytul": "Zabawa na dworze jesienią i zimą. Praktyczne porady do ogrodu",
+ "opis_meta": "Zastanawiasz się, jak zachęcić dzieci do zabawy na dworze jesienią i zimą? Zobacz, jak przygotować podwórko, by wilgoć i chłód nie były przeszkodą.",
+ "wstep": "Jesienią i zimą dzieci szybko wracają z ogrodu do domu z powodu błota, mżawki i zimnego wiatru. Odpowiednie przygotowanie terenu wokół domu pozwala jednak na aktywność na świeżym powietrzu przez cały rok. Podpowiadam, jak zorganizować przestrzeń na podwórku, aby ruch w chłodniejsze dni był bezpieczny i wygodny.",
+ "sekcje": [
+  {
+   "h2": "Sucha nawierzchnia zamiast rozmokłego trawnika",
+   "akapity": [
+    "Mokra trawa i błoto to główny powód, dla którego rezygnujemy z wyjścia na zewnątrz. Jesienią trawnik długo schnie, a zimą zamarznięta ziemia staje się twarda i śliska. W takich warunkach łatwo o poślizgnięcie, a ubrania po kilku minutach nadają się do prania.",
+    "Warto wyznaczyć w ogrodzie strefę z utwardzonym lub osłoniętym podłożem. Stabilna nawierzchnia pozwala na swobodny ruch bez brodzenia w kałużach. Dzieci mogą wtedy biegać i skakać bez ryzyka, że przemoczą buty już na samym początku zabawy."
+   ]
+  },
+  {
+   "h2": "Ochrona przed deszczem i wiatrem",
+   "akapity": [
+    "Dzieciom rzadko przeszkadza niska temperatura, o ile są w ciągłym ruchu i pozostają suche. Problemem są opady deszczu lub mokrego śniegu, które szybko zniechęcają do przebywania poza domem. Zwykła kurtka przeciwdeszczowa często nie wystarcza przy dłuższym pobycie na zewnątrz.",
+    "Zadaszone miejsce na posesji diametralnie zmienia sytuację. Pod dachem jest sucho, co pozwala przenieść ulubione gry i aktywności na świeże powietrze bez względu na pogodę. Taka przestrzeń daje schronienie przed deszczem, a latem zapewnia potrzebny cień."
+   ]
+  },
+  {
+   "h2": "Ruch, który naturalnie rozgrzewa organizm",
+   "akapity": [
+    "Siedzenie w miejscu podczas chłodnych dni sprawia, że organizm szybko się wychładza. Z tego powodu piaskownica czy zwykła ławka jesienią i zimą zupełnie się nie sprawdzają. Najlepsze są formy aktywności, które angażują do pracy duże partie mięśni.",
+    "Wspinanie, zwisy na rękach czy proste ćwiczenia sprawnościowe zmuszają ciało do wysiłku, dzięki czemu dziecku jest ciepło nawet przy niskich temperaturach. Sprzęty do podciągania i wspinaczki nie wymagają dużej przestrzeni, a dają zajęcie na długi czas."
+   ]
+  },
+  {
+   "h2": "Dobre oświetlenie i bezpieczne lądowanie",
+   "akapity": [
+    "W sezonie jesienno-zimowym zmrok zapada bardzo wcześnie. Jeśli strefa zabawy nie ma własnego źródła światła, ogród staje się bezużyteczny już około godziny szesnastej. Wystarczy prosty punkt świetlny, aby bezpiecznie korzystać z podwórka także po powrocie ze szkoły czy pracy.",
+    "Pamiętaj też o amortyzacji podłoża w miejscach, gdzie dzieci skaczą lub schodzą z wysokości. Zmarznięta ziemia jest twarda i nie wybacza błędów. Miękka mata amortyzująca rozłożona w strefie ćwiczeń skutecznie zabezpiecza przed bolesnymi upadkami."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem problemu niepogody jest stalowa wiata CarportActive z placem zabaw. Pod dachem wiaty montujemy ściankę wspinaczkową z chwytami na panelu, siatkę linową oraz liny gimnastyczne, dzięki czemu dzieci bawią się w suchym miejscu, a trawnik zostaje wolny. Strefę zabaw planujemy z boku, poza miejscem parkowania, a pod ścianką kładziemy matę amortyzującą. Konstrukcję wykonujemy ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym, a montaż zajmuje zazwyczaj jeden dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego ustawienie omawiamy przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się pod ścianką wspinaczkową?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która tworzy miękkie podłoże."
+  },
+  {
+   "pytanie": "Co zrobić z modułem zabawowym, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają. Zamiast ścianki możesz zamontować moduł sportowy albo panel narzędziowy."
+  }
+ ],
+ "nr": 85,
+ "kolejnosc": 166,
+ "temat": "zabawa na dworze jesienią i zimą",
+ "adres": "zabawa-na-dworze-jesienia-i-zima",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

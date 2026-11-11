@@ -1,0 +1,48 @@
+{
+ "tytul": "Zielona osłona samochodu przed słońcem. Jak ją zaplanować?",
+ "opis_meta": "Szukasz naturalnego cienia dla auta? Sprawdź, jak działa zielona osłona samochodu przed słońcem i jakie rośliny wybrać na boczną ścianę.",
+ "wstep": "Rozgrzane auto na podjeździe to problem każdego upalnego lata. Zamiast osłaniać samochód pełnym murem, możesz wykorzystać rośliny do stworzenia naturalnego cienia. Podpowiadamy, jak zaplanować zieloną osłonę i o czym pamiętać przy jej pielęgnacji.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego pionowa zieleń dobrze chroni przed słońcem",
+   "akapity": [
+    "Pionowa ściana zieleni zajmuje bardzo mało miejsca na gruncie, dając jednocześnie kilka metrów kwadratowych zwartej osłony. Gęste liście skutecznie blokują promienie słoneczne, dzięki czemu auto i przestrzeń postojowa nagrzewają się znacznie wolniej. Taka przegroda osłania samochód także przed wiatrem i wygląda lepiej niż pusta, otwarta przestrzeń."
+   ]
+  },
+  {
+   "h2": "Jakie rośliny wybrać na zieloną ścianę",
+   "akapity": [
+    "Wybór roślin zależy głównie od strony świata oraz od tego, ile czasu chcesz poświęcić na pielęgnację. Najmniej wymagające są pnącza, które po zakorzenieniu dobrze radzą sobie same i szybko tworzą zieloną barierę.",
+    "Jeśli Twoje stanowisko znajduje się od strony mocnego słońca i lubisz ogrodnictwo, możesz posadzić zioła lub kwiaty sezonowe. Zioła doskonale czują się w nasłonecznionych miejscach, ale potrzebują systematycznego dostarczania wody."
+   ]
+  },
+  {
+   "h2": "Podlewanie i pielęgnacja roślin w pionie",
+   "akapity": [
+    "Musisz pamiętać, że w pionowych pojemnikach ziemia wysycha znacznie szybciej niż na tradycyjnej grządce ogrodowej. W czasie letnich upałów codzienne ręczne podlewanie bywa uciążliwe, zwłaszcza na wyższych poziomach ściany. Warto zaplanować stałe nawadnianie, które doprowadza wilgoć bezpośrednio do korzeni i chroni rośliny przed uschnięciem."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive ten problem rozwiązuje stalowa wiata z ogrodem wertykalnym, montowana zazwyczaj w 1 dzień roboczy. Pojemniki na rośliny są ustawione jeden nad drugim na bocznym panelu, co świetnie sprawdza się od strony słońca lub ulicy. Konstrukcja zrobiona jest ze stali S235, ocynkowana ogniowo i malowana proszkowo, więc wilgoć i podlewanie jej nie szkodzą. Moduły z opcją nawadniania pasują do każdego rozmiaru wiaty, możesz je dodać od razu lub później, a wizualizator AI pokaże całość na zdjęciu Twojego podjazdu w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jakie rośliny wybrać na zieloną ścianę?",
+   "odpowiedz": "Wszystko zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, natomiast zioła lubią słońce, ale potrzebują regularnego podlewania."
+  },
+  {
+   "pytanie": "Czy trzeba codziennie podlewać rośliny w modułach?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Z tego powodu proponujemy opcję nawadniania, której zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi stalowej konstrukcji?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na deszcz oraz wilgoć przez cały rok."
+  }
+ ],
+ "nr": 55,
+ "kolejnosc": 83,
+ "temat": "zielona osłona samochodu przed słońcem",
+ "adres": "zielona-oslona-samochodu-przed-sloncem",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

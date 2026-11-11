@@ -1,0 +1,47 @@
+{
+ "tytul": "Jak przechowywać rowery na zewnątrz - praktyczny poradnik",
+ "opis_meta": "Sprawdź, jak przechowywać rowery na zewnątrz, aby chronić je przed deszczem i kradzieżą. Poznaj sprawdzone patenty na porządek na podwórku.",
+ "wstep": "Trzymanie rowerów na dworze bez przygotowania szybko kończy się zardzewiałym łańcuchem i zniszczonym osprzętem. Deszcz, słońce i wilgoć niszczą napęd, opony oraz linki. Możesz jednak zorganizować miejsce na podwórku tak, aby sprzęt był bezpieczny i suchy przez cały rok.",
+ "sekcje": [
+  {
+   "h2": "Ochrona przed deszczem i wilgocią",
+   "akapity": [
+    "Zwykła plandeka rzucona bezpośrednio na rower to częsty błąd. Pod szczelnym przykryciem skrapla się wilgoć z ziemi, przez co metalowe elementy rdzewieją jeszcze szybciej niż na otwartym deszczu. Najważniejszy jest przewiewny dach, który zatrzymuje wodę z góry, ale pozwala powietrzu swobodnie cyrkulować wokół ramy i napędu."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie przed kradzieżą na posesji",
+   "akapity": [
+    "Oparty o ścianę rower kusi przypadkowe osoby, nawet jeśli stoi za ogrodzeniem posesji. Najlepiej przypinać ramę solidnym zapięciem bezpośrednio do stałego elementu, takiego jak stalowy słup, barierka lub kotwa w podłożu. Zwykłe zapięcie koła nie wystarczy, bo łatwo je odkręcić i zabrać resztę sprzętu."
+   ]
+  },
+  {
+   "h2": "Wieszaki czy stojaki - jak uporządkować przestrzeń",
+   "akapity": [
+    "Kiedy kilka rowerów stoi obok siebie na ziemi, kierownice plączą się ze sobą, a przejście zostaje zablokowane. Rowery dorosłych, z których korzystasz rzadziej, warto powiesić pionowo na ścianie na stabilnych hakach. Sprzęt dzieci oraz hulajnogi lepiej umieścić w niskich stojakach, z których łatwo je wyciągnąć bez konieczności dźwigania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów rozwiązuje ten problem, łącząc zadaszenie dla auta ze strefą na jednoślady. Wieszaki i stojaki są przykręcone do stalowej konstrukcji, więc rowery wiszą na ścianie, łańcuch nie rdzewieje na deszczu, a garaż i przedpokój zostają wolne. Rower można przypiąć do stalowej konstrukcji wiaty, a jeśli chcesz, część wiaty można wydzielić i zamykać.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę - jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "Zależy to od rozmiaru wiaty i układu wieszaków. Najwięcej miejsca z boku daje wiata 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy pod wiatą można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  }
+ ],
+ "nr": 87,
+ "kolejnosc": 13,
+ "temat": "jak przechowywać rowery na zewnątrz",
+ "adres": "jak-przechowywac-rowery-na-zewnatrz",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

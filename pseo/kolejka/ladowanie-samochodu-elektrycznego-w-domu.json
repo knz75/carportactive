@@ -1,0 +1,52 @@
+{
+ "tytul": "Ładowanie samochodu elektrycznego w domu - poradnik",
+ "opis_meta": "Sprawdź, jak zaplanować ładowanie samochodu elektrycznego w domu. Poznaj różnice między gniazdkiem a ładowarką Wallbox oraz jak przygotować podjazd.",
+ "wstep": "Ładowanie samochodu elektrycznego w domu jest bardzo wygodne, ale wymaga przemyślanego przygotowania instalacji. Samochód możesz zasilać ze standardowego gniazdka lub za pomocą dedykowanej stacji montowanej na ścianie albo słupie. Zanim podłączysz kabel, warto sprawdzić możliwości techniczne swojego podjazdu.",
+ "sekcje": [
+  {
+   "h2": "Gniazdko 230 V czy domowa stacja Wallbox",
+   "akapity": [
+    "Zwykłe gniazdko domowe pozwala na uzupełnianie energii w baterii, ale proces ten trwa dość długo. Taki sposób sprawdza się najlepiej, gdy samochód stoi całą noc, a Twoje dzienne trasy są krótkie. Przy częstszych i dłuższych wyjazdach ładowanie z gniazdka bywa po prostu uciążliwe.",
+    "Lepszym wyborem na co dzień jest ścienna stacja ładowania, czyli Wallbox. Urządzenie dostarcza prąd ze znacznie większą mocą i zapewnia stabilne działanie. Wymaga jednak doprowadzenia odpowiedniego kabla z rozdzielnicy oraz sprawdzenia mocy przyłączeniowej w domu."
+   ]
+  },
+  {
+   "h2": "Gdzie zaplanować punkt ładowania auta",
+   "akapity": [
+    "Najwygodniej ładuje się samochód dokładnie tam, gdzie parkujesz go każdego dnia. Może to być garaż, otwarty podjazd lub miejsce pod wiatą. Zwróć uwagę na to, w którym miejscu Twojego pojazdu znajduje się gniazdo ładowania.",
+    "Kabel nie powinien leżeć w poprzek ścieżki ani być mocno napięty podczas zasilania. Jeśli parkujesz na zewnątrz, zadbaj o osłonę stacji przed bezpośrednim deszczem i śniegiem. Praktycznym punktem montażu bywa ściana budynku albo stabilny słup przy samym stanowisku postojowym."
+   ]
+  },
+  {
+   "h2": "Przygotowanie instalacji elektrycznej na podjeździe",
+   "akapity": [
+    "Zanim kupisz urządzenie, poproś uprawnionego elektryka o przegląd domowej sieci. Fachowiec oceni stan rozdzielnicy oraz przekrój przewodów. Dla domowej stacji ładowania zazwyczaj przygotowuje się osobny, dedykowany obwód z osobnym zabezpieczeniem.",
+    "Pomyśl z wyprzedzeniem o trasie kabla prowadzącego na zewnątrz. Jeśli planujesz układanie kostki lub prace ziemne, warto zakopać pod ziemią peszel ochronny. Dzięki temu w przyszłości bez trudu przeciągniesz kable zasilające bez konieczności niszczenia nawierzchni podjazdu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktyczną bazą pod domowe zasilanie auta jest wiata Solar Box od CarportActive. Jej dach to wzmocniona konstrukcja ze stali S235 z gotowością pod montaż od 6 do 12 paneli, dzięki czemu miejsce parkingowe produkuje prąd dla domu i samochodu. Słup wiaty zapewnia gotowe miejsce na montaż ładowarki typu Wallbox, a całą konstrukcję stawia się zazwyczaj w jeden dzień roboczy. Na wiacie 6 x 6 m zmieścisz do 12 paneli, które możesz zamontować od razu lub dołożyć w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Czy domową ładowarkę można zamontować na zewnątrz?",
+   "odpowiedz": "Tak, urządzenia tego typu są przystosowane do pracy na zewnątrz, na przykład na ścianie budynku lub przy słupie wiaty garażowej."
+  },
+  {
+   "pytanie": "Ile paneli fotowoltaicznych zmieści się na dachu wiaty Solar Box?",
+   "odpowiedz": "W zależności od rozmiaru wiata mieści od 6 do 12 paneli. Na wariancie dwustanowiskowym 6 x 6 m zamontujesz do 12 modułów."
+  },
+  {
+   "pytanie": "Kto zajmuje się montażem instalacji elektrycznej wiaty?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy bezpośrednio przy wycenie, zależnie od tego, czy masz własnego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 110,
+ "kolejnosc": 41,
+ "temat": "ładowanie samochodu elektrycznego w domu",
+ "adres": "ladowanie-samochodu-elektrycznego-w-domu",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

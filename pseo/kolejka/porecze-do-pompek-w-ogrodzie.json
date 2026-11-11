@@ -1,0 +1,50 @@
+{
+ "tytul": "Poręcze do pompek w ogrodzie. Jak je zamontować z głową",
+ "opis_meta": "Planujesz poręcze do pompek w ogrodzie? Zobacz, jak zadbać o stabilność, ochronę przed korozją i wygodne miejsce do ćwiczeń na zewnątrz.",
+ "wstep": "Pompki na poręczach to jedno z najlepszych ćwiczeń z ciężarem własnego ciała. Jeśli planujesz montaż poręczy w ogrodzie, musisz zadbać o stabilne podłoże i ochronę stali przed deszczem. Zobacz, na co zwrócić uwagę, żeby sprzęt służył bezpiecznie przez lata.",
+ "sekcje": [
+  {
+   "h2": "Stabilne mocowanie i sztywność konstrukcji",
+   "akapity": [
+    "Podczas dipów cała masa Twojego ciała spoczywa na dwóch punktach podparcia. Zwykłe wbicie rur w ziemię nie wystarczy, bo konstrukcja szybko się rozchwieje i zacznie pracować w gruncie.",
+    "Słupy wymagają trwałego osadzenia w betonie lub przykręcenia do solidnej, sztywnej ramy. Brak stabilności nie tylko utrudnia trening, ale grozi też przeciążeniem nadgarstków i barków."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie przed deszczem i rdzą",
+   "akapity": [
+    "Metal stojący w ogrodzie przez dwanaście miesięcy w roku jest stale narażony na wilgoć, śnieg i mróz. Zwykła farba szybko odpryskuje, a na spawach pojawia się rdzawy nalot.",
+    "Konstrukcja zewnętrzna powinna być zabezpieczona przez ocynk ogniowy oraz malowanie proszkowe. Taka powłoka chroni stal przed korozją i nie wymaga ciągłego odnawiania co sezon."
+   ]
+  },
+  {
+   "h2": "Przestrzeń wokół stanowiska do ćwiczeń",
+   "akapity": [
+    "Wolnostojące poręcze na środku trawnika często przeszkadzają w codziennym korzystaniu z ogrodu. Utrudniają koszenie trawy, a po opadach deszczu grunt wokół nich zamienia się w błoto.",
+    "Warto zaplanować stanowisko treningowe na utwardzonym podłożu, najlepiej blisko zabudowań. Dobrze jest też pomyśleć o zadaszeniu, bo mokre, śliskie rurki skutecznie uniemożliwiają pewny chwyt."
+   ]
+  }
+ ],
+ "rozwiazanie": "Zamiast stawiać osobną konstrukcję na trawniku, możesz wykorzystać wiatę CarportActive z modułem sportowym. Poręcze do dipów, drążek do podciągania i drabinkę szwedzką przykręca się bezpośrednio do słupów wiaty ze stali konstrukcyjnej. Zyskujesz zadaszone miejsce do treningu przy wjeździe, zrobione ze stali cynkowanej ogniowo i malowanej proszkowo, a Twój ogród pozostaje nienaruszony.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć w późniejszym czasie?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności oraz przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy stalowe poręcze poradzą sobie z zimą na zewnątrz?",
+   "odpowiedz": "Tak. Stal stoi na zewnątrz cały rok, dlatego jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe, co skutecznie chroni ją przed korozją."
+  }
+ ],
+ "nr": 7,
+ "kolejnosc": 54,
+ "temat": "poręcze do pompek w ogrodzie",
+ "adres": "porecze-do-pompek-w-ogrodzie",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

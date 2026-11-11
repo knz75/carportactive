@@ -1,0 +1,59 @@
+{
+ "tytul": "Gdzie trzymać rękawice ogrodowe? Sprawdzone miejsca",
+ "opis_meta": "Sprawdź, gdzie trzymać rękawice ogrodowe, żeby nie niszczały od wilgoci i zawsze były pod ręką. Poznaj proste sposoby na porządek przy domu.",
+ "wstep": "Rękawice ogrodowe rzucone byle gdzie szybko niszczeją, wilgotnieją i bez przerwy giną na podwórku. Żeby służyły dłużej, potrzebują suchego oraz przewiewnego miejsca blisko strefy Twojej pracy. Poniżej znajdziesz kilka prostych i sprawdzonych sposobów na ich przechowywanie.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego rękawice nie powinny leżeć w szczelnych pojemnikach",
+   "akapity": [
+    "Po skończonej pracy w ziemi rękawice niemal zawsze są wilgotne od potu lub wilgoci z gleby. Gdy schowasz je do szczelnego plastikowego pudełka, materiał nie wyschnie i szybko zacznie butwieć. Brak cyrkulacji powietrza prowadzi też do powstawania brzydkiego zapachu i niszczenia powłok ochronnych.",
+    "Zawsze odkładaj rękawice w miejscu z naturalnym przewiewem. Dzięki temu tkanina przeschnie samoistnie, a Ty unikniesz wkładania rąk w stęchły, mokry materiał podczas kolejnego wyjścia do ogrodu."
+   ]
+  },
+  {
+   "h2": "Praktyczne haczyki i wieszaki blisko wejścia",
+   "akapity": [
+    "Najwygodniejszy punkt na rękawice to okolice drzwi wejściowych, tarasu lub zadaszonego przejścia gospodarczego. Wystarczy zamocować tam listwę z kołkami lub proste haczyki ścienne. Rękawice możesz powiesić za wszytą pętelkę albo przypiąć zwykłym klipsem za mankiet.",
+    "Wiszące rękawice schną równomiernie z każdej strony i nie zajmują miejsca na blatach czy parapetach. Masz je zawsze w zasięgu wzroku dokładnie wtedy, gdy wychodzisz popracować na rabatach."
+   ]
+  },
+  {
+   "h2": "Ażurowe kosze na ścianie lub regale",
+   "akapity": [
+    "Jeśli w Twoim gospodarstwie z rękawic korzysta kilka osób, sprawdzi się druciany koszyk lub siatkowy organizer. Ażurowa konstrukcja zapewnia swobodny dopływ powietrza od spodu i po bokach, co ułatwia odparowanie wilgoci. W takim koszu rękawice nie kiszą się, nawet gdy leży tam kilka par naraz.",
+    "Warto podzielić koszyki na strefy, oddzielając grube rękawice do ciężkich prac ziemnych od cienkich modeli do pielenia. Ułatwia to szybkie znalezienie właściwej pary bez robienia bałaganu."
+   ]
+  },
+  {
+   "h2": "O czym pamiętać przed odłożeniem rękawic",
+   "akapity": [
+    "Zanim powiesisz rękawice na swoje miejsce, strzep z nich resztki ziemi i piasku. Zeschnięte błoto wbija się w strukturę materiału i skraca jego żywotność. Jeśli rękawice są mocno oblepione, przepłucz je wodą i dopiero wtedy odwieś do wyschnięcia.",
+    "Pamiętaj też, żeby nie suszyć rękawic na pełnym słońcu. Promienie słoneczne niszczą powłoki lateksowe i powodują twardnienie skóry roboczej. Zacienione, przewiewne miejsce pod dachem to najlepszy wybór."
+   ]
+  }
+ ],
+ "rozwiazanie": "W utrzymaniu porządku wśród narzędzi i akcesoriów pomagają stojaki oraz panele CA-Stand, dostępne na zamówienie w fazie prototypu w cenach od 300 zł. Do wyboru jest ścienny panel CA-Lite (100-150 x 50 cm) montowany do ściany lub ogrodzenia, a także modele wolnostojące CA-Entry, CA-Yard oraz wzmocniony CA-Hard, które nie wymagają wiercenia w elewacji ani ociepleniu. Konstrukcje powstają w tym samym stylu i kolorze co wiaty CarportActive, z opcją montażu panelu bezpośrednio do wiaty, a dostawa pozostaje do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy można suszyć mokre rękawice robocze na słońcu?",
+   "odpowiedz": "Lepiej tego unikać, ponieważ ostre słońce przesusza skórę i powoduje kruszenie powłok gumowych. Najlepiej powiesić je w przewiewnym, zacienionym miejscu pod zadaszeniem."
+  },
+  {
+   "pytanie": "Gdzie trzymać rękawice ogrodowe w trakcie zimy?",
+   "odpowiedz": "Na zimę warto przenieść czyste i suche rękawice do zamkniętego pomieszczenia, na przykład wiatrołapu lub garażu. Mróz i wilgoć panujące na zewnątrz mogą osłabić elastyczność materiałów roboczych."
+  },
+  {
+   "pytanie": "Jak powiesić rękawice, które nie mają fabrycznej pętelki?",
+   "odpowiedz": "Możesz użyć zwykłego spinacza do prania, żabki biurowej lub klamerki zawieszonej na drucie. Wystarczy złapać rękawice za mankiety, co zapewni im stabilność i swobodne schnięcie."
+  }
+ ],
+ "nr": 136,
+ "kolejnosc": 96,
+ "temat": "gdzie trzymać rękawice ogrodowe",
+ "adres": "gdzie-trzymac-rekawice-ogrodowe",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

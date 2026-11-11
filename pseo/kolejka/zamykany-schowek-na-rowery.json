@@ -1,0 +1,52 @@
+{
+ "tytul": "Zamykany schowek na rowery - jak bezpiecznie trzymać sprzęt",
+ "opis_meta": "Szukasz sposobu na zamykany schowek na rowery? Sprawdź, jak zaplanować miejsce na sprzęt, zabezpieczyć go przed kradzieżą i ochronić przed deszczem.",
+ "wstep": "Trzymanie rowerów w przedpokoju lub ciasnym garażu szybko staje się uciążliwe. Dobry schowek powinien chronić jednoślady przed opadami i zniechęcać złodzieja. Zobacz, na co zwrócić uwagę, planując takie miejsce na swojej działce.",
+ "sekcje": [
+  {
+   "h2": "Ochrona przed wilgocią i kradzieżą",
+   "akapity": [
+    "Rower stojący na zewnątrz niszczeje w szybkim tempie. Woda uszkadza łożyska i napęd, a łańcuch rdzewieje na deszczu. Cienka plandeka rzadko pomaga, ponieważ gromadzi się pod nią wilgoć z podłoża.",
+    "Równie ważne jest zabezpieczenie mienia. Zwykłą szopkę z marketu można łatwo sforsować prostym narzędziem. Solidny schowek wymaga twardych punktów kotwienia, do których przypniesz ramę, albo wydzielonej, zamykanej przestrzeni."
+   ]
+  },
+  {
+   "h2": "Jak rozplanować wnętrze schowka",
+   "akapity": [
+    "Częstym błędem jest stawianie rowerów luźno na podłodze, jeden obok drugiego. Bardzo szybko dochodzi do blokowania kierownic i rysowania lakieru, a wyjęcie ostatniego jednośladu zmusza do przestawiania reszty.",
+    "Lepsze rezultaty daje podział na strefy ścienne i podłogowe. Sprzęt dla dorosłych warto powiesić pionowo na ścianach, dzięki czemu zyskujesz wolną podłogę. Na dole dobrze zostawić miejsce na stojaki dla mniejszych rowerów dziecięcych oraz hulajnóg."
+   ]
+  },
+  {
+   "h2": "Wygodny dostęp i przestrzeń na serwis",
+   "akapity": [
+    "Schowek rowerowy nie powinien być zbyt ciasny. Przy regularnej jeździe musisz mieć miejsce, aby swobodnie wprowadzić rower, dopompować koła czy wyczyścić napęd.",
+    "Warto zaplanować przestrzeń tak, aby podstawowy sprzęt do regulacji był pod ręką. Zorganizowana tablica na narzędzia obok stanowiska postojowego znacznie ułatwia bieżące dbanie o stan techniczny jednośladów."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive łączymy zadaszenie dla auta z funkcjonalną przechowalnią rowerów, wykorzystując konstrukcję ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym. Rowery, hulajnogi i boxy dachowe umieszczamy pod dachem, mocując wieszaki ścienne i stojaki bezpośrednio do ramy wiaty, a dla pełnej ochrony możemy wydzielić strefę zamkniętą. Montaż wiaty zajmuje zazwyczaj 1 dzień roboczy, a na naszej stronie możesz wgrać zdjęcie podjazdu i sprawdzić wizualizację AI w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę, a jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To, ile rowerów się zmieści, zależy od rozmiaru wiaty i układu wieszaków. Najwięcej miejsca z boku daje wiata 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy odpowiednie wyposażenie."
+  },
+  {
+   "pytanie": "Czy w schowku można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów i są zawsze gotowe do użycia."
+  }
+ ],
+ "nr": 102,
+ "kolejnosc": 146,
+ "temat": "zamykany schowek na rowery",
+ "adres": "zamykany-schowek-na-rowery",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

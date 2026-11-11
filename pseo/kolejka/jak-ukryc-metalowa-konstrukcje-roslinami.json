@@ -1,0 +1,47 @@
+{
+ "tytul": "Jak ukryć metalową konstrukcję roślinami? Sprawdzone sposoby",
+ "opis_meta": "Dowiedz się, jak ukryć metalową konstrukcję roślinami. Poznaj zasady doboru pnączy i kwiatów oraz sposoby na zieloną ścianę w ogrodzie.",
+ "wstep": "Goła stal na podwórku nie zawsze pasuje do zadbanego ogrodu. Możesz jednak łatwo zamienić metalowe słupy i ściany w zieloną przestrzeń. Wystarczy dobrać odpowiednie gatunki i sposób ich prowadzenia.",
+ "sekcje": [
+  {
+   "h2": "Wybór roślin zależy od Twojego czasu i słońca",
+   "akapity": [
+    "Zanim posadzisz cokolwiek przy metalowej konstrukcji, sprawdź nasłonecznienie tego miejsca. Rośliny dobieraj zależnie od strony świata oraz czasu, jaki chcesz poświęcić na pielęgnację. Pnącza są najmniej wymagające i szybko zakrywają metalowe elementy. Zioła oraz kwiaty sezonowe potrzebują słońca i regularnego podlewania, dlatego wymagają częstszej opieki."
+   ]
+  },
+  {
+   "h2": "Zieleń w pionie a częstotliwość podlewania",
+   "akapity": [
+    "Rośliny możesz sadzić bezpośrednio w gruncie przy konstrukcji albo w pojemnikach mocowanych pionowo. W pionie ziemia wysycha znacznie szybciej niż na tradycyjnej grządce. W upalne dni woda z donic paruje w kilka godzin, co może osłabić zieleń. Jeśli planujesz wiszące pojemniki, pomyśl od razu o doprowadzeniu nawadniania."
+   ]
+  },
+  {
+   "h2": "Czy wilgoć z roślin nie zniszczy metalu?",
+   "akapity": [
+    "Liście zatrzymują wodę i ograniczają przewiew, co tworzy wilgotny mikroklimat wokół metalu. Zwykła stal bez trwałego zabezpieczenia szybko pokryje się rdzą pod mokrymi pędami. Aby konstrukcja przetrwała lata, metal musi być zabezpieczony fabrycznie. Najlepiej sprawdza się połączenie ocynku ogniowego i malowania proszkowego, które całkowicie odcina dostęp wilgoci."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy ten problem za pomocą wiaty z ogrodem wertykalnym. Na bocznym panelu wiaty montujemy moduły roślinne z pojemnikami ustawionymi jeden nad drugim, które tworzą zieloną ścianę osłaniającą samochód od słońca i wiatru. Konstrukcja ze stali S235 jest ocynkowana ogniowo i malowana proszkowo, więc wilgoć z ziemi jej nie szkodzi. Do modułów można dodać opcję nawadniania, a całość sprawdzisz wcześniej w wizualizatorze AI po wgraniu zdjęcia podjazdu.",
+ "faq": [
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo, czyli przygotowana na deszcz i stałą wilgoć przez cały rok."
+  },
+  {
+   "pytanie": "Czy trzeba codziennie podlewać rośliny w pionowym panelu?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Dlatego proponujemy opcję nawadniania, a jej zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Jakie rośliny najlepiej wybrać na boczny panel wiaty?",
+   "odpowiedz": "To zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, natomiast zioła i kwiaty sezonowe potrzebują więcej słońca oraz regularnego podlewania."
+  }
+ ],
+ "nr": 60,
+ "kolejnosc": 128,
+ "temat": "jak ukryć metalową konstrukcję roślinami",
+ "adres": "jak-ukryc-metalowa-konstrukcje-roslinami",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

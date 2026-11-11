@@ -1,0 +1,52 @@
+{
+ "tytul": "Miejsce na miotłę i szuflę przed domem. Jak je uporządkować?",
+ "opis_meta": "Zobacz, gdzie trzymać miotłę i szuflę przed domem. Poznaj proste sposoby na porządek przy wejściu bez niszczenia elewacji i potykania się o sprzęt.",
+ "wstep": "Miotła i szufla do śniegu oparte byle jak o ścianę to częsty widok przed wejściem. Taki sprzęt brudzi tynk i przewraca się przy byle podmuchu wiatru. Wystarczy kilka prostych zmian, żeby mieć narzędzia pod ręką i zachować czystość wokół drzwi.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego opieranie narzędzi o elewację to zły pomysł",
+   "akapity": [
+    "Kiedy opierasz szczotkę lub szuflę bezpośrednio o ścianę, piasek i wilgoć z trzonka wnikają w strukturę tynku. Po kilku tygodniach na jasnej elewacji powstają ciemne zacieki oraz wytarte plamy, których nie da się łatwo zmyć.",
+    "Narzędzia postawione luzem często przewracają się na kostkę brukową. Plastikowe szufle pękają na mrozie od takich uderzeń, a spadający trzonek może zarysować karoserię auta lub skrzydło drzwi."
+   ]
+  },
+  {
+   "h2": "Gdzie najlepiej wyznaczyć miejsce na podręczny sprzęt",
+   "akapity": [
+    "Narzędzia używane codziennie muszą być łatwo dostępne, ale nie powinny stać w głównym przejściu. Dobrym miejscem jest boczna wnęka przy ganku, przestrzeń za słupem zadaszenia albo osłonięty róg tarasu.",
+    "Jeśli parkujesz pod wiatą, zorganizuj punkt odkładczy blisko jej krawędzi. Dzięki temu sięgniesz po łopatę lub miotłę od razu po wyjściu z samochodu, bez wnoszenia śniegu i błota pod same drzwi domu."
+   ]
+  },
+  {
+   "h2": "Przechowywanie bez dziurawienia ocieplenia",
+   "akapity": [
+    "Wiercenie w gotowej elewacji z grubą warstwą styropianu jest ryzykowne i może prowadzić do powstawania mostków termicznych. Zamiast wieszać haki na ścianie domu, lepiej postawić na rozwiązania wolnostojące.",
+    "Stabilna konstrukcja na własnej podstawie pozwala zachować porządek bez niszczenia tynku. W razie potrzeby możesz też przenieść taki punkt narzędziowy w inne miejsce, zależnie od pory roku."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwijamy serię metalowych stojaków i paneli CA-Stand, dopasowanych stylem i kolorem do naszych wiat. W ofercie na zamówienie, będącej w fazie prototypu, znajdziesz naścienny panel CA-Lite (100-150 x 50 cm), niski stojak CA-Entry (60-80 cm) na stopach z płaskownika 100 x 4 mm, szeroki CA-Yard (80-100 cm) oraz wzmocniony CA-Hard na ciężki sprzęt. Konstrukcje wolnostojące nie wymagają wiercenia w ociepleniu, dostępny jest też panel przykręcany wprost do wiaty, a ceny zaczynają się od 300 zł przy dostawie do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Jak zabezpieczyć narzędzia przed przewracaniem przez wiatr?",
+   "odpowiedz": "Najlepiej umieścić je w stojaku z dedykowanymi gniazdami na trzonki lub wieszać na stabilnych uchwytach."
+  },
+  {
+   "pytanie": "Czy trzymanie szufli i miotły na zewnątrz niszczy materiał?",
+   "odpowiedz": "Mróz i promienie słońca osłabiają plastik oraz drewno, dlatego sprzęt warto trzymać przynajmniej pod zadaszeniem."
+  },
+  {
+   "pytanie": "Czy wolnostojący stojak na narzędzia trzeba kotwić do kostki?",
+   "odpowiedz": "Konstrukcje z szerokimi, stalowymi stopami stoją stabilnie pod własnym ciężarem i zazwyczaj nie wymagają przykręcania do podłoża."
+  }
+ ],
+ "nr": 132,
+ "kolejnosc": 60,
+ "temat": "miejsce na miotłę i szuflę przed domem",
+ "adres": "miejsce-na-miotle-i-szufle-przed-domem",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "tytul": "Pomysły na ruch dla dzieci w ogrodzie. Jak stworzyć strefę zabaw",
+ "opis_meta": "Szukasz pomysłów na ruch dla dzieci w ogrodzie? Zobacz, jak zaplanować bezpieczną strefę zabaw, oszczędzić trawnik i uniezależnić się od pogody.",
+ "wstep": "Dzieci potrzebują codziennego ruchu na świeżym powietrzu, ale tradycyjne sprzęty potrafią szybko zająć cały trawnik. Kiedy pada deszcz albo świeci ostre słońce, ogrodowe zabawki często stoją puste. Warto zaplanować przestrzeń tak, aby ruch był dostępny niezależnie od pogody, a ogród pozostał funkcjonalny.",
+ "sekcje": [
+  {
+   "h2": "Wykorzystaj przestrzeń w pionie zamiast niszczyć trawnik",
+   "akapity": [
+    "Większość typowych zabawek ogrodowych wymaga dużej, płaskiej powierzchni. Huśtawki i wolnostojące konstrukcje niszczą trawę, a pod urządzeniami po każdym deszczu powstaje błoto. Dobrym rozwiązaniem jest przeniesienie aktywności w górę.",
+    "Elementy takie jak ścianki wspinaczkowe, siatki czy liny gimnastyczne angażują całe ciało dziecka. Mocując je do istniejących słupów lub bocznych ścian, zyskujesz pełnowartościową strefę ruchu, a środek działki zostawiasz wolny do innych aktywności."
+   ]
+  },
+  {
+   "h2": "Zadbaj o podłoże amortyzujące upadki",
+   "akapity": [
+    "Bezpieczeństwo zależy w dużej mierze od tego, na co lądują stopy dziecka. Zwykła ziemia po deszczu robi się śliska, a w czasie suszy jest twarda jak beton. Przy każdym punkcie wspinaczkowym niezbędne jest miękkie podłoże.",
+    "W strefie lądowania najlepiej sprawdzają się specjalne maty amortyzujące. Zapewniają stabilność podczas zabawy w zwisach i chronią stawy przy zeskakiwaniu. Warto też dopasować chwyty do wzrostu najmłodszych, aby nie prowokować niebezpiecznych upadków."
+   ]
+  },
+  {
+   "h2": "Aktywność pod dachem, czyli uniezależnienie od pogody",
+   "akapity": [
+    "W naszym klimacie pogoda bywa zmienna i często uniemożliwia zabawę na dworze. W lecie słońce nagrzewa elementy z tworzyw i metalu, a jesienią mokre konstrukcje stają się zbyt śliskie do wspinaczki.",
+    "Zadaszona strefa ruchu rozwiązuje ten problem. Pod dachem jest sucho i panuje cień, więc dzieci mogą ćwiczyć i rozładować energię o każdej porze roku. Jeśli masz na podwórku wolne zadaszenie, warto włączyć je w plan rekreacyjny."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z placem zabaw od CarportActive łączy zadaszone miejsce postojowe ze strefą aktywności. Na konstrukcji wiaty montujemy ściankę wspinaczkową z chwytami na panelu, siatkę linową oraz liny gimnastyczne, a na podłożu kładziemy matę amortyzującą. Całość znajduje się z boku, poza miejscem parkowania, dzięki czemu dzieci bawią się w cieniu i w deszczu, a trawnik pozostaje wolny. Gdy dzieci dorosną, mocowania zostają i ściankę można wymienić na moduł sportowy lub panel narzędziowy.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego dokładne ustawienie omawiamy przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się bezpośrednio pod ścianką wspinaczkową?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która tworzy miękkie podłoże."
+  },
+  {
+   "pytanie": "Co zrobić ze sprzętem, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają na stałe. Zamiast ścianki dla dzieci możesz w to samo miejsce zamontować moduł sportowy albo panel narzędziowy."
+  }
+ ],
+ "nr": 79,
+ "kolejnosc": 120,
+ "temat": "pomysły na ruch dla dzieci w ogrodzie",
+ "adres": "pomysly-na-ruch-dla-dzieci-w-ogrodzie",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

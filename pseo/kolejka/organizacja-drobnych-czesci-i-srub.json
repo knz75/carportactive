@@ -1,0 +1,58 @@
+{
+ "tytul": "Organizacja drobnych części i śrub. Jak uporządkować warsztat",
+ "opis_meta": "Szukasz sposobu na organizację drobnych części i śrub? Poznaj proste metody segregacji i przechowywania elementów złącznych pod ręką.",
+ "wstep": "Wymieszane śruby, podkładki w słoikach i nakrętki na dnie kartonu to częsty widok w przydomowym warsztacie. Szukanie jednej pasującej śrubki potrafi zająć więcej czasu niż sama naprawa. Kilka prostych zasad segregacji pozwoli Ci szybko zapanować nad tym bałaganem.",
+ "sekcje": [
+  {
+   "h2": "Zacznij od bezwzględnego sortowania",
+   "akapity": [
+    "Pierwszym krokiem jest wysypanie wszystkiego na blat i odsianie uszkodzonych sztuk. Skrzywione wkręty, zardzewiałe podkładki i śruby ze zniszczonym gwintem od razu wyrzuć do kosza. Trzymanie zniszczonych elementów mija się z celem i tylko zabiera cenne miejsce.",
+    "Pozostałe części podziel na główne kategorie. Osobno odłóż śruby metryczne, wkręty do drewna, blachowkręty, nakrętki oraz podkładki. Nie mieszaj różnych rodzajów gwintów w jednym pojemniku, bo to gwarantuje chaos podczas pierwszej naprawy."
+   ]
+  },
+  {
+   "h2": "Dobierz odpowiednie pojemniki i skrzynki",
+   "akapity": [
+    "Szklane słoiki bywają ciężkie i łatwo je stłuc, dlatego w warsztacie lepiej sprawdzają się kuwety magazynowe lub skrzynki z przegródkami. Otwarte pojemniki pozwalają sięgnąć po śrubę jedną ręką bez odkręcania wieczek. Małe skrzynki z przegródkami to dobry wybór na drobne podkładki, nakrętki i uszczelki.",
+    "Wybieraj pojemniki z tworzywa sztucznego, które można układać w stosy lub zawieszać na pionowych ścianach. Przezroczyste ścianki ułatwiają szybką ocenę zawartości, dzięki czemu od razu widzisz, czy dany rozmiar się kończy."
+   ]
+  },
+  {
+   "h2": "Opisuj przegródki według rozmiaru",
+   "akapity": [
+    "Nawet najlepiej posortowane śruby znowu się pomieszają, jeśli pojemniki nie będą jasno podpisane. Wystarczy prosta taśma malarska i marker lub gotowa etykieta z oznaczeniem średnicy i długości, na przykład M6x40 czy 4x50. Przy wkrętach warto dopisać też rodzaj gniazda.",
+    "Dobrym nawykiem jest odkładanie nadmiarowych elementów natychmiast po skończeniu montażu. Jeśli zostawisz to na później, drobiazgi znowu wylądują w jednej przypadkowej puszce."
+   ]
+  },
+  {
+   "h2": "Trzymaj drobiazgi na pionowych ścianach",
+   "akapity": [
+    "Najczęściej używane elementy złączne powinny znajdować się bezpośrednio nad miejscem pracy. Trzymanie ich w głębokich szufladach sprawia, że trudniej utrzymać porządek. Pionowe panele z uchwytami na skrzynki oszczędzają miejsce na blacie i dają swobodny dostęp do każdego rozmiaru."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli majsterkujesz przy aucie, dobrym rozwiązaniem jest wiata CarportActive ze stalowym panelem narzędziowym na bocznej ścianie. Panel perforowany pozwala zawiesić specjalne skrzynki na drobne części, śruby i rzeczy, które łatwo zgubić. Wszystko masz pod dachem tuż przy samochodzie, a na wiacie 4 x 6 m z boku zostaje też miejsce na stanowisko pracy.",
+ "faq": [
+  {
+   "pytanie": "Czy śruby w skrzynkach na panelu wiaty nie zamokną?",
+   "odpowiedz": "Panel jest zamontowany pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy panel na drobne części można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma przygotowane punkty montażowe. W przypadku wiaty innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ skrzynek i haków na panelu można zmieniać?",
+   "odpowiedz": "Tak. Panel to stalowa płyta z otworami, więc skrzynki i haki przekładasz samodzielnie w dowolnej chwili, a sam zestaw elementów dobiera się przy wycenie."
+  }
+ ],
+ "nr": 45,
+ "kolejnosc": 164,
+ "temat": "organizacja drobnych części i śrub",
+ "adres": "organizacja-drobnych-czesci-i-srub",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

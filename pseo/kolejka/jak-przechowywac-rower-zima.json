@@ -1,0 +1,56 @@
+{
+ "tytul": "Jak przechowywać rower zimą. Praktyczny poradnik",
+ "opis_meta": "Sprawdź, jak przechowywać rower zimą bez niszczenia sprzętu. Dowiedz się, jak przygotować napęd, zadbać o opony i znaleźć dobre miejsce pod dachem.",
+ "wstep": "Zostawienie roweru na zimę bez przygotowania to prosta droga do rdzy i spękanych opon. Niezależnie od tego, czy masz wolną przestrzeń w budynku, czy na zewnątrz, liczy się kilka prostych zasad. Sprawdź, jak zabezpieczyć sprzęt, aby na wiosnę od razu nadawał się do jazdy.",
+ "sekcje": [
+  {
+   "h2": "Czyszczenie i smarowanie napędu",
+   "akapity": [
+    "Zanim odstawisz rower na kilka miesięcy, zacznij od dokładnego mycia. Błoto, piasek i sól drogowa przyciągają wilgoć, która szybko niszczy lakier oraz stalowe elementy. Po umyciu wytrzyj rower do sucha, skupiając się na łańcuchu, kasecie i przerzutkach.",
+    "Kolejny krok to nałożenie świeżego oleju na łańcuch. Czysta warstwa smaru odcina dostęp wilgoci do metalu i zapobiega powstawaniu nalotu rdzy. Możesz też przetrzeć cienką warstwą preparatu antykorozyjnego odsłonięte linki oraz śruby."
+   ]
+  },
+  {
+   "h2": "Dbanie o opony i odpowiednia pozycja",
+   "akapity": [
+    "Jeśli rower stoi na kołach, dopompuj opony do zalecanego ciśnienia. Stojący przez całą zimę flak powoduje, że ścianki boczne opony załamują się i parcieją pod własnym ciężarem. Warto raz w miesiącu sprawdzić stan powietrza i w razie potrzeby dopompować koła.",
+    "Dobrym rozwiązaniem jest powieszenie roweru na ścianie za pomocą wieszaków. Opony nie dotykają wtedy podłoża, a cały sprzęt nie zajmuje cennego miejsca na podłodze. Dzięki temu unikasz zniekształcenia gumy i zyskujesz swobodne przejście."
+   ]
+  },
+  {
+   "h2": "Warunki w miejscu przechowywania",
+   "akapity": [
+    "Największym wrogiem jednośladu zimą nie jest niska temperatura, lecz wilgoć. Unikaj szczelnego owijania roweru folią stretch, ponieważ pod takim przykryciem skrapla się para wodna, która nie ma jak odparować. Sprzęt potrzebuje stałego, swobodnego przepływu powietrza.",
+    "Wystarczy solidne zadaszenie, które osłoni rower przed bezpośrednim deszczem i topniejącym śniegiem. W przewiewnym miejscu krople szybko schną, dzięki czemu metalowe elementy pozostają bezpieczne przez cały okres zimowy."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie przed kradzieżą",
+   "akapity": [
+    "Zimą rzadziej doglądasz sprzętu sportowego, co sprzyja nieproszonym gościom. Zawsze przypinaj rower mocnym zapięciem do stałego elementu otoczenia, a nie tylko blokuj samo koło. Przypinaj ramę do trwałej konstrukcji nośnej, której nie da się szybko przeciąć ani odkręcić."
+   ]
+  }
+ ],
+ "rozwiazanie": "Problem braku miejsca w garażu i przedpokoju rozwiązuje wiata z przechowalnią rowerów CarportActive. Rowery wiszą na ścianie wiaty na dedykowanych wieszakach lub stoją w stojakach, dzięki czemu łańcuch nie rdzewieje na deszczu, a podłoga zostaje wolna. Sprzęt możesz przypiąć do stalowej konstrukcji wiaty lub zamówić wydzieloną, zamkniętą strefę. Przed decyzją możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rower może zimować na zewnątrz pod wiatą?",
+   "odpowiedz": "Tak, pod dachem wiaty rower jest chroniony przed opadami, a łańcuch nie rdzewieje na deszczu. Naturalna wentylacja zapobiega gromadzeniu się wilgoci."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć rowery przed kradzieżą pod wiatą?",
+   "odpowiedz": "Rower można przypiąć zapięciem bezpośrednio do stalowej konstrukcji wiaty. Jeśli chcesz większego bezpieczeństwa, część wiaty można wydzielić jako zamykaną strefę, co ustala się przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "Pojemność zależy od rozmiaru wiaty i układu wieszaków. Najwięcej miejsca z boku daje wiata 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru konstrukcji."
+  }
+ ],
+ "nr": 90,
+ "kolejnosc": 40,
+ "temat": "jak przechowywać rower zimą",
+ "adres": "jak-przechowywac-rower-zima",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

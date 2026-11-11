@@ -1,0 +1,50 @@
+{
+ "tytul": "Zioła blisko kuchni na dworze. Jak urządzić wygodny zielnik",
+ "opis_meta": "Chcesz mieć świeże zioła blisko kuchni na dworze? Sprawdź, jak zaplanować podręczny zielnik na małej przestrzeni, dobrać stanowisko i zadbać o podlewanie.",
+ "wstep": "Świeże zioła pod ręką podczas gotowania to duża wygoda. Zamiast biegać na drugi koniec ogrodu, najlepiej mieć je tuż przy wyjściu z kuchni na podwórko. Nawet na małej przestrzeni da się urządzić wygodny kącik ziołowy.",
+ "sekcje": [
+  {
+   "h2": "Najlepsze miejsce na zioła blisko domu",
+   "akapity": [
+    "Planując zielnik na zewnątrz, zwróć uwagę na odległość od drzwi kuchennych lub tarasowych. Jeśli musisz przejść całe podwórko po gałązkę rozmarynu, rzadziej będziesz z niej korzystać. Najlepiej sprawdza się strefa tuż przy wejściu, wzdłuż ścieżki lub przy podjeździe.",
+    "Większość ziół, takich jak bazylia, tymianek czy oregano, potrzebuje dużo słońca. Wybierz miejsce od strony południowej lub zachodniej, osłonięte od silnego wiatru. Jeśli w tym miejscu brakuje gruntu pod grządkę, postaw na uprawę w pojemnikach."
+   ]
+  },
+  {
+   "h2": "Pionowe rozwiązania zamiast tradycyjnych grządek",
+   "akapity": [
+    "Często przy samej kuchni jest tylko wybrukowany podjazd lub wąskie przejście. W takich miejscach tradycyjna rabata zabrałaby zbyt wiele cennej przestrzeni. Dobrym wyjściem jest wykorzystanie pionowych powierzchni, takich jak ściany czy wolnostojące konstrukcje.",
+    "Pionowy układ pojemników ustawionych jeden nad drugim pozwala zyskać sporo miejsca na liście i pędy, zajmując przy tym minimalną powierzchnię na ziemi. Dzięki temu masz łatwy dostęp do świeżych ziół na wysokości rąk, bez konieczności schylania się."
+   ]
+  },
+  {
+   "h2": "Ziemia i woda w uprawie pojemnikowej",
+   "akapity": [
+    "Rośliny uprawiane w pionie mają mniejszą objętość podłoża niż te w gruncie. Oznacza to, że ziemia w modułach i donicach wysycha znacznie szybciej, szczególnie w upalne i słoneczne dni. Zioła wymagają wtedy regularnego i pilnowanego nawadniania.",
+    "Jeśli masz mało czasu na codzienne bieganie z konewką, pomyśl o automatycznym doprowadzeniu wody. Prosty system kropelkowy zabezpieczy korzenie przed przesuszeniem, a Ty będziesz cieszyć się zielenią przez cały sezon."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na zioła tuż przy domu jest wiata z ogrodem wertykalnym od CarportActive. Boczny panel wiaty mieści moduły roślinne ustawione jeden nad drugim, które można wyposażyć w opcję nawadniania. Konstrukcja ze stali S235 jest ocynkowana ogniowo i malowana proszkowo, więc wilgoć jej nie szkodzi, a montaż trwa zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jakie rośliny najlepiej wybrać do pionowego ogrodu?",
+   "odpowiedz": "Wybór zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, natomiast zioła i kwiaty sezonowe potrzebują słońca oraz regularnego podlewania."
+  },
+  {
+   "pytanie": "Czy pionowy zielnik trzeba podlewać codziennie?",
+   "odpowiedz": "W upały ziemia w pionowych modułach wysycha szybciej niż na zwykłej grządce. Warto wtedy podlewać rośliny regularnie lub zdecydować się na opcję nawadniania, której zakres ustala się indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z podlewania ziół nie zniszczy stalowej wiaty?",
+   "odpowiedz": "Nie, stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na stały kontakt z wodą i deszczem przez cały rok."
+  }
+ ],
+ "nr": 61,
+ "kolejnosc": 137,
+ "temat": "zioła blisko kuchni na dworze",
+ "adres": "ziola-blisko-kuchni-na-dworze",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

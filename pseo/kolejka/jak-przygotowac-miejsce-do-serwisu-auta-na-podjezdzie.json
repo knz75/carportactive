@@ -1,0 +1,53 @@
+{
+ "tytul": "Jak przygotować miejsce do serwisu auta na podjeździe",
+ "opis_meta": "Sprawdź, jak przygotować miejsce do serwisu auta na podjeździe. Zadbaj o równe podłoże, dostęp do prądu i porządek w narzędziach.",
+ "wstep": "Drobne naprawy auta na podjeździe wymagają dobrej organizacji przestrzeni. Zamiast biegać co chwilę po klucze, warto przygotować to miejsce raz a dobrze. Podpowiadamy, na co zwrócić uwagę, żeby praca przy samochodzie była wygodna i bezpieczna.",
+ "sekcje": [
+  {
+   "h2": "Równe i stabilne podłoże pod samochód",
+   "akapity": [
+    "Do serwisu potrzebujesz równej i utwardzonej nawierzchni. Samochód musi stać stabilnie, szczególnie gdy używasz lewarka lub kobyłek. Praca na miękkiej ziemi albo pochyłym terenie stwarza zagrożenie."
+   ]
+  },
+  {
+   "h2": "Zadbaj o przestrzeń roboczą wokół auta",
+   "akapity": [
+    "Wokół pojazdu musisz mieć swobodę ruchów. Zaplanuj szerokość stanowiska tak, aby bez trudu otworzyć drzwi na pełną szerokość i zdjąć koło. Ściskanie się między autem a płotem utrudnia każdą prostą czynność."
+   ]
+  },
+  {
+   "h2": "Dostęp do prądu i dobre oświetlenie",
+   "akapity": [
+    "Podczas prac pod maską lub podwoziem dobre światło to konieczność. Zapewnij sobie bezpieczne doprowadzenie prądu na podjazd. Przyda się miejsce na przedłużacz i lampę warsztatową, aby kable nie plątały się pod nogami."
+   ]
+  },
+  {
+   "h2": "Porządek w narzędziach i częściach",
+   "akapity": [
+    "W trakcie serwisu łatwo zgubić śruby, podkładki czy nasadki kluczy. Zorganizuj małe pojemniki na drobiazgi oraz wieszaki na podstawowe narzędzia. Kiedy odkładasz sprzęt zawsze w to samo miejsce, naprawa idzie znacznie szybciej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodnym rozwiązaniem tego problemu jest wiata CarportActive z panelem narzędziowym montowanym na bocznej ścianie. Stalowa płyta z otworami pozwala zawiesić klucze, przedłużacze i skrzynki na śruby bezpośrednio pod dachem, tam gdzie pracujesz. Na wiacie 4 x 6 m z boku zostaje też wystarczająco dużo miejsca na swobodne stanowisko pracy.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu nie zamokną?",
+   "odpowiedz": "Panel jest pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo - to nie jest zamknięte pomieszczenie."
+  },
+  {
+   "pytanie": "Czy panel można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ma przygotowane punkty montażowe. Przy wiacie innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  },
+  {
+   "pytanie": "Czy układ haków można dopasować do moich narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty ustawiasz sam, a zestaw dobieramy przy wycenie."
+  }
+ ],
+ "nr": 38,
+ "kolejnosc": 109,
+ "temat": "jak przygotować miejsce do serwisu auta na podjeździe",
+ "adres": "jak-przygotowac-miejsce-do-serwisu-auta-na-podjezdzie",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

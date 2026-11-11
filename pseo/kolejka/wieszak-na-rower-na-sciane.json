@@ -1,0 +1,50 @@
+{
+ "tytul": "Wieszak na rower na ścianę - jak wybrać i zamontować",
+ "opis_meta": "Szukasz wieszaka na rower na ścianę? Sprawdź, jak dobrać mocowanie do podłoża, na jakiej wysokości powiesić hak i jak zaoszczędzić miejsce w garażu.",
+ "wstep": "Wieszak na rower na ścianę pozwala odzyskać przestrzeń na podłodze w garażu lub piwnicy. Zanim wywiercisz pierwszy otwór, musisz sprawdzić rodzaj ściany i zmierzyć swój rower. Źle dobrany hak utrudnia codzienne zdejmowanie jednośladu albo niszczy koła.",
+ "sekcje": [
+  {
+   "h2": "Wieszak za koło czy za ramę - co wybrać",
+   "akapity": [
+    "Wieszak pionowy trzyma rower za przednie koło. Sprzęt wisi wtedy prostopadle do ściany, co pozwala zmieścić więcej jednośladów obok siebie, ale wymaga podniesienia całego roweru. Przy cięższych modelach może to być po prostu niewygodne na co dzień.",
+    "Wieszak poziomy podpiera rower pod górną rurą ramy. Jednoślad przylega wtedy płasko do ściany, a jego zawieszenie wymaga mniejszego wysiłku. Ten typ sprawdza się dobrze w długich korytarzach i wzdłuż wolnych ścian garażu, gdzie nie chcesz blokować przejścia."
+   ]
+  },
+  {
+   "h2": "Bezpieczny montaż i dobór mocowań",
+   "akapity": [
+    "Zwykły rower waży kilkanaście kilogramów, a modele miejskie bywają jeszcze cięższe. Dlatego rodzaj kołków musisz dobrać bezpośrednio do materiału, z którego postawiono ścianę. W pełnej cegle lub betonie wystarczą solidne kołki rozporowe, ale w pustakach ceramicznych lub gazobetonie potrzebujesz specjalnych mocowań do podłoży z pustkami.",
+    "Przed montażem upewnij się, że hak ma osłonę z gumy lub tworzywa sztucznego. Czysty metal szybko porysuje lakier na ramie lub krawędź obręczy. Sprawdź też szerokość opony w swoim rowerze, bo szerokie ogumienie może nie mieścić się w wąskich uchwytach."
+   ]
+  },
+  {
+   "h2": "Na jakiej wysokości zamontować wieszak",
+   "akapity": [
+    "Wysokość wieszaka dopasuj do swojego wzrostu oraz wagi jednośladu. Przy haku pionowym tylne koło nie musi wisieć metr nad posadzką, wystarczy zaledwie kilka centymetrów wolnej przestrzeni pod oponą. Dzięki temu unosisz przednie koło na mniejszą wysokość i nie dźwigasz całej ramy.",
+    "Gdy planujesz powiesić kilka rowerów na jednej ścianie, zamontuj wieszaki naprzemiennie, jeden wyżej, a drugi niżej. Kierownice sąsiadujących rowerów miną się wtedy na różnej wysokości. Pozwoli Ci to powiesić sprzęt znacznie bliżej siebie i zaoszczędzić sporo miejsca."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli w Twoim garażu lub przedpokoju brakuje miejsca, rozwiązaniem może być wiata z przechowalnią rowerów CarportActive. W takim układzie wieszaki są przykręcone do konstrukcji wiaty, dzięki czemu rowery wiszą na ścianie, nie zajmują podłogi, a ich łańcuch nie rdzewieje na deszczu. Najwięcej przestrzeni z boku zapewnia wiata o wymiarach 4 x 6 m, gdzie obok wieszaków ściennych możesz ustawić stojaki na rowery dzieci oraz połączyć przechowalnię z panelem narzędziowym.",
+ "faq": [
+  {
+   "pytanie": "Czy wieszak ścienny może uszkodzić koło roweru?",
+   "odpowiedz": "Uchwyt pokryty powłoką z gumy nie niszczy obręczy ani szprych, o ile hak jest dobrany do szerokości opony, a rower wisi swobodnie bez bocznych naprężeń."
+  },
+  {
+   "pytanie": "Co zrobić z rowerami dzieci, których nie da się powiesić?",
+   "odpowiedz": "Dla rowerków dziecięcych oraz hulajnóg lepszym wyborem są niskie stojaki podłogowe, z których dziecko może skorzystać samodzielnie bez podnoszenia sprzętu."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć powieszony rower przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć zapięciem rowerowym do stalowej konstrukcji nośnej lub zamontowanej kotwy ściennej, co uniemożliwia szybkie zdjęcie sprzętu z haka."
+  }
+ ],
+ "nr": 89,
+ "kolejnosc": 31,
+ "temat": "wieszak na rower na ścianę",
+ "adres": "wieszak-na-rower-na-sciane",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

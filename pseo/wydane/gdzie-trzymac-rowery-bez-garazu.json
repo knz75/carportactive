@@ -1,0 +1,53 @@
+{
+ "tytul": "Gdzie trzymać rowery bez garażu? Praktyczne sposoby",
+ "opis_meta": "Brak garażu nie musi oznaczać zagraconego korytarza. Zobacz sprawdzone sposoby na bezpieczne trzymanie rowerów na zewnątrz i w domu.",
+ "wstep": "Brak garażu szybko rodzi problem z jednośladami stojącymi w przedpokoju lub na podjeździe. Pozostawienie sprzętu bez ochrony przed deszczem niszczy napęd i skraca żywotność komponentów. Zobacz, jak zorganizować miejsce na rowery, żeby nie zawadzały i nie niszczały.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego trzymanie roweru pod chmurką to zły pomysł",
+   "akapity": [
+    "Deszcz i wilgoć to najwięksi wrogowie jednośladów. Kiedy rower stoi na zewnątrz bez zadaszenia, woda wypłukuje smar z łańcucha, łożysk oraz linek. Po kilku tygodniach na napędzie pojawia się nalot rdzy, a biegi zaczynają ciężko wchodzić.",
+    "Słońce również robi swoje. Promieniowanie UV niszczy gumowe opony, powoduje pękanie chwytów na kierownicy i płowienie lakieru. Nawet zwykły daszek chroniący przed opadami znacznie wydłuża sprawność całego osprzętu."
+   ]
+  },
+  {
+   "h2": "Przechowywanie rowerów w domu i na balkonie",
+   "akapity": [
+    "Wielu właścicieli decyduje się na wnoszenie rowerów do mieszkania. W przedpokoju sprawdzają się haki ścienne, dzięki którym koła nie stoją na podłodze i łatwiej utrzymać czystość. Trzeba jednak pamiętać o regularnym zmywaniu błota po powrocie z trasy.",
+    "Balkon wydaje się prostym rozwiązaniem, ale ma wady. Wnoszenie ciężkiego sprzętu przez pokoje bywa uciążliwe, a ciasna przestrzeń utrudnia codzienne korzystanie z balkonu. Dodatkowo balkon rzadko w pełni chroni przed zacinającym deszczem i mrozem."
+   ]
+  },
+  {
+   "h2": "Sposoby na bezpieczne trzymanie sprzętu na posesji",
+   "akapity": [
+    "Jeśli masz kawałek podwórka, najlepiej zorganizować dedykowany punkt postojowy pod zadaszeniem. Zastosowanie wieszaków ściennych pozwala powiesić ramę pionowo lub poziomo, co uwalnia podłoże i ułatwia poruszanie się po posesji.",
+    "Dla mniejszych rowerów dziecięcych oraz hulajnóg lepiej sprawdzają się niskie stojaki podłogowe. Dzieci mogą wtedy samodzielnie odstawić swój sprzęt bez sięgania do wysokich haków. Zawsze pamiętaj też o przypięciu ramy solidnym zapięciem do stałego elementu podłoża lub ściany."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów rozwiązuje ten problem na Twoim podwórku. Wieszaki i stojaki są przykręcone bezpośrednio do stalowej konstrukcji, dzięki czemu rowery, hulajnogi i boxy dachowe wiszą pod dachem, a łańcuch nie rdzewieje na deszczu. Jeśli chcesz, część wiaty można wydzielić jako zamykaną strefę, a całość postawić w zazwyczaj 1 dzień roboczy. Na stronie CarportActive możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę - jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To zależy od rozmiaru wiaty i układu wieszaków, a najwięcej miejsca z boku daje wariant 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru konstrukcji."
+  },
+  {
+   "pytanie": "Czy w strefie rowerowej można też naprawiać sprzęt?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą na ścianie obok rowerów."
+  }
+ ],
+ "nr": 86,
+ "kolejnosc": 4,
+ "temat": "gdzie trzymać rowery bez garażu",
+ "adres": "gdzie-trzymac-rowery-bez-garazu",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ],
+ "wydano": "2026-11-11"
+}

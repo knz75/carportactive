@@ -1,0 +1,52 @@
+{
+ "tytul": "Cień od drzew a panele na wiacie. Co warto wiedzieć?",
+ "opis_meta": "Drzewa rzucają cień na Twoją wiatę? Zobacz, jak zacienienie wpływa na panele fotowoltaiczne i jak zaplanować miejsce pod instalację na podjeździe.",
+ "wstep": "Drzewa w ogrodzie dają przyjemny chłód, ale dla instalacji słonecznej bywają przeszkodą. Nawet pojedyncza gałąź rzucająca cień w złym momencie może zauważalnie obniżyć dzienną produkcję energii. Zanim postawisz konstrukcję, sprawdź, jak słońce wędruje nad Twoim podwórkiem przez cały rok.",
+ "sekcje": [
+  {
+   "h2": "Jak cień wpływa na pracę modułów fotowoltaicznych",
+   "akapity": [
+    "Moduły połączone w jeden obwód działają zależnie od siebie. Gdy gęsty cień zasłoni fragment jednego panelu, spadek wydajności może dotknąć cały łańcuch. Z tego powodu nawet wąski cień od pnia czy gałęzi ma znaczenie dla końcowego wyniku.",
+    "Warto też pamiętać, że cień zmienia się wraz z porami roku. Latem słońce świeci wysoko, więc korony drzew rzucają krótsze cienie. Jesienią i zimą kąt padania światła jest znacznie niższy, przez co cień kładzie się daleko na podjeździe."
+   ]
+  },
+  {
+   "h2": "Obserwacja podwórka przed wyborem miejsca",
+   "akapity": [
+    "Najwięcej energii instalacja produkuje w środku dnia. Jeśli właśnie w tych godzinach gałęzie zasłaniają planowane miejsce postojowe, straty będą najbardziej odczuwalne. Wyjdź na podjazd w słoneczny dzień o różnych porach i zobacz, gdzie dokładnie wędruje linia cienia.",
+    "Zwróć też uwagę na tempo wzrostu drzew w pobliżu. Młode rośliny za kilka lat mogą urosnąć i zacząć zasłaniać dach, który dzisiaj jest w pełnym słońcu. Czasem wystarczy regularne przycinanie gałęzi, aby zachować odpowiedni dostęp do światła."
+   ]
+  },
+  {
+   "h2": "Jak ograniczyć straty przy częściowym zacienieniu",
+   "akapity": [
+    "Jeśli cienia nie da się w pełni uniknąć, z pomocą przychodzą rozwiązania techniczne. Instalatorzy często proponują optymalizatory mocy lub mikrofalowniki. Dzięki nim zacieniony moduł pracuje słabiej, ale nie ogranicza pozostałych paneli w układzie.",
+    "Kluczowe jest również samo ustawienie wiaty na działce. Przesunięcie zadaszenia o kilka metrów dalej od granicy zadrzewienia potrafi całkowicie wyeliminować problem porannego lub popołudniowego cienia."
+   ]
+  }
+ ],
+ "rozwiazanie": "W planowaniu podjazdu pomaga Solar Box - wiata pod fotowoltaikę od CarportActive. Jej wzmocniony dach zrobiony ze stali konstrukcyjnej S235 ze słupami przygotowanymi na dodatkowy ciężar unosi od 6 do 12 paneli, a model 6 x 6 m daje największą powierzchnię. Konstrukcję możesz postawić od razu, a same moduły zamontować w kolejnym sezonie. Jeśli chcesz sprawdzić najlepsze miejsce z dala od drzew, wgraj zdjęcie podjazdu do wizualizatora AI, który pokaże wiatę w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy panele w cieniu w ogóle produkują prąd?",
+   "odpowiedz": "Panele działają również przy świetle rozproszonym, ale produkują wtedy znacznie mniej energii. Trwały cień od gałęzi obniża ich sprawność."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, więc moduły można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto wykonuje podłączenie elektryczne paneli na wiacie?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy, że napiszesz, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 124,
+ "kolejnosc": 161,
+ "temat": "cień od drzew a panele na wiacie",
+ "adres": "cien-od-drzew-a-panele-na-wiacie",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

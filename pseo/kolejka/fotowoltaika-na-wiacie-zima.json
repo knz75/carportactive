@@ -1,0 +1,50 @@
+{
+ "tytul": "Fotowoltaika na wiacie zimą. Jak działa i o czym pamiętać?",
+ "opis_meta": "Sprawdź, jak działa fotowoltaika na wiacie zimą. Dowiedz się, co ze śniegiem, produkcją prądu i obciążeniem dachu. Poznaj praktyczne wskazówki montera.",
+ "wstep": "Zastanawiasz się, jak radzi sobie fotowoltaika na wiacie zimą. Krótszy dzień i śnieg oznaczają mniejszą produkcję prądu, ale instalacja nadal pracuje. Kluczowe znaczenie ma wytrzymałość samej konstrukcji oraz rozsądne podejście do zsuwającego się śniegu.",
+ "sekcje": [
+  {
+   "h2": "Ile prądu daje wiata fotowoltaiczna zimą?",
+   "akapity": [
+    "Zimą słońce świeci krócej i pod niższym kątem. W pochmurne dni moduły produkują znacznie mniej energii niż w środku lata. Prąd powstaje jednak również ze światła rozproszonego, o ile paneli nie zakrywa gruba warstwa śniegu.",
+    "Niska temperatura sprzyja wydajności krzemowych ogniw. W mroźny, ale bezchmurny dzień fotowoltaika potrafi wygenerować bardzo przyzwoite porcje energii, ponieważ panele nie przegrzewają się tak jak w upalne popołudnia."
+   ]
+  },
+  {
+   "h2": "Śnieg na panelach fotowoltaicznych - co z nim zrobić?",
+   "akapity": [
+    "W większości przypadków śnieg najlepiej zostawić w spokoju. Moduły mają gładką, śliską taflę szkła, a pod wpływem słońca szybko łapią temperaturę. Warstwa śniegu zaczyna wtedy od spodu topnieć i zsuwa się samoczynnie w dół.",
+    "Jeśli decydujesz się na usuwanie śniegu, unikaj twardych narzędzi i metalowych łopat. Ostre krawędzie mogą porysować szkło lub uszkodzić ramę modułu. Wystarczy do tego miękka szczotka na długim wysięgniku."
+   ]
+  },
+  {
+   "h2": "Ciężar śniegu a nośność wiaty",
+   "akapity": [
+    "Śnieg potrafi ważyć naprawdę dużo, szczególnie gdy jest mokry i zbity. Tradycyjna wiata garażowa projektowana pod lekki dach może nie wytrzymać jednoczesnego naporu modułów oraz grubej pokrywy śnieżnej.",
+    "Konstrukcja pod fotowoltaikę musi mieć odpowiednio przeliczone słupy i fundamenty. Właściwy zapas nośności sprawia, że konstrukcja stoi stabilnie, a zaparkowany pod nią samochód jest bezpieczny przez całą zimę."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive problem nośności rozwiązuje wiata Solar Box ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym. Jej dach to wzmocniona konstrukcja przygotowana pod panele PV, a słupy i fundamenty mają zapas nośności liczony na dodatkowy ciężar instalacji. Na największej wiacie dwustanowiskowej 6 x 6 m zmieści się do 12 paneli, a montaż całości zajmuje zazwyczaj 1 dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy muszę regularnie odśnieżać panele na wiacie?",
+   "odpowiedz": "Nie ma takiej konieczności przy każdym opadzie. Ciemne panele szybko nagrzewają się na słońcu, dzięki czemu śnieg sam zsuwa się po śliskim szkle."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę zimą, a panele założyć dopiero wiosną?",
+   "odpowiedz": "Tak, jeśli wybierzesz wariant Solar Box ze wzmocnioną konstrukcją. Dach i słupy są przygotowane na moduły, które bez problemu zamontujesz w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy konstrukcja wiaty wytrzyma nagły atak zimy?",
+   "odpowiedz": "W wersji Solar Box słupy i fundamenty są liczone na dodatkowy ciężar paneli, dzięki czemu konstrukcja zachowuje stabilność również pod obciążeniem śniegiem."
+  }
+ ],
+ "nr": 120,
+ "kolejnosc": 131,
+ "temat": "fotowoltaika na wiacie zimą",
+ "adres": "fotowoltaika-na-wiacie-zima",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

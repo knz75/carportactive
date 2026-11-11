@@ -1,0 +1,50 @@
+{
+ "tytul": "Street workout w ogrodzie - co postawić do ćwiczeń",
+ "opis_meta": "Planujesz street workout w ogrodzie? Zobacz, jaki sprzęt postawić na podwórku, na co uważać przy pogodzie i jak ćwiczyć na ograniczonej przestrzeni.",
+ "wstep": "Chcesz trenować na świeżym powietrzu, ale nie wiesz, co sprawdzi się na własnym podwórku? Do wszechstronnego treningu z masą własnego ciała nie potrzebujesz skomplikowanych maszyn. Wystarczą proste elementy, które pozwolą wykonać pełen zestaw ćwiczeń.",
+ "sekcje": [
+  {
+   "h2": "Najważniejsze przyrządy do domowego street workoutu",
+   "akapity": [
+    "Bazą każdego stanowiska do kalisteniki jest drążek do podciągania. Umożliwia podciąganie różnymi chwytami oraz zwisy, które wzmacniają plecy, ramiona i chwyt. Drugim kluczowym elementem są stabilne poręcze równoległe, na których wykonasz pompki w podporze, czyli dipy.",
+    "Przydatnym uzupełnieniem jest pionowa drabinka. Sprawdza się do rozgrzewki przed bieganiem, rozciągania mięśni oraz unoszenia nóg w zwisie na mięśnie brzucha. Mając te trzy elementy, wykonasz pełny trening bez wychodzenia na publiczne place zabaw."
+   ]
+  },
+  {
+   "h2": "Gdzie i jak ustawić konstrukcję na działce",
+   "akapity": [
+    "Stawiając sprzęt w ogrodzie, musisz zadbać o stabilne podłoże i wolną przestrzeń dookoła. Podczas dynamicznych wymachów czy zeskakiwania z drążka potrzebujesz bezpiecznego lądowania bez ryzyka uderzenia w płot lub rabatę.",
+    "Trzeba też pamiętać o podłożu po deszczu. Mokry trawnik pod przyrządami szybko zamienia się w błoto, co utrudnia regularne ćwiczenia. Warto zaplanować utwardzony fragment lub stawiać konstrukcję w pobliżu istniejących ścieżek i podjazdów."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie stali przed warunkami pogodowymi",
+   "akapity": [
+    "Sprzęt treningowy na zewnątrz stoi w deszczu, śniegu i słońcu przez cały rok. Zwykła farba szybko odpryskuje, a na spawach pojawia się rdza, która niszczy konstrukcję i brudzi dłonie podczas chwytu.",
+    "Trwałe rozwiązanie to stal zabezpieczona przez ocynk ogniowy i malowanie proszkowe. Taka powłoka chroni metal przed wilgocią i sprawia, że przyrządy zachowują gładkość i trwałość przez wiele sezonów bez konieczności ciągłego odnawiania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli nie chcesz zajmować trawnika osobną konstrukcją, rozwiązaniem jest wiata CarportActive ze stali konstrukcyjnej S235 z modułem sportowym. Drabinka szwedzka, drążek i poręcze są przykręcone bezpośrednio do słupów wiaty, więc trenujesz pod dachem, tuż obok domu. Najwygodniej sprawdza się rozmiar 4 x 6 m, gdzie obok zaparkowanego auta zostaje swobodna przestrzeń na trening.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 9,
+ "kolejnosc": 72,
+ "temat": "street workout w ogrodzie - co postawić",
+ "adres": "street-workout-w-ogrodzie-co-postawic",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

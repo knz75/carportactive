@@ -1,0 +1,59 @@
+{
+ "tytul": "Ile paneli zmieści się na wiacie 6 x 6 m? Sprawdź układ",
+ "opis_meta": "Zastanawiasz się, ile paneli fotowoltaicznych zmieści wiata 6 x 6 m? Sprawdź realny układ modułów na dachu oraz wymagania dotyczące konstrukcji.",
+ "wstep": "Na wiacie dwustanowiskowej o wymiarach 6 x 6 m zmieścisz do 12 paneli fotowoltaicznych. Dokładna liczba zależy od wymiarów modułów i sposobu ich rozplanowania na połaci. Zobacz, jak bezpiecznie zaplanować taką przestrzeń, aby dach bez trudu utrzymał cały zestaw.",
+ "sekcje": [
+  {
+   "h2": "Układ modułów na wiacie dwustanowiskowej",
+   "akapity": [
+    "Wymiary 6 x 6 m dają 36 metrów kwadratowych powierzchni dachu, co stanowi największą standardową połać pod montaż fotowoltaiki. Na takim zadaszeniu montuje się zazwyczaj do 12 paneli fotowoltaicznych. Pozwala to na optymalne zapełnienie przestrzeni bez wychodzenia poza obrys dachu.",
+    "Montaż modułów wymaga zachowania odpowiednich odstępów technicznych oraz miejsca na klemy mocujące. Przy planowaniu rozmieszczenia liczy się każdy centymetr ramy, aby krawędzie modułów nie wystawały poza połać wiaty."
+   ]
+  },
+  {
+   "h2": "Obciążenie dachu i wytrzymałość słupów",
+   "akapity": [
+    "Dach pod fotowoltaikę i tak jest potrzebny nad samochodem, ale panele oznaczają dodatkowy ciężar. Zwykła, lekka wiata może nie poradzić sobie z masą modułów oraz naporem wiatru i śniegu.",
+    "Konstrukcja musi mieć wzmocnione słupy oraz odpowiednio przygotowany fundament. Elementy nośne z zapasem nośności gwarantują, że całość zachowa stabilność przez cały rok."
+   ]
+  },
+  {
+   "h2": "Etapowanie inwestycji w zadaszenie i prąd",
+   "akapity": [
+    "Nie musisz montować pełnego zestawu fotowoltaiki od razu w dniu stawiania zadaszenia. Jeśli wybierzesz konstrukcję przygotowaną pod PV, sam montaż modułów możesz odłożyć na kolejny sezon.",
+    "Ważne jest, aby szkielet wiaty od początku był wzmocniony i przystosowany pod docelową liczbę paneli. Dzięki temu unikniesz kosztownych przeróbek i wymiany poszycia w przyszłości."
+   ]
+  },
+  {
+   "h2": "Miejsce parkingowe jako punkt ładowania",
+   "akapity": [
+    "Wiata dla dwóch aut pozwala połączyć funkcję ochronną z produkcją prądu dla domu. Dobrze zaprojektowany obiekt uwzględnia również gotowość pod montaż ładowarki typu Wallbox przy słupie.",
+    "Dzięki takiemu rozwiązaniu podłączasz samochód elektryczny bezpośrednio pod zadaszeniem. Prąd wytworzony na dachu wiaty trafia wprost do baterii pojazdu lub zasila domowe sprzęty."
+   ]
+  }
+ ],
+ "rozwiazanie": "W ofercie CarportActive rozwiązaniem jest Solar Box - wiata pod fotowoltaikę ze stali S235, zabezpieczonej ocynkiem ogniowym i lakierem proszkowym. Największa połać dwustanowiskowa 6 x 6 m o wysokości 2,7 m mieści do 12 paneli, a jej wzmocnione słupy posiadają zapas nośności oraz miejsce na Wallbox. Montaż konstrukcji zajmuje zazwyczaj 1 dzień roboczy, a na stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają odpowiedni zapas nośności, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Ile paneli mieści się na wiacie 6 x 6 m?",
+   "odpowiedz": "Na wiacie dwustanowiskowej 6 x 6 m mieści się do 12 paneli. W zależności od wielkości wybranej wiaty montuje się od 6 do 12 modułów."
+  },
+  {
+   "pytanie": "Kto odpowiada za instalację elektryczną i podłączenie paneli?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy podać informację, czy masz już własnego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 112,
+ "kolejnosc": 59,
+ "temat": "ile paneli zmieści się na wiacie 6 x 6 m",
+ "adres": "ile-paneli-zmiesci-sie-na-wiacie-6-x-6-m",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

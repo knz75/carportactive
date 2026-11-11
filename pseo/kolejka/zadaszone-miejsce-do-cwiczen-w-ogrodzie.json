@@ -1,0 +1,52 @@
+{
+ "tytul": "Zadaszone miejsce do ćwiczeń w ogrodzie. Jak je zaplanować?",
+ "opis_meta": "Sprawdź, jak urządzić zadaszone miejsce do ćwiczeń w ogrodzie. Praktyczne wskazówki dotyczące stabilnej ramy, podłoża i ochrony przed deszczem.",
+ "wstep": "Chcesz ćwiczyć na świeżym powietrzu bez względu na pogodę, ale brakuje Ci zadaszenia. Samodzielne stawianie kolejnej wiaty w ogrodzie często zabiera zbyt dużo cennej przestrzeni. Warto wykorzystać konstrukcje, które i tak planujesz postawić na posesji.",
+ "sekcje": [
+  {
+   "h2": "Podłoże i stabilna konstrukcja do ćwiczeń",
+   "akapity": [
+    "Podstawą domowej strefy sportowej na zewnątrz jest stabilność. Kiedy podciągasz się na drążku lub robisz ćwiczenia z masą własnego ciała, na ramę działają spore siły dynamiczne. Zwykłe, lekkie profile ogrodowe szybko złapią luzy, dlatego pionowe elementy muszą być solidnie zakotwione w gruncie.",
+    "Zadbaj też o utwardzone i równe podłoże. Nawierzchnia z kostki lub płyt betonowych daje pewne oparcie dla stóp i ułatwia utrzymanie czystości po opadach."
+   ]
+  },
+  {
+   "h2": "Odporność sprzętu na warunki atmosferyczne",
+   "akapity": [
+    "Sprzęt stojący na zewnątrz przez cały rok jest stale narażony na deszcz, śnieg oraz słońce. Zwykła farba nawierzchniowa szybko odpryskuje, a na łączeniach i spawach pojawia się rdza.",
+    "Żeby uniknąć corocznego czyszczenia i malowania, wybieraj stal zabezpieczoną trwałymi powłokami. Najlepiej sprawdza się ocynk ogniowy w połączeniu z malowaniem proszkowym, co skutecznie chroni konstrukcję przed wilgocią."
+   ]
+  },
+  {
+   "h2": "Jedna konstrukcja zamiast kilku osobnych wiat",
+   "akapity": [
+    "Częstym błędem jest stawianie osobnego zadaszenia na auto, osobnej altany i kolejnej klatki treningowej. Taki układ szybko zagraca podwórko i ogranicza wolne miejsce w ogrodzie.",
+    "Dużo prostszym podejściem jest wykorzystanie nośnych słupów zadaszenia, które i tak stoi przy podjeździe. Wystarczy zaplanować odpowiednią szerokość ramy, aby zyskać suchą przestrzeń treningową tuż obok samochodu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata CarportActive z modułem sportowym pozwala połączyć miejsce parkingowe ze strefą do ćwiczeń. Drabinka szwedzka, drążek do podciągania i poręcze są przykręcane bezpośrednio do słupów ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym. Najwygodniej sprawdza się wariant 4 x 6 m o wysokości 2,7 m, w którym obok auta zostaje przestrzeń na trening. Możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 22,
+ "kolejnosc": 171,
+ "temat": "zadaszone miejsce do ćwiczeń w ogrodzie",
+ "adres": "zadaszone-miejsce-do-cwiczen-w-ogrodzie",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

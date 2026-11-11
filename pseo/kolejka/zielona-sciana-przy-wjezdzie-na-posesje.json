@@ -1,0 +1,50 @@
+{
+ "tytul": "Zielona ściana przy wjeździe na posesję - jak ją zaplanować",
+ "opis_meta": "Szukasz pomysłu na zieloną ścianę przy wjeździe na posesję? Sprawdź, jakie rośliny wybrać, jak radzić sobie z podlewaniem i gdzie ją ustawić.",
+ "wstep": "Wjazd na posesję to pierwsze miejsce, które widzisz po powrocie do domu. Zamiast patrzeć na pustą przestrzeń, możesz zaplanować tam pionowy ogród. W tym poradniku dowiesz się, jak podejść do zielonej ściany, by rośliny dobrze rosły i nie sprawiały kłopotów.",
+ "sekcje": [
+  {
+   "h2": "Gdzie najlepiej sprawdzi się zielona ściana",
+   "akapity": [
+    "Zielona ściana przy wjeździe ma do spełnienia dwa zadania: poprawia wygląd podjazdu i osłania zaparkowany samochód przed słońcem oraz wiatrem. Najlepiej sprawdza się na powierzchniach ustawionych w stronę ulicy lub od strony mocnego nasłonecznienia.",
+    "Pionowy układ zajmuje bardzo mało miejsca na gruncie, a daje nawet kilka metrów kwadratowych zieleni. To praktyczne rozwiązanie na wąskich podjazdach, gdzie brakuje przestrzeni na klasyczne rabaty."
+   ]
+  },
+  {
+   "h2": "Jakie rośliny wybrać do pionowego ogrodu",
+   "akapity": [
+    "Wybór roślin zależy od strony świata oraz czasu, jaki chcesz poświęcić na pielęgnację. Pnącza są najmniej wymagające i dobrze radzą sobie na pionowych powierzchniach.",
+    "Na stanowiskach z dużą ilością słońca sprawdzają się zioła oraz kwiaty sezonowe. Pamiętaj jednak, że zioła potrzebują więcej uwagi i systematycznego dostarczania wody."
+   ]
+  },
+  {
+   "h2": "Podlewanie i kontakt konstrukcji z wilgocią",
+   "akapity": [
+    "W pojemnikach ułożonych pionowo ziemia wysycha znacznie szybciej niż na zwykłej grządce w gruncie. Podczas upałów rośliny w pionie wymagają częstszego podlewania, dlatego warto od razu zaplanować odpowiednie nawadnianie.",
+    "Kluczowa jest też odporność samej konstrukcji nośnej. Elementy, na których wiszą rośliny, muszą być skutecznie zabezpieczone przed korozją, ponieważ mają stały kontakt z wodą oraz ziemią."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive problem ten rozwiązuje stalowa wiata garażowa z modułem ogrodu wertykalnego na bocznym panelu. Konstrukcja ze stali S235 jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe, dzięki czemu bez problemu znosi wilgoć. Wiaty oferujemy w rozmiarach 3 x 6 m, 4 x 6 m, 6 x 6 m (wysokość 2,7 m) oraz na wymiar indywidualny, a montaż zajmuje zazwyczaj 1 dzień roboczy. Na stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rośliny na pionowej ścianie trzeba podlewać codziennie?",
+   "odpowiedz": "W upały ziemia w pionowych modułach wysycha szybciej niż na tradycyjnej grządce. Z tego względu proponujemy opcję nawadniania, której zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z roślin nie zniszczy konstrukcji?",
+   "odpowiedz": "Nie, stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na deszcz i stałą wilgoć przez cały rok."
+  },
+  {
+   "pytanie": "Czy moduły roślinne trzeba zamawiać od razu z wiatą?",
+   "odpowiedz": "Nie ma takiego wymogu. Słupy i fundament mają zapas nośności, więc moduły roślinne możesz zamówić od razu lub dołożyć je w późniejszym czasie."
+  }
+ ],
+ "nr": 47,
+ "kolejnosc": 11,
+ "temat": "zielona ściana przy wjeździe na posesję",
+ "adres": "zielona-sciana-przy-wjezdzie-na-posesje",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

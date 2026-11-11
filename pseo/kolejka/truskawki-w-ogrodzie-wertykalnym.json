@@ -1,0 +1,50 @@
+{
+ "tytul": "Truskawki w ogrodzie wertykalnym. Jak zacząć uprawę?",
+ "opis_meta": "Jak uprawiać truskawki w ogrodzie wertykalnym? Poznaj zasady doboru miejsca, podlewania i ziemi. Zbuduj pionowy zielnik na podwórku.",
+ "wstep": "Uprawa truskawek w pionie pozwala zaoszczędzić miejsce w ogrodzie i ułatwia zbiory owoców. Truskawki wiszące w pojemnikach nie dotykają ziemi, dzięki czemu rzadziej gniją i nie brudzą się piaskiem. Zanim jednak wsadzisz pierwsze sadzonki, musisz odpowiednio dobrać stanowisko i zadbać o podlewanie.",
+ "sekcje": [
+  {
+   "h2": "Gdzie ustawić pionowy ogród na truskawki",
+   "akapity": [
+    "Truskawki potrzebują dużej ilości światła, aby prawidłowo kwitnąć i dawać słodkie owoce. Pionowa konstrukcja powinna stać w miejscu nasłonecznionym, najlepiej od strony południowej lub południowo-zachodniej. W głębokim cieniu krzaczki będą bujnie rosły w liście, ale plon będzie skromny.",
+    "Pionowe konstrukcje zajmują mało miejsca na ziemi, dając jednocześnie kilka metrów kwadratowych powierzchni użytkowej. Taka ściana może stać przy podjeździe, płocie lub ścianie budynku. Warto pamiętać, aby miejsce było osłonięte od porywistego wiatru, który mógłby wysuszać liście i łamać pędy z owocami."
+   ]
+  },
+  {
+   "h2": "Ziemia i pojemniki do uprawy w pionie",
+   "akapity": [
+    "W pojemnikach umieszczonych pionowo objętość podłoża jest ograniczona. Ziemia musi być żyzna, przepuszczalna i stale lekko wilgotna, o odczynie lekko kwaśnym. Dobrze sprawdza się uniwersalna ziemia ogrodnicza wymieszana z kompostem lub perlitem, który zatrzymuje wilgoć i rozluźnia strukturę gleby.",
+    "Pojemniki ustawione jeden nad drugim muszą mieć sprawny drenaż. Truskawki nie znoszą stojącej wody, która szybko doprowadza do chorób korzeni. Nadmiar wody po podlaniu powinien swobodnie odpływać z donic."
+   ]
+  },
+  {
+   "h2": "Nawadnianie truskawek na ścianie",
+   "akapity": [
+    "W pionie ziemia wysycha znacznie szybciej niż na tradycyjnej grządce w gruncie. W upalne, letnie dni rośliny mogą wymagać nawadniania nawet codziennie, ponieważ mała ilość podłoża szybko oddaje wilgoć.",
+    "Praktycznym rozwiązaniem jest instalacja nawadniania kropelkowego. Taki system doprowadza wodę bezpośrednio do korzeni każdej rośliny bez moczenia liści i owoców. Dzięki temu ograniczasz ryzyko chorób grzybowych i oszczędzasz czas na ręcznym podlewaniu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałej konstrukcji pod ogród pionowy, dobrym miejscem jest boczna ściana wiaty CarportActive. Moduły roślinne w postaci pojemników ustawionych jeden nad drugim montuje się na konstrukcji ze stali S235, która dzięki cynkowaniu ogniowemu i malowaniu proszkowemu jest w pełni odporna na wilgoć. Do wiaty można dobrać opcję nawadniania, a same moduły możesz zamówić od razu lub domontować później, bo słupy mają zapas nośności. Na stronie producenta możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wilgoć z podlewania truskawek nie uszkodzi stalowej wiaty?",
+   "odpowiedz": "Nie, stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Konstrukcja jest w pełni przygotowana na bezpośredni kontakt z wodą i deszczem przez cały rok."
+  },
+  {
+   "pytanie": "Czy truskawki w modułach pionowych trzeba podlewać codziennie?",
+   "odpowiedz": "W upały ziemia w modułach pionowych wysycha szybciej niż na grządce. Dlatego dobrym wyborem jest opcja systemu nawadniania, której zakres ustala się indywidualnie."
+  },
+  {
+   "pytanie": "Czy moduły roślinne trzeba zamówić od razu przy zakupie wiaty?",
+   "odpowiedz": "Moduły można zamówić razem z wiatą albo dołożyć w późniejszym terminie. Słupy i fundament konstrukcji posiadają odpowiedni zapas nośności."
+  }
+ ],
+ "nr": 59,
+ "kolejnosc": 119,
+ "temat": "truskawki w ogrodzie wertykalnym",
+ "adres": "truskawki-w-ogrodzie-wertykalnym",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

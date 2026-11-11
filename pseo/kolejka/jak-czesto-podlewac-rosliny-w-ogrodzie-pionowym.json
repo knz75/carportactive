@@ -1,0 +1,56 @@
+{
+ "tytul": "Jak często podlewać rośliny w ogrodzie pionowym? Poradnik",
+ "opis_meta": "Dowiedz się, jak często podlewać rośliny w ogrodzie pionowym. Sprawdź, co wpływa na wysychanie ziemi w modułach i jak zaplanować nawadnianie.",
+ "wstep": "Ogród pionowy zachowuje się inaczej niż tradycyjna rabata w gruncie. W modułach ściennych ziemia przesycha znacznie szybciej, dlatego częstotliwość podlewania zależy od pogody, stanowiska i rodzaju sadzonek. Poniżej wyjaśniamy, jak kontrolować wilgoć, aby rośliny rosły zdrowo przez cały sezon.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego ogród pionowy wysycha szybciej niż grządka?",
+   "akapity": [
+    "W ogrodzie wertykalnym ziemia znajduje się w pojemnikach zawieszonych w powietrzu, często jeden nad drugim. Ścianki modułów są wystawione na bezpośrednie działanie wiatru i słońca, co sprawia, że podłoże nagrzewa się z każdej strony. W efekcie woda paruje wielokrotnie szybciej niż z klasycznej rabaty w gruncie.",
+    "Ograniczona objętość podłoża w pojedynczym pojemniku mieści też mniej wilgoci na zapas. Korzenie szybko wypijają dostępną wodę, zwłaszcza w słoneczne dni. Z tego powodu podlewanie musi być bardziej regularne niż w tradycyjnym ogrodzie."
+   ]
+  },
+  {
+   "h2": "Częstotliwość podlewania w zależności od pogody i pory roku",
+   "akapity": [
+    "W trakcie letnich upałów moduły pionowe potrafią wyschnąć w ciągu kilku godzin. W takie dni podlewanie jest konieczne codziennie, a przy silnym nasłonecznieniu nawet dwa razy na dobę - wcześnie rano i wieczorem. Wiosną oraz jesienią, kiedy słońce operuje słabiej, zazwyczaj wystarczy nawadnianie co dwa lub trzy dni.",
+    "Przed każdym podlaniem warto dotknąć ziemi palcem na głębokość około dwóch centymetrów. Jeśli podłoże jest wilgotne, wstrzymaj się z podlewaniem, aby nie doprowadzić do gnicia korzeni. Ziemia powinna być stale lekko wilgotna, ale nie błotnista."
+   ]
+  },
+  {
+   "h2": "Wybór roślin a zapotrzebowanie na wodę",
+   "akapity": [
+    "To, jak często musisz sięgać po konewkę lub włączać zraszacze, zależy od doboru gatunków. Zioła i kwiaty sezonowe potrzebują dużo słońca, co bezpośrednio przekłada się na konieczność regularnego, częstego nawadniania. W ich przypadku przesuszenie szybko prowadzi do więdnięcia liści.",
+    "Jeśli masz mniej czasu na regularną pielęgnację, lepszym wyborem będą pnącza. Są one zdecydowanie najmniej wymagające, lepiej radzą sobie z okresowymi wahaniami wilgotności i nie wymagają tak częstego doglądania jak delikatne zioła."
+   ]
+  },
+  {
+   "h2": "Lokalizacja ściany ma kluczowe znaczenie",
+   "akapity": [
+    "Pionowy ogród najlepiej sprawdza się na ścianie od strony słońca albo od strony ulicy. Trzeba jednak pamiętać, że ekspozycja południowa i zachodnia oznacza najszybsze wysychanie ziemi w pojemnikach. Ściana od strony wschodniej lub północnej zatrzymuje wilgoć dłużej, co zmniejsza wymaganą częstotliwość podlewania."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy problem braku miejsca, montując pionowy ogród na bocznym panelu wiaty garażowej. Ponieważ w pionie ziemia wysycha szybciej niż na grządce, proponujemy opcję nawadniania, której zakres ustalamy indywidualnie. Cała wiata powstaje ze stali konstrukcyjnej S235, która jest ocynkowana ogniowo i malowana proszkowo, dzięki czemu wilgoć z podlewania nie szkodzi konstrukcji przez cały rok.",
+ "faq": [
+  {
+   "pytanie": "Czy trzeba codziennie podlewać rośliny w pionowym ogrodzie?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka i wtedy codzienne podlewanie bywa konieczne. W chłodniejsze dni wystarczy nawadniać je rzadziej, sprawdzając wcześniej wilgotność podłoża."
+  },
+  {
+   "pytanie": "Jakie rośliny wybrać, jeśli mam mało czasu na podlewanie?",
+   "odpowiedz": "Najmniej wymagające są pnącza, które dobrze znoszą różne warunki. Zioła i kwiaty sezonowe wymagają więcej uwagi, słońca oraz regularnego dostarczania wody."
+  },
+  {
+   "pytanie": "Czy wilgoć z podlewania modułów nie uszkodzi stalowej wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na stały kontakt z deszczem oraz wilgocią przez cały rok."
+  }
+ ],
+ "nr": 63,
+ "kolejnosc": 151,
+ "temat": "jak często podlewać rośliny w ogrodzie pionowym",
+ "adres": "jak-czesto-podlewac-rosliny-w-ogrodzie-pionowym",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

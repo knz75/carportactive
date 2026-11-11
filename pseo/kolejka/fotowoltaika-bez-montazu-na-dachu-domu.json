@@ -1,0 +1,52 @@
+{
+ "tytul": "Fotowoltaika bez montażu na dachu domu - co zamiast niego?",
+ "opis_meta": "Nie chcesz paneli na dachu domu? Sprawdź alternatywy gruntowe i wiaty garażowe. Poznaj praktyczne sposoby na własny prąd bez ingerencji w poszycie dachu.",
+ "wstep": "Nie każdy dom nadaje się pod montaż paneli fotowoltaicznych. Przeszkodą bywa nietypowy kształt połaci, zacienienie przez wysokie drzewa lub obawa przed rozszczelnieniem nowego pokrycia dachowego. Własny prąd możesz jednak z powodzeniem produkować bez dotykania dachu budynku mieszkalnego.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego rezygnujemy z montażu paneli na dachu",
+   "akapity": [
+    "Wielu właścicieli domów woli zostawić dach w spokoju ze względów czysto praktycznych. Trudny dostęp do modułów utrudnia ich okresowe mycie lub kontrolę stanu okablowania. Dochodzi do tego kwestia orientacji budynku względem stron świata, która nie zawsze pozwala na optymalne ustawienie instalacji.",
+    "Czasami problemem jest sama więźba dachowa, która nie została zaprojektowana pod dodatkowy balast. Wtedy każda ingerencja w poszycie rodzi ryzyko przecieków. Zamiast kosztownych przeróbek dachu lepiej poszukać wolnego miejsca na poziomie gruntu lub nad podjazdem."
+   ]
+  },
+  {
+   "h2": "Instalacja na gruncie i jej kompromisy",
+   "akapity": [
+    "Pierwszą naturalną myślą bywa klasyczna konstrukcja naziemna w ogrodzie. Daje ona pełną swobodę w doborze kąta nachylenia oraz łatwy dostęp do modułów podczas serwisu. Nie musisz wchodzić na drabinę, aby usunąć liście czy sprawdzić stan złączek.",
+    "Stojaki naziemne zabierają jednak cenną przestrzeń rekreacyjną na działce. Trudniej wokół nich kosić trawę, a kable i konstrukcje metalowe nie zawsze dobrze komponują się z zadbanym ogrodem. Dlatego inwestorzy coraz częściej szukają konstrukcji, które łączą produkcję energii z codzienną funkcją użytkową."
+   ]
+  },
+  {
+   "h2": "Wiata garażowa jako podstawa pod moduły fotowoltaiczne",
+   "akapity": [
+    "Praktycznym rozwiązaniem problemu jest wykorzystanie zadaszenia nad samochodem. Dach wiaty parkingowej i tak jest potrzebny, aby chronić auto przed opadami i słońcem. Zamiana zwykłego poszycia w powierzchnię nośną dla fotowoltaiki pozwala zagospodarować podjazd bez straty powierzchni w ogrodzie.",
+    "Taka konstrukcja musi być od początku projektowana z myślą o dodatkowym ciężarze. Zwykła, lekka wiata ogrodowa nie utrzyma modułów pod wpływem wiatru i śniegu. Odpowiednio wzmocniona konstrukcja stalowa daje stabilność i pozwala skierować połać w stronę słońca, niezależnie od ułożenia samego domu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na ten problem jest Solar Box, czyli wzmocniona wiata od CarportActive, której dach stanowi konstrukcję pod panele fotowoltaiczne. Model dwustanowiskowy o wymiarach 6 x 6 m mieści do 12 paneli, produkując energię dla domu oraz dając gotowość pod montaż ładowarki Wallbox przy słupie. Konstrukcja ze stali S235 jest zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym, a jej montaż trwa zazwyczaj jeden dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Wszystko zależy od rozmiaru wiaty. Na konstrukcji mieści się od 6 do 12 paneli, przy czym maksymalną liczbę 12 modułów pomieści wiata dwustanowiskowa o wymiarach 6 x 6 m."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli od razu wybierzesz wersję Solar Box ze wzmocnioną konstrukcją. Jej słupy i fundamenty mają zapas nośności, więc moduły fotowoltaiczne możesz zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto wykonuje podłączenie instalacji elektrycznej?",
+   "odpowiedz": "Dokładny zakres prac przy panelach, falowniku i podłączeniu ustalamy indywidualnie przy wycenie. Wystarczy podać informację, czy masz już swojego instalatora, czy potrzebujesz całego rozwiązania od nas."
+  }
+ ],
+ "nr": 107,
+ "kolejnosc": 14,
+ "temat": "fotowoltaika bez montażu na dachu domu",
+ "adres": "fotowoltaika-bez-montazu-na-dachu-domu",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "tytul": "Zimowy zestaw narzędzi przy domu. Co warto mieć pod ręką?",
+ "opis_meta": "Sprawdź, jaki zimowy zestaw narzędzi przy domu ułatwi odśnieżanie. Dowiedz się, co skompletować i jak przechowywać sprzęt, by nie szukać go w zaspie.",
+ "wstep": "Pierwszy poranny śnieg potrafi zaskoczyć każdego kierowcy i właściciela posesji. Kiedy musisz przedzierać się przez zaspy do piwnicy po łopatę, dzień zaczyna się od niepotrzebnych nerwów. Warto przygotować prosty zestaw narzędzi i trzymać go w łatwo dostępnym miejscu.",
+ "sekcje": [
+  {
+   "h2": "Podstawowe narzędzia na śnieg i mróz",
+   "akapity": [
+    "Podstawą jest lekka, szeroka łopata do śniegu z metalową listwą na krawędzi. Przyda się też twarda miotła ulicówka, która świetnie radzi sobie ze świeżym puchem na schodach oraz na kostce brukowej. Jeśli na podjeździe często tworzy się ubity lód, do zestawu dołącz skuwacz z prostym, stalowym ostrzem.",
+    "Warto mieć pod ręką także mniejszą łopatkę samochodową oraz porządną skrobaczkę zintegrowaną ze szczotką. Narzędzia pozostawione luzem w śniegu szybko zamarzają i niszczeją, dlatego każde z nich powinno mieć swoje stałe miejsce."
+   ]
+  },
+  {
+   "h2": "Gdzie trzymać zimowy zestaw narzędzi",
+   "akapity": [
+    "Najczęstszy błąd to chowanie sprzętu do odśnieżania na tyłach ogrodu lub w głębi komórki lokatorskiej. Kiedy spadnie gruby śnieg, najpierw musisz się tam dokopać, co mija się z celem.",
+    "Zimowy zestaw powinien stać blisko strefy wejściowej, pod zadaszeniem wiaty lub tuż przy podjeździe. Opieranie łopat bezpośrednio o ścianę z ociepleniem często kończy się brudną elewacją lub przewróceniem narzędzia na lakier samochodu podczas silnego wiatru."
+   ]
+  },
+  {
+   "h2": "Piasek i drobne akcesoria",
+   "akapity": [
+    "Oprócz narzędzi na trzonkach przygotuj małe wiaderko z suchym piaskiem lub solą oraz poręczną szufelkę do rozsypywania. Pamiętaj, że wilgotny piasek przechowywany na mrozie zamarznie w bryłę i będzie bezużyteczny w czasie gołoledzi.",
+    "W zasięgu ręki warto mieć również grube rękawice robocze, które zabezpieczą dłonie przed wilgocią i chłodem metalowych lub drewnianych trzonków."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodne przechowywanie takiego zestawu zapewnia metalowy stojak na narzędzia ogrodowe CA-Stand, który produkujemy na zamówienie w cenach od 300 zł. Projekt jest obecnie w fazie prototypu, a dostawa pozostaje do uzgodnienia. Do wyboru są modele wolnostojące: niski CA-Entry na stopach z płaskownika 100 x 4 mm, szeroki CA-Yard oraz wzmocniony CA-Hard na cięższe narzędzia, a żaden z nich nie wymaga wiercenia w elewacji ani w ociepleniu. Dostępny jest też panel ścienny CA-Lite oraz wariant mocowany bezpośrednio do wiaty CarportActive, dopasowany do niej stylem i kolorem.",
+ "faq": [
+  {
+   "pytanie": "Gdzie najlepiej trzymać łopatę do odśnieżania?",
+   "odpowiedz": "Najlepiej przy drzwiach wejściowych lub bezpośrednio pod wiatą garażową, w osłoniętym miejscu blisko odśnieżanej ścieżki."
+  },
+  {
+   "pytanie": "Czym bezpiecznie skuwać lód z kostki brukowej?",
+   "odpowiedz": "Do usuwania zmarzliny służy stalowy skuwacz do lodu na trzonku, który pozwala rozbić lód bez uderzania łopatą z tworzywa."
+  },
+  {
+   "pytanie": "Dlaczego wolnostojący stojak na narzędzia to dobre rozwiązanie zimą?",
+   "odpowiedz": "Pozwala trzymać mokre łopaty pionowo i stabilnie blisko podjazdu, bez ryzyka uszkodzenia ocieplenia budynku czy tynku."
+  }
+ ],
+ "nr": 145,
+ "kolejnosc": 169,
+ "temat": "zimowy zestaw narzędzi przy domu",
+ "adres": "zimowy-zestaw-narzedzi-przy-domu",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

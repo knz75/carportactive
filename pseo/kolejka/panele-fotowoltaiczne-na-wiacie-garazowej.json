@@ -1,0 +1,57 @@
+{
+ "tytul": "Panele fotowoltaiczne na wiacie garażowej - co warto wiedzieć",
+ "opis_meta": "Zastanawiasz się nad fotowoltaiką na wiacie garażowej? Sprawdź, na co zwrócić uwagę przy nośności dachu, liczbie paneli i montażu ładowarki.",
+ "wstep": "Montaż paneli fotowoltaicznych na wiacie garażowej to praktyczny sposób na zagospodarowanie wolnego miejsca na podwórku. Zadaszenie chroniące samochód staje się wtedy małą elektrownią produkującą prąd dla domu i auta. Zanim jednak zdecydujesz się na montaż, powinieneś poznać kilka kluczowych kwestii technicznych.",
+ "sekcje": [
+  {
+   "h2": "Nośność konstrukcji i odpowiednie fundamenty",
+   "akapity": [
+    "Zwykłe zadaszenie projektuje się tak, aby utrzymało własny ciężar oraz ewentualny śnieg czy napór wiatru. Gdy dokładasz do tego moduły fotowoltaiczne, obciążenie całej konstrukcji wyraźnie wzrasta.",
+    "Dlatego słupy oraz fundamenty muszą być od początku przeliczone pod dodatkową masę urządzeń. Jeśli konstrukcja nie ma odpowiedniego zapasu nośności, z czasem może dojść do ugięć dachu lub uszkodzenia samych paneli."
+   ]
+  },
+  {
+   "h2": "Ile paneli fotowoltaicznych zmieści się na wiacie?",
+   "akapity": [
+    "Powierzchnia dachu wiaty bezpośrednio ogranicza liczbę modułów, które możesz na niej ułożyć. Na pojedynczych stanowiskach mieści się zazwyczaj od 6 paneli, co wystarcza na pokrycie części podstawowych potrzeb energetycznych.",
+    "Większe możliwości daje zadaszenie dwustanowiskowe o wymiarach 6 x 6 m. Na takiej połaci można zamontować do 12 paneli, co tworzy już wydajny układ zdolny zasilić urządzenia domowe oraz ładowarkę samochodową."
+   ]
+  },
+  {
+   "h2": "Montaż paneli od razu czy w kolejnym sezonie?",
+   "akapity": [
+    "Częstym błędem jest odkładanie decyzji o fotowoltaice bez przygotowania pod nią wiaty. Jeśli postawisz zbyt lekką konstrukcję, późniejsze dołożenie modułów może okazać się niemożliwe bez kosztownych przeróbek.",
+    "Dobrą praktyką jest wybór wiaty ze wzmocnionym dachem już na samym początku. Dzięki temu możesz postawić sam szkielet teraz, a instalację fotowoltaiczną zamontować dopiero wtedy, gdy zgromadzisz na to budżet."
+   ]
+  },
+  {
+   "h2": "Przygotowanie miejsca pod ładowarkę samochodową",
+   "akapity": [
+    "Parkowanie pod wiatą z panelami naturalnie łączy się z ładowaniem samochodu elektrycznego. Warto zaplanować poprowadzenie przewodów i montaż stacji Wallbox w pobliżu jednego ze słupów nośnych.",
+    "Dzięki temu zyskujesz krótki tor kablowy między panelami, ładowarką a gniazdem pojazdu. Prąd trafia prosto do baterii auta, a przewody nie plączą się pod nogami na podjeździe."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive odpowiedzą na te potrzeby jest model Solar Box - wiata ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym, której dach stanowi gotową konstrukcję pod panele PV. Słupy i fundamenty mają fabryczny zapas nośności, więc od 6 do 12 paneli możesz zamontować od razu lub dołożyć w kolejnym sezonie. Konstrukcja zapewnia gotowość pod Wallbox przy słupie, a jej montaż trwa zazwyczaj 1 dzień roboczy. Możesz też wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie garażowej?",
+   "odpowiedz": "Liczba modułów zależy od rozmiaru wiaty i wynosi od 6 do 12 sztuk. Największą połać daje wiata dwustanowiskowa o wymiarach 6 x 6 m, na której mieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundamenty są liczone na dodatkowy ciężar, dlatego panele można bezpiecznie zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto odpowiada za instalację elektryczną i podłączenie?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy bezpośrednio przy wycenie. Wystarczy, że napiszesz nam, czy masz już własnego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 108,
+ "kolejnosc": 23,
+ "temat": "panele fotowoltaiczne na wiacie garażowej",
+ "adres": "panele-fotowoltaiczne-na-wiacie-garazowej",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

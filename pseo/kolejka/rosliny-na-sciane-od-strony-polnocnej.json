@@ -1,0 +1,50 @@
+{
+ "tytul": "Rośliny na ścianę od strony północnej - co wybrać?",
+ "opis_meta": "Szukasz roślin na ścianę od strony północnej? Sprawdź, jakie gatunki poradzą sobie w cieniu i jak dbać o pionowy ogród bez słońca.",
+ "wstep": "Ściana od strony północnej to trudne miejsce dla zieleni, bo dociera tam najmniej słońca. Nie oznacza to jednak, że pionowa powierzchnia musi pozostać pusta i szara. Zobacz, jakie gatunki dobrze znoszą cień i o czym pamiętać przy ich pielęgnacji.",
+ "sekcje": [
+  {
+   "h2": "Specyfika północnej ściany",
+   "akapity": [
+    "Północna ekspozycja oznacza cień przez większość dnia i wolniejsze nagrzewanie się ściany. Ziemia w tym miejscu nie przesycha tak gwałtownie jak po stronie południowej, co bywa zaletą wiosną i jesienią. Rośliny muszą jednak radzić sobie ze znacznie mniejszą ilością światła.",
+    "Wybierając zieleń, odrzuć gatunki wybitnie światłolubne. Brak słońca sprawi, że będą wyciągać się w stronę światła, słabo kwitnąć i tracić zwarty pokrój."
+   ]
+  },
+  {
+   "h2": "Jakie rośliny wybrać na zacienioną stronę",
+   "akapity": [
+    "Wybór zależy od tego, ile czasu chcesz poświęcić na pielęgnację. Pnącza są najmniej wymagające i radzą sobie w cieniu bardzo dobrze, tworząc zwartą, zieloną osłonę. Dobrze sprawdzą się też byliny o ozdobnych liściach oraz cieniolubne kwiaty.",
+    "Jeśli myślisz o ziołach, pamiętaj, że większość z nich potrzebuje słońca. Na północnej ścianie zioła będą rosły wolno i stracą swój aromat, dlatego na tej wystawie lepiej postawić na rośliny liściaste."
+   ]
+  },
+  {
+   "h2": "Pielęgnacja roślin w pojemnikach ściennych",
+   "akapity": [
+    "Sadzenie roślin w modułach pionowych na ścianie pozwala zagospodarować pionową przestrzeń. W pionie ziemia wysycha szybciej niż na grządce, chociaż od strony północnej proces ten zachodzi wolniej niż na słońcu.",
+    "Podczas letnich upałów podłoże w pojemnikach wymaga regularnej kontroli. Ważny jest również odpływ nadmiaru wody, aby w chłodniejsze i deszczowe dni korzenie nie stały w zastojach wilgoci."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy problem pustych ścian za pomocą wiaty z ogrodem wertykalnym. Moduły roślinne to pojemniki ustawione jeden nad drugim na bocznym panelu wiaty, które można obsadzić pnączami lub kwiatami. Konstrukcja zrobiona jest ze stali S235 ocynkowanej ogniowo i malowanej proszkowo, więc wilgoć z ziemi i podlewania jej nie szkodzi. Do wyboru jest też opcja nawadniania, a moduły możesz zamówić od razu lub dołożyć w późniejszym czasie.",
+ "faq": [
+  {
+   "pytanie": "Czy zioła urosną na ścianie od strony północnej?",
+   "odpowiedz": "Zioła potrzebują słońca i regularnego podlewania, dlatego na północnej ścianie będą rosły słabo. Lepiej wybrać pnącza lub rośliny cieniolubne."
+  },
+  {
+   "pytanie": "Czy rośliny w modułach pionowych trzeba codziennie podlewać?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Można jednak zastosować opcję nawadniania, której zakres ustala się indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi stalowej konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Dzięki temu jest przygotowana na deszcz i stały kontakt z wilgocią przez cały rok."
+  }
+ ],
+ "nr": 53,
+ "kolejnosc": 65,
+ "temat": "rośliny na ścianę od strony północnej",
+ "adres": "rosliny-na-sciane-od-strony-polnocnej",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Panele na carporcie - jaki kierunek i nachylenie wybrać?",
+ "opis_meta": "Sprawdź, jak ustawić panele fotowoltaiczne na wiacie garażowej. Dowiedz się, jaki kierunek i kąt nachylenia dachu wiaty sprawdzą się najlepiej.",
+ "wstep": "Zastanawiasz się, w którą stronę skierować dach wiaty i pod jakim kątem zamontować panele. Na wiacie garażowej sprawa wygląda inaczej niż na dachu domu, bo często ogranicza Cię wjazd na działkę. Wyjaśniamy, jak ustawić konstrukcję, żeby instalacja działała sprawnie.",
+ "sekcje": [
+  {
+   "h2": "Jaki kierunek paneli na wiacie sprawdza się najlepiej",
+   "akapity": [
+    "Najwięcej energii uzyskasz, kierując połać wiaty na południe. Słońce operuje wtedy prosto na moduły przez większą część dnia. Jeśli układ Twojego podjazdu na to pozwala, to najbardziej naturalny wybór.",
+    "Często wjazd na posesję wymusza inne ustawienie konstrukcji. Dobrym rozwiązaniem jest wtedy ekspozycja wschód-zachód. Rano prąd produkują moduły skierowane na wschód, a po południu te od zachodu, co ułatwia bieżące zużycie energii w domu."
+   ]
+  },
+  {
+   "h2": "Kąt nachylenia dachu wiaty pod fotowoltaikę",
+   "akapity": [
+    "Na wiatach garażowych stosuje się zazwyczaj mniejszy kąt nachylenia niż na stromych dachach budynków. Nawet niewielki spadek dachu pozwala na to, aby deszcz spłukiwał kurz i liście z powierzchni paneli.",
+    "Zbyt duży kąt nachylenia wiaty nie jest potrzebny. Zwiększałby niepotrzebnie wysokość całej konstrukcji, utrudniał parkowanie i narażał wiatę na mocniejsze podmuchy wiatru."
+   ]
+  },
+  {
+   "h2": "Cienie na podwórku a montaż modułów",
+   "akapity": [
+    "Wiata jest znacznie niższa niż budynek mieszkalny, dlatego łatwiej o jej przypadkowe zacienienie. Zanim wybierzesz kierunek spadu dachu, sprawdź wysokie drzewa, ogrodzenie oraz bryłę własnego domu.",
+    "Obserwuj swój podjazd o różnych porach dnia. Czasem przesunięcie planowanej wiaty o dwa metry w głąb działki pozwala ominąć cień rzucany przez pobliskie budynki."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz solidnej bazy pod instalację, sprawdź Solar Box - wiatę pod fotowoltaikę od CarportActive. To wzmocniona wiata ze stali konstrukcyjnej S235, której dach jest od razu konstrukcją pod panele PV, a słupy i fundament mają zapas nośności. Na wiacie dwustanowiskowej 6 x 6 m zmieścisz do 12 paneli, a przy słupie przewidziano miejsce na ładowarkę Wallbox. Panele możesz zamontować od razu lub postawić wiatę teraz i dołożyć moduły w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie garażowej?",
+   "odpowiedz": "Liczba modułów zależy od rozmiaru wiaty. Zmieści się na niej od 6 do 12 paneli, przy czym największa wiata dwustanowiskowa 6 x 6 m mieści do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli wybierzesz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i dach mają zapas nośności, więc panele możesz zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto odpowiada za instalację elektryczną wiaty?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Daj znać, czy masz już własnego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 115,
+ "kolejnosc": 86,
+ "temat": "panele na carporcie - kierunek i nachylenie",
+ "adres": "panele-na-carporcie-kierunek-i-nachylenie",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,52 @@
+{
+ "tytul": "Stojak na łopaty i grabie. Jak uporządkować narzędzia w ogrodzie",
+ "opis_meta": "Szukasz sposobu na stojak na łopaty i grabie? Sprawdź, jak wygodnie i stabilnie przechowywać narzędzia bez niszczenia elewacji i bałaganu na podwórku.",
+ "wstep": "Oparte o ścianę łopaty i grabie przewracają się przy byle podmuchu wiatru. Taki bałagan niszczy trzonki i brudzi tynk na budynku. Wystarczy prosty stojak lub wieszak, aby szybko uporządkować przestrzeń roboczą.",
+ "sekcje": [
+  {
+   "h2": "Czym się kierować wybierając stojak na narzędzia",
+   "akapity": [
+    "Narzędzia ogrodowe mają różną wagę i długość. Szpadel z metalowym trzonkiem waży znacznie więcej niż grabie do liści. Wybieraj konstrukcję, która utrzyma ciężar bez wyginania się i przewracania pod naporem sprzętu.",
+    "Zwróć też uwagę na materiał. Drewno trzymane na zewnątrz chłonie wilgoć i butwieje, a cienki plastik staje się kruchy od mrozu. Stal sprawdza się najlepiej, bo znosi trudne warunki atmosferyczne i duże obciążenia."
+   ]
+  },
+  {
+   "h2": "Wieszak na ścianie czy stojak wolnostojący",
+   "akapity": [
+    "Wieszak ścienny oszczędza miejsce na posadzce, ale wymaga wiercenia otworów. Jeśli Twój budynek ma grubą warstwę ocieplenia ze styropianu, montaż ciężkich narzędzi może być kłopotliwy i grozi uszkodzeniem tynku.",
+    "Stojak wolnostojący możesz postawić w dowolnym miejscu bez naruszania ścian. Nie musisz dziurawić elewacji ani martwić się mostkami termicznymi. W razie potrzeby po prostu przestawiasz go w inny kąt podwórka lub pod dach."
+   ]
+  },
+  {
+   "h2": "Rozmieszczenie narzędzi w codziennej pracy",
+   "akapity": [
+    "Narzędzia używane najczęściej trzymaj zawsze z brzegu, aby sięgać po nie jednym ruchem ręki. Zimą na pierwszy plan wysuwa się szufla do śniegu, a jesienią grabie do liści.",
+    "Dobrze zaplanowany stojak powinien też mieścić drobniejsze akcesoria, takie jak miotły czy rękawice robocze. Dzięki temu wszystko, czego potrzebujesz do porządków wokół domu, znajduje się w jednym punkcie."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive opracowaliśmy stalowe stojaki i panele CA-Stand na łopaty, grabie, miotły oraz rękawice. W ofercie na zamówienie, będącej w fazie prototypu, znajdziesz panel ścienny CA-Lite o wymiarach 100-150 x 50 cm, a także modele wolnostojące: niski CA-Entry na stopach z płaskownika 100 x 4 mm, szeroki CA-Yard oraz wzmocniony CA-Hard na ciężki sprzęt. Warianty stojące nie wymagają wiercenia w elewacji ani w ociepleniu, a styl i kolor dopasowane są do wiat garażowych CarportActive, do których alternatywnie można przykręcić dedykowany panel. Ceny zaczynają się od 300 zł, a dostawa pozostaje do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy stojak wolnostojący niszczy ocieplenie budynku?",
+   "odpowiedz": "Nie, stojaki wolnostojące opierają się stabilnie na podłożu i nie wymagają żadnego wiercenia w ścianie ani w warstwie styropianu."
+  },
+  {
+   "pytanie": "Jakie narzędzia utrzyma metalowy stojak?",
+   "odpowiedz": "Solidna metalowa konstrukcja mieści standardowe łopaty, grabie i miotły, a w wersji wzmocnionej poradzi sobie z ciężkimi młotami, kilofami czy mokrymi wężami."
+  },
+  {
+   "pytanie": "Dlaczego stal sprawdza się lepiej od plastiku na zewnątrz?",
+   "odpowiedz": "Stal jest odporna na pękanie pod wpływem mrozu i nie odkształca się pod ciężarem wielu narzędzi ogrodowych."
+  }
+ ],
+ "nr": 131,
+ "kolejnosc": 51,
+ "temat": "stojak na łopaty i grabie",
+ "adres": "stojak-na-lopaty-i-grabie",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

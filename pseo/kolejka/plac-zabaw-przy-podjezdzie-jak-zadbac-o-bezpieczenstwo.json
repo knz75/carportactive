@@ -1,0 +1,57 @@
+{
+ "tytul": "Plac zabaw przy podjeździe - jak zadbać o bezpieczeństwo",
+ "opis_meta": "Organizujesz plac zabaw przy podjeździe? Sprawdź, jak oddzielić strefę auta od zabawy, dobrać nawierzchnię i zadbać o bezpieczeństwo dzieci.",
+ "wstep": "Podwórko często musi łączyć dwie funkcje: parking dla auta i miejsce do zabawy dla dzieci. Zderzenie tych dwóch światów na małej przestrzeni bywa niebezpieczne. Zobacz, jak zaplanować tę strefę z głową, żeby dzieci były bezpieczne, a kierowca miał pełen spokój.",
+ "sekcje": [
+  {
+   "h2": "Wyraźny podział przestrzeni na strefę auta i strefę dziecka",
+   "akapity": [
+    "Najważniejsza zasada to brak wspólnych punktów manewrowych. Dziecko w ferworze zabawy nie myśli o cofającym aucie, dlatego jego strefa nie może przecinać toru jazdy. Najlepiej, gdy zabawki i akcesoria do wspinania znajdują się wyraźnie z boku podjazdu.",
+    "Jeśli masz wąską działkę, nie stawiaj zabawek tuż za bagażnikiem lub bezpośrednio przed maską. Zaplanuj stałą granicę, której dziecko uczy się od pierwszego dnia. Wyznaczanie strefy z boku pozwala zachować bezpieczny dystans od manewrującego samochodu."
+   ]
+  },
+  {
+   "h2": "Dobra widoczność i brak martwych stref",
+   "akapity": [
+    "Kiedy wjeżdżasz na posesję, musisz widzieć cały teren wokół samochodu. Unikaj budowania wysokich, pełnych przeszkód tuż przy krawędzi podjazdu, bo mogą one zasłonić biegające dziecko.",
+    "Wszystkie elementy placu zabaw powinny być zorganizowane tak, aby dorosły za kółkiem miał pełen przegląd sytuacji. Zwróć też uwagę na oświetlenie po zmroku. Dobre doświetlenie strefy przy podjeździe to podstawa bezpieczeństwa jesienią i zimą."
+   ]
+  },
+  {
+   "h2": "Bezpieczne podłoże pod elementami do wspinania",
+   "akapity": [
+    "Nawierzchnia z kostki brukowej lub betonu na podjeździe jest twarda i nie wybacza upadków. Jeśli planujesz ściankę, drążki lub liny, bezpośrednio pod nimi nie może być twardego bruku.",
+    "W miejscu zeskoku lub ewentualnego upadku koniecznie zastosuj miękkie podłoże. Dobrze sprawdza się mata amortyzująca, która tłumi uderzenia. Dzięki temu dziecko może bezpiecznie schodzić z wysokości bez ryzyka bolesnego urazu."
+   ]
+  },
+  {
+   "h2": "Zasady i stałe nawyki podczas parkowania",
+   "akapity": [
+    "Nawet najlepsze zabezpieczenia nie zastąpią uwagi dorosłych. Wprowadź żelazną zasadę, że podczas wjazdu auta na posesję dzieci zatrzymują zabawę i stają w widocznym miejscu.",
+    "Gdy samochód już stoi zaparkowany, zabawa obok niego nadal wymaga kontroli. Zwracaj uwagę, aby piłki czy ruchome zabawki nie lądowały pod kołami, skąd maluch mógłby próbować je wyciągać."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem problemu braku miejsca w ogrodzie jest wiata z placem zabaw od CarportActive. Pod stalowym dachem, ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym, montujemy ściankę wspinaczkową z chwytami na panelu przy słupie, siatkę linową oraz liny gimnastyczne, a pod nimi kładziemy matę amortyzującą. Strefę zabaw planujemy z boku, poza miejscem parkowania, w wiatach o wymiarach 4 x 6 m lub 6 x 6 m, dzięki czemu trawnik zostaje wolny, a dzieci bawią się w cieniu i podczas deszczu. Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego ustawienie omawiamy przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się pod ścianką wspinaczkową na wiacie?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która tworzy miękkie podłoże."
+  },
+  {
+   "pytanie": "Co zrobić z modułem zabawowym, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają. Zamiast ścianki możesz zamontować moduł sportowy albo panel narzędziowy."
+  }
+ ],
+ "nr": 80,
+ "kolejnosc": 129,
+ "temat": "plac zabaw przy podjeździe - jak zadbać o bezpieczeństwo",
+ "adres": "plac-zabaw-przy-podjezdzie-jak-zadbac-o-bezpieczenstwo",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,59 @@
+{
+ "tytul": "Metalowy czy drewniany stojak na narzędzia? Porównanie",
+ "opis_meta": "Zastanawiasz się, czy wybrać metalowy czy drewniany stojak na narzędzia? Poznaj wady i zalety obu rozwiązań przed zakupem lub budową.",
+ "wstep": "Wybór między metalem a drewnem zależy głównie od miejsca przechowywania oraz od wagi Twojego sprzętu. Drewno wygląda tradycyjnie, ale źle znosi stałą wilgoć i kontakt z mokrą ziemią. Stal jest znacznie trwalsza i stabilniejsza, zwłaszcza pod gołym niebem.",
+ "sekcje": [
+  {
+   "h2": "Drewniany stojak na narzędzia - wady i zalety",
+   "akapity": [
+    "Drewno dobrze komponuje się z zielenią ogrodu i łatwo dopasujesz je do tradycyjnej altany. Zbudowanie prostej konstrukcji z desek jest też stosunkowo tanie, jeśli lubisz majsterkować. Naturalny materiał ma jednak swoje ograniczenia w trudnych warunkach.",
+    "Drewno wymaga regularnej impregnacji, inaczej szybko ściemnieje i zacznie butwieć od deszczu. Z czasem wkręty w drewnie mogą się poluzować pod ciężarem szpadli czy wideł. Przy mokrej pogodzie dolne części drewnianego stojaka łatwo chłoną wodę z podłoża."
+   ]
+  },
+  {
+   "h2": "Metalowy stojak na narzędzia - trwałość na lata",
+   "akapity": [
+    "Stalowy stojak sprawdzi się wszędzie tam, gdzie liczy się duża nośność i odporność na zmienne pory roku. Metal nie pęka pod wpływem mrozu i bez problemu utrzyma ciężkie narzędzia. Nie musisz go co sezon odnawiać ani zabezpieczać przed szkodnikami.",
+    "Konstrukcja z metalu zajmuje mniej miejsca, bo stalowe profile są smuklejsze niż grube kantówki z drewna. Metal nie nasiąka błotem ani wodą spływającą z dopiero co użytych grabi. To sprawia, że taki stojak łatwo utrzymać w czystości."
+   ]
+  },
+  {
+   "h2": "Co wybrać na otwarte podwórko, a co pod dach?",
+   "akapity": [
+    "Jeśli planujesz trzymać narzędzia w suchym garażu lub murowanej szopie, drewniany stojak w zupełności wystarczy. Tam materiał jest chroniony przed deszczem i posłuży Ci przez wiele lat.",
+    "Na otwartym podwórku, tarasie lub przy wejściu do domu znacznie lepiej sprawdzi się metal. Mokre narzędzia odstawione po pracy w ogrodzie nie zaszkodzą stalowej konstrukcji. Metalowa podstawa pewnie stoi na bruku lub kostce brukowej nawet przy silnym wietrze."
+   ]
+  },
+  {
+   "h2": "Montaż do ściany czy model wolnostojący?",
+   "akapity": [
+    "Wieszanie stojaka na ścianie budynku bywa kłopotliwe, szczególnie przy grubej warstwie ocieplenia ze styropianu. Wiercenie w elewacji może uszkodzić tynk i stworzyć mostki termiczne.",
+    "Praktyczną alternatywą są stojaki wolnostojące, które możesz postawić w dowolnym miejscu bez robienia dziur w ścianach. Z kolei na płotach czy stabilnych ścianach bez ocieplenia dobrze sprawdzają się sztywne panele wiszące."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive projektujemy metalowe stojaki i panele CA-Stand na łopaty, grabie, miotły oraz rękawice, dopasowane stylem i kolorem do naszych wiat. W ofercie na zamówienie, będącej obecnie w fazie prototypu w cenach od 300 zł, znajdziesz ścienny panel CA-Lite (100-150 x 50 cm), niski stojak CA-Entry (wysokość 60-80 cm) na stopach z płaskownika 100 x 4 mm, szeroki CA-Yard (80-100 cm) oraz wzmocniony CA-Hard z grubszego profilu na ciężkie narzędzia, młoty, kilofy i mokre węże. Modele wolnostojące nie wymagają wiercenia w elewacji ani w ociepleniu, a alternatywą jest panel przykręcany do samej wiaty. Dostawa produktów pozostaje do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy drewniany stojak wytrzyma zimę na zewnątrz?",
+   "odpowiedz": "Wytrzyma najwyżej kilka sezonów, o ile jest regularnie impregnowany. Bez zadaszenia wilgoć i mróz szybko doprowadzą do pękania i niszczenia drewna."
+  },
+  {
+   "pytanie": "Czy metalowy stojak niszczy trzonki narzędzi?",
+   "odpowiedz": "Nie, stabilne stalowe uchwyty pewnie trzymają trzonki i zapobiegają ich przewracaniu się. Narzędzia wiszą prosto i nie obijają się o siebie."
+  },
+  {
+   "pytanie": "Kiedy lepiej wybrać stojak ścienny zamiast wolnostojącego?",
+   "odpowiedz": "Wersja ścienna sprawdza się w wąskich przejściach, gdzie liczy się wolne miejsce na ziemi. Wymaga jednak stabilnej ściany lub ogrodzenia do pewnego montażu."
+  }
+ ],
+ "nr": 140,
+ "kolejnosc": 132,
+ "temat": "metalowy czy drewniany stojak na narzędzia",
+ "adres": "metalowy-czy-drewniany-stojak-na-narzedzia",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

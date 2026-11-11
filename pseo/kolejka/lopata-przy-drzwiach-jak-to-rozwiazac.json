@@ -1,0 +1,50 @@
+{
+ "tytul": "Łopata przy drzwiach - jak rozwiązać problem bałaganu",
+ "opis_meta": "Łopata oparta o ścianę niszczy elewację i brudzi wejście. Poznaj proste sposoby na porządek przy drzwiach bez niszczenia ocieplenia domu.",
+ "wstep": "Opierasz łopatę o ścianę przy wejściu, bo zimą lub podczas prac w ogrodzie musisz mieć ją pod ręką. Z czasem na elewacji pojawiają się zacieki, tynk odpada, a narzędzie przewraca się przy mocniejszym podmuchu wiatru. Możesz uporządkować tę przestrzeń na kilka prostych sposobów bez ciągłego biegania do garażu.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego opieranie łopaty o ścianę to zły pomysł",
+   "akapity": [
+    "Brudna i mokra łopata pozostawia trwałe ślady na jasnym tynku. Krawędzie szpadla czy miotły mogą łatwo uszkodzić warstwę wierzchnią ocieplenia, co po jednym sezonie wygląda nieestetycznie. Dodatkowo narzędzie postawione luzem przy progu stwarza ryzyko potknięcia dla domowników i gości."
+   ]
+  },
+  {
+   "h2": "Szybkie sposoby na bezpieczne odkładanie narzędzi",
+   "akapity": [
+    "Najprościej jest wyznaczyć stałe miejsce na sprzęt tuż obok wejścia, ale poza głównym szlakiem komunikacyjnym. Dobrym rozwiązaniem bywa zamontowanie prostego zaczepu na boku schodów lub słupku ganku, co pozwala uniknąć wiercenia w elewacji. Jeśli w pobliżu drzwi znajduje się ogrodzenie, to naturalny punkt na zawieszenie podręcznych narzędzi.",
+    "Pamiętaj także o zabezpieczeniu podłoża. Mokry szpadel postawiony bezpośrednio na kostce brukowej tworzy plamy z rdzy i błota, które trudno zmyć. Zwykła gumowa wycieraczka lub pas żwiru pod narzędziami ułatwi odprowadzanie wody i ochroni nawierzchnię."
+   ]
+  },
+  {
+   "h2": "Dlaczego lepiej unikać wiercenia w ociepleniu",
+   "akapity": [
+    "Większość nowych domów posiada grubą warstwę styropianu lub wełny mineralnej. Każde wiercenie pod wieszak ścienny w takim miejscu osłabia izolację i wymaga stosowania specjalnych, długich kołków. Dużo bezpieczniejszym wyborem są rozwiązania wolnostojące, które opierają się stabilnie na podłożu i nie dotykają ściany budynku."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive przygotowujemy metalowe stojaki CA-Stand, które rozwiązują ten problem. Niski model wolnostojący CA-Entry ma wysokość 60-80 cm i stopy z płaskownika 100 x 4 mm, dzięki czemu stoi stabilnie przy wejściu bez wiercenia w ociepleniu. W ofercie na zamówienie są też wersje CA-Yard, wzmocniony CA-Hard oraz ścienny panel CA-Lite montowany do ogrodzenia lub wiaty. Produkty są w fazie prototypu, pasują kolorystycznie do wiat, a ceny zaczynają się od 300 zł przy dostawie do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy stojak na narzędzia przy drzwiach wymaga montażu do ściany?",
+   "odpowiedz": "Modele wolnostojące posiadają szerokie stopy, dzięki czemu stoją stabilnie na gruncie i nie wymagają wiercenia w elewacji."
+  },
+  {
+   "pytanie": "Gdzie trzymać łopatę do śniegu, aby była zawsze pod ręką?",
+   "odpowiedz": "Najwygodniej ustawić niski stojak tuż przy drzwiach lub pod zadaszeniem, w miejscu nienarażonym na bezpośrednie opady."
+  },
+  {
+   "pytanie": "Jak uniknąć plam z błota na kostce przy wejściu?",
+   "odpowiedz": "Narzędzia warto umieszczać w stojaku odsuniętym od progu lub ustawić pod nimi małą matę zbierającą wodę i piasek."
+  }
+ ],
+ "nr": 128,
+ "kolejnosc": 24,
+ "temat": "łopata przy drzwiach - jak to rozwiązać",
+ "adres": "lopata-przy-drzwiach-jak-to-rozwiazac",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

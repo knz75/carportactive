@@ -1,0 +1,50 @@
+{
+ "tytul": "Sprzęt do ćwiczeń w małym ogrodzie. Jak nie stracić miejsca?",
+ "opis_meta": "Szukasz miejsca na sprzęt do ćwiczeń w małym ogrodzie? Sprawdź, jak zaplanować trening na małej działce i nie zastawiać całego trawnika.",
+ "wstep": "W małym ogrodzie liczy się każdy metr kwadratowy trawnika. Wstawienie wolnostojącej klatki do ćwiczeń często zabiera całą wolną przestrzeń do wypoczynku. Zobacz, jak zorganizować strefę treningową bez zagracania podwórka.",
+ "sekcje": [
+  {
+   "h2": "Wykorzystaj pionowe elementy zamiast zajmować trawnik",
+   "akapity": [
+    "Zamiast stawiać rozbudowane konstrukcje na środku ogrodu, skup się na wykorzystaniu słupów i ścian. Elementy nośne budynków lub wiat mogą z łatwością utrzymać drążek czy drabinkę. Dzięki temu trawnik pozostaje wolny, a Ty masz wygodne miejsce do ćwiczeń.",
+    "Montaż przyrządów w pionie zabiera minimalną ilość powierzchni podłoża. Drążek do podciągania i poręcze nie przeszkadzają w codziennym korzystaniu z ogrodu. Po skończonym treningu cała przestrzeń pod stopami jest nadal do Twojej dyspozycji."
+   ]
+  },
+  {
+   "h2": "Pogoda a trening na zewnątrz",
+   "akapity": [
+    "Sprzęt stojący bezpośrednio pod chmurką szybko niszczeje i zniechęca do regularnego ruchu w chłodniejsze dni. Mokre uchwyty i deszcz uniemożliwiają pewny chwyt podczas podciągania. Stal używana na zewnątrz musi być solidnie zabezpieczona przez ocynk ogniowy oraz malowanie proszkowe, aby nie rdzewiała od wilgoci.",
+    "Najwygodniejszym rozwiązaniem jest umieszczenie przyrządów pod dachem. Zadaszenie chroni sprzęt przed deszczem i pozwala na trening przez cały rok. Dodatkowo nie musisz wycierać poręczy przed każdą serią pompek."
+   ]
+  },
+  {
+   "h2": "Wybieraj przyrządy wielofunkcyjne",
+   "akapity": [
+    "Na małej działce najlepiej sprawdzają się proste rozwiązania do ćwiczeń z ciężarem własnego ciała. Drabinka szwedzka doskonale nadaje się do rozciągania, ćwiczeń na brzuch i plecy oraz rozgrzewki przed bieganiem. Z kolei drążek i poręcze umożliwiają wykonanie pełnego treningu siłowego górnych partii.",
+    "Warto też łączyć funkcje różnych stref wokół domu. Podjazd i przestrzeń gospodarcza są używane głównie rano i popołudniu. Wprowadzenie tam strefy sportowej pozwala zachować ogród wyłącznie do relaksu i zieleni."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązaliśmy ten problem, montując drabinkę, drążek i poręcze bezpośrednio do stalowych słupów wiaty garażowej ze stali S235. Konstrukcja i tak stoi przy wjeździe, więc zyskujesz zadaszone miejsce do ćwiczeń obok samochodu, a w ogrodzie nie stoi osobny sprzęt. Najwygodniej sprawdza się wiata 4 x 6 m, która zostawia dużo swobody na trening, a całość jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 20,
+ "kolejnosc": 163,
+ "temat": "sprzęt do ćwiczeń w małym ogrodzie",
+ "adres": "sprzet-do-cwiczen-w-malym-ogrodzie",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

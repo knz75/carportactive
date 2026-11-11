@@ -1,0 +1,52 @@
+{
+ "tytul": "Miejsce na sprzęt sportowy przy domu. Jak je zorganizować?",
+ "opis_meta": "Szukasz miejsca na rowery i sprzęt sportowy przy domu? Sprawdź, jak zaplanować zadaszoną przestrzeń na podwórku i uwolnić dom od gratów.",
+ "wstep": "Sprzęt sportowy w przedpokoju lub ciasnym garażu potrafi utrudnić codzienne życie. Zamiast potykać się o rowery i hulajnogi, warto zorganizować dla nich stałe miejsce na zewnątrz. Wystarczy zadbać o dobrą ochronę przed deszczem i mądry układ wieszaków.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego warto przenieść sprzęt z domu na podwórko",
+   "akapity": [
+    "Trzymanie rowerów, hulajnóg czy boxu dachowego w korytarzu zabiera cenną przestrzeń. Błoto nanoszone po treningu szybko brudzi podłogi, a przestawianie jednośladów bywa uciążliwe. Przeniesienie sprzętu na zewnątrz rozwiązuje ten problem, o ile rzeczy nie stoją bezpośrednio na trawniku.",
+    "Zwykła plandeka rzucona na rower nie wystarczy na dłuższą metę. Wilgoć zbiera się pod materiałem, a łańcuch i metalowe elementy szybko pokrywają się rdzą. Sprzęt musi mieć stały daszek i swobodny przepływ powietrza, który zapobiega niszczeniu podzespołów."
+   ]
+  },
+  {
+   "h2": "Wieszaki ścienne czy stojaki podłogowe",
+   "akapity": [
+    "Sposób przechowywania zależy od tego, kto korzysta ze sprzętu. Dorosłe rowery najlepiej zawiesić na solidnych wieszakach ściennych. Dzięki temu wiszą na ścianie, nie zajmują miejsca na podłodze i łatwo przejść obok nich do samochodu.",
+    "Rowerki dziecięce i hulajnogi lepiej umieścić w niskich stojakach. Dzieci nie dosięgną do haków i nie podniosą ciężkiego roweru, więc stojak zapewnia im samodzielność. W stojakach wygodniej postawić także rzeczy o nietypowych gabarytach."
+   ]
+  },
+  {
+   "h2": "Ochrona przed deszczem i zabezpieczenie przed kradzieżą",
+   "akapity": [
+    "Sprzęt sportowy trzymany przy domu wymaga zabezpieczenia. Warto przypinać jednoślady solidnym zapięciem bezpośrednio do stabilnych, stalowych elementów konstrukcji zadaszenia. Jeśli przechowujesz bardzo drogi sprzęt, dobrym kierunkiem jest wydzielenie strefy zamkniętej.",
+    "Dobre zadaszenie chroni też osprzęt przed słońcem i opadami. Plastikowe elementy i opony nie niszczeją od promieni słonecznych, a łańcuchy nie rdzewieją na deszczu. Odpowiednia szerokość dachu pozwala na swobodne wyciąganie rowerów nawet przy gorszej pogodzie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów od CarportActive rozwiązuje ten problem na stałe. Rowery, hulajnogi i sprzęt sportowy trafiają pod dach wiaty ze stali S235, a wieszaki oraz stojaki są przykręcone do konstrukcji. Najwięcej miejsca z boku daje wiata 4 x 6 m, w której rowery można przypiąć do ramy lub zamówić zamkniętą strefę ustalaną przy wycenie. Montaż zajmuje zazwyczaj 1 dzień roboczy, a moduły możesz dobrać od razu lub dołożyć w przyszłości.",
+ "faq": [
+  {
+   "pytanie": "Czy pod wiatą można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "Zależy to od rozmiaru wiaty i układu wieszaków. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Jak sprawdzić, jak wiata będzie wyglądać przy moim domu?",
+   "odpowiedz": "Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach."
+  }
+ ],
+ "nr": 98,
+ "kolejnosc": 112,
+ "temat": "miejsce na sprzęt sportowy przy domu",
+ "adres": "miejsce-na-sprzet-sportowy-przy-domu",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

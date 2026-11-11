@@ -1,0 +1,50 @@
+{
+ "tytul": "Domowa siłownia w ogrodzie bez altany - jak ćwiczyć na zewnątrz",
+ "opis_meta": "Chcesz ćwiczyć na świeżym powietrzu bez stawiania osobnej altany w ogrodzie? Zobacz, jak zorganizować trening pod dachem przy użyciu istniejącej ramy.",
+ "wstep": "Chcesz trenować na świeżym powietrzu, ale nie masz ochoty stawiać osobnej altany, która zajmie pół trawnika. Klasyczny sprzęt ustawiony na trawie szybko niszczeje pod wpływem opadów, a deszcz skutecznie zniechęca do regularnych ćwiczeń. Możesz jednak stworzyć funkcjonalne miejsce do treningu, wykorzystując zadaszenie, które i tak planujesz na swojej posesji.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego osobna konstrukcja do ćwiczeń w ogrodzie bywa problemem",
+   "akapity": [
+    "Samodzielna klatka treningowa postawiona na środku ogrodu zabiera cenną przestrzeń rekreacyjną. Trudno wtedy swobodnie skosić trawnik, a metalowe elementy wystawione bezpośrednio na deszcz stają się mokre i śliskie.",
+    "Trening pod chmurką w naszym klimacie sprawdza się tylko przez kilka miesięcy w roku. Bez zadaszenia każdy jesienny deszcz uniemożliwia podciąganie czy rozciąganie, a wilgoć z czasem niszczy materiał."
+   ]
+  },
+  {
+   "h2": "Jak stworzyć miejsce do ćwiczeń bez zagracania podwórka",
+   "akapity": [
+    "Praktycznym wyjściem jest wykorzystanie konstrukcji nośnej, która już stoi przy domu. Jeśli zadaszenie opiera się na solidnych słupach, możesz potraktować je jako gotową bazę do montażu przyrządów.",
+    "Trening z masą własnego ciała nie wymaga wielkiego metrażu, ale potrzebuje stabilnego podłoża i osłony przed opadami. Utwardzony podjazd z kostki lub betonu pod dachem daje stabilne oparcie dla stóp, więc nie nanosisz błota na sprzęt."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie stali na zewnątrz",
+   "akapity": [
+    "Każdy element zamontowany na stałe na dworze musi znosić wilgoć, śnieg i mróz. Zwykła farba szybko odpryskuje, dlatego stalowe przyrządy muszą przejść proces ocynku ogniowego oraz malowania proszkowego.",
+    "Słupy nośne muszą bez problemu radzić sobie z dynamicznym obciążeniem podczas dynamicznych ćwiczeń. Z tego względu przyrządów nie montuje się do wiotkich płotów ani lekkich pergoli, lecz do grubej stali konstrukcyjnej."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive połączyliśmy wiatę garażową z modułem sportowym, montując drabinkę szwedzką, drążek i poręcze bezpośrednio do słupów ze stali konstrukcyjnej S235. Masz zadaszone miejsce do treningu przy wjeździe, a w ogrodzie nie stoi osobna konstrukcja. Najwygodniej sprawdza się wiata 4 x 6 m, gdzie obok zaparkowanego auta zostaje przestrzeń na trening. Całość chroni ocynk ogniowy i lakier proszkowy, a montaż zajmuje zazwyczaj jeden dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 3,
+ "kolejnosc": 18,
+ "temat": "domowa siłownia w ogrodzie bez altany",
+ "adres": "domowa-silownia-w-ogrodzie-bez-altany",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,52 @@
+{
+ "tytul": "Wieszak na narzędzia na ogrodzenie. Jak zamontować i na co uważać",
+ "opis_meta": "Szukasz sposobu na wieszak na narzędzia na ogrodzenie? Poznaj metody montażu, wady zawieszania sprzętu na płocie i praktyczne wskazówki montera.",
+ "wstep": "Oparcie grabi o płot zwykle kończy się ich przewróceniem, a prowizoryczne wieszanie narzędzi na siatce potrafi ją wygiąć. Jeśli planujesz zamontować wieszak na narzędzia na ogrodzeniu, musisz dopasować mocowanie do rodzaju płotu i wagi sprzętu. Z tego poradnika dowiesz się, jak zorganizować to bezpiecznie i wygodnie.",
+ "sekcje": [
+  {
+   "h2": "Montaż wieszaka do różnych typów ogrodzeń",
+   "akapity": [
+    "Wszystko zależy od konstrukcji Twojego płotu. Przy klasycznej siatce plecionej montaż ciężkich uchwytów odpada, ponieważ cienki drut szybko się rozciągnie i zniekształci. W takim wypadku jedynym stabilnym punktem podparcia są słupki ogrodzeniowe, na których można rozpiąć poprzeczną listwę nośną.",
+    "Panele zgrzewane lub płoty palisadowe dają znacznie lepszą bazę pod wieszaki. Najlepiej montować je za pomocą skręcanych obejm zaciskowych, co pozwala uniknąć wiercenia w metalu zabezpieczonym antykorozyjnie. Przy sztachetach drewnianych wystarczą odpowiednie wkręty, ale trzeba pamiętać, że pracujące na słońcu i deszczu drewno z czasem luzuje mocowania."
+   ]
+  },
+  {
+   "h2": "Ciężar narzędzi i działanie wiatru",
+   "akapity": [
+    "Szpadle, widły, grabie i szufla do śniegu ważą łącznie kilkanaście kilogramów. Gdy powiesisz taki zestaw na jednym fragmencie przęsła, zacznie ono stale pracować pod obciążeniem. Silniejsze podmuchy wiatru wywołują dodatkowy nacisk boczny, a wiszące luźno trzonki mogą obijać się o ogrodzenie i hałasować.",
+    "Ważna jest też kwestia korozji na styku materiałów. Woda deszczowa spływająca z narzędzi zbiera się przy hakach i elementach złącznych. Tanie wkręty bez zabezpieczenia zaczną rdzewieć, zostawiając trudne do usunięcia, brunatne zacieki na przęsłach ogrodzeniowych."
+   ]
+  },
+  {
+   "h2": "Ergonomia i codzienna wygoda",
+   "akapity": [
+    "Zanim przymocujesz haki na stałe, sprawdź wysokość ich zawieszenia. Narzędzia ogrodowe powinieneś odkładać naturalnym ruchem, bez konieczności sięgania wysoko ponad głowę ani schylania się do samej ziemi. Zachowaj też odpowiednie odstępy między uchwytami, żeby szerokie części łopat i mioteł nie zachodziły na siebie.",
+    "Sprawdź również podłoże bezpośrednio pod planowanym wieszakiem. Jeśli pod płotem rosną krzewy lub jest tam grząska ziemia, sięganie po narzędzia po deszczu skończy się zniszczeniem zieleni i brudnymi butami. Warto zapewnić sobie choć kawałek utwardzonego podejścia z płyt lub żwiru."
+   ]
+  }
+ ],
+ "rozwiazanie": "Alternatywą dla przerabiania ogrodzenia jest metalowy stojak na narzędzia ogrodowe CA-Stand lub panel ścienny CA-Lite o wymiarach 100-150 x 50 cm, który można przykręcić do ogrodzenia, ściany lub bezpośrednio do wiaty CarportActive. W ofercie dostępne są także modele wolnostojące niewymagające wiercenia: niski CA-Entry (wysokość 60-80 cm, na stopach z płaskownika 100 x 4 mm), szeroki CA-Yard (80-100 cm) oraz wzmocniony CA-Hard na ciężkie młoty, kilofy i mokre węże. Konstrukcje wykonane są w tym samym stylu i kolorze co wiaty CarportActive, mieszczą łopaty, grabie, miotły i rękawice, a ich ceny zaczynają się od 300 zł na zamówienie w fazie prototypu, z dostawą do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy warto wiercić otwory w słupkach ogrodzenia pod wieszak?",
+   "odpowiedz": "Lepiej tego unikać, ponieważ wiercenie w ocynkowanych słupkach niszczy powłokę antykorozyjną i prowadzi do powstawania rdzy. Bezpieczniejszym rozwiązaniem są obejmy montażowe zaciskane wokół słupka."
+  },
+  {
+   "pytanie": "Jakie narzędzia można bezpiecznie powiesić na płocie panelowym?",
+   "odpowiedz": "Na panelach najlepiej wieszać lekkie narzędzia ręczne, grabie do liści, miotły i małe sekatory. Ciężki sprzęt, taki jak szpadle czy kilofy, lepiej odkładać na stojak wolnostojący."
+  },
+  {
+   "pytanie": "Czy narzędzia wiszące na ogrodzeniu trzeba zabezpieczać przed deszczem?",
+   "odpowiedz": "Ogrodzenie rzadko zapewnia osłonę przed opadami, przez co drewniane trzonki szybciej szarzeją i butwieją, a stalowe części pokrywają się nalotem. Jeśli narzędzia wiszą pod gołym niebem, warto regularnie zabezpieczać je olejem lub wybrać zadaszone stanowisko."
+  }
+ ],
+ "nr": 133,
+ "kolejnosc": 69,
+ "temat": "wieszak na narzędzia na ogrodzenie",
+ "adres": "wieszak-na-narzedzia-na-ogrodzenie",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

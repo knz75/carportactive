@@ -1,0 +1,57 @@
+{
+ "tytul": "Zioła w ogrodzie pionowym - co posadzić na zielonej ścianie",
+ "opis_meta": "Zastanawiasz się, jakie zioła wybrać do ogrodu pionowego? Sprawdź, które gatunki lubią słońce, jak je sadzić i jak zadbać o podlewanie zielonej ściany.",
+ "wstep": "Ogród pionowy to prosty sposób na własne świeże przyprawy bez zajmowania miejsca na podjeździe czy trawniku. Wybór roślin zależy głównie od strony świata oraz od tego, ile czasu możesz poświęcić na ich pielęgnację. Zioła potrzebują słońca i regularnego podlewania, dlatego warto dobrze przemyśleć ich układ w pionie.",
+ "sekcje": [
+  {
+   "h2": "Zioła na ścianę od strony słońca",
+   "akapity": [
+    "Jeśli Twoja zielona ściana znajduje się od strony południowej lub zachodniej, masz świetne warunki dla gatunków śródziemnomorskich. Na takim stanowisku bardzo dobrze rosną rozmaryn, tymianek, oregano oraz szałwia. Rośliny te lubią ciepło, a w pionowych pojemnikach nie grozi im stojąca woda, której nie znoszą.",
+    "W pełnym słońcu sprawdzi się także bazylia. Wymaga ona jednak częstszego nawadniania niż tymianek czy oregano, bo jej liście szybko wiotczeją przy braku wody. Warto posadzić ją na takiej wysokości, aby mieć do niej łatwy dostęp podczas gotowania i podlewania."
+   ]
+  },
+  {
+   "h2": "Co posadzić w miejscach z mniejszą ilością światła",
+   "akapity": [
+    "Nie każda ściana ma słońce przez cały dzień. Przy ekspozycji wschodniej lub w lekkim półcieniu lepiej sprawdzą się mięta, melisa, pietruszka naciowa oraz szczypiorek. Te zioła dobrze radzą sobie przy umiarkowanym nasłonecznieniu i wolniej tracą wilgoć.",
+    "Pionowe pojemniki są szczególnie wygodne dla mięty. W zwykłym gruncie mięta szybko rozrasta się na całą grządkę i zagłusza inne rośliny. W zamkniętym module pionowym jej korzenie mają ograniczoną przestrzeń, więc roślina nie zdominuje pozostałych ziół."
+   ]
+  },
+  {
+   "h2": "Jak rozmieścić rośliny w pionowych modułach",
+   "akapity": [
+    "Pojemniki ustawione jeden nad drugim mają różną wilgotność. Moduły na samej górze nagrzewają się najmocniej, a ziemia wysycha w nich najszybciej. Dlatego na najwyższym poziomie najlepiej posadzić tymianek i oregano, które dobrze znoszą okresowy brak wody.",
+    "Niższe piętra zatrzymują wilgoć nieco dłużej, ponieważ woda naturalnie spływa w dół. To dobre miejsce na bazylię, miętę czy melisę. Dzięki takiemu układowi rośliny o większych wymaganiach wodnych radzą sobie znacznie lepiej."
+   ]
+  },
+  {
+   "h2": "Podlewanie zielonej ściany",
+   "akapity": [
+    "Trzeba pamiętać, że w pionie ziemia wysycha szybciej niż na tradycyjnej grządce. W upały cienka warstwa podłoża w pojemnikach może wyschnąć w ciągu jednego dnia. Jeśli zależy Ci na bujnych ziołach, konieczne jest systematyczne nawadnianie.",
+    "Gdy wiesz, że brakuje Ci czasu na regularną opiekę, możesz rozważyć pnącza, które są najmniej wymagające ze wszystkich roślin. Jeśli jednak wybierasz zioła, warto zaplanować stały dostęp do wody już na etapie montażu ściany."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive możesz połączyć wiatę garażową z ogrodem wertykalnym na bocznym panelu. Taka zielona ściana osłania samochód od słońca i wiatru oraz wygląda znacznie lepiej niż goła stal, a boczna ściana wiaty ma kilka metrów kwadratowych powierzchni przy zerowej utracie miejsca na ziemi. Konstrukcja zrobiona jest ze stali konstrukcyjnej S235 ocynkowanej ogniowo i malowanej proszkowo, więc wilgoć od roślin jej nie szkodzi. Moduły roślinne z opcją nawadniania pasują do wiat 3 x 6 m, 4 x 6 m, 6 x 6 m lub innych rozmiarów i można je zamontować od razu albo dołożyć później.",
+ "faq": [
+  {
+   "pytanie": "Czy zioła w ogrodzie pionowym trzeba codziennie podlewać?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. W bardzo gorące dni codzienne podlewanie może być potrzebne, dlatego proponujemy opcję nawadniania, której zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z podlewanych ziół nie zaszkodzi stalowej konstrukcji?",
+   "odpowiedz": "Nie zaszkodzi. Stal wiaty jest ocynkowana ogniowo i malowana proszkowo, dzięki czemu jest przygotowana na deszcz i stałą wilgoć przez cały rok."
+  },
+  {
+   "pytanie": "Czy moduły na zioła trzeba zamówić od razu z wiatą?",
+   "odpowiedz": "Nie trzeba decydować od razu. Moduły można zamówić razem z wiatą albo dołożyć później, ponieważ słupy i fundament mają odpowiedni zapas nośności."
+  }
+ ],
+ "nr": 49,
+ "kolejnosc": 29,
+ "temat": "zioła w ogrodzie pionowym - co posadzić",
+ "adres": "ziola-w-ogrodzie-pionowym-co-posadzic",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

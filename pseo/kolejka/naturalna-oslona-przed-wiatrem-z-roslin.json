@@ -1,0 +1,48 @@
+{
+ "tytul": "Naturalna osłona przed wiatrem z roślin. Jak ją zaplanować",
+ "opis_meta": "Jak działa naturalna osłona przed wiatrem z roślin na podwórku? Poznaj sprawdzone gatunki, zasady doboru i sposoby na osłonięcie podjazdu.",
+ "wstep": "Silny wiatr na podwórku potrafi uprzykrzyć codzienne życie i nawiewa brud na zaparkowany samochód. Zamiast stawiać pełny płot, możesz wykorzystać zieleń, która skutecznie wyhamuje mocne podmuchy. Wyjaśniamy, jak działa taka osłona i jakie rośliny sprawdzą się najlepiej w tej roli.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego rośliny dobrze chronią przed wiatrem",
+   "akapity": [
+    "Lita ściana tworzy barierę, na której wiatr gwałtownie się odbija i tworzy zawirowania tuż za przeszkodą. Rośliny działają inaczej, ponieważ przepuszczają część powietrza i rozbijają silne podmuchy na mniejsze strugi. Dzięki temu po drugiej stronie zielonej osłony ruch powietrza staje się łagodny i mniej uciążliwy."
+   ]
+  },
+  {
+   "h2": "Jakie rośliny wybrać na zieloną przegrodę",
+   "akapity": [
+    "Wybór roślin zależy głównie od strony świata oraz od tego, ile czasu chcesz poświęcić na ich pielęgnację. Jeśli zależy Ci na prostej uprawie i szybkim efekcie, dobrym wyborem będą pnącza. Są one najmniej wymagające i stabilnie znoszą zmienne warunki pogodowe.",
+    "Na stanowiskach mocno nasłonecznionych sprawdzą się zioła lub kwitnące kwiaty sezonowe. Pamiętaj jednak, że zioła potrzebują dużo słońca oraz regularnego dostarczania wody. W wietrznych i ciepłych miejscach ziemia w donicach wysycha znacznie szybciej niż w gruncie."
+   ]
+  },
+  {
+   "h2": "Pielęgnacja osłony w pionie i podlewanie",
+   "akapity": [
+    "Boczna przestrzeń na działce często ma ograniczoną powierzchnię gruntu, dlatego rośliny sadzi się w układzie pionowym. W pionie ziemia wysycha szybciej niż na tradycyjnej grządce, a wiatr dodatkowo przyspiesza parowanie wody z liści. W upalne dni regularne podlewanie decyduje o tym, czy osłona zachowa gęstość i zdrowy wygląd przez cały sezon."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym sposobem na połączenie ochrony auta i zieleni jest wiata CarportActive z ogrodem wertykalnym. Na bocznym panelu wiaty montuje się moduły roślinne w postaci pojemników ustawionych jeden nad drugim, które tworzą osłonę przed słońcem i wiatrem. Konstrukcja ze stali S235 jest ocynkowana ogniowo i malowana proszkowo, dzięki czemu wilgoć z podlewania nie szkodzi metalowi. Do wiaty można dobrać opcję nawadniania, a moduły roślinne można zamontować od razu lub dołożyć je w późniejszym czasie.",
+ "faq": [
+  {
+   "pytanie": "Czy trzeba codziennie podlewać rośliny w modułach?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Dlatego do wiaty można dodać opcję nawadniania, a jej zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Czy wilgoć z zielonej ściany nie zaszkodzi konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo. Jest w pełni przygotowana na stały kontakt z deszczem i wilgocią przez cały rok."
+  },
+  {
+   "pytanie": "Jak dobrać gatunki roślin na ścianę wiaty?",
+   "odpowiedz": "Dobór zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, natomiast zioła i kwiaty potrzebują więcej słońca oraz regularnego podlewania."
+  }
+ ],
+ "nr": 64,
+ "kolejnosc": 158,
+ "temat": "naturalna osłona przed wiatrem z roślin",
+ "adres": "naturalna-oslona-przed-wiatrem-z-roslin",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,57 @@
+{
+ "tytul": "Garaż zastawiony rowerami - co zrobić? Sprawdzone sposoby",
+ "opis_meta": "Garaż zastawiony rowerami utrudnia parkowanie i codzienne wyjścia. Zobacz, jak odzyskać przestrzeń na podłodze i zorganizować jednoślady na ścianach.",
+ "wstep": "Wracasz do domu, chcesz zaparkować auto, ale pod ścianą stoi plątanina kierownic i pedałów. Zastawiony garaż to częsty kłopot, szczególnie gdy z jednośladów korzysta cała rodzina. Da się to uporządkować bez pozbywania się sprzętu.",
+ "sekcje": [
+  {
+   "h2": "Zacznij od podziału sprzętu na grupy",
+   "akapity": [
+    "Zanim zaczniesz cokolwiek montować, wyprowadź wszystkie jednoślady na zewnątrz. Podziel je na te, z których korzystacie codziennie, oraz te używane sporadycznie lub tylko w sezonie letnim.",
+    "Sprzęt miejski i dziecięcy musi stać w zasięgu ręki, bez konieczności przestawiania innych rzeczy. Rzadziej używane rowery mogą trafić w głąb pomieszczenia lub wyżej na ścianę."
+   ]
+  },
+  {
+   "h2": "Przenieś rowery z podłogi na ściany",
+   "akapity": [
+    "Podłoga w garażu powinna pozwalać na swobodne wysiadanie z auta i przejście bez ocierania się o brudne łańcuchy. Kiedy rowery stoją oparte o mur, łatwo też o przypadkowe porysowanie karoserii.",
+    "Rozwiązaniem są wieszaki ścienne. Zawieszenie jednośladu za koło lub ramę całkowicie uwalnia posadzkę, a Ty zyskujesz swobodę ruchu wokół samochodu."
+   ]
+  },
+  {
+   "h2": "Dopasuj sposób parkowania do użytkownika",
+   "akapity": [
+    "Dziecko nie podniesie ciężkiego roweru na wysoki hak, a próba siłowania się ze sprzętem może skończyć się upadkiem. Dla najmłodszych lepiej sprawdzają się niskie stojaki, w które wystarczy wsunąć przednie koło.",
+    "Na wieszakach ściennych umieszczaj wyłącznie sprzęt dorosłych. Hulajnogi, rowerki biegowe i rolki zgrupuj w jednym niskim punkcie tuż przy wejściu."
+   ]
+  },
+  {
+   "h2": "Wyprowadź jednoślady poza garaż",
+   "akapity": [
+    "Jeśli w garażu brakuje szerokości, żadne wieszaki ścienne nie pomogą, bo zawieszony rower nadal będzie przeszkadzał przy otwieraniu drzwi auta. W takiej sytuacji najlepszym ruchem jest znalezienie zadaszonego miejsca na zewnątrz.",
+    "Sprzęt trzymany pod dachem poza domem nie zabiera cennych metrów w budynku. Dodatkowo prace serwisowe, takie jak smarowanie łańcucha czy mycie kół, możesz wtedy wykonać na świeżym powietrzu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Dobrym rozwiązaniem jest stalowa wiata CarportActive z modułem przechowalni rowerów. Wieszaki i stojaki są przykręcone do konstrukcji wiaty, więc rowery wiszą na ścianie, łańcuch nie rdzewieje na deszczu, a garaż i przedpokój zostają wolne. Najwięcej miejsca z boku daje wiata w rozmiarze 4 x 6 m. Na stronie możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę, a jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Ile rowerów zmieści się pod taką wiatą?",
+   "odpowiedz": "To, ile rowerów się zmieści, zależy od rozmiaru wiaty i układu wieszaków. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy w przechowalni można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą bezpośrednio obok rowerów."
+  }
+ ],
+ "nr": 104,
+ "kolejnosc": 160,
+ "temat": "garaż zastawiony rowerami - co zrobić",
+ "adres": "garaz-zastawiony-rowerami-co-zrobic",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

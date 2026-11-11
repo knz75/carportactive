@@ -1,0 +1,50 @@
+{
+ "tytul": "Gdzie dzieci mogą się bawić, kiedy pada? Praktyczne miejsca",
+ "opis_meta": "Sprawdź, gdzie dzieci mogą się bawić, kiedy pada deszcz. Poznaj proste sposoby na ruch na świeżym powietrzu bez błota i bałaganu w domu.",
+ "wstep": "Deszczowy dzień nie musi oznaczać siedzenia przed ekranem telewizora. Dzieci potrzebują codziennego ruchu bez względu na pogodę za oknem. Jeśli dobrze zaplanujesz przestrzeń wokół domu, kałuże przestaną być problemem.",
+ "sekcje": [
+  {
+   "h2": "Zadaszony taras lub ganek",
+   "akapity": [
+    "Dobrym miejscem do zabawy podczas opadów jest zadaszony taras albo ganek. Dach chroni przed deszczem, a twarda posadzka pozwala na rysowanie kredą, skakanie na skakance lub układanie klocków na powietrzu.",
+    "Warto na ten czas odsunąć meble ogrodowe pod ścianę. Zyskasz wtedy wolny pas podłogi, na którym maluchy mogą swobodnie się ruszać bez wnoszenia błota do salonu."
+   ]
+  },
+  {
+   "h2": "Zabawa w ogrodzie w deszczowe dni",
+   "akapity": [
+    "Gdy deszcz nie jest ulewny, dzieci mogą bawić się w ogrodzie w odpowiednim ubraniu. Przydadzą się kalosze, wodoodporne spodnie oraz kurtka z kapturem do biegania po trawie.",
+    "Pamiętaj jednak, że mokry trawnik pod stopami szybko zamienia się w błoto. Po takiej zabawie czeka Cię mycie zabrudzonego sprzętu i suszenie przemoczonych rzeczy."
+   ]
+  },
+  {
+   "h2": "Puste miejsce pod wiatą lub na podjeździe",
+   "akapity": [
+    "Częstym wyborem rodziców jest utwardzony podjazd z zadaszeniem. Daje on osłonę przed deszczem i wiatrem, więc dzieci mogą jeździć na małym rowerku lub rzucać piłką do celu.",
+    "Trzeba jednak zadbać o porządek i odsunąć ostre przedmioty oraz narzędzia. Strefa do biegania musi być bezpieczna i oddzielona od miejsca, po którym jeżdżą pojazdy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem jest stalowa wiata CarportActive z modułem placu zabaw. Pod dachem montujemy ściankę wspinaczkową z chwytami przy słupie, siatkę linową oraz liny gimnastyczne, a na podłożu kładziemy matę amortyzującą. Dzieci bawią się na świeżym powietrzu w suchym miejscu i w cieniu, a Twój trawnik pozostaje nienaruszony.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego dokładne ustawienie omawiamy przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się pod ścianką wspinaczkową?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która zapewnia miękkie podłoże."
+  },
+  {
+   "pytanie": "Co zrobić z konstrukcją, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają na stałe. Zamiast ścianki wspinaczkowej możesz zamontować moduł sportowy albo panel narzędziowy."
+  }
+ ],
+ "nr": 69,
+ "kolejnosc": 30,
+ "temat": "gdzie dzieci mogą się bawić, kiedy pada",
+ "adres": "gdzie-dzieci-moga-sie-bawic-kiedy-pada",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

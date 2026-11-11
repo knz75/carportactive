@@ -1,0 +1,50 @@
+{
+ "tytul": "Szybko rosnące pnącza wieloletnie. Co wybrać do ogrodu?",
+ "opis_meta": "Szukasz szybko rosnących pnączy wieloletnich na ogrodzenie lub ścianę? Sprawdź, jak dobrać rośliny do słońca i cienia oraz jak o nie dbać.",
+ "wstep": "Chcesz szybko osłonić podwórko od wiatru, słońca lub wzroku sąsiadów. Pnącza wieloletnie to sprawdzony sposób na stworzenie gęstej, zielonej ściany w krótkim czasie. Zobacz, na co zwrócić uwagę przy wyborze roślin oraz podpór pod pędy.",
+ "sekcje": [
+  {
+   "h2": "Na co zwrócić uwagę przed wyborem pnącza",
+   "akapity": [
+    "Zanim kupisz sadzonki, sprawdź warunki na swojej działce. Kluczowa jest strona świata, czyli ilość słońca docierająca do ściany lub ogrodzenia w ciągu dnia. Zwróć też uwagę na to, ile czasu możesz poświęcić na pielęgnację.",
+    "Pnącza potrzebują stabilnego oparcia. Rozrastające się pędy szybko zyskują na masie, zwłaszcza po ulewnym deszczu. Podpora musi bez problemu wytrzymać ciężar liści oraz silniejsze podmuchy wiatru."
+   ]
+  },
+  {
+   "h2": "Wymagania pnączy a strona świata",
+   "akapity": [
+    "Wybór roślin zależy od ekspozycji na słońce. Na ścianie od strony słońca podłoże przesycha bardzo szybko, co wymusza częstsze dostarczanie wody. W takich miejscach sprawdzą się gatunki ciepłolubne, odporne na mocne promienie.",
+    "W miejscach zacienionych wilgoć utrzymuje się w ziemi znacznie dłużej. Pnącza rosną tam w innym tempie, ale wymagają rzadszego podlewania. Dobierz rośliny tak, aby brak bezpośredniego słońca nie zatrzymał ich wzrostu."
+   ]
+  },
+  {
+   "h2": "Pielęgnacja i nawadnianie zielonej ściany",
+   "akapity": [
+    "Pnącza wieloletnie należą do najmniej wymagających roślin, ale w okresie ukorzeniania potrzebują stałej uwagi. Najważniejsza sprawa to regularna wilgotność podłoża, która pozwala młodym pędom ruszyć w górę.",
+    "Jeśli uprawiasz rośliny w pojemnikach pionowych, pamiętaj o specyfice podłoża. W pionie ziemia wysycha szybciej niż na tradycyjnej grządce. W upalne dni regularne podlewanie decyduje o tym, czy pędy zachowają zdrowy kolor."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli chcesz stworzyć zieloną ścianę przy aucie, rozwiązaniem jest wiata CarportActive z ogrodem wertykalnym na bocznym panelu. Konstrukcja powstaje ze stali S235 ocynkowanej ogniowo i malowanej proszkowo, w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m (wysokość 2,7 m) lub na wymiar. Moduły roślinne w formie pojemników jeden nad drugim osłaniają samochód od słońca i wiatru, a całość można wyposażyć w opcję nawadniania. Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wilgoć z roślin nie zaszkodzi konstrukcji wiaty?",
+   "odpowiedz": "Stal wiaty jest ocynkowana ogniowo i malowana proszkowo, czyli przygotowana na deszcz i wilgoć przez cały rok."
+  },
+  {
+   "pytanie": "Czy rośliny w modułach pionowych trzeba codziennie podlewać?",
+   "odpowiedz": "W upały moduły pionowe wysychają szybciej niż zwykła grządka. Dlatego proponujemy opcję nawadniania, której zakres ustalamy indywidualnie."
+  },
+  {
+   "pytanie": "Jakie rośliny najlepiej wybrać na boczny panel?",
+   "odpowiedz": "Wybór zależy od strony świata i Twojego czasu. Pnącza są najmniej wymagające, zioła potrzebują słońca i regularnego podlewania, a kwiaty sprawdzają się jako dekoracja sezonowa."
+  }
+ ],
+ "nr": 56,
+ "kolejnosc": 92,
+ "temat": "szybko rosnące pnącza wieloletnie",
+ "adres": "szybko-rosnace-pnacza-wieloletnie",
+ "link": "moduly/ogrod-wertykalny",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

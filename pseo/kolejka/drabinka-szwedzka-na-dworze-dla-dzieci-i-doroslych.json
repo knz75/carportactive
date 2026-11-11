@@ -1,0 +1,47 @@
+{
+ "tytul": "Drabinka szwedzka na dworze dla dzieci i dorosłych. Poradnik",
+ "opis_meta": "Szukasz drabinki szwedzkiej do ogrodu? Zobacz, jak zamontować sprzęt do ćwiczeń na zewnątrz, dobrać materiały i zadbać o bezpieczeństwo całej rodziny.",
+ "wstep": "Chcesz zamontować drabinkę szwedzką na dworze, żeby ćwiczyć razem z dziećmi. Zanim kupisz sprzęt, musisz wybrać trwały materiał i solidne podłoże. Na zewnątrz liczy się przede wszystkim odporność na deszcz oraz stabilny montaż.",
+ "sekcje": [
+  {
+   "h2": "Jaki materiał sprawdzi się w ogrodzie",
+   "akapity": [
+    "Drewno w ogrodzie szybko niszczeje pod wpływem wody i słońca. Nawet dobrze zaimpregnowane szczeble po dwóch sezonach mogą pękać albo stawać się szorstkie dla dłoni. Jeśli szukasz rozwiązania na lata, postaw na stal zabezpieczoną przed korozją. Najlepiej sprawdza się stal cynkowana ogniowo i malowana proszkowo, która nie rdzewieje na deszczu i mrozie."
+   ]
+  },
+  {
+   "h2": "Bezpieczny montaż i stabilność dla dzieci i dorosłych",
+   "akapity": [
+    "Dziecko na drabince głównie się wspina, ale dorosły generuje znacznie większe obciążenia dynamiczne podczas treningu. Sprzęt wolnostojący wkopany bezpośrednio w trawnik często z czasem traci pion i zaczyna się chwiać. Do bezpiecznego użytku potrzebujesz głębokiego kotwienia w betonie lub przykręcenia do bardzo sztywnej konstrukcji."
+   ]
+  },
+  {
+   "h2": "Jak ćwiczyć na zewnątrz przez cały rok",
+   "akapity": [
+    "Największym problemem ze sprzętem ogrodowym jest pogoda. Mokre szczeble po deszczu stają się śliskie, a jesienią i zimą przyrządy stoją bezużyteczne. Warto pomyśleć o lokalizacji, która daje osłonę przed opadami. Zadaszenie sprawia, że możesz zrobić rozgrzewkę, rozciąganie czy zwisy o każdej porze roku, bez wycierania szczebli przed każdym treningiem."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązaliśmy ten problem, montując drabinkę szwedzką, drążek i poręcze bezpośrednio do słupów wiaty garażowej ze stali S235. Masz zadaszone miejsce do treningu przy domu, a w ogrodzie nie stoi osobna konstrukcja. Najwygodniej ćwiczy się przy wiacie 4 x 6 m, a moduł sportowy możesz zamontować od razu lub dołożyć w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą, kiedy ćwiczę?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć później?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy mogę zamówić inne przyrządy niż w zestawie?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 11,
+ "kolejnosc": 90,
+ "temat": "drabinka szwedzka na dworze dla dzieci i dorosłych",
+ "adres": "drabinka-szwedzka-na-dworze-dla-dzieci-i-doroslych",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

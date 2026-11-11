@@ -1,0 +1,50 @@
+{
+ "tytul": "Bezpieczna nawierzchnia pod plac zabaw. Co sprawdzi sie w ogrodzie",
+ "opis_meta": "Szukasz bezpiecznej nawierzchni pod plac zabaw w ogrodzie? Poznaj wady i zalety roznych podlozy i dowiedz sie, jak zadbac o miekkie ladowanie dzieci.",
+ "wstep": "Wybor nawierzchni pod przydomowy plac zabaw decyduje o bezpieczenstwie maluchow przy kazdym upadku. Zwykla ziemia szybko zamienia sie w twarde klepisko lub bloto po deszczu. Warto poznac wady i zalety najczestszych rozwiazan przed przygotowaniem podloza.",
+ "sekcje": [
+  {
+   "h2": "Trawa i piasek w strefie upadku",
+   "akapity": [
+    "Naturalny trawnik wydaje sie najprostszym wyborem, ale w miejscach czestych ladowan szybko sie wyciera. Z czasem pod hustawka lub zjezdzalnia powstaje ubita, twarda ziemia, ktora slabo amortyzuje skoki. Po opadach deszczu takie podloze dlugo schnie i zamienia sie w kaluze.",
+    "Piasek dobrze tlumi upadki, jednak latwo roznosi sie po calym podworku. Wymaga on takze wykonania obrzezy, aby nie uciekal na trawnik. Dodatkowo piasek moze przyciagac bezpanskie zwierzeta, wiec trzeba go regularnie grabic i wymieniac."
+   ]
+  },
+  {
+   "h2": "Kora ogrodowa i zrebki drewniane",
+   "akapity": [
+    "Kora i zrebki wygladaja naturalnie i dobrze pasuja do zieleni w ogrodzie. Tworza elastyczna warstwe, ktora miekko przyjmuje kazdy zeskok. Trzeba jednak pamietac, ze drewno z czasem naturalnie gnije i traci objetosc, przez co wymaga regularnego dosypywania.",
+    "Przy korze problemem bywaja drzazgi, ktore moga wbijac sie w bose stopy latem. Material ten przemieszcza sie tez pod wplywem biegania, tworzac nierownosci. W wilgotne dni drobne kawalki latwo przyklejaja sie do butow i ubran dzieci."
+   ]
+  },
+  {
+   "h2": "Syntetyczne maty i plyty amortyzujace",
+   "akapity": [
+    "Maty amortyzujace to czesty wybor w miejscach, gdzie liczy sie czystosc i stala ochrona. Nie tworza kurzu, nie roznosza sie po trawie i sa gotowe do uzytku zaraz po rozlozeniu. Taka nawierzchnia nie ubija sie jak ziemia i zachowuje swoje wlasciwosci przez caly rok.",
+    "Do ulozenia mat potrzebne jest rowne i stabilne podloze. Dzieki temu woda nie zbiera sie w zaglebieniach, a dzieci nie potykaja sie o krawedzie. To dobre rozwiazanie pod drabinki czy strefy wspinaczkowe, gdzie punktowe uderzenia o grunt sa najczestsze."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive strefe wspinania umieszczamy pod dachem wiaty, a pod nia kladziemy miekka mate amortyzujaca. Dzieki zadaszeniu podloze jest zawsze suche, czyste i zacienione, a dzieci moga bezpiecznie bawic sie nawet w deszczu. Rozwiazanie montowane do slupow wiaty nie niszczy Twojego trawnika i nie zabiera cennego miejsca w ogrodzie.",
+ "faq": [
+  {
+   "pytanie": "Co najlepiej polozyc pod domowa scianke wspinaczkowa?",
+   "odpowiedz": "Pod strefa wspinania najlepiej sprawdza sie mata amortyzujaca, ktora zapewnia miekkie podloze przy ewentualnym zeskoku. Nie wymaga ona grabienia ani uzupelniania, a takze chroni przed zabrudzeniem ubran."
+  },
+  {
+   "pytanie": "Czy dzieci moga bawic sie bezpiecznie, kiedy obok stoi zaparkowany samochod?",
+   "odpowiedz": "Strefe zabaw planujemy z boku, poza miejscem parkowania auta. Mimo to zabawa w poblizu pojazdu wymaga uwagi doroslych, dlatego dokladne ustawienie omawiamy wspolnie na etapie projektu."
+  },
+  {
+   "pytanie": "Co zrobic ze strefa zabawy, gdy dzieci wyrosna?",
+   "odpowiedz": "Mocowania na stalowych slupach konstrukcji zostaja na stale. W miejsce scianki wspinaczkowej mozesz pozniej latwo zamontowac modul sportowy dla doroslych albo panel narzedziowy."
+  }
+ ],
+ "nr": 72,
+ "kolejnosc": 57,
+ "temat": "bezpieczna nawierzchnia pod plac zabaw",
+ "adres": "bezpieczna-nawierzchnia-pod-plac-zabaw",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

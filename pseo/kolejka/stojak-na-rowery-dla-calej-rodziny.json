@@ -1,0 +1,55 @@
+{
+ "tytul": "Stojak na rowery dla całej rodziny - jak go wybrać i ustawić",
+ "opis_meta": "Szukasz stojaka na rowery dla całej rodziny? Sprawdź, jak wygodnie rozmieścić rowery dorosłych i dzieci, aby nie niszczały i nie zagracały przejścia.",
+ "wstep": "Gdy w domu jest kilka jednośladów, zwykłe oparcie ich o ścianę szybko kończy się bałaganem. Rowery dzieci leżą na ziemi, a te dla dorosłych blokują wąskie przejścia. Dobry stojak na rowery dla całej rodziny musi łączyć różne sposoby przechowywania.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego jeden rodzaj stojaka zazwyczaj nie wystarcza",
+   "akapity": [
+    "Każdy członek rodziny korzysta ze sprzętu w inny sposób. Dzieci potrzebują prostego dostępu do swoich jednośladów, bo nie podniosą ciężkiego roweru na wysoki wieszak. Z kolei duże rowery dorosłych zajmują za dużo podłogi, gdy stoją w zwykłym stojaku szeregowym. Najlepiej sprawdza się połączenie wieszaków ściennych na duże rowery ze stojakami podłogowymi na mniejszy sprzęt i hulajnogi."
+   ]
+  },
+  {
+   "h2": "Wieszaki na ścianę kontra stojaki podłogowe",
+   "akapity": [
+    "Wieszaki ścienne pozwalają zaoszczędzić cenne miejsce na ziemi. Rower wisi na ścianie i nie zajmuje przestrzeni manewrowej na podłodze, dzięki czemu zyskujesz swobodne przejście. Zwykłe stojaki podłogowe zostaw na rowery dziecięce oraz hulajnogi, które po prostu wygodniej odstawić na koła. Taki podział sprawia, że dzieci nie obijają ram rowerów dorosłych podczas wyciągania swojego sprzętu."
+   ]
+  },
+  {
+   "h2": "Ochrona przed deszczem i bezpieczne przypięcie",
+   "akapity": [
+    "Trzymanie rowerów pod chmurką niszczy sprzęt. Łańcuch i napęd szybko rdzewieją od deszczu, a wilgoć skraca żywotność komponentów. Wybierając miejsce na stojak, zadbaj o solidny dach oraz możliwość fizycznego przypięcia ramy. Dobry stojak lub punkt mocowania powinien być trwale przykręcony do stabilnej konstrukcji, aby zabezpieczenie antykradzieżowe spełniało swoją rolę."
+   ]
+  },
+  {
+   "h2": "Miejsce na drobne naprawy i akcesoria",
+   "akapity": [
+    "Przy kilku rowerach regularne dopompowanie kół czy czyszczenie napędu to codzienność. Warto zaplanować przestrzeń tak, aby obok stojaka znalazło się miejsce na podstawowe narzędzia. Zorganizowany panel ścienny z kluczami i pompką zawieszony tuż przy rowerach oszczędza czas, bo nie musisz biegać po całym domu w poszukiwaniu potrzebnych rzeczy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów CarportActive pozwala trzymać rowery, hulajnogi, boxy dachowe i sprzęt sportowy pod dachem, więc garaż i przedpokój zostają wolne. Rowery wiszą na ścianie wiaty, dzięki czemu łańcuch nie rdzewieje na deszczu, a mniejsze jednoślady stoją w dedykowanych stojakach. Rower można przypiąć do stalowej konstrukcji ze stali S235 lub zamówić wydzieloną strefę zamykaną. Konstrukcję montuje się zazwyczaj w 1 dzień roboczy, a na stronie możesz wgrać zdjęcie podjazdu, by wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "To zależy od rozmiaru wiaty i układu wieszaków. Najwięcej miejsca z boku daje wiata 4 x 6 m. Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty."
+  },
+  {
+   "pytanie": "Czy rowery są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej ochrony, można zamówić zamkniętą strefę, a jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Czy pod wiatą można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą na ścianie bezpośrednio obok rowerów."
+  }
+ ],
+ "nr": 94,
+ "kolejnosc": 76,
+ "temat": "stojak na rowery dla całej rodziny",
+ "adres": "stojak-na-rowery-dla-calej-rodziny",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

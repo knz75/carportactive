@@ -1,0 +1,55 @@
+{
+ "tytul": "Gdzie trzymać przedłużacze i kable? Praktyczne sposoby",
+ "opis_meta": "Sprawdź, jak i gdzie trzymać przedłużacze oraz kable wokół domu. Poznaj proste sposoby na porządek i bezpieczne przechowywanie przewodów.",
+ "wstep": "Splątane kable i rzucone w kąt przedłużacze to częsty widok na podwórku czy w garażu. Jeśli chcesz uniknąć uszkodzeń izolacji i nerwów przy rozplątywaniu, warto zorganizować dla nich stałe miejsce. Pokażemy Ci, jak bezpiecznie i wygodnie przechowywać przewody.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego podłoga to najgorsze miejsce na kable",
+   "akapity": [
+    "Zostawianie przedłużaczy na ziemi szybko prowadzi do kłopotów. Na podłodze łatwo po nich przejechać taczką, samochodem lub po prostu na nie nadepnąć. Wilgoć zbierająca się przy gruncie także niszczy wtyczki i przyspiesza zużycie izolacji.",
+    "Gdy kable leżą luzem, zbierają kurz, piasek i błoto. Potem ten brud przenosisz na rękach lub wnosisz do domu, a czyszczenie zwiniętego przewodu bywa uciążliwe."
+   ]
+  },
+  {
+   "h2": "Jak prawidłowo zwijać przewody przed odłożeniem",
+   "akapity": [
+    "Zanim odłożysz kabel, zwiń go w luźne pętle lub zastosuj technikę naprzemienną, która zapobiega skręcaniu żył wewnętrznych. Nigdy nie naciągaj kabla mocno na łokieć, bo w ten sposób łamiesz miedziane druciki w środku.",
+    "Zwinięty przewód zabezpiecz prostym rzepem, kawałkiem sznurka lub specjalną opaską. Dzięki temu pętle nie rozsypią się przy przenoszeniu i nie pomieszają z innymi kablami."
+   ]
+  },
+  {
+   "h2": "Ściana zamiast pudła i skrzynki",
+   "akapity": [
+    "Wrzucenie kilku przedłużaczy do jednego pudła niemal zawsze kończy się supłami. O wiele lepszym rozwiązaniem są haki ścienne i dedykowane uchwyty. Gdy kabel wisi na ścianie, od razu widzisz jego długość i grubość, a sięgnięcie po niego zajmuje ułamek sekundy."
+   ]
+  },
+  {
+   "h2": "Ochrona przed deszczem i słońcem",
+   "akapity": [
+    "Przedłużacze używane na zewnątrz potrzebują zadaszenia. Promienie słoneczne z czasem osłabiają tworzywo sztuczne, a deszcz może dostać się do gniazd. Dobrze jest wybrać miejsce pod dachem, które zapewnia przepływ powietrza i chroni sprzęt przed bezpośrednią wodą."
+   ]
+  }
+ ],
+ "rozwiazanie": "Boczna ściana wiaty CarportActive to gotowe miejsce na stalowy panel perforowany. Przedłużacze, węże ogrodowe i narzędzia wiszą na hakach pod dachem, dokładnie tam, gdzie pracujesz, a podjazd staje się miejscem do drobnych napraw. Panel pasuje do każdego rozmiaru wiaty, a haki i uchwyty możesz dowolnie przekładać w miarę potrzeb.",
+ "faq": [
+  {
+   "pytanie": "Czy kable na panelu narzędziowym pod wiatą nie zamokną?",
+   "odpowiedz": "Panel jest pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy na panelu można zawiesić także inne narzędzia?",
+   "odpowiedz": "Tak. Dostępne są haki i uchwyty na łopaty, grabie, węże ogrodowe, przedłużacze i narzędzia ręczne, a także skrzynki na śruby i drobne części."
+  },
+  {
+   "pytanie": "Czy układ haków na kable można łatwo zmieniać?",
+   "odpowiedz": "Tak. Stalowa płyta ma otwory, dzięki którym haki przekładasz samodzielnie i zmieniasz ich układ zawsze wtedy, gdy zmieniają się Twoje narzędzia."
+  }
+ ],
+ "nr": 33,
+ "kolejnosc": 64,
+ "temat": "gdzie trzymać przedłużacze i kable",
+ "adres": "gdzie-trzymac-przedluzacze-i-kable",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

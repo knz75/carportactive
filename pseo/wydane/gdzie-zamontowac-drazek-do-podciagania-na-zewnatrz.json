@@ -1,0 +1,51 @@
+{
+ "tytul": "Gdzie zamontować drążek do podciągania na zewnątrz",
+ "opis_meta": "Szukasz miejsca na drążek do podciągania na zewnątrz? Sprawdź, gdzie go zamocować, na co uważać przy montażu i jak trenować pod dachem.",
+ "wstep": "Szukasz miejsca na drążek do ćwiczeń w ogrodzie lub na podjeździe, ale nie wiesz, do czego go przymocować. Zwykła ściana z ociepleniem bywa kłopotliwa, a osobna konstrukcja zajmuje cenną przestrzeń na trawniku. Podpowiadamy, gdzie bezpiecznie zamontować sprzęt do treningu na świeżym powietrzu.",
+ "sekcje": [
+  {
+   "h2": "Montaż do ściany budynku i problem z elewacją",
+   "akapity": [
+    "Wielu właścicieli domów myśli najpierw o zewnętrznej ścianie garażu lub budynku gospodarczego. To dobry pomysł, pod warunkiem że masz bezpośredni dostęp do twardego muru z cegły, betonu lub bloczków. Problem pojawia się wtedy, gdy ściana jest pokryta grubą warstwą styropianu lub wełny.",
+    "Mocowanie drążka przez grubą warstwę izolacji wymaga długich kotew chemicznych i tulei dystansowych. Dynamiczne ruchy podczas podciągania tworzą dużą dźwignię, która z czasem może uszkodzić i zgnieść tynk wokół punktów montażowych. Jeśli nie masz pewności co do stabilności mocowania w elewacji, lepiej poszukać innego rozwiązania."
+   ]
+  },
+  {
+   "h2": "Wolnostojący drążek w ogrodzie",
+   "akapity": [
+    "Inną popularną opcją jest postawienie wolnostojącej konstrukcji bezpośrednio na trawniku. Taki sprzęt wymaga jednak wkopania słupów w ziemię i zabetonowania ich, aby całość nie chwiała się podczas zwisów i wymachów. Oznacza to rozkopanie ogrodu i trwałe zajęcie kawałka działki.",
+    "Sprzęt stojący w ogrodzie utrudnia też regularne koszenie trawy wokół słupów. Dodatkowo w deszczowe dni ziemia wokół stanowiska szybko zamienia się w błoto, co zniechęca do regularnych ćwiczeń na zewnątrz."
+   ]
+  },
+  {
+   "h2": "Montaż pod zadaszeniem i na słupach nośnych",
+   "akapity": [
+    "Bardzo praktycznym miejscem do ćwiczeń na zewnątrz są solidne konstrukcje przydomowe, takie jak zadaszenia czy wiaty. Stalowe słupy konstrukcyjne dają stabilne oparcie i bez problemu znoszą obciążenia wynikające z podciągania.",
+    "Mocując drążek pod gotowym dachem, zyskujesz ochronę przed deszczem i palącym słońcem. Trening jest możliwy przez cały rok, a pod stopami masz utwardzoną nawierzchnię podjazdu zamiast mokrej trawy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym rozwiązaniem jest wiata CarportActive z modułem sportowym. Drabinka szwedzka, drążek do podciągania i poręcze są przykręcane bezpośrednio do stalowych słupów wiaty, dzięki czemu masz zadaszone miejsce do treningu przy domu bez stawiania osobnych konstrukcji w ogrodzie. Przy wiacie 4 x 6 m obok samochodu zostaje wygodna przestrzeń na ćwiczenia, a stal ze stali S235 jest zabezpieczona ocynkiem ogniowym i malowaniem proszkowym.",
+ "faq": [
+  {
+   "pytanie": "Czy samochód może stać pod wiatą podczas ćwiczeń?",
+   "odpowiedz": "Tak. Przyrządy montujemy przy słupach z boku, tak żeby nie wchodziły w miejsce parkowania. Dokładne ustawienie dobieramy do rozmiaru wiaty i podjazdu."
+  },
+  {
+   "pytanie": "Czy moduł sportowy można dołożyć w późniejszym czasie?",
+   "odpowiedz": "Tak. Słupy i fundament wiaty CarportActive mają zapas nośności i przygotowane punkty montażowe, więc moduł możesz zamontować od razu albo w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Czy na konstrukcji można zamontować inne przyrządy do ćwiczeń?",
+   "odpowiedz": "Tak, zestaw ustalamy indywidualnie. Napisz, czego potrzebujesz, na przykład kółek gimnastycznych albo uchwytu na worek, a dobierzemy mocowanie."
+  }
+ ],
+ "nr": 1,
+ "kolejnosc": 0,
+ "temat": "gdzie zamontować drążek do podciągania na zewnątrz",
+ "adres": "gdzie-zamontowac-drazek-do-podciagania-na-zewnatrz",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [],
+ "wydano": "2026-11-11"
+}

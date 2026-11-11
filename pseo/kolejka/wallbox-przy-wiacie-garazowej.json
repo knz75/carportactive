@@ -1,0 +1,47 @@
+{
+ "tytul": "Wallbox przy wiacie garażowej. O czym warto pamiętać?",
+ "opis_meta": "Planujesz montaż wallboxa przy wiacie garażowej? Sprawdź, jak poprowadzić kable, gdzie zamontować ładowarkę i jak połączyć ją z fotowoltaiką na dachu.",
+ "wstep": "Montaż ładowarki samochodowej pod wiatą to bardzo wygodne rozwiązanie na co dzień. Wracasz do domu, podłączasz auto pod zadaszeniem i nie martwisz się deszczem. Zanim jednak zamontujesz urządzenie, warto dobrze zaplanować trasę kabli oraz miejsce na słupie.",
+ "sekcje": [
+  {
+   "h2": "Gdzie zamontować wallbox pod wiatą",
+   "akapity": [
+    "Dobrym miejscem na montaż domowej stacji ładowania jest słup nośny wiaty. Urządzenie powinno wisieć na takiej wysokości, aby kabel nie leżał na ziemi i swobodnie sięgał do gniazda w pojeździe. Przed montażem sprawdź, jak parkujesz samochód i z której strony znajduje się port ładowania."
+   ]
+  },
+  {
+   "h2": "Doprowadzenie zasilania do wiaty",
+   "akapity": [
+    "Do wiaty musisz doprowadzić kabel zasilający z domowej rozdzielnicy. Najlepiej zaplanować wykop pod przewód jeszcze przed ułożeniem nawierzchni podjazdu. Na samej konstrukcji wiaty przewody warto poprowadzić wzdłuż profili, aby całość wyglądała czysto i bezpiecznie."
+   ]
+  },
+  {
+   "h2": "Ładowanie auta z własnego dachu",
+   "akapity": [
+    "Zadaszenie nad samochodem i tak jest potrzebne, dlatego warto wykorzystać je pod fotowoltaikę. Moduły na dachu wiaty produkują prąd, który może trafiać wprost do baterii Twojego auta lub zasilać dom. W ten sposób miejsce postojowe staje się prywatną stacją zasilania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata Solar Box od CarportActive to wzmocniona konstrukcja ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym, której dach stanowi bazę pod panele fotowoltaiczne. Posiada przygotowane miejsce na ładowarkę samochodu elektrycznego przy słupie, a jej montaż zajmuje zazwyczaj jeden dzień roboczy. Na wiacie 6 x 6 m zmieści się do 12 paneli, a moduły możesz zamówić od razu lub dołożyć później. Na stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w trzech wariantach.",
+ "faq": [
+  {
+   "pytanie": "Gdzie montuje się ładowarkę w wiacie Solar Box?",
+   "odpowiedz": "Wiata ma przewidziane gotowe miejsce na montaż ładowarki samochodu elektrycznego bezpośrednio przy słupie konstrukcji."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundamenty mają zapas nośności, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto wykonuje instalację elektryczną dla wiaty i paneli?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu jest ustalany indywidualnie przy wycenie. Wystarczy podać, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 111,
+ "kolejnosc": 50,
+ "temat": "wallbox przy wiacie garażowej",
+ "adres": "wallbox-przy-wiacie-garazowej",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

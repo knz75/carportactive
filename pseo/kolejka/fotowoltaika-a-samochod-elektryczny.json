@@ -1,0 +1,50 @@
+{
+ "tytul": "Fotowoltaika a samochód elektryczny. Jak to połączyć z głową",
+ "opis_meta": "Zastanawiasz się, jak połączyć fotowoltaikę i samochód elektryczny? Sprawdź praktyczne porady montera dotyczące ładowania auta prądem ze słońca.",
+ "wstep": "Zakup samochodu elektrycznego szybko rodzi pytanie o koszty jego zasilania. Połączenie auta na prąd z fotowoltaiką pozwala ładować baterię bezpośrednio z energii słonecznej. Zobacz, na co zwrócić uwagę, aby takie rozwiązanie działało sprawnie na Twoim podjeździe.",
+ "sekcje": [
+  {
+   "h2": "Jak fotowoltaika współpracuje z autem elektrycznym",
+   "akapity": [
+    "Samochód elektryczny to duży odbiornik energii w Twoim gospodarstwie. Gdy podłączasz auto w ciągu dnia, prąd z modułów płynie bezpośrednio do baterii pojazdu. Zmniejsza to ilość energii pobieranej z sieci zewnętrznej.",
+    "Warto pamiętać, że ładowanie ze słońca daje najwięcej korzyści wtedy, gdy auto stoi na podjeździe w godzinach największej produkcji. Nawet jeśli ładujesz samochód w innych porach, własny prąd pomaga bilansować ogólne zużycie w domu."
+   ]
+  },
+  {
+   "h2": "Gdzie zamontować panele, gdy dach domu nie wystarcza",
+   "akapity": [
+    "Często dach budynku mieszkalnego ma ograniczoną powierzchnię, skomplikowany kształt lub zasłaniają go drzewa. W takiej sytuacji dokładanie kolejnych paneli pod nowe auto bywa utrudnione.",
+    "Praktyczną opcją jest wykorzystanie wolnej przestrzeni na gruncie lub na podjeździe. Własne zadaszenie parkingowe staje się wtedy osobną powierzchnią roboczą, na której można ułożyć dodatkowe moduły."
+   ]
+  },
+  {
+   "h2": "Wygodne ładowanie na podjeździe",
+   "akapity": [
+    "Codzienne korzystanie z auta wymaga wygodnego dostępu do punktu ładowania. Najprościej jest zamontować domową ładowarkę dokładnie tam, gdzie parkujesz codziennie po powrocie z pracy.",
+    "Punkt ładowania na zewnątrz warto zabezpieczyć przed opadami. Zadaszone stanowisko postojowe chroni kable oraz sam samochód podczas ładowania w deszczu czy śniegu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktyczną odpowiedzią na te potrzeby jest Solar Box - wiata pod fotowoltaikę od CarportActive. To wzmocniona konstrukcja ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym, której dach mieści od 6 do 12 paneli (w wersji 6 x 6 m mieści się do 12 paneli). Słupy i fundamenty mają zapas nośności, przewidziano też gotowość pod Wallbox, a montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Na konstrukcji mieści się od 6 do 12 paneli, zależnie od wybranego rozmiaru. Na wiacie dwustanowiskowej 6 x 6 m zamontujesz do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli wybierzesz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament są liczone na dodatkowy ciężar, więc panele możesz zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Daj znać, czy masz już swojego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 117,
+ "kolejnosc": 104,
+ "temat": "fotowoltaika a samochód elektryczny",
+ "adres": "fotowoltaika-a-samochod-elektryczny",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

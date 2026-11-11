@@ -1,0 +1,50 @@
+{
+ "tytul": "Metalowy czy drewniany plac zabaw? Co wybrać do ogrodu",
+ "opis_meta": "Wybierasz plac zabaw do ogrodu? Sprawdź wady i zalety konstrukcji z drewna oraz metalu. Dowiedz się, co sprawdzi się lepiej na Twoim podwórku.",
+ "wstep": "Wybór między drewnianym a metalowym placem zabaw zależy głównie od tego, ile czasu chcesz poświęcić na konserwację i jak długo sprzęt ma służyć. Drewno wygląda naturalnie w zieleni, ale wymaga regularnej pracy i zabezpieczania. Z kolei metal daje dużą trwałość na lata, o ile jest dobrze chroniony przed korozją.",
+ "sekcje": [
+  {
+   "h2": "Drewniany plac zabaw - naturalny wygląd i coroczna praca",
+   "akapity": [
+    "Drewno jest przyjemne w dotyku i dobrze komponuje się z roślinnością w ogrodzie. Konstrukcje z belek są popularne, ponieważ łatwo wtopić je w przydomowy krajobraz.",
+    "Musisz jednak liczyć się z koniecznością systematycznej impregnacji i szlifowania. Drewno pod wpływem deszczu i słońca z czasem pęka, a to może prowadzić do powstawania drzazg. Słupy wkopane w ziemię są także stale narażone na wilgoć z trawnika."
+   ]
+  },
+  {
+   "h2": "Metalowy plac zabaw - wysoka trwałość i stabilność",
+   "akapity": [
+    "Stalowe konstrukcje charakteryzują się bardzo dużą sztywnością i odpornością na obciążenia. Dobrze zabezpieczony metal nie próchnieje, nie wypacza się i zachowuje swoje właściwości przez wiele sezonów bez potrzeby odnawiania.",
+    "Główną cechą metalowych elementów na otwartej przestrzeni jest ich podatność na temperaturę. W upalne dni metal może mocno nagrzewać się na słońcu, z kolei jesienią bywa bardzo zimny w dotyku."
+   ]
+  },
+  {
+   "h2": "Na co zwrócić uwagę planując miejsce na zabawę",
+   "akapity": [
+    "Niezależnie od materiału tradycyjny plac zabaw na stałe zajmuje sporą część trawnika. Mokra trawa po deszczu wyklucza zabawę na wiele godzin, a zacienione miejsca pod podestami utrudniają koszenie.",
+    "Warto też pomyśleć o tym, co stanie się z konstrukcją za kilka lat. Dzieci szybko rosną, a demontaż wkopanego na stałe zestawu drewnianego lub metalowego bywa kłopotliwy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Alternatywą łączącą trwałość stali z ochroną przed słońcem i deszczem jest wiata z placem zabaw od CarportActive. Konstrukcja ze stali S235, zabezpieczona przez ocynk ogniowy i malowanie proszkowe, mieści ściankę wspinaczkową z chwytami, siatkę linową oraz liny gimnastyczne pod dachem. Sprzęty mocowane są do słupów z boku, poza miejscem parkowania, dzięki czemu trawnik pozostaje wolny, a pod ścianką kładzie się matę amortyzującą. Kiedy dzieci dorosną, mocowania zostają i zamiast ścianki możesz zamontować moduł sportowy albo panel narzędziowy.",
+ "faq": [
+  {
+   "pytanie": "Co jest trwalsze w ogrodzie: drewno czy metal?",
+   "odpowiedz": "Zdecydowanie trwalszy jest odpowiednio zabezpieczony metal. Stal nie chłonie wilgoci, nie pęka i nie próchnieje tak jak drewno pod wpływem zmiennej pogody."
+  },
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego ustawienie modułów omawiamy dokładnie przy projekcie."
+  },
+  {
+   "pytanie": "Co zrobić ze stalowym placem zabaw pod wiatą, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach wiaty zostają. Zamiast ścianki wspinaczkowej możesz zamontować moduł sportowy dla dorosłych albo panel narzędziowy."
+  }
+ ],
+ "nr": 83,
+ "kolejnosc": 152,
+ "temat": "metalowy czy drewniany plac zabaw",
+ "adres": "metalowy-czy-drewniany-plac-zabaw",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

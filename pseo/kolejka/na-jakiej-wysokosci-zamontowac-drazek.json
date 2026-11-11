@@ -1,0 +1,51 @@
+{
+ "tytul": "Na jakiej wysokości zamontować drążek do podciągania?",
+ "opis_meta": "Sprawdź, na jakiej wysokości zamontować drążek do ćwiczeń. Proste zasady dopasowania do wzrostu, zapas miejsca nad głową i praktyczne wskazówki montera.",
+ "wstep": "Wysokość montażu drążka zależy przede wszystkim od Twojego wzrostu i zasięgu rąk. Najważniejsza zasada mówi, że w pełnym zwisie Twoje stopy nie powinny szorować po podłożu, a podczas podciągania głowa musi mieć wolną przestrzeń. Poniżej znajdziesz proste wskazówki, jak wyznaczyć odpowiedni punkt mocowania.",
+ "sekcje": [
+  {
+   "h2": "Jak dopasować wysokość drążka do swojego wzrostu",
+   "akapity": [
+    "Stań w butach treningowych na równej powierzchni i unieś ręce prosto do góry. Standardowa zasada zakłada montaż drążka na wysokości czubków palców wyprostowanych rąk lub kilka centymetrów wyżej, aby chwycić go po lekkim wspięciu na palce. Taka pozycja pozwala bezpiecznie złapać rurkę bez konieczności wyskoku, co ułatwia kontrolowany start i spokojne opuszczenie ciała po serii.",
+    "Jeśli zależy Ci na pełnym zwisie z zupełnie prostymi nogami, drążek musi znaleźć się wyraźnie wyżej niż zasięg Twoich rąk. Wtedy do rozpoczęcia ćwiczenia potrzebujesz podskoku lub małego stopnia. Pamiętaj jednak, że ugięcie nóg w kolanach podczas podciągania jest całkowicie naturalne i pozwala trenować wygodnie nawet przy niżej osadzonym sprzęcie."
+   ]
+  },
+  {
+   "h2": "Pamiętaj o przestrzeni nad głową",
+   "akapity": [
+    "Częstym błędem podczas montażu jest skupienie się wyłącznie na odległości od ziemi i zignorowanie sufitu lub zadaszenia. Prawidłowe powtórzenie wymaga wyciągnięcia brody ponad drążek, co oznacza, że Twoja głowa znajdzie się jeszcze wyżej. Jeśli zamontujesz drążek zbyt blisko stropu, przy każdym ruchu będziesz musiał uważać, aby w niego nie uderzyć.",
+    "Zadbaj o swobodną przestrzeń nad drążkiem, aby nie ograniczać zakresu ruchu klatki piersiowej. Wygodny odstęp od góry pozwala na pełne, dynamiczne powtórzenia bez obawy o kontuzję."
+   ]
+  },
+  {
+   "h2": "Co zrobić, gdy z drążka korzysta kilka osób",
+   "akapity": [
+    "Gdy z tego samego drążka korzystają domownicy o różnym wzroście, wysokość zawsze dopasowuje się do najwyższej osoby. Niższy użytkownik może bez problemu podstawić stabilną skrzynię lub stopień, aby sięgnąć chwytu. W odwrotnej sytuacji najwyższa osoba musiałaby bardzo mocno podkurczać nogi, co psuje technikę i odbiera komfort treningu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli chcesz trenować na świeżym powietrzu bez stawiania osobnej konstrukcji w ogrodzie, dobrym wyborem jest wiata CarportActive z modułem sportowym. Stalowy drążek montuje się między słupami ze stali konstrukcyjnej S235 o wysokości 2,7 m, co zapewnia odpowiednią przestrzeń nad głową i swobodny zwis pod dachem. Najwygodniejszy trening zapewnia wiata 4 x 6 m, gdzie sprzęt mieści się z boku i pozwala ćwiczyć tuż obok zaparkowanego samochodu, a całość zabezpiecza ocynk ogniowy i lakier proszkowy.",
+ "faq": [
+  {
+   "pytanie": "Czy muszę podciągać się z całkowicie prostymi nogami?",
+   "odpowiedz": "Nie, uginanie nóg w kolanach lub krzyżowanie ich z tyłu to poprawna i powszechna technika, szczególnie gdy wysokość montażu drążka jest ograniczona."
+  },
+  {
+   "pytanie": "Na jakiej wysokości zamontować drążek, jeśli ćwiczą też dzieci?",
+   "odpowiedz": "Drążek zamontuj na wysokości odpowiedniej dla dorosłego, a dla dzieci zastosuj stabilny podest lub zawieś na drążku dodatkowe kółka gimnastyczne."
+  },
+  {
+   "pytanie": "Ile wolnego miejsca potrzeba wokół drążka?",
+   "odpowiedz": "Zadbaj o wolną przestrzeń na szerokość rozstawu łokci oraz o odstęp z przodu i z tyłu, aby podczas podciągania nie uderzać o sąsiadujące ściany czy słupy."
+  }
+ ],
+ "nr": 23,
+ "kolejnosc": 172,
+ "temat": "na jakiej wysokości zamontować drążek",
+ "adres": "na-jakiej-wysokosci-zamontowac-drazek",
+ "link": "moduly/sportowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

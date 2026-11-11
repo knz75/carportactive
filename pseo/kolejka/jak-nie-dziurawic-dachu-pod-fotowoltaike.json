@@ -1,0 +1,57 @@
+{
+ "tytul": "Jak nie dziurawić dachu pod fotowoltaikę? Praktyczne opcje",
+ "opis_meta": "Zastanawiasz się, jak zamontować fotowoltaikę bez ingerencji w poszycie domu? Sprawdź bezpieczne alternatywy i zachowaj nienaruszony dach.",
+ "wstep": "Chcesz mieć prąd ze słońca, ale obawiasz się przecieków i utraty gwarancji na nowe poszycie domu. To zrozumiałe, bo każde wiercenie w dachu niesie ze sobą ryzyko nieszczelności. Na szczęście istnieją sprawdzone sposoby, aby zamontować panele bez naruszania pokrycia budynku.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego wiercenie w dachu budzi obawy?",
+   "akapity": [
+    "Tradycyjny montaż na dachu skośnym wymaga wkręcania haków lub śrub w krokwie. Każdy taki otwór narusza ciągłość membrany oraz dachówek lub blachy. Wystarczy drobny błąd wykonawcy, aby pod poszycie zaczęła dostawać się woda, co grozi zawilgoceniem izolacji i trudnymi do wykrycia zaciekami.",
+    "Wielu producentów pokryć dachowych zastrzega też utratę gwarancji w przypadku mechanicznej ingerencji w poszycie. Jeśli masz nowy dach, dziurawienie go pod szyny montażowe wiąże się ze sporym stresem o trwałość całej konstrukcji."
+   ]
+  },
+  {
+   "h2": "Konstrukcje balastowe na dachy płaskie",
+   "akapity": [
+    "Jeśli posiadasz płaski dach, możesz całkowicie uniknąć wiercenia. Stosuje się wtedy systemy balastowe, gdzie moduły spoczywają na specjalnych stelażach dociążonych bloczkami betonowymi. Konstrukcja trzyma się dzięki własnemu ciężarowi i odpowiedniemu ułożeniu aerodynamiki.",
+    "Pamiętaj jednak, że strop musi mieć odpowiedni zapas nośności, aby unieść taki balast wraz ze śniegiem. Wymaga to wcześniejszego sprawdzenia konstrukcji budynku."
+   ]
+  },
+  {
+   "h2": "Instalacja na gruncie w ogrodzie",
+   "akapity": [
+    "Innym bezpiecznym dla budynku wyjściem jest montaż paneli bezpośrednio na działce. Stelaż wbija się lub wkręca w ziemię z dala od domu, dzięki czemu połać dachowa pozostaje nienaruszona. To wygodne rozwiązanie pod kątem mycia modułów i serwisu.",
+    "Wadą tego systemu jest zajęcie przestrzeni na podwórku. Tracisz część trawnika lub ogrodu, a kosiarka musi omijać okablowanie i podpory."
+   ]
+  },
+  {
+   "h2": "Przeniesienie paneli na osobną wiatę",
+   "akapity": [
+    "Praktyczną alternatywą jest wykorzystanie zadaszenia, które i tak planujesz na posesji. Zamiast obciążać dom, moduły można umieścić na wolnostojącym zadaszeniu dla samochodu. Konstrukcja od początku powstaje z myślą o panelach, więc dach Twojego domu pozostaje całkowicie nienaruszony.",
+    "Rozwiązanie to łączy ochronę pojazdu przed słońcem z produkcją energii na bieżąco. Prąd trafia prosto do Twojej domowej sieci lub do ładowarki samochodowej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na ten problem jest Solar Box, czyli stalowa wiata garażowa CarportActive ze stali S235, której dach jest konstrukcją pod panele PV. Posiada ocynk ogniowy, malowanie proszkowe oraz wzmocnione słupy i fundamenty, które bezpiecznie uniosą od 6 do 12 modułów (wiata 6 x 6 m mieści do 12 paneli). Konstrukcja ma przygotowane miejsce pod Wallbox, a jej montaż trwa zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, więc panele możesz bez problemu zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Liczba paneli wynosi od 6 do 12, zależnie od wybranego rozmiaru. Największa wiata dwustanowiskowa 6 x 6 m zmieści do 12 paneli."
+  },
+  {
+   "pytanie": "Kto wykonuje instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy podczas wyceny. Wystarczy napisać, czy masz już swojego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 118,
+ "kolejnosc": 113,
+ "temat": "jak nie dziurawić dachu pod fotowoltaikę",
+ "adres": "jak-nie-dziurawic-dachu-pod-fotowoltaike",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

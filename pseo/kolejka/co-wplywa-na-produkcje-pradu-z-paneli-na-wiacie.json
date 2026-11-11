@@ -1,0 +1,53 @@
+{
+ "tytul": "Co wpływa na produkcję prądu z paneli na wiacie? Poradnik",
+ "opis_meta": "Sprawdź, co decyduje o ilości prądu z fotowoltaiki na wiacie garażowej. Poznaj kluczowe czynniki: zacienienie, kąt nachylenia i wielkość dachu.",
+ "wstep": "Produkcja prądu z paneli na wiacie zależy od kilku konkretnych warunków panujących na Twoim podwórku. W przeciwieństwie do dachu domu, wiatę możesz często swobodniej ustawić względem słońca. Warto wiedzieć, co realnie ogranicza zyski z energii, a co pomaga wyciągnąć z modułów maksimum.",
+ "sekcje": [
+  {
+   "h2": "Zacienienie i przeszkody wokół wiaty",
+   "akapity": [
+    "Drzewa, sąsiednie budynki czy wysokie ogrodzenie mogą rzucać cień na dach wiaty o różnych porach dnia. W fotowoltaice nawet cień na jednym panelu potrafi zauważalnie obniżyć pracę całego układu. Zanim wybierzesz miejsce pod montaż, stań na podjeździe rano i po południu, żeby sprawdzić, jak wędruje słońce."
+   ]
+  },
+  {
+   "h2": "Kierunek ustawienia konstrukcji",
+   "akapity": [
+    "Najwięcej prądu uzyskasz wtedy, gdy spadek dachu skierujesz na południe. Dobrym rozwiązaniem bywa też orientacja wschód-zachód, która daje równomierną produkcję od rana do późnego popołudnia. Unikaj natomiast kierowania połaci na północ, ponieważ wtedy straty w produkcji energii będą największe."
+   ]
+  },
+  {
+   "h2": "Powierzchnia zadaszenia i liczba paneli",
+   "akapity": [
+    "Moc instalacji zależy wprost od tego, ile modułów zmieści się na dachu. Mała wiata pomieści zaledwie kilka sztuk, co przełoży się na skromniejszą produkcję prądu. Większa połać pozwala zamontować więcej modułów, dzięki czemu zasilisz dom i naładujesz samochód elektryczny. Dobrze zaplanuj wymiary konstrukcji, żeby nie zabrakło Ci miejsca na potrzebną moc."
+   ]
+  },
+  {
+   "h2": "Temperatura i chłodzenie modułów",
+   "akapity": [
+    "Panele fotowoltaiczne tracą na wydajności, gdy mocno się nagrzewają w upalne dni. Wiata garażowa ma pod tym względem przewagę nad dachem domu, ponieważ jest otwarta od spodu. Taki swobodny przepływ powietrza naturalnie chłodzi moduły, co pozwala utrzymać stabilną produkcję prądu w środku lata."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te potrzeby jest Solar Box - wiata pod fotowoltaikę od CarportActive, wykonana ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym. Dach tej wiaty jest od razu konstrukcją pod panele, a wzmocnione słupy i fundamenty mają zapas nośności na dodatkowy ciężar. Największa wiata dwustanowiskowa 6 x 6 m mieści do 12 paneli, a przy słupie przewidziano gotowe miejsce na Wallbox. Moduły możesz zamówić od razu z wiatą lub zamontować je na przygotowanym dachu w kolejnym sezonie.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Liczba modułów zależy od rozmiaru wiaty i wynosi od 6 do 12 paneli. Na największej wiacie dwustanowiskowej 6 x 6 m zmieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i dach mają zapas nośności, więc panele możesz zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną wiaty?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Wystarczy napisać, czy masz już swojego instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 122,
+ "kolejnosc": 147,
+ "temat": "co wpływa na produkcję prądu z paneli na wiacie",
+ "adres": "co-wplywa-na-produkcje-pradu-z-paneli-na-wiacie",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

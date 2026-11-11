@@ -1,0 +1,50 @@
+{
+ "tytul": "Plac zabaw bez zajmowania trawnika. Jak to zorganizować?",
+ "opis_meta": "Chcesz dać dzieciom miejsce do zabawy, ale zależy Ci na zielonym trawniku? Zobacz, jak wykorzystać istniejące konstrukcje i utwardzony grunt.",
+ "wstep": "Chcesz urządzić dzieciom miejsce do ruchu, ale masz mały ogród lub zależy Ci na zadbanej trawie. Klasyczne konstrukcje ogrodowe szybko niszczą darń, a po deszczu zamieniają ją w błoto. Na szczęście strefę aktywności da się przenieść w inne miejsce na posesji.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego trawnik niszczeje pod tradycyjnym placem zabaw",
+   "akapity": [
+    "Tradycyjne wieżyczki, piaskownice czy huśtawki stale zasłaniają słońce. W tych miejscach trawa szybko żółknie, rzednie i przestaje rosnąć. Dodatkowo intensywne bieganie w jednym punkcie ubija glebę, co po opadach tworzy kałuże.",
+    "Przeniesienie zabawek z trawy na utwardzone podłoże rozwiązuje ten problem. Zamiast zajmować centralną część ogrodu, lepiej wykorzystać przestrzeń, która już istnieje. W ten sposób zieleń pozostaje nienaruszona, a podwórko zachowuje estetyczny wygląd."
+   ]
+  },
+  {
+   "h2": "Wykorzystaj pionowe konstrukcje zamiast powierzchni ogrodu",
+   "akapity": [
+    "Zamiast rozstawiać szerokie konstrukcje na trawie, spójrz na pionowe elementy otoczenia. Słupy i belki nośne zadaszeń świetnie nadają się do mocowania akcesoriów sportowych. Dzięki temu cała strefa zajmuje zaledwie ułamek miejsca.",
+    "Na pionowych profilach można zamocować ścianki wspinaczkowe z chwytami lub siatki linowe. Elementy wiszące, na przykład liny gimnastyczne, działają w powietrzu i nie wymagają stałego kontaktu z gruntem. Ogród pozostaje wtedy całkowicie wolny od przeszkód."
+   ]
+  },
+  {
+   "h2": "Zadaszenie jako ochrona przed deszczem i słońcem",
+   "akapity": [
+    "Zwykły plac zabaw pod gołym niebem jest bezużyteczny w czasie deszczu lub upałów. Mokry sprzęt i wilgoć zniechęcają do wychodzenia na zewnątrz. Umieszczenie strefy zabaw pod dachem sprawia, że dzieci bawią się na świeżym powietrzu bez względu na pogodę.",
+    "Dach zapewnia suchą nawierzchnię i stały cień w słoneczne dni. Na twardym podłożu pod dachem łatwo też ułożyć matę amortyzującą, która zabezpiecza strefę wspinania. Mata chroni przed upadkiem, a jednocześnie nie niszczy trawnika, bo leży poza nim."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązaliśmy ten problem, projektując wiatę z placem zabaw. Pod dachem wiaty montujemy ściankę wspinaczkową z chwytami na panelu, siatkę linową oraz liny gimnastyczne, więc trawnik zostaje w pełni wolny i nienaruszony. Strefę zabaw planujemy z boku, poza miejscem parkowania, a najwięcej miejsca daje wiata 4 x 6 m albo 6 x 6 m. Konstrukcję wykonujemy ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym, a na naszej stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego ustawienie modułów omawiamy dokładnie przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się pod ścianką wspinaczkową?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która zapewnia miękkie podłoże podczas zabawy."
+  },
+  {
+   "pytanie": "Co zrobić z modułami, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają na stałe. Zamiast ścianki dla dzieci możesz w to samo miejsce zamontować moduł sportowy lub panel narzędziowy."
+  }
+ ],
+ "nr": 74,
+ "kolejnosc": 75,
+ "temat": "plac zabaw bez zajmowania trawnika",
+ "adres": "plac-zabaw-bez-zajmowania-trawnika",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Zadaszony plac zabaw dla dzieci w ogrodzie. Jak go zaplanować?",
+ "opis_meta": "Szukasz pomysłu na zadaszony plac zabaw dla dzieci? Sprawdź, jak zaplanować bezpieczną strefę do zabawy w deszczu i cieniu bez straty miejsca w ogrodzie.",
+ "wstep": "Zwykły plac zabaw w ogrodzie ma jedną dużą wadę. Kiedy pada deszcz albo świeci ostre słońce, dzieci nie mogą z niego korzystać. Zadaszone miejsce pozwala na ruch na świeżym powietrzu przy każdej pogodzie i nie niszczy trawnika.",
+ "sekcje": [
+  {
+   "h2": "Gdzie urządzić zadaszoną przestrzeń dla dzieci",
+   "akapity": [
+    "Tradycyjne domki ogrodowe zajmują sporo cennego miejsca na działce i szybko niszczeją od wilgoci. Znacznie lepszym pomysłem jest wykorzystanie solidnej konstrukcji ze stałym dachem. Pod zadaszeniem jest sucho, a w upalne dni dzieci zyskują naturalny cień.",
+    "Warto zagospodarować pionowe elementy nośne lub słupy konstrukcyjne. Montując akcesoria w ten sposób, nie tracisz wolnego trawnika na środku posesji. Dzieci mogą aktywnie spędzać czas na zewnątrz, nawet gdy pogoda nie sprzyja spacerom."
+   ]
+  },
+  {
+   "h2": "Bezpieczne podłoże i organizacja strefy ruchu",
+   "akapity": [
+    "Każde miejsce do wspinania i zwisów wymaga odpowiedniego zabezpieczenia od dołu. Twarda kostka brukowa lub beton nie nadają się do bezpiecznej zabawy ruchowej. Bezpośrednio pod elementami wiszącymi zawsze należy położyć miękką matę amortyzującą.",
+    "Zwróć też uwagę na układ otoczenia. Jeśli zadaszenie łączy różne funkcje gospodarcze lub parkingowe, miejsce dla dzieci zaplanuj zawsze z boku. Taka strefa wymaga przemyślanego rozstawu oraz stałej uwagi ze strony dorosłych."
+   ]
+  },
+  {
+   "h2": "Rozwiązanie, które zmienia się z wiekiem dzieci",
+   "akapity": [
+    "Dzieci rosną bardzo szybko i po paru sezonach nudzą się zwykłymi zabawkami. Drewniane huśtawki często stają się bezużyteczne i zagracają podwórko. Planując zadaszone miejsce, wybieraj systemy oparte na uniwersalnych mocowaniach.",
+    "Gdy najmłodsi wyrosną z prostych zabaw, te same uchwyty możesz wykorzystać do ćwiczeń dla starszych domowników albo jako ścianę na sprzęt. Dzięki temu inwestycja w zadaszenie służy rodzinie przez wiele kolejnych lat."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive stworzyliśmy wiatę z placem zabaw ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym. Pod dachem montujemy ściankę wspinaczkową z chwytami na panelu przy słupie, siatkę linową, liny gimnastyczne oraz matę amortyzującą. Strefę zabaw planujemy z boku, poza miejscem parkowania, w rozmiarach bazowych 4 x 6 m lub 6 x 6 m, a montaż zajmuje zazwyczaj jeden dzień roboczy. Możesz wgrać zdjęcie swojego podjazdu na naszej stronie, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy dzieci mogą się bawić, kiedy samochód stoi pod wiatą?",
+   "odpowiedz": "Strefę zabaw ustawiamy z boku, poza miejscem parkowania. Mimo to zabawa obok samochodu wymaga uwagi dorosłych, dlatego ustawienie omawiamy przy projekcie."
+  },
+  {
+   "pytanie": "Co znajduje się bezpośrednio pod ścianką wspinaczkową?",
+   "odpowiedz": "Pod strefą wspinania kładziemy matę amortyzującą, która zapewnia miękkie podłoże."
+  },
+  {
+   "pytanie": "Co zrobić ze strefą zabawy, kiedy dzieci dorosną?",
+   "odpowiedz": "Mocowania na słupach zostają. Zamiast ścianki możesz zamontować moduł sportowy albo panel narzędziowy."
+  }
+ ],
+ "nr": 67,
+ "kolejnosc": 12,
+ "temat": "zadaszony plac zabaw dla dzieci",
+ "adres": "zadaszony-plac-zabaw-dla-dzieci",
+ "link": "moduly/plac-zabaw",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

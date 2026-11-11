@@ -1,0 +1,59 @@
+{
+ "tytul": "Rowery i samochód pod jedną wiatą. Jak to dobrze zaplanować",
+ "opis_meta": "Parkujesz samochód i chcesz zmieścić rowery pod wiatą? Sprawdź, jak zaplanować przestrzeń, dobrać wieszaki i chronić sprzęt przed deszczem.",
+ "wstep": "Trzymanie rowerów obok samochodu pod jednym dachem to częsty problem na posesji. Jeśli postawisz je byle jak, ryzykujesz porysowanie lakieru auta i wieczny bałagan. Da się to jednak poukładać tak, aby korzystanie z podjazdu było wygodne każdego dnia.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego rowery nie powinny stać luzem obok auta",
+   "akapity": [
+    "Gdy stawiasz rower na nóżce tuż obok auta, prędzej czy później kierownica oprze się o karoserię. Wystarczy podmuch wiatru lub pośpiech rano, by uszkodzić lakier. Do tego dochodzi problem z otwieraniem drzwi, kiedy musisz przeciskać się z zakupami.",
+    "Pod wiatą jest miejsce nie tylko na samochód, ale kluczem jest organizacja przestrzeni. Trzymanie sprzętu pod dachem sprawia, że łańcuch nie rdzewieje na deszczu. Trzeba tylko zabrać jednoślady z podłogi, by nie blokowały wyjścia z auta."
+   ]
+  },
+  {
+   "h2": "Ściany wiaty jako miejsce na wieszaki i stojaki",
+   "akapity": [
+    "Najprostszym sposobem na zyskanie miejsca jest wykorzystanie ścian konstrukcji. Wieszaki na rowery sprawiają, że rowery wiszą na ścianie wiaty i nie zajmują miejsca na podłodze. Dzięki temu podjazd pozostaje czysty, a przedpokój i domowy garaż zostają wolne od sprzętu.",
+    "Nie każdy rower trzeba wieszać wysoko. Na rowery dzieci, hulajnogi i rzeczy, które wygodniej postawić, dobrze sprawdzają się klasyczne stojaki podłogowe. W ten sposób najmłodsi sami sięgną po swój sprzęt, a większe rowery dorosłych powędrują na ścianę."
+   ]
+  },
+  {
+   "h2": "Jaki rozmiar zadaszenia wybrać na auto i jednoślady",
+   "akapity": [
+    "To, ile rowerów się zmieści, zależy od rozmiaru wiaty i układu wieszaków. Jeśli masz wąską przestrzeń, manewrowanie jednośladem obok samochodu bywa trudne. Najwięcej miejsca z boku daje wiata 4 x 6 m, co pozwala na swobodne przejście i wygodny montaż osprzętu.",
+    "Przed wyborem zadaszenia policz wszystkie sprzęty domowników. Poza jednośladami pod dachem często lądują też boxy dachowe czy inny sprzęt sportowy. Dobry plan pozwala zmieścić to wszystko w jednej bryle bez wchodzenia sobie w drogę."
+   ]
+  },
+  {
+   "h2": "Bezpieczeństwo jednośladów i drobne naprawy na podjeździe",
+   "akapity": [
+    "Pozostawienie drogiego roweru na otwartej przestrzeni może budzić obawy. Zwykle rower można przypiąć solidnym zapięciem do stalowej konstrukcji wiaty. Jeśli potrzebujesz pewniejszej ochrony, część wiaty można po prostu wydzielić i zamykać.",
+    "Wiele osób lubi też zadbać o napęd czy wyregulować hamulce na świeżym powietrzu. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów. Masz wtedy pod ręką wszystko, co potrzebne do szybkiego serwisu przed wycieczką."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów od CarportActive rozwiązuje problem braku miejsca. Stalowa konstrukcja ze stali S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym, pozwala przykręcić wieszaki oraz stojaki bezpośrednio do ramy. Możesz wybrać wariant otwarty lub z wydzieloną, zamkniętą strefą, a moduły da się zamontować od razu lub dołożyć w przyszłości.",
+ "faq": [
+  {
+   "pytanie": "Ile rowerów zmieści się pod wiatą?",
+   "odpowiedz": "Napisz, ile masz rowerów i jakich, a dobierzemy wieszaki i stojaki do rozmiaru wiaty. Najwięcej miejsca z boku zapewnia model o wymiarach 4 x 6 m."
+  },
+  {
+   "pytanie": "Czy rowery pod wiatą są zabezpieczone przed kradzieżą?",
+   "odpowiedz": "Rower można przypiąć do stalowej konstrukcji wiaty. Jeśli chcesz więcej, można zamówić zamkniętą strefę, a jej wykonanie ustalamy przy wycenie."
+  },
+  {
+   "pytanie": "Czy pod wiatą można też naprawiać rowery?",
+   "odpowiedz": "Tak. Przechowalnię łatwo połączyć z panelem narzędziowym, wtedy narzędzia wiszą obok rowerów."
+  }
+ ],
+ "nr": 100,
+ "kolejnosc": 130,
+ "temat": "rowery i samochód pod jedną wiatą",
+ "adres": "rowery-i-samochod-pod-jedna-wiata",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

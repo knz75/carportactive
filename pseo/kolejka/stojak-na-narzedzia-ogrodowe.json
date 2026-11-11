@@ -1,0 +1,52 @@
+{
+ "tytul": "Stojak na narzędzia ogrodowe. Jak uporządkować sprzęt",
+ "opis_meta": "Szukasz sposobu na grabie i łopaty? Sprawdź, jak wybrać stabilny stojak na narzędzia ogrodowe i uporządkować przestrzeń bez niszczenia elewacji.",
+ "wstep": "Oparte o ścianę łopaty i grabie prędzej czy później przewrócą się pod nogi. Znamy to z wielu podwórek, gdzie sprzęt leży w przypadkowych kątach i niszczy tynk. Dobrze dobrany stojak na narzędzia ogrodowe pozwala zapanować nad tym chaosem w prosty sposób.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego oparcie narzędzi o ścianę to zły pomysł",
+   "akapity": [
+    "Zwykłe opieranie mioteł czy szpadli o ścianę budynku szybko kończy się porysowaną elewacją. Brud z metalowych części przenosi się na tynk, a ocieplenie łatwo wgnieść twardym trzonkiem.",
+    "Wystarczy jeden mocniejszy podmuch wiatru lub przypadkowe potrącenie, żeby cały rząd narzędzi runął na kostkę. To stwarza bałagan i realne ryzyko uszkodzenia sprzętu lub zaparkowanego obok auta."
+   ]
+  },
+  {
+   "h2": "Panel ścienny czy stojak wolnostojący",
+   "akapity": [
+    "Jeśli masz solidny mur lub wolny fragment ogrodzenia, możesz zamontować wiszący wieszak. Pamiętaj jednak, że wiercenie w ścianie z grubą warstwą styropianu bywa kłopotliwe i osłabia izolację termiczną.",
+    "Gdy nie chcesz dziurawić elewacji, lepszy okazuje się model wolnostojący. Postawisz go na kostce brukowej, tarasie czy pod wiatą. Sprzęt stoi pewnie, a w razie potrzeby bez problemu przestawisz cały stojak w inne miejsce."
+   ]
+  },
+  {
+   "h2": "Na co zwrócić uwagę przed wyborem stojaka",
+   "akapity": [
+    "Przede wszystkim sprawdź wagę i rodzaj swoich narzędzi. Długie grabie i lekkie miotły potrzebują innych uchwytów niż ciężkie kilofy, młoty czy mokry wąż ogrodowy.",
+    "Masywny sprzęt wymaga konstrukcji ze stali, która nie wygnie się pod dużym obciążeniem. Zwróć też uwagę na podstawę stojaka, która musi stabilnie opierać się na podłożu przy wyciąganiu pojedynczych narzędzi."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive projektujemy metalowe stojaki i panele CA-Stand na łopaty, grabie, miotły oraz rękawice. W ofercie mamy panele ścienne CA-Lite (100-150 x 50 cm), niskie stojaki CA-Entry na stopach z płaskownika 100 x 4 mm, szerokie CA-Yard (80-100 cm) oraz wzmocnione CA-Hard z grubszego profilu na ciężkie narzędzia. Modele wolnostojące nie wymagają wiercenia w elewacji, a całość pasuje stylem i kolorem do naszych wiat garażowych lub może być przykręcona bezpośrednio do wiaty. Produkty są w fazie prototypu, wykonujemy je na zamówienie w cenach od 300 zł z dostawą do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Czy stojak wolnostojący wymaga wiercenia w podłożu?",
+   "odpowiedz": "Nie, stojaki wolnostojące zachowują stabilność dzięki swojej konstrukcji i nie wymagają wiercenia w podłożu ani w ociepleniu budynku."
+  },
+  {
+   "pytanie": "Jak przechowywać bardzo ciężkie narzędzia, takie jak kilofy czy młoty?",
+   "odpowiedz": "Do takiego sprzętu najlepiej wybrać stojak ze wzmocnionego, grubszego profilu stalowego, który nie odkształci się pod dużym ciężarem."
+  },
+  {
+   "pytanie": "Gdzie najlepiej ustawić stojak na narzędzia w ogrodzie?",
+   "odpowiedz": "Najlepiej sprawdzi się utwardzone miejsce blisko strefy roboczej, na przykład przy wejściu do budynku, na tarasie, patio lub pod wiatą garażową."
+  }
+ ],
+ "nr": 126,
+ "kolejnosc": 6,
+ "temat": "stojak na narzędzia ogrodowe",
+ "adres": "stojak-na-narzedzia-ogrodowe",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

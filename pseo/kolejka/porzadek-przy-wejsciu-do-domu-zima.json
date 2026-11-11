@@ -1,0 +1,51 @@
+{
+ "tytul": "Porządek przy wejściu do domu zimą. Praktyczne porady",
+ "opis_meta": "Zobacz, jak utrzymać porządek przy wejściu do domu zimą. Sprawdź proste patenty na odstawianie łopat, mokre buty i czystą strefę wejściową.",
+ "wstep": "Zimą strefa wejściowa szybko zamienia się w tor przeszkód pełen mokrego śniegu, błota i leżących łopat. Jeśli nie wydzielisz stałego miejsca na sprzęt do odśnieżania, ten bałagan wnosisz na butach wprost do korytarza. Wystarczy kilka prostych nawyków i sprytnych zmian w układzie ganku, aby mieć spokój przez cały sezon.",
+ "sekcje": [
+  {
+   "h2": "Wydziel osobną strefę na narzędzia do odśnieżania",
+   "akapity": [
+    "Łopata do śniegu i miotła muszą być pod ręką, ale oparte o ścianę ciągle się przewracają. Spadające trzonki brudzą elewację i blokują przejście, co bywa niebezpieczne po zmroku. Wyznacz na nie jeden kąt, najlepiej tuż pod zadaszeniem, ale z dala od samego skrzydła drzwi.",
+    "Narzędzia odstawiaj zawsze pionowo, z piórem skierowanym w dół. Dzięki temu topniejący śnieg spływa bezpośrednio na podłoże, a woda nie niszczy drewnianych trzonków ani nie zamarza w uchwytach."
+   ]
+  },
+  {
+   "h2": "Zadbaj o odprowadzanie wody i soli",
+   "akapity": [
+    "Śnieg przynoszony na obuwiu i sprzęcie szybko taje pod zadaszeniem. Jeśli płytki lub kostka nie mają odpowiedniego spadku, powstaje tam cienka warstwa lodu. Dobrym rozwiązaniem jest ażurowa wycieraczka z gumy lub metalowa krata, która zbiera gruby brud jeszcze przed progiem.",
+    "Pojemnik z piaskiem lub solą ustaw w suchym miejscu, ale poza głównym ciągiem pieszym. Zamiast wielkiego worka postaw małe wiaderko z pokrywą i małą łopatką, co ograniczy rozsypywanie kruszywa po całym podeście."
+   ]
+  },
+  {
+   "h2": "Unikaj wiercenia w ocieplonej elewacji",
+   "akapity": [
+    "Wielu właścicieli domów próbuje montować wieszaki na łopaty bezpośrednio na ścianie zewnętrznej. Zimą montaż kołków w grubym styropianie bywa kłopotliwy, a nieszczelności prowadzą do zawilgocenia izolacji. Jeśli zależy Ci na stabilności, wybieraj rozwiązania stojące na gruncie lub montowane do słupów wiaty."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego sposobu na narzędzia, sprawdź stojak na narzędzia ogrodowe CA-Stand. Przy samych drzwiach sprawdza się niski model CA-Entry o wysokości 60-80 cm na stopach z płaskownika 100 x 4 mm, który stoi stabilnie bez wiercenia w elewacji. W ofercie są też wolnostojące modele CA-Yard, wzmocniony CA-Hard oraz ścienny panel CA-Lite, a także wariant montowany do wiaty CarportActive. Te metalowe stojaki są w fazie prototypu, powstają na zamówienie, w cenach od 300 zł z dostawą do uzgodnienia.",
+ "faq": [
+  {
+   "pytanie": "Gdzie najlepiej odkładać łopatę do śniegu?",
+   "odpowiedz": "Najlepiej trzymać ją pionowo pod zadaszeniem blisko drzwi, tak aby woda z topniejącego śniegu swobodnie spływała na podłoże."
+  },
+  {
+   "pytanie": "Jak chronić elewację przed zabrudzeniami od sprzętu zimowego?",
+   "odpowiedz": "Warto używać stojaków wolnostojących, które utrzymują narzędzia w pionie z dala od ocieplonej ściany budynku."
+  },
+  {
+   "pytanie": "Czy stojak na narzędzia trzeba mocować do ściany?",
+   "odpowiedz": "Nie, modele wolnostojące opierają się na własnych stopach i nie wymagają wiercenia w elewacji ani w warstwie ocieplenia."
+  }
+ ],
+ "nr": 141,
+ "kolejnosc": 141,
+ "temat": "porządek przy wejściu do domu zimą",
+ "adres": "porzadek-przy-wejsciu-do-domu-zima",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

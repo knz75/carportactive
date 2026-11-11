@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak przechowywać mokry wąż ogrodowy? Praktyczne porady",
+ "opis_meta": "Sprawdź, jak przechowywać mokry wąż ogrodowy, aby nie niszczał i nie pleśniał. Poznaj sprawdzone sposoby na odprowadzanie wody i suszenie.",
+ "wstep": "Zwijanie mokrego węża i zamykanie go w ciasnym schowku to częsty błąd. Woda pozostająca w środku i na zewnątrz prowadzi do powstawania glonów, pleśni oraz zaginania gumy. Wystarczy jednak kilka prostych nawyków, aby wąż wysechł i służył przez lata.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego woda musi odpłynąć przed zwinięciem",
+   "akapity": [
+    "Mokry wąż napełniony resztkami wody staje się ciężki i podatny na załamania. Kiedy odłożysz go na ziemię, woda w załamaniach tworzy zastoje, w których szybko rozwijają się mikroorganizmy. Przed zwinięciem odłącz końcówkę zraszającą i rozprostuj przewód na lekkim spadku, aby grawitacja usunęła większość płynu."
+   ]
+  },
+  {
+   "h2": "Gdzie odkładać wąż do wyschnięcia",
+   "akapity": [
+    "Mokry wąż potrzebuje swobodnego przepływu powietrza. Nie zamykaj go od razu w szczelnych skrzyniach ani plastikowych pojemnikach, bo wilgoć nie będzie miała jak odparować. Najlepiej odwiesić go w luźne pętle na stabilnej konstrukcji, w zacienionym i przewiewnym miejscu.",
+    "Unikaj zostawiania mokrego węża na pełnym słońcu. Połączenie stojącej wody, wysokiej temperatury i promieniowania UV przyspiesza kruszenie tworzywa. Wybierz miejsce pod zadaszeniem, na przykład przy ścianie budynku lub pod wiatą."
+   ]
+  },
+  {
+   "h2": "Zasady bezpiecznego zwijania",
+   "akapity": [
+    "Zwijaj wąż zawsze w szerokie zwoje, unikając ciasnych pętli. Zbyt mała średnica zwoju powoduje trwałe odkształcenia ścianek i utrudnia późniejsze rozwijanie. Jeśli wąż nadal jest wilgotny, pętle powinny wisieć luźno obok siebie, tak aby materiał nie stykał się ściśle na całej powierzchni."
+   ]
+  }
+ ],
+ "rozwiazanie": "Do odwieszania mokrych przewodów możesz wykorzystać wzmocniony stojak CA-Hard wykonany z grubszego profilu, przystosowany do ciężkich narzędzi i mokrych węży. Jest to model wolnostojący, więc nie wymaga wiercenia w elewacji ani w ociepleniu budynku. Metalowe stojaki CA-Stand są wykonywane na zamówienie w fazie prototypu, w cenach od 300 zł, a ich kolorystykę można dobrać do stylu wiaty CarportActive. Alternatywą jest panel narzędziowy przykręcany bezpośrednio do wiaty.",
+ "faq": [
+  {
+   "pytanie": "Czy mokry wąż ogrodowy można powiesić na metalowym uchwycie?",
+   "odpowiedz": "Tak, o ile uchwyt jest gładki i wystarczająco szeroki, by nie przecinać powłoki węża. Zapewnia to stały dostęp powietrza i ułatwia suszenie."
+  },
+  {
+   "pytanie": "Co zrobić, jeśli wąż musi zostać na zewnątrz w chłodniejsze dni?",
+   "odpowiedz": "Najważniejsze to całkowite spuszczenie wody z wnętrza przewodu przed nadejściem przymrozków. Następnie zawieś go w osłoniętym miejscu pod dachem."
+  },
+  {
+   "pytanie": "Czy zwijanie mokrego węża na bęben to dobry pomysł?",
+   "odpowiedz": "Bęben sprawdza się dobrze, jeśli konstrukcja jest ażurowa i pozwala na cyrkulację powietrza. Pamiętaj jednak, by przed nawinięciem odpiąć zraszacze i pozwolić wodzie swobodnie wypłynąć."
+  }
+ ],
+ "nr": 138,
+ "kolejnosc": 114,
+ "temat": "jak przechowywać mokry wąż ogrodowy",
+ "adres": "jak-przechowywac-mokry-waz-ogrodowy",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "tytul": "Jak powiesić wąż ogrodowy na ścianie lub wiacie? Praktyczne porady",
+ "opis_meta": "Sprawdź, jak prawidłowo powiesić wąż ogrodowy, aby uniknąć zagięć i uszkodzeń. Poznaj sprawdzone uchwyty, wysokość montażu i sposoby zwijania.",
+ "wstep": "Rzucony na ziemię wąż ogrodowy szybko się zagina, niszczy i przeszkadza pod nogami. Prawidłowe powieszenie go na ścianie oszczędza miejsce na posesji i ułatwia codzienne podlewanie. Zobacz, jak zrobić to sprawnie i na jakiej wysokości zamontować uchwyt.",
+ "sekcje": [
+  {
+   "h2": "Wybór odpowiedniego wieszaka na wąż",
+   "akapity": [
+    "Zwykły gwóźdź lub pojedynczy wąski hak to błąd, który szybko doprowadzi do pęknięcia gumy. Wąski punkt podparcia powoduje zagięcia, w których pod wpływem ciężaru załamuje się ścianka węża.",
+    "Najlepiej sprawdza się szeroki, półokrągły wieszak ścienny. Szerokie oparcie sprawia, że zwinięty wąż układa się w łagodne pętle i nie odkształca się pod własnym ciężarem. Przed zakupem upewnij się, że wieszak utrzyma ciężar Twojego modelu z resztkami wody w środku."
+   ]
+  },
+  {
+   "h2": "Na jakiej wysokości powiesić uchwyt",
+   "akapity": [
+    "Uchwyt zamontuj na wysokości klatki piersiowej, zazwyczaj w przedziale od 120 do 140 cm od ziemi. Taka pozycja pozwala na wygodne odkładanie pętli węża bez ciągłego schylania się.",
+    "Zwróć uwagę na dolną część pętli. Cały zwinięty zwój powinien kończyć się minimum 15-20 cm nad gruntem, aby końcówka węża i zraszacz nie leżały w błocie, piasku ani liściach."
+   ]
+  },
+  {
+   "h2": "Gdzie znaleźć najlepsze miejsce montażu",
+   "akapity": [
+    "Wybierz miejsce jak najbliżej kranu ogrodowego, ale unikaj ścian mocno nasłonecznionych. Promienie słoneczne i nagrzewanie przyspieszają twardnienie oraz pękanie materiału.",
+    "Bardzo dobrym miejscem jest przestrzeń pod dachem, na przykład boczna ściana zadaszenia podjazdu. Wąż zyskuje wtedy osłonę przed słońcem, a Ty masz go pod ręką zarówno do podlewania ogrodu, jak i do mycia samochodu."
+   ]
+  },
+  {
+   "h2": "Jak prawidłowo nawijać wąż",
+   "akapity": [
+    "Zanim zaczniesz nawijać wąż na uchwyt, zakręć zawór z wodą i naciśnij spust pistoletu zraszającego, aby spuścić ciśnienie. Zwijanie naprężonego węża jest trudne i niepotrzebnie obciąża wieszak ścienny.",
+    "Nawijaj wąż w równe, luźne pętle, delikatnie obracając go w dłoniach przy każdym zwoju. Zapobiega to powstawaniu skrętów, które blokują przepływ wody przy kolejnym rozwinięciu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Boczna ściana wiaty CarportActive to gotowe miejsce na stalowy panel perforowany. Specjalne haki i uchwyty pozwalają powiesić wąż ogrodowy pod dachem, tuż obok auta i stanowiska pracy na podjeździe. Panel pasuje do każdego rozmiaru wiaty, a układ haków zmieniasz w dowolnym momencie.",
+ "faq": [
+  {
+   "pytanie": "Czy wąż ogrodowy na panelu wiaty nie zamoknie?",
+   "odpowiedz": "Panel jest pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy panel na wąż i narzędzia można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma przygotowane punkty montażowe. W przypadku wiaty innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się zamocować panel."
+  },
+  {
+   "pytanie": "Czy układ haków na panelu można dopasować do własnych potrzeb?",
+   "odpowiedz": "Tak. Panel perforowany to stalowa płyta z otworami, więc haki i uchwyty na wąż oraz inne narzędzia ustawiasz sam, a odpowiedni zestaw dobierany jest przy wycenie."
+  }
+ ],
+ "nr": 30,
+ "kolejnosc": 37,
+ "temat": "jak powiesić wąż ogrodowy",
+ "adres": "jak-powiesic-waz-ogrodowy",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

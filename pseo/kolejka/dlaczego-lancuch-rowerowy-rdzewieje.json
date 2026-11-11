@@ -1,0 +1,52 @@
+{
+ "tytul": "Dlaczego łańcuch rowerowy rdzewieje i jak temu zapobiec?",
+ "opis_meta": "Rdzawy nalot na łańcuchu niszczy napęd. Sprawdź, dlaczego łańcuch rowerowy rdzewieje, jak go chronić przed wilgocią i gdzie najlepiej parkować rower.",
+ "wstep": "Rdzawy nalot na łańcuchu to częsty widok na podwórkach. Zwykle winna jest woda i brak właściwej osłony przed deszczem. Zobacz, co dokładnie niszczy napęd w Twoim rowerze i jak łatwo temu zaradzić.",
+ "sekcje": [
+  {
+   "h2": "Wilgoć i brak smaru to główna przyczyna",
+   "akapity": [
+    "Łańcuch rowerowy zrobiony jest ze stali, która w kontakcie z wodą i tlenem szybko ulega korozji. Kiedy jeździsz po mokrej nawierzchni albo zostawiasz rower na dworze, woda wnika w ciasne ogniwa. Jeśli brakuje tam warstwy smaru, proces rdzewienia rusza w ciągu kilku godzin.",
+    "Zwykłe mycie roweru myjką ciśnieniową również może zaszkodzić. Silny strumień wody wypłukuje fabryczny smar prosto z wnętrza sworzni. Bez natychmiastowego osuszenia i nałożenia oleju łańcuch szybko pokryje się nalotem."
+   ]
+  },
+  {
+   "h2": "Błędy przy parkowaniu roweru pod chmurką",
+   "akapity": [
+    "Najwięcej problemów sprawia trzymanie jednośladu na otwartym terenie. Deszcz, nocna rosa i poranna mgła osiadają na metalowych częściach każdego dnia. W takich warunkach nawet regularnie oliwiony napęd z czasem podda się wilgoci.",
+    "Złym pomysłem jest też przykrywanie mokrego roweru szczelną folią. Taki materiał zatrzymuje parującą wodę pod spodem, przez co napęd stoi w wilgotnym powietrzu. Rower potrzebuje dachu, ale też swobodnego przewiewu."
+   ]
+  },
+  {
+   "h2": "Jak dbać o łańcuch, żeby służył dłużej",
+   "akapity": [
+    "Po każdej jeździe w deszczu wytrzyj łańcuch suchą szmatką. Regularnie czyść napęd ze starego brudu, piasku i resztek zużytego oleju. Czysty metal przyjmuje świeży smar znacznie lepiej i jest lepiej chroniony.",
+    "Dobieraj olej do warunków, w jakich najczęściej jeździsz. Na wilgotne dni sprawdzają się gęstsze preparaty, które trudniej zmyć wodzie. Pamiętaj też, że suche miejsce do parkowania to podstawa ochrony każdego roweru."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata z przechowalnią rowerów rozwiązuje ten problem, bo rowery wiszą na ścianie pod dachem i łańcuch nie rdzewieje na deszczu. Wieszaki i stojaki są przykręcone do konstrukcji, więc garaż i przedpokój zostają wolne. Jeśli chcesz, część wiaty można wydzielić i zamykać, a przechowalnię łatwo połączyć z panelem narzędziowym.",
+ "faq": [
+  {
+   "pytanie": "Czy zardzewiały łańcuch trzeba od razu wyrzucić?",
+   "odpowiedz": "Jeśli to tylko powierzchowny nalot, wystarczy oczyścić go szczotką, odtłuścić i nałożyć świeży olej. Wymiana jest potrzebna wtedy, gdy ogniwa są zablokowane i nie chcą się swobodnie zginać."
+  },
+  {
+   "pytanie": "Jak często smarować łańcuch w rowerze?",
+   "odpowiedz": "Smaruj napęd zawsze wtedy, gdy zaczyna głośniej pracować lub po jeździe w ulewnym deszczu. W suchych warunkach wystarczy zrobić to raz na kilkadziesiąt kilometrów."
+  },
+  {
+   "pytanie": "Czy trzymanie roweru pod wiatą chroni go przed rdzą?",
+   "odpowiedz": "Tak, dach wiaty zatrzymuje bezpośrednie opady deszczu i śniegu. Otwarta przestrzeń zapewnia też cyrkulację powietrza, dzięki czemu wilgoć z roweru szybko odparowuje."
+  }
+ ],
+ "nr": 96,
+ "kolejnosc": 94,
+ "temat": "dlaczego łańcuch rowerowy rdzewieje",
+ "adres": "dlaczego-lancuch-rowerowy-rdzewieje",
+ "link": "moduly/przechowalnia-rowerow",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "tytul": "Stojak na narzędzia na budowę - jak utrzymać porządek",
+ "opis_meta": "Szukasz sposobu na narzędzia na budowie? Sprawdź, jak zorganizować łopaty, młoty i sprzęt bez niszczenia elewacji. Poznaj praktyczne wskazówki.",
+ "wstep": "Na placu budowy łopaty, kilofy i miotły często lądują na ziemi lub opierają się o świeżo otynkowany mur. Wystarczy chwila nieuwagi, aby ubrudzić elewację albo uszkodzić droższy sprzęt. Dobre zaplanowanie miejsca na narzędzia pozwala zaoszczędzić czas i utrzymać porządek wokół budynku.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego opieranie narzędzi o ściany to zły pomysł",
+   "akapity": [
+    "Podczas prac wykończeniowych najprościej jest oprzeć szpadel czy grabie o ścianę domu. Jeśli budynek ma już nowe ocieplenie lub świeży tynk, metalowe krawędzie szybko zostawią wgniecenia i trudne do usunięcia plamy. Ponadto narzędzia stojące pod kątem łatwo przewrócić, co stwarza ryzyko potknięcia lub uszkodzenia innych materiałów leżących w pobliżu."
+   ]
+  },
+  {
+   "h2": "Cechy dobrego stojaka do ciężkich zadań",
+   "akapity": [
+    "Sprzęt używany na budowie różni się wagą od lekkich narzędzi ogrodniczych. Zwykły, wiotki stojak może nie utrzymać ciężkich młotów, kilofów czy zwojów mokrego węża. Konstrukcja musi być stabilna, wykonana z trwałego metalu i mieć szeroką podstawę, która nie zapada się w gruncie pod obciążeniem."
+   ]
+  },
+  {
+   "h2": "Konstrukcja wolnostojąca zamiast wiercenia w elewacji",
+   "akapity": [
+    "Na świeżej budowie nikt nie chce dziurawić elewacji, aby zawiesić tymczasowy uchwyt na łopaty. Rozwiązaniem są konstrukcje wolnostojące, które opierają się na stabilnych stopach. Taki stojak możesz w każdej chwili przenieść w inne miejsce, zależnie od tego, przy którym fragmencie posesji aktualnie pracujesz."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwijamy metalowe stojaki i panele CA-Stand, które obecnie znajdują się w fazie prototypu. Jeśli nie chcesz wiercić w ociepleniu, możesz wybrać wolnostojący stojak CA-Yard lub wzmocniony CA-Hard z grubszego profilu, przystosowany pod ciężkie młoty i kilofy. W ofercie jest też panel CA-Lite na ścianę lub ogrodzenie, a alternatywę stanowi montaż panelu bezpośrednio do wiaty CarportActive. Ceny zaczynają się od 300 zł, konstrukcje wykonujemy na zamówienie, a szczegóły dostawy ustalamy indywidualnie.",
+ "faq": [
+  {
+   "pytanie": "Czy stojaki wolnostojące wymagają kotwienia w podłożu?",
+   "odpowiedz": "Modele wolnostojące stoją stabilnie na własnych stopach i nie wymagają wiercenia w podłożu ani w ociepleniu ściany."
+  },
+  {
+   "pytanie": "Jakie narzędzia utrzyma stojak CA-Hard?",
+   "odpowiedz": "Model CA-Hard wykonany jest z grubszego profilu, dzięki czemu radzi sobie z ciężkim sprzętem, takim jak kilofy, młoty oraz mokre węże."
+  },
+  {
+   "pytanie": "Gdzie można zamontować panel CA-Lite?",
+   "odpowiedz": "Panel CA-Lite o wymiarach 100-150 x 50 cm można przykręcić do ściany, ogrodzenia lub bezpośrednio do konstrukcji wiaty CarportActive."
+  }
+ ],
+ "nr": 142,
+ "kolejnosc": 148,
+ "temat": "stojak na narzędzia na budowę",
+ "adres": "stojak-na-narzedzia-na-budowe",
+ "link": "dodatki/ca-stand",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

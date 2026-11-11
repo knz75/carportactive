@@ -1,0 +1,50 @@
+{
+ "tytul": "Carport fotowoltaiczny - co to jest i jak działa",
+ "opis_meta": "Zastanawiasz się, co to jest carport fotowoltaiczny? Sprawdź, jak działa wiata z panelami PV i jak zamienić podjazd w prywatną elektrownię.",
+ "wstep": "Carport fotowoltaiczny to zadaszenie parkingowe, którego dach służy jako podstawa pod panele słoneczne. Chroni Twój samochód przed słońcem lub deszczem, a jednocześnie produkuje prąd dla domu i auta. To proste połączenie wiaty garażowej z mikroelektrownią na Twoim podjeździe.",
+ "sekcje": [
+  {
+   "h2": "Na czym polega różnica między zwykłą wiatą a carportem PV",
+   "akapity": [
+    "Zwykła wiata ma chronić samochód przed opadami i słońcem. Jej dach zazwyczaj projektuje się tak, aby utrzymał jedynie lekkie poszycie. Carport fotowoltaiczny musi przenieść znacznie większe obciążenie użytkowe.",
+    "Dach wiaty i tak jest potrzebny nad pojazdem, ale w wersji pod fotowoltaikę cała konstrukcja musi unieść moduły. Słupy oraz fundament są liczone na dodatkowy ciężar paneli. Dzięki temu konstrukcja pozostaje stabilna przez cały rok."
+   ]
+  },
+  {
+   "h2": "Kiedy warto postawić na zadaszenie z panelami",
+   "akapity": [
+    "Nie każdy budynek ma dach skierowany w dobrą stronę świata lub wolną przestrzeń pod instalację. Wtedy miejsce parkingowe staje się naturalnym wyborem na montaż modułów. Zamiast zajmować ogród konstrukcją gruntową, wykorzystujesz powierzchnię podjazdu.",
+    "Miejsce parkingowe zaczyna produkować prąd dla domu i samochodu elektrycznego. Dodatkowo przy słupie wiaty można przewidzieć miejsce na ładowarkę, co bardzo ułatwia codzienne ładowanie auta."
+   ]
+  },
+  {
+   "h2": "Ile modułów zmieści się na wiacie",
+   "akapity": [
+    "Liczba modułów zależy od rozmiaru wiaty. Na konstrukcjach parkingowych montuje się zazwyczaj od 6 do 12 paneli fotowoltaicznych. Wszystko zależy od tego, jak duże zadaszenie planujesz postawić.",
+    "Największą połać daje wiata dwustanowiskowa o wymiarach 6 x 6 m. Na takim dachu zmieści się do 12 paneli fotowoltaicznych, co pozwala na stworzenie wydajnej instalacji."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te potrzeby jest wiata Solar Box od CarportActive, wykonana ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym. Posiada wzmocnione słupy, dach przygotowany pod montaż od 6 do 12 paneli oraz gotowość pod montaż ładowarki Wallbox przy słupie. Konstrukcja jest dostępna w wariantach 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub na wymiar indywidualny, a jej montaż zajmuje zazwyczaj 1 dzień roboczy. Moduły możesz zamówić od razu lub dołożyć w kolejnym sezonie, a wizualizator AI pokaże wiatę na zdjęciu Twojego podjazdu w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile paneli zmieści się na wiacie?",
+   "odpowiedz": "Od 6 do 12 paneli, zależnie od rozmiaru konstrukcji. Na wiacie 6 x 6 m zmieści się do 12 paneli."
+  },
+  {
+   "pytanie": "Czy mogę postawić wiatę teraz, a panele dołożyć później?",
+   "odpowiedz": "Tak, jeśli zamówisz wersję Solar Box ze wzmocnioną konstrukcją. Słupy i fundament mają zapas nośności, więc panele można zamontować w kolejnym sezonie."
+  },
+  {
+   "pytanie": "Kto robi instalację elektryczną?",
+   "odpowiedz": "Zakres prac przy panelach, falowniku i podłączeniu ustalamy przy wycenie. Napisz, czy masz już instalatora, czy szukasz całego rozwiązania."
+  }
+ ],
+ "nr": 106,
+ "kolejnosc": 5,
+ "temat": "carport fotowoltaiczny - co to jest",
+ "adres": "carport-fotowoltaiczny-co-to-jest",
+ "link": "moduly/solar-box",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

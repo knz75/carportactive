@@ -1,0 +1,52 @@
+{
+ "tytul": "Jak przechowywać narzędzia zimą. Praktyczny poradnik",
+ "opis_meta": "Sprawdź, jak zabezpieczyć i przechowywać narzędzia ogrodowe oraz warsztatowe zimą. Poznaj proste zasady, które chronią sprzęt przed rdzą i wilgocią.",
+ "wstep": "Zima to trudny czas dla każdego sprzętu zostawionego na zewnątrz podwórka. Wilgoć, woda i ujemne temperatury szybko niszczą stal, drewno oraz mechanizmy robocze. Jeśli zadbasz o narzędzia przed pierwszymi przymrozkami, na wiosnę będą od razu gotowe do pracy.",
+ "sekcje": [
+  {
+   "h2": "Oczyszczenie i osuszenie to podstawa",
+   "akapity": [
+    "Narzędzia ogrodowe po całym sezonie bywają oblepione mokrą ziemią, resztkami trawy i sokami roślinnymi. Zostawienie ich w takim stanie na kilka miesięcy sprzyja korozji ostrzy i niszczeniu drewnianych trzonków. Umyj łopaty, grabie oraz sekatory wodą, usuń zaschnięty brud szczotką, a potem wytrzyj metalowe części do sucha.",
+    "Ruchome elementy i powierzchnie tnące warto przetrzeć cienką warstwą oleju technicznego lub smaru. Tłusta powłoka odcina dostęp wilgoci i powietrza. W ten prosty sposób metal przetrwa mroźne miesiące bez rdzawych plam."
+   ]
+  },
+  {
+   "h2": "Dlaczego narzędzia nie powinny leżeć na ziemi",
+   "akapity": [
+    "Najczęstszy błąd to rzucenie sprzętu w kąt, bezpośrednio na posadzkę lub grunt. Zimą od podłoża ciągnie chłód i wilgoć, a skraplająca się woda zbiera się pod leżącymi przedmiotami. Trzonki drewniane zaczynają wtedy naciągać wodę, a stal szybko rdzewieje.",
+    "Dużo lepszym rozwiązaniem jest trzymanie narzędzi w pionie na hakach lub uchwytach ściennych. Sprzęt uniesiony nad podłożem ma stały przewiew i schnie znacznie szybciej. Zyskujesz też porządek, bo nic nie blokuje przejścia na podjeździe czy w przejściu."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie węży i drobnych akcesoriów",
+   "akapity": [
+    "Woda pozostawiona wewnątrz węża ogrodowego lub zraszacza zamarza i rozsadza tworzywo. Przed nadejściem przymrozków rozwiń wąż, spuść z niego całą wodę i zwiń go w luźne zwoje. Powieś go na dedykowanym uchwycie, aby nie leżał na zimnej płycie.",
+    "Drobne elementy, takie jak śruby, nakrętki czy złączki, warto przesypać do zamykanych skrzynek lub pojemników. Odpowiednia segregacja chroni drobny metal przed wilgocią. Dodatkowo oszczędzasz czas, bo nie szukasz części w całym obejściu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Dobrym sposobem na organizację sprzętu jest stalowy panel perforowany na bocznej ścianie wiaty CarportActive. Łopaty, grabie, klucze i przedłużacze wiszą na hakach pod dachem, a podjazd staje się miejscem do drobnych napraw. Panel to stalowa płyta z otworami, więc haki przekładasz, jak chcesz, a na śruby i drobiazgi wykorzystujesz skrzynki. Panel znajduje się pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu nie zamokną zimą?",
+   "odpowiedz": "Panel jest pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo - to nie jest zamknięte pomieszczenie."
+  },
+  {
+   "pytanie": "Czy układ haków można dopasować do moich narzędzi?",
+   "odpowiedz": "Tak. Panel jest perforowany, więc haki i uchwyty ustawiasz sam, a zestaw dobieramy przy wycenie."
+  },
+  {
+   "pytanie": "Czy panel można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ma przygotowane punkty montażowe. Przy wiacie innego producenta prześlij zdjęcia konstrukcji, a sprawdzimy, czy da się go zamocować."
+  }
+ ],
+ "nr": 35,
+ "kolejnosc": 82,
+ "temat": "jak przechowywać narzędzia zimą",
+ "adres": "jak-przechowywac-narzedzia-zima",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "zł"
+ ]
+}

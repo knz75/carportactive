@@ -1,0 +1,50 @@
+{
+ "tytul": "Miejsce do drobnych napraw przy domu. Jak je urządzić?",
+ "opis_meta": "Szukasz miejsca na drobne naprawy przy domu? Sprawdź, jak zorganizować przestrzeń pod dachem, uporządkować narzędzia i zyskać wygodny kącik do pracy.",
+ "wstep": "Drobne naprawy przy aucie, rowerze czy sprzęcie ogrodowym zdarzają się regularnie. Zamiast rozkładać narzędzia na trawie lub nosić je z piwnicy, warto wyznaczyć do tego stały punkt. Podpowiadamy, jak zorganizować praktyczną przestrzeń do majsterkowania przy domu.",
+ "sekcje": [
+  {
+   "h2": "Wybór odpowiedniego miejsca pod dachem",
+   "akapity": [
+    "Najlepiej sprawdza się utwardzona nawierzchnia blisko podjazdu lub wjazdu na posesję. Kiedy naprawiasz kosiarkę albo zmieniasz koło w rowerze, potrzebujesz równego podłoża i zadaszenia. Dach chroni Cię przed słońcem oraz bezpośrednim deszczem, więc możesz dokończyć pracę bez pośpiechu.",
+    "Ważne jest też naturalne światło i swobodny dostęp z każdej strony. Otwarta lub częściowo osłonięta przestrzeń zapewnia dobrą wentylację, co przydaje się przy czyszczeniu części lub drobnych pracach technicznych."
+   ]
+  },
+  {
+   "h2": "Wszystko pod ręką zamiast w kartonach",
+   "akapity": [
+    "Podstawą sprawnej pracy jest szybki dostęp do sprzętu. Kiedy klucze, młotki czy przedłużacze leżą na dnie skrzyń, tracisz czas na szukanie właściwego rozmiaru.",
+    "Pionowe ściany to najlepsza przestrzeń do zagospodarowania przy podjeździe. Wieszanie narzędzi na hakach pozwala zachować wolne miejsce na ziemi i ułatwia zachowanie porządku. Od razu widzisz, czy po skończonej pracy każda rzecz wróciła na swoje miejsce."
+   ]
+  },
+  {
+   "h2": "Miejsce na drobne elementy i osprzęt",
+   "akapity": [
+    "Podczas napraw łatwo zgubić nakrętki, podkładki czy wkręty. Warto wyposażyć kącik roboczy w małe pojemniki lub skrzynki zawieszone na wysokości rąk.",
+    "Pamiętaj też o bezpiecznym odkładaniu większego sprzętu. Grabie, łopaty czy węże ogrodowe oparte luźno o ścianę często się przewracają, dlatego dedykowane uchwyty ścienne sprawdzają się najlepiej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodnym rozwiązaniem jest stalowa wiata CarportActive z panelem narzędziowym na bocznej ścianie. Perforowana płyta pozwala zawiesić klucze, przedłużacze, łopaty oraz skrzynki na śruby pod dachem, dzięki czemu podjazd staje się miejscem do drobnych napraw. Na wiacie 4 x 6 m z boku zostaje też miejsce na stanowisko pracy. Panel można zamówić od razu lub dołożyć później, a montaż konstrukcji ze stali S235 zajmuje zazwyczaj 1 dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy narzędzia na panelu nie zamokną od deszczu?",
+   "odpowiedz": "Panel znajduje się pod dachem wiaty, więc deszcz nie pada na niego bezpośrednio. Przy silnym wietrze i zacinającym deszczu ściana osłania tylko częściowo, ponieważ wiata nie jest zamkniętym pomieszczeniem."
+  },
+  {
+   "pytanie": "Czy panel narzędziowy można zamontować do już stojącej wiaty?",
+   "odpowiedz": "Do wiaty CarportActive tak, ponieważ konstrukcja ma przygotowane punkty montażowe. W przypadku wiaty innego producenta możesz przesłać zdjęcia konstrukcji, aby sprawdzić możliwość montażu."
+  },
+  {
+   "pytanie": "Czy układ haków na panelu można dopasować do własnych narzędzi?",
+   "odpowiedz": "Tak. Stalowy panel jest perforowany, więc haki i uchwyty rozmieszczasz samodzielnie, a odpowiedni zestaw dobierany jest podczas wyceny."
+  }
+ ],
+ "nr": 31,
+ "kolejnosc": 46,
+ "temat": "miejsce do drobnych napraw przy domu",
+ "adres": "miejsce-do-drobnych-napraw-przy-domu",
+ "link": "moduly/panel-narzedziowy",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}
