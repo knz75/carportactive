@@ -1,0 +1,57 @@
+{
+ "tytul": "Dlaczego na montaż wiaty czeka się kilka tygodni?",
+ "opis_meta": "Zastanawiasz się, dlaczego na montaż wiaty czeka się tygodniami? Sprawdź, jak wygląda grafik ekipy, wiązanie betonu i etapy prac na posesji.",
+ "wstep": "Chcesz postawić zadaszenie na samochód i dowiadujesz się, że wolny termin jest dopiero za miesiąc lub dwa. Taki czas oczekiwania nie wynika ze złośliwości monterów, ale z zasad budowlanych i kolejki zleceń. Zobacz, co dokładnie dzieje się w tym czasie i dlaczego pośpiech zagraża stabilności całej konstrukcji.",
+ "sekcje": [
+  {
+   "h2": "Zajęty grafik ekipy i właściwe przygotowanie",
+   "akapity": [
+    "Kiedy kontaktujesz się z fachowcami, prace rzadko ruszają z dnia na dzień. Dobra ekipa montażowa ma grafik zajęty na kilka tygodni do przodu, ponieważ każde zlecenie wymaga wcześniejszego rozplanowania. Termin ustala się już przy pierwszym kontakcie, po przesłaniu wymiarów oraz zdjęć miejsca pod wiatę.",
+    "Profesjonalny montaż nie polega na szybkim przyjeździe bez planu. Monter musi ocenić podłoże, zaplanować liczbę osób oraz przygotować odpowiednią ilość materiału na fundamenty. Próby wciskania montażu na jutro zwykle prowadzą do błędów i chaosu organizacyjnego."
+   ]
+  },
+  {
+   "h2": "Technologia fundamentów i czas dojrzewania betonu",
+   "akapity": [
+    "Główną przyczyną kilkutygodniowej przerwy w pracach jest proces wiązania betonu. Pod każdy słup wiaty kopiemy dół o wymiarach około 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu. Objętość dołu pomnożona przez liczbę słupów daje całkowitą ilość betonu, która musi utrzymać całą konstrukcję.",
+    "Beton po wylaniu musi dojrzeć i osiągnąć odpowiednią twardość. Pomiędzy wylaniem fundamentów a montażem stalowej konstrukcji mijają zwykle 2-4 tygodnie. Z tego powodu montaż zawsze dzieli się na dwa osobne przyjazdy ekipy w sporym odstępie czasu."
+   ]
+  },
+  {
+   "h2": "Podział prac na etapy na Twojej posesji",
+   "akapity": [
+    "Roboty fundamentowe pod wiatę liczącą do 8 słupów wykonują dwie osoby w 1 dzień. Jeśli konstrukcja jest większa i ma powyżej 8 słupów, prace fundamentowe zajmują 2 dni lub więcej. W tym czasie wykonuje się wykopy, zalewa stopy betonowe i ewentualnie zabezpiecza grunt.",
+    "Dopiero po upływie kilku tygodni ekipa przyjeżdża po raz drugi. Sam montaż konstrukcji wiaty do 8 słupów zajmuje zazwyczaj 1 dzień. W ten sposób łączny czas oczekiwania na gotową wiatę wynika bezpośrednio z przerw technologicznych, których nie wolno pomijać."
+   ]
+  },
+  {
+   "h2": "Ryzyko związane z montażem na skróty",
+   "akapity": [
+    "Wielu inwestorów chce przyspieszyć prace i proponuje przykręcenie słupów bezpośrednio do kostki brukowej. Taka oszczędność na fundamencie mści się podczas użytkowania. Wiata garażowa działa jak żagiel, a konstrukcja przytwierdzona jedynie do kostki może po prostu odlecieć przy silniejszej wichurze.",
+    "Solidne fundamenty gwarantują bezpieczeństwo Twojego auta i otoczenia. Warto także pamiętać, że dodatkowe czynności, takie jak wywóz wykopanej ziemi czy rozebranie i ponowne ułożenie kostki wokół słupów, również wymagają czasu i odpowiedniego zaplanowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli planujesz inwestycję, usługa Montaż wiat garażowych - Mazowsze zapewnia bezpieczne wykonanie prac zgodnie ze sztuką. Montujemy stalowe wiaty na terenie Mazowsza, w tym zestawy kupione w marketach lub u innych producentów. Pracujemy według stałego harmonogramu: po otrzymaniu zdjęć i wymiarów ustalamy termin, kopiemy fundamenty na 80 cm i zachowujemy 2-4 tygodnie na dojrzenie betonu przed złożeniem wiaty.",
+ "faq": [
+  {
+   "pytanie": "Ile czasu zajmuje sam montaż konstrukcji wiaty?",
+   "odpowiedz": "Montaż stalowej konstrukcji dla wiaty o wielkości do 8 słupów zajmuje 1 dzień roboczy, pod warunkiem wcześniejszego przygotowania i związania fundamentów."
+  },
+  {
+   "pytanie": "Dlaczego ekipa musi przyjechać na działkę dwa razy?",
+   "odpowiedz": "Pierwszy przyjazd obejmuje wykonanie wykopów i zalanie fundamentów, a drugi montaż konstrukcji. Pomiędzy wizytami potrzeba 2-4 tygodni, aby beton uzyskał pełną wytrzymałość."
+  },
+  {
+   "pytanie": "Jakie prace mogą wydłużyć czas realizacji na miejscu?",
+   "odpowiedz": "Czas prac wydłuża się przy wiatach powyżej 8 słupów, a także przy zleceniu prac dodatkowych, takich jak wywóz ziemi, demontaż i układanie kostki brukowej, montaż ścian i przęseł czy podłączenie oświetlenia."
+  }
+ ],
+ "nr": 252,
+ "kolejnosc": 199,
+ "temat": "dlaczego na montaż wiaty czeka się kilka tygodni",
+ "adres": "dlaczego-na-montaz-wiaty-czeka-sie-kilka-tygodni",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

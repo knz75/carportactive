@@ -1,0 +1,57 @@
+{
+ "tytul": "Wywóz ziemi przy montażu wiaty. Co warto wiedzieć?",
+ "opis_meta": "Ile ziemi zostaje po wykopach pod wiatę i co z nią zrobić? Sprawdź, jak zaplanować wykop fundamentów, koszty wywozu oraz etapy montażu.",
+ "wstep": "Kiedy planujesz montaż wiaty garażowej, rzadko myślisz o ziemi, która zostanie po wykopach. Pod każdy słup trzeba wykopać dół o wymiarach około 50 x 50 x 80 cm, więc urobku szybko przybywa. Wyjaśniamy, skąd bierze się ta ziemia i jak podejść do tematu jej wywozu.",
+ "sekcje": [
+  {
+   "h2": "Ile ziemi powstaje przy wykopach pod słupy?",
+   "akapity": [
+    "Solidna wiata wymaga punktowych stóp fundamentowych sięgających poniżej strefy przemarzania gruntu. Pod każdy pojedynczy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm. Ilość betonu i wykopanej ziemi odpowiada po prostu objętości tych dołów pomnożonej przez liczbę słupów. Pamiętaj, że wykopana ziemia jest spulchniona, przez co zajmuje na podwórku znacznie więcej miejsca niż w gruncie.",
+    "Nie warto iść na skróty i rezygnować z solidnych wykopów. Oszczędność na fundamencie wychodzi bokiem w czasie codziennego użytkowania. Wiata przykręcona bezpośrednio do samej kostki brukowej może po prostu odlecieć przy silniejszej wichurze."
+   ]
+  },
+  {
+   "h2": "Co zrobić z wykopaną ziemią z fundamentów?",
+   "akapity": [
+    "Przed przyjazdem ekipy warto zdecydować, czy urobek ma zostać na Twojej działce. Jeśli masz nierówności terenu lub planujesz nowe rabaty, ziemię można po prostu rozplantować w ogrodzie we własnym zakresie. Pozwala to zaoszczędzić na kosztach logistycznych.",
+    "Jeżeli jednak Twoja działka jest już w pełni zagospodarowana, konieczny będzie wywóz ziemi. Pamiętaj, że wywóz ziemi liczy się osobno i nie wchodzi automatycznie w bazową cenę prac. Najlepiej ustalić tę kwestię na samym początku, aby monterzy wiedzieli, czy mają ładować urobek na przyczepę lub do podstawionego kontenera."
+   ]
+  },
+  {
+   "h2": "Jak przebiega harmonogram prac i kiedy wywozi się grunt?",
+   "akapity": [
+    "Wykopy i betonowanie to dopiero pierwszy etap całej inwestycji. Fundamenty pod wiatę liczącą do 8 słupów robią 2 osoby w 1 dzień, natomiast powyżej 8 słupów prace te zajmują 2 dni i więcej. To właśnie wtedy powstaje urobek i na tym etapie następuje ewentualny wywóz ziemi z działki.",
+    "Po zalaniu fundamentów beton musi dojrzeć, więc między pracami ziemnymi a montażem samej konstrukcji mijają zwykle 2-4 tygodnie. Ekipa pojawia się u Ciebie dwa razy w ramach osobnych przyjazdów. Sam montaż konstrukcji wiaty do 8 słupów zajmuje później 1 dzień."
+   ]
+  },
+  {
+   "h2": "Co jeszcze wpływa na ostateczny koszt robót ziemnych i montażu?",
+   "akapity": [
+    "Na łączny koszt usługi składa się beton, robocizna dwóch osób, wywóz ziemi, dojazdy ekipy na dwa osobne etapy, a także podatki i ryzyko techniczne. Jeśli w miejscu planowanych słupów leży już nawierzchnia, osobno liczy się rozebranie i ułożenie z powrotem kostki brukowej wokół słupów.",
+    "Dodatkowymi pozycjami w kosztorysie mogą być też oświetlenie i prąd, a także montaż ścian i przęseł. Z uwagi na te wszystkie czynniki dokładną cenę podajemy zawsze po otrzymaniu zdjęć miejsca montażu oraz wymiarów planowanej wiaty."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli planujesz budowę na Mazowszu, montaż wiat garażowych przeprowadzimy sprawnie i zgodnie ze sztuką. Montujemy stalowe wiaty garażowe, w tym także konstrukcje z zestawów kupionych w marketach lub u innych producentów. Pracujemy według stałego grafiku: po kontakcie, przesłaniu zdjęć i wymiarów przygotowujemy wycenę oraz ustalamy termin, nie realizując zleceń na jutro.",
+ "faq": [
+  {
+   "pytanie": "Czy wywóz ziemi jest wliczony w standardowy koszt montażu wiaty?",
+   "odpowiedz": "Nie, wywóz ziemi liczy się osobno. Możesz zdecydować się na zagospodarowanie wykopanego gruntu na własnej posesji albo zlecić jego wywiezienie ekipie."
+  },
+  {
+   "pytanie": "Ile czasu schnie beton pod słupami wiaty przed montażem konstrukcji?",
+   "odpowiedz": "Beton w stopach fundamentowych musi dojrzeć, dlatego między zalaniem dołów a montażem konstrukcji mijają zwykle 2-4 tygodnie. Wiąże się to z dwoma osobnymi przyjazdami montażystów."
+  },
+  {
+   "pytanie": "Czy montaż można wykonać bezpośrednio na ułożonej kostce bez wykopów?",
+   "odpowiedz": "Nie, pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm, poniżej strefy przemarzania. Wiata przykręcona do samej kostki brukowej stwarza zagrożenie i może odlecieć przy wichurze."
+  }
+ ],
+ "nr": 247,
+ "kolejnosc": 143,
+ "temat": "wywóz ziemi przy montażu wiaty",
+ "adres": "wywoz-ziemi-przy-montazu-wiaty",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

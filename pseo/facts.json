@@ -172,7 +172,7 @@
   "url": "/",
   "img": "/img/realizacje/r01-wiata-przesla-orzech.jpg",
   "facts": [
-   "Wiaty CarportActive: stal konstrukcyjna S235, ocynk ogniowy i malowanie proszkowe, kolor antracyt RAL 7016.",
+   "Wiaty CarportActive: stal konstrukcyjna S235, słupy z profilu 100 x 100 x 3 mm, ocynk ogniowy i malowanie proszkowe, kolor antracyt RAL 7016.",
    "Rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m, wysokość 2,7 m, oraz wymiary indywidualne.",
    "Fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy.",
    "Do wiaty można dołożyć moduły: sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV, przęsła żaluzjowe.",
@@ -186,10 +186,11 @@
    "Dlatego fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy. W Polsce to zwykle ok. 80 cm głębokości, a zależnie od regionu nawet więcej. Na jeden słup może pójść 5-10 worków betonu.",
    "Alternatywą dla betonu są pale, ale ich montaż wymaga specjalistycznego sprzętu.",
    "Na koszt montażu składają się też rzeczy, o których mało kto myśli: wywóz ziemi i gruzu oraz rozebranie i ułożenie z powrotem kostki brukowej wokół słupów.",
-   "Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem wychodzi bokiem w czasie użytkowania."
+   "Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem wychodzi bokiem w czasie użytkowania.",
+   "To nie jest produkt z półki z jedną ceną. Mamy kilka projektów bazowych policzonych przez inżyniera, a wszystko inne to projekt indywidualny: ktoś przyjeżdża na pomiar, sprawdza miejsce i potrzeby klienta, w razie potrzeby konstrukcja jest przeliczana i dopiero wtedy powstaje wycena całości."
   ],
   "notatki_ceny": [
-   "Wiata z marketu kosztuje ok. 3-5 tys. zł. Stalowa wiata na zamówienie z fundamentami i montażem może kosztować nawet ok. 30 tys. zł. Klienci często pytają, dlaczego sam montaż kosztuje tyle, co cała wiata z marketu."
+   "Wiata z marketu kosztuje ok. 3-5 tys. zł. Nasze ceny bazowe wiat stalowych (brutto, bez montażu): 3 x 6 m - 16 500 zł, 4 x 6 m - 17 605 zł, 6 x 6 m - 21 949 zł. Do tego dochodzą fundamenty i montaż (od ok. 4 tys. zł) oraz dodatki. Większe projekty, na przykład 12-14 słupów z pomieszczeniem gospodarczym i elektryką, to nawet 60-70 tys. zł. Klienci często pytają, dlaczego sam montaż kosztuje tyle, co cała wiata z marketu."
   ],
   "ceny_tematy": [
    "wiata-z-marketu-czy-na-zamowienie-czym-sie-roznia",
@@ -199,6 +200,36 @@
    "tania-wiata-na-czym-oszczedzaja-producenci",
    "wiata-z-zestawu-do-samodzielnego-montazu-czy-warto",
    "najczestsze-bledy-przy-kupnie-wiaty"
+  ]
+ },
+ "montaz": {
+  "name": "Montaż wiat",
+  "h1": "Montaż wiat garażowych - Mazowsze",
+  "url": "/montaz/",
+  "img": "/img/realizacje/r05-wiata-z-oswietleniem.jpg",
+  "facts": [
+   "Montujemy stalowe wiaty garażowe na Mazowszu, także wiaty z zestawów kupionych u innych producentów albo w marketach.",
+   "Pracujemy według grafiku: zawsze najpierw kontakt, zdjęcia i wymiary, potem wycena i ustalenie terminu. Nie robimy montaży na jutro.",
+   "Pod każdy słup kopiemy dół ok. 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu. Ilość betonu to objętość dołu razy liczba słupów.",
+   "Fundamenty pod wiatę do 8 słupów robią 2 osoby w 1 dzień. Powyżej 8 słupów to 2 dni i więcej.",
+   "Beton musi dojrzeć: między fundamentami a montażem konstrukcji mijają zwykle 2-4 tygodnie, więc to dwa przyjazdy ekipy.",
+   "Sam montaż konstrukcji wiaty do 8 słupów zajmuje 1 dzień.",
+   "Osobno liczą się: wywóz ziemi, rozebranie i ułożenie z powrotem kostki brukowej wokół słupów, oświetlenie i prąd, ściany i przęsła.",
+   "Dokładną cenę podajemy po zdjęciach miejsca i wymiarach."
+  ],
+  "notatki": [
+   "Ludzie chcą wszystkiego od razu, a dobra ekipa ma grafik zajęty na kilka tygodni do przodu. Termin ustala się przy pierwszym kontakcie.",
+   "Na cenę montażu składa się beton, robocizna dwóch osób, wywóz ziemi, dojazdy (fundament i montaż to dwa osobne przyjazdy), a do tego podatki i ryzyko, które bierze na siebie firma.",
+   "Oszczędność na fundamencie wychodzi bokiem w czasie użytkowania: wiata przykręcona do kostki może odlecieć przy wichurze."
+  ],
+  "notatki_ceny": [
+   "Montaż wiaty z fundamentami zaczyna się od ok. 4 tys. zł. Odtworzenie kostki, prąd i ściany to dodatkowy koszt."
+  ],
+  "ceny_tematy": [
+   "ile-kosztuje-montaz-wiaty-garazowej",
+   "co-wplywa-na-cene-montazu-wiaty",
+   "montaz-wiaty-z-zestawu-kto-to-zrobi",
+   "kupilem-wiate-w-zestawie-samodzielny-montaz-czy-ekipa"
   ]
  }
 }

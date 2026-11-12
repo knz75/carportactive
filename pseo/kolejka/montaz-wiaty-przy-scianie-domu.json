@@ -1,0 +1,50 @@
+{
+ "tytul": "Montaż wiaty przy ścianie domu. O czym musisz wiedzieć",
+ "opis_meta": "Planujesz montaż wiaty przy ścianie domu? Zobacz, jak przygotować fundamenty, dlaczego beton musi schnąć i czemu nie montuje się wiaty do samej kostki.",
+ "wstep": "Montaż wiaty przy ścianie domu wymaga solidnego przygotowania podłoża i zachowania odpowiedniej kolejności prac. Zamiast spieszyć się z budową, warto dowiedzieć się, jak wygląda bezpieczne posadowienie takiej konstrukcji. Doświadczenie z montaży uczy, że stabilność zależy przede wszystkim od fundamentów, a nie od samego zadaszenia.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego fundamenty decydują o bezpieczeństwie",
+   "akapity": [
+    "Częstym błędem jest próba mocowania konstrukcji bezpośrednio do kostki brukowej. Taka oszczędność na fundamencie wychodzi bokiem w czasie użytkowania, ponieważ wiata przykręcona do kostki może po prostu odlecieć przy mocniejszej wichurze. Prawidłowy montaż wymaga wykonania wykopu pod każdy słup.",
+    "Pod każdy ze słupów kopiemy dół o wymiarach około 50 x 50 x 80 cm, co pozwala zejść poniżej strefy przemarzania gruntu. Ilość potrzebnego betonu to objętość takiego pojedynczego dołu pomnożona przez liczbę słupów w projekcie."
+   ]
+  },
+  {
+   "h2": "Czas prac i przerwa technologiczna na beton",
+   "akapity": [
+    "Cały proces wymaga czasu, dlatego montaż dzieli się na dwa osobne etapy i dwa przyjazdy ekipy. Fundamenty pod wiatę do 8 słupów robią dwie osoby w jeden dzień, natomiast powyżej 8 słupów prace ziemne zajmują dwa dni lub więcej.",
+    "Po zalaniu dołów beton musi dojrzeć, co wymusza przerwę technologiczną. Między fundamentami a montażem konstrukcji mijają zwykle 2-4 tygodnie. Dopiero gdy podłoże jest w pełni gotowe, następuje montaż samej konstrukcji, który przy wiacie do 8 słupów trwa jeden dzień."
+   ]
+  },
+  {
+   "h2": "Koszty montażu i dodatkowe prace przy ścianie",
+   "akapity": [
+    "Na łączną cenę montażu składa się zużyty beton, robocizna dwóch osób, dojazdy na dwa etapy, a także wywóz ziemi oraz podatki i ryzyko, które bierze na siebie firma. Jeśli przy ścianie leży już bruk, osobną pozycją jest rozebranie i ponowne ułożenie kostki brukowej wokół słupów.",
+    "Osobno liczy się również montaż ścian i przęseł oraz poprowadzenie oświetlenia i prądu. Dokładną wycenę montażu podaje się po otrzymaniu zdjęć miejsca i dokładnych wymiarów planowanej inwestycji."
+   ]
+  }
+ ],
+ "rozwiazanie": "W ramach usługi Montaż wiat garażowych - Mazowsze montujemy stalowe wiaty na terenie województwa mazowieckiego, w tym konstrukcje z zestawów kupionych w marketach lub u innych producentów. Pracujemy według stałego grafiku i nie wykonujemy zleceń na jutro, dlatego najpierw prosimy o kontakt, wymiary i zdjęcia miejsca pod montaż. Po analizie tych danych ustalamy ostateczną wycenę oraz termin obu przyjazdów ekipy.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę przy ścianie można przykręcić do kostki brukowej?",
+   "odpowiedz": "Nie, wiata przykręcona do kostki może odlecieć przy silnej wichurze. Pod każdy słup należy wykopać dół o wymiarach ok. 50 x 50 x 80 cm i zalać go betonem."
+  },
+  {
+   "pytanie": "Ile czasu mija między fundamentami a montażem konstrukcji?",
+   "odpowiedz": "Beton musi dojrzeć, dlatego między zalaniem fundamentów a montażem konstrukcji stalowej mijają zwykle 2-4 tygodnie."
+  },
+  {
+   "pytanie": "Jakie prace są liczone jako dodatkowe?",
+   "odpowiedz": "Osobno rozlicza się wywóz wykopanej ziemi, rozebranie i ułożenie z powrotem kostki brukowej wokół słupów, a także montaż oświetlenia, prądu oraz dodatkowych ścian i przęseł."
+  }
+ ],
+ "nr": 246,
+ "kolejnosc": 131,
+ "temat": "montaż wiaty przy ścianie domu",
+ "adres": "montaz-wiaty-przy-scianie-domu",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

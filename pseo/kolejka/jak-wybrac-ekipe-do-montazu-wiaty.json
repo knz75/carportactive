@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak wybrać ekipę do montażu wiaty garażowej",
+ "opis_meta": "Sprawdź, jak wybrać ekipę do montażu wiaty garażowej. Dowiedz się, na co zwrócić uwagę przy fundamentach, wycenie i ustalaniu terminów prac.",
+ "wstep": "Wybór odpowiedniej ekipy decyduje o tym, czy Twoja wiata przetrwa lata, czy sprawi problemy przy pierwszym silnym wietrze. Wielu wykonawców obiecuje szybkie wykonanie prac, ale pomija kluczowe zasady budowlane. Zobacz, o co pytać fachowców i jak sprawdzić ich podejście do pracy.",
+ "sekcje": [
+  {
+   "h2": "Zwróć uwagę na fundamenty i technologię prac",
+   "akapity": [
+    "Dobra ekipa nie zaproponuje przykręcenia słupów bezpośrednio do kostki brukowej. Taka pozorna oszczędność mści się szybko, bo wiata przykręcona do samej kostki może po prostu odlecieć w trakcie wichury. Prawidłowy montaż wymaga wykopania pod każdy słup dołu o wymiarach około 50 x 50 x 80 cm, czyli poniżej poziomu przemarzania gruntu.",
+    "Zapytaj wykonawcę, ile wizyt planuje na Twojej działce. Beton pod słupami musi dojrzeć, co trwa zwykle od 2 do 4 tygodni. Oznacza to, że rzetelna ekipa przyjeżdża dwa razy: najpierw wykonać fundamenty, a dopiero po związaniu betonu złożyć całą konstrukcję stalową."
+   ]
+  },
+  {
+   "h2": "Sprawdź terminy i organizację pracy ekipy",
+   "akapity": [
+    "Wielu inwestorów chce montażu od zaraz, ale dobra ekipa ma grafik zaplanowany na kilka tygodni do przodu. Profesjonaliści ustalają termin już przy pierwszym kontakcie, po zapoznaniu się z wymiarami i terenem. Nie obiecują prac z dnia na dzień, bo szanują czas zaplanowany dla innych klientów.",
+    "Warto też wiedzieć, ile trwają poszczególne etapy. Wykonanie fundamentów pod wiatę do 8 słupów zajmuje dwóm osobom 1 dzień, a powyżej 8 słupów potrzeba na to 2 dni lub więcej. Sam montaż konstrukcji do 8 słupów to kolejny 1 dzień pracy."
+   ]
+  },
+  {
+   "h2": "Dopytaj o szczegóły wyceny i zakres obowiązków",
+   "akapity": [
+    "Rzetelny wykonawca podaje dokładną cenę dopiero po obejrzeniu zdjęć miejsca montażu i poznaniu wymiarów. Na koszt składają się materiały takie jak beton, robocizna dwóch osób, dojazdy na dwa osobne etapy oraz ryzyko i podatki ponoszone przez legalną firmę.",
+    "Ustal od razu, co nie wchodzi w standardową usługę. Osobno liczą się prace takie jak wywóz ziemi z wykopów, rozebranie i ponowne ułożenie kostki brukowej wokół słupów, podłączenie prądu i oświetlenia czy montaż bocznych ścian i przęseł."
+   ]
+  }
+ ],
+ "rozwiazanie": "Świadczymy usługi montażu stalowych wiat garażowych na Mazowszu, montując także konstrukcje z marketów oraz zestawy od innych producentów. Pracujemy ściśle według grafiku, przygotowujemy solidne fundamenty poniżej strefy przemarzania gruntu i zachowujemy przerwę na dojrzewanie betonu. Dokładną wycenę i termin ustalamy po przesłaniu przez Ciebie zdjęć terenu oraz wymiarów.",
+ "faq": [
+  {
+   "pytanie": "Czy montaż wiaty garażowej można zrobić w jeden dzień?",
+   "odpowiedz": "Sam montaż konstrukcji do 8 słupów trwa 1 dzień, ale wcześniej trzeba wykonać fundamenty. Pomiędzy betonowaniem a montażem stali musi minąć od 2 do 4 tygodni na związanie betonu."
+  },
+  {
+   "pytanie": "Dlaczego nie montuje się wiaty bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Kostka brukowa nie stanowi stabilnego podłoża dla tak dużej konstrukcji. Wiata przymocowana jedynie do kostki może zostać wyrwana i odlecieć przy silnej wichurze."
+  },
+  {
+   "pytanie": "Jakie prace przy montażu wiaty są zwykle liczone osobno?",
+   "odpowiedz": "Osobno wycenia się wywóz ziemi pozostałej po wykopach, rozebranie i docięcie kostki brukowej przy słupach, instalację oświetlenia oraz montaż ścian i dodatkowych przęseł."
+  }
+ ],
+ "nr": 251,
+ "kolejnosc": 189,
+ "temat": "jak wybrać ekipę do montażu wiaty",
+ "adres": "jak-wybrac-ekipe-do-montazu-wiaty",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

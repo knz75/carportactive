@@ -1,0 +1,50 @@
+{
+ "tytul": "Fundamenty pod wiatę - ile betonu na słup",
+ "opis_meta": "Sprawdź, ile betonu wlać pod słup wiaty i jakie wymiary powinien mieć wykop. Praktyczny poradnik montera o głębokości dołów i czasie schnięcia.",
+ "wstep": "Planujesz postawienie wiaty i zastanawiasz się, ile betonu przygotować pod każdy słup. Odpowiedź zależy od wielkości wykopu, ale sprawdzonym standardem jest dół o wymiarach 50 x 50 x 80 cm. Taka głębokość pozwala oprzeć konstrukcję stabilnie i bezpiecznie.",
+ "sekcje": [
+  {
+   "h2": "Wymiary wykopu i wyliczenie ilości betonu",
+   "akapity": [
+    "Pod każdy słup wiaty kopiemy dół o wymiarach około 50 x 50 x 80 cm. Głębokość 80 cm pozwala zejść poniżej strefy przemarzania gruntu, co chroni fundament przed ruchami ziemi w zimie. Aby poznać łączną ilość potrzebnego betonu, mnożysz objętość takiego dołu przez liczbę wszystkich słupów w projekcie.",
+    "Pamiętaj, że z każdego otworu wybierzesz sporo urobku. Wywóz ziemi to osobna kwestia, o której trzeba pomyśleć wcześniej. Jeśli słupy wypadają na podjeździe, osobną pracą jest rozebranie i ponowne ułożenie kostki brukowej wokół stóp fundamentowych."
+   ]
+  },
+  {
+   "h2": "Dlaczego nie wolno mocować słupów do samej kostki",
+   "akapity": [
+    "Oszczędność na fundamencie zawsze wychodzi bokiem w czasie użytkowania wiaty. Czasami inwestorzy pytają o montaż słupów bezpośrednio do ułożonej kostki brukowej, żeby uniknąć kopania. Niestety wiata przykręcona tylko do kostki może po prostu odlecieć przy silniejszej wichurze.",
+    "Bruk stanowi jedynie nawierzchnię i nie utrzyma naporu wiatru działającego na dużą połać dachu. Prawidłowo wylany beton tworzy ciężką kotwicę, która trzyma całą konstrukcję w gruncie."
+   ]
+  },
+  {
+   "h2": "Czas pracy i wiązanie betonu w praktyce",
+   "akapity": [
+    "Przygotowanie fundamentów pod wiatę mającą do 8 słupów zajmuje dwóm osobom 1 dzień roboczy. Gdy konstrukcja jest większa i ma powyżej 8 słupów, prace ziemne i betonowanie trwają 2 dni lub dłużej.",
+    "Wylanego fundamentu nie można obciążać od razu. Beton musi dojrzeć, dlatego między zalaniem stóp a montażem konstrukcji mijają zwykle 2-4 tygodnie. Z tego powodu cała realizacja oznacza dwa osobne przyjazdy ekipy na Twoją działkę. Sam montaż konstrukcji wiaty do 8 słupów zajmuje potem 1 dzień."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli planujesz budowę na Mazowszu, oferujemy profesjonalny montaż stalowych wiat garażowych, w tym także zestawów kupionych w marketach lub u innych producentów. Pracujemy według ustalonego grafiku, dlatego po przesłaniu zdjęć miejsca i wymiarów przygotujemy dokładną wycenę oraz ustalimy termin prac. Zadbamy o prawidłowe wykonanie wykopów, fundamentów i stabilne postawienie konstrukcji.",
+ "faq": [
+  {
+   "pytanie": "Jakie wymiary powinien mieć fundament pod słup wiaty?",
+   "odpowiedz": "Standardowy dół pod słup ma wymiary około 50 x 50 x 80 cm, co pozwala zejść poniżej poziomu przemarzania gruntu."
+  },
+  {
+   "pytanie": "Ile czasu musi schnąć beton przed montażem konstrukcji?",
+   "odpowiedz": "Beton musi dobrze dojrzeć, dlatego między zalaniem fundamentów a montażem wiaty czeka się zwykle 2-4 tygodnie."
+  },
+  {
+   "pytanie": "Ile trwa zrobienie fundamentów pod wiatę?",
+   "odpowiedz": "Wykopanie dołów i zalanie fundamentów pod wiatę do 8 słupów zajmuje dwóm osobom 1 dzień. Przy większej liczbie słupów prace trwają 2 dni i więcej."
+  }
+ ],
+ "nr": 240,
+ "kolejnosc": 59,
+ "temat": "fundamenty pod wiatę - ile betonu na słup",
+ "adres": "fundamenty-pod-wiate-ile-betonu-na-slup",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -11,7 +11,7 @@ WYDANE = os.path.join(HERE, "wydane")
 SITE = "https://carportactive.pl"
 FACTS = json.load(open(os.path.join(HERE, "facts.json"), encoding="utf-8"))
 BASE_URLS = ["/", "/ai/", "/moduly/sportowy/", "/moduly/panel-narzedziowy/", "/moduly/ogrod-wertykalny/",
-             "/moduly/plac-zabaw/", "/moduly/przechowalnia-rowerow/", "/moduly/solar-box/", "/moduly/przeslo-zaluzjowe/", "/dodatki/ca-stand/", "/realizacje/"]
+             "/moduly/plac-zabaw/", "/moduly/przechowalnia-rowerow/", "/moduly/solar-box/", "/moduly/przeslo-zaluzjowe/", "/dodatki/ca-stand/", "/realizacje/", "/montaz/"]
 
 def e(s): return html.escape(s, quote=True)
 

@@ -1,0 +1,56 @@
+{
+ "tytul": "Montaż wiaty garażowej krok po kroku. Jak wygląda w praktyce?",
+ "opis_meta": "Sprawdź, jak wygląda montaż wiaty garażowej krok po kroku. Poznaj etapy prac, wymiary fundamentów i czas potrzebny na postawienie konstrukcji.",
+ "wstep": "Planujesz postawić wiatę garażową na swojej działce i zastanawiasz się, jak wygląda cały proces. Prace dzielą się na dwa główne etapy rozdzielone przerwą technologiczną. Prawidłowy montaż wymaga czasu, odpowiedniego przygotowania gruntu i trzymania się zasad budowlanych.",
+ "sekcje": [
+  {
+   "h2": "Krok 1: Wycena i ustalenie terminu w grafiku",
+   "akapity": [
+    "Wszystko zaczyna się od przesłania zdjęć miejsca montażu oraz dokładnych wymiarów planowanej wiaty. Dobra ekipa nie przyjedzie z dnia na dzień, ponieważ grafik prac jest często zajęty na kilka tygodni do przodu. Dokładną cenę poznasz dopiero po ocenie terenu ze zdjęć i wymiarów.",
+    "Na końcowy koszt wpływa nie tylko praca dwóch montażystów, ale też beton, dojazdy na dwa osobne etapy, podatki oraz ryzyko brane przez firmę. Osobno rozlicza się wywóz ziemi, rozebranie i ułożenie kostki brukowej wokół słupów, a także montaż ścian, przęseł czy instalacji prądu i oświetlenia."
+   ]
+  },
+  {
+   "h2": "Krok 2: Prace ziemne i wylewanie fundamentów",
+   "akapity": [
+    "Pierwszy przyjazd ekipy to roboty ziemne pod stopy fundamentowe. Pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm, co pozwala zejść poniżej strefy przemarzania gruntu. Ilość potrzebnego betonu wylicza się jako objętość takiego dołu pomnożoną przez liczbę słupów wiaty.",
+    "Nigdy nie montuj wiaty bezpośrednio do samej kostki brukowej. Taka oszczędność na fundamencie mści się w trakcie użytkowania, bo lekka konstrukcja może po prostu odlecieć przy silniejszej wichurze. Fundamenty pod wiatę do 8 słupów robią 2 osoby w 1 dzień, a powyżej 8 słupów zajmuje to 2 dni i więcej."
+   ]
+  },
+  {
+   "h2": "Krok 3: Przerwa technologiczna na wiązanie betonu",
+   "akapity": [
+    "Po zalaniu stóp fundamentowych nie można od razu stawiać stalowej konstrukcji. Beton musi dojrzeć i zyskać nośność pod docelowe obciążenia. Między wylaniem fundamentów a montażem wiaty mijają zwykle 2-4 tygodnie.",
+    "Właśnie dlatego całe przedsięwzięcie wymaga zaplanowania dwóch osobnych przyjazdów ekipy. Próby przyspieszania tego kroku stwarzają realne ryzyko uszkodzenia świeżych podstaw słupów."
+   ]
+  },
+  {
+   "h2": "Krok 4: Złożenie konstrukcji stalowej",
+   "akapity": [
+    "Gdy beton osiągnie odpowiednią twardość, montażyści przyjeżdżają po raz drugi. Ekipa ustawia i pionuje słupy, skręca elementy nośne dachu oraz montuje poszycie. Sam montaż konstrukcji wiaty do 8 słupów zajmuje 1 dzień roboczy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Szukasz sprawdzonej ekipy i interesuje Cię montaż wiat garażowych na Mazowszu? W CarportActive montujemy stalowe wiaty garażowe, w tym także zestawy kupione u innych producentów albo w marketach. Pracujemy według stałego grafiku i nie robimy montaży na jutro, a wycenę przygotowujemy na podstawie podesłanych zdjęć terenu i wymiarów.",
+ "faq": [
+  {
+   "pytanie": "Ile czasu trwa montaż wiaty garażowej do 8 słupów?",
+   "odpowiedz": "Same prace na działce zajmują łącznie 2 dni robocze: 1 dzień na fundamenty i 1 dzień na montaż konstrukcji. Pomiędzy tymi etapami następuje przerwa od 2 do 4 tygodni na dojrzenie betonu."
+  },
+  {
+   "pytanie": "Jak głęboki musi być wykop pod fundament słupa?",
+   "odpowiedz": "Pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm. Głębokość 80 cm pozwala posadowić fundament poniżej strefy przemarzania gruntu."
+  },
+  {
+   "pytanie": "Czy wiatę można przymocować prosto do kostki brukowej?",
+   "odpowiedz": "Nie, to poważny błąd. Wiata przykręcona jedynie do kostki brukowej nie ma stabilnego oparcia w gruncie i może odlecieć w czasie wichury."
+  }
+ ],
+ "nr": 236,
+ "kolejnosc": 11,
+ "temat": "montaż wiaty garażowej - jak wygląda krok po kroku",
+ "adres": "montaz-wiaty-garazowej-jak-wyglada-krok-po-kroku",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

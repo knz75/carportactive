@@ -1,0 +1,59 @@
+{
+ "tytul": "Montaż wiaty z zestawu - kto to zrobi i jak szukać ekipy",
+ "opis_meta": "Kupiłeś wiatę z marketu i szukasz kogoś do montażu? Sprawdź, na co zwrócić uwagę, ile trwa praca ekipy i dlaczego fundament to podstawa.",
+ "wstep": "Kupiłeś gotową wiatę w markecie lub przez internet i szukasz kogoś, kto ją sprawnie złoży. Samodzielne prace bywają trudne, zwłaszcza gdy trzeba wykonać solidne wykopy i precyzyjnie zgrać konstrukcję. Odpowiedni fachowiec musi zadbać nie tylko o skręcenie profili, ale przede wszystkim o stabilne osadzenie w gruncie.",
+ "sekcje": [
+  {
+   "h2": "Kogo szukać do montażu wiaty z paczki",
+   "akapity": [
+    "Do takich prac najlepiej zatrudnić ekipę specjalizującą się w konstrukcjach stalowych oraz pracach ziemnych. Zwykła złota rączka bez odpowiedniego sprzętu może mieć problem z prawidłowym wykonaniem stóp betonowych. Doświadczony wykonawca bierze na siebie ryzyko techniczne i gwarantuje, że wiata wytrzyma obciążenia.",
+    "Pamiętaj, że dobra ekipa ma grafik zaplanowany na kilka tygodni w przód. Jeśli ktoś proponuje montaż z dnia na dzień, warto zachować czujność. Profesjonaliści ustalają termin dopiero po zebraniu szczegółów, obejrzeniu zdjęć terenu i poznaniu wymiarów."
+   ]
+  },
+  {
+   "h2": "Fundamenty pod słupy decydują o bezpieczeństwie",
+   "akapity": [
+    "Częstym błędem jest chęć przykręcenia konstrukcji bezpośrednio do kostki brukowej. Taka pozorna oszczędność szybko wychodzi bokiem, ponieważ wiata może zostać wyrwana przy pierwszej silnej wichurze. Podstawa musi być osadzona głęboko w gruncie.",
+    "Prawidłowy montaż wymaga wykopania dołu pod każdy słup o wymiarach około 50 x 50 x 80 cm, czyli poniżej poziomu przemarzania gruntu. Ilość potrzebnego betonu to objętość takiego dołu pomnożona przez liczbę słupów. Przy wiacie do 8 słupów dwie osoby wykonują fundamenty w jeden dzień, a przy większej liczbie słupów zajmuje to dwa dni lub więcej."
+   ]
+  },
+  {
+   "h2": "Czas montażu i konieczność dwóch przyjazdów",
+   "akapity": [
+    "Montaż nie odbywa się podczas jednej wizyty, ponieważ wylany beton musi najpierw w pełni dojrzeć. Pomiędzy wykonaniem fundamentów a montażem samej konstrukcji mijają zwykle 2-4 tygodnie. To wymusza dwa osobne przyjazdy pracowników na miejsce budowy.",
+    "Kiedy fundamenty są już gotowe i stabilne, sam montaż stalowej konstrukcji do 8 słupów zajmuje ekipie 1 dzień. Próba przyspieszania tego procesu i stawiania wiaty na świeżym betonie może zniszczyć mocowania."
+   ]
+  },
+  {
+   "h2": "Co składa się na ostateczny koszt montażu",
+   "akapity": [
+    "Cena profesjonalnego montażu wiaty z przygotowaniem fundamentów zaczyna się od około 4 tys. zł. Ta kwota pokrywa koszt betonu, pracę dwóch montażystów, dwa osobne dojazdy na działkę oraz podatki i odpowiedzialność wykonawcy.",
+    "Do podstawowej ceny dochodzą opłaty za prace dodatkowe. Osobno wycenia się wywóz wykopanej ziemi, zdjęcie i ponowne docięcie kostki brukowej wokół słupów, a także montaż ścian, przęseł oraz poprowadzenie oświetlenia i instalacji elektrycznej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz sprawdzonej ekipy na terenie Mazowsza, montaż wiat garażowych wykonuje zespół CarportActive. Montujemy stalowe konstrukcje, w tym gotowe zestawy zakupione w marketach lub u innych producentów. Pracujemy ściśle według grafiku: po przesłaniu zdjęć miejsca i wymiarów przygotowujemy wycenę i ustalamy termin realizacji.",
+ "faq": [
+  {
+   "pytanie": "Czy montaż wiaty z zestawu można zrobić w jeden dzień?",
+   "odpowiedz": "Nie, ponieważ beton pod słupami musi dojrzewać przez 2-4 tygodnie. Sam montaż konstrukcji do 8 słupów trwa 1 dzień, ale cały proces wymaga dwóch osobnych przyjazdów ekipy."
+  },
+  {
+   "pytanie": "Dlaczego nie można zamocować wiaty bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Sama kostka nie utrzyma naporu wiatru na zadaszenie. Bez betonowych stóp o głębokości około 80 cm konstrukcja może odlecieć podczas silnych podmuchów."
+  },
+  {
+   "pytanie": "Jak uzyskać dokładną wycenę montażu wiaty?",
+   "odpowiedz": "Dokładny koszt ustala się po przesłaniu zdjęć miejsca montażu oraz wymiarów. Na cenę wpływa m.in. liczba słupów, wywóz ziemi, odtworzenie kostki oraz montaż ścian czy oświetlenia."
+  }
+ ],
+ "nr": 238,
+ "kolejnosc": 35,
+ "temat": "montaż wiaty z zestawu - kto to zrobi",
+ "adres": "montaz-wiaty-z-zestawu-kto-to-zrobi",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": [
+  "4 tys. zł"
+ ]
+}

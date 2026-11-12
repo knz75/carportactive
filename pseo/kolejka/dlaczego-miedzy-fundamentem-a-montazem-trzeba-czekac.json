@@ -1,0 +1,50 @@
+{
+ "tytul": "Dlaczego między fundamentem a montażem wiaty trzeba czekać?",
+ "opis_meta": "Dowiedz się, dlaczego beton pod wiatę musi dojrzewać i czemu montaż konstrukcji wymaga odczekania od 2 do 4 tygodni. Sprawdź fakty z budowy.",
+ "wstep": "Jeśli planujesz postawienie wiaty, z pewnością zależy Ci na szybkim zakończeniu prac. Musisz jednak wiedzieć, że świeży beton wymaga czasu, aby uzyskać pełną wytrzymałość. Z tego powodu między zalaniem fundamentów a montażem konstrukcji trzeba odczekać zwykle od 2 do 4 tygodni.",
+ "sekcje": [
+  {
+   "h2": "Dojrzewanie betonu a stabilność konstrukcji",
+   "akapity": [
+    "Wylany fundament z wierzchu może wydawać się twardy już następnego dnia. Wewnątrz materiału przez kolejne tygodnie zachodzą jednak procesy wiązania, które decydują o nośności stóp. Obciążenie niedojrzałego betonu ciężką stalową konstrukcją i dokręcanie kotew grozi mikropęknięciami oraz osłabieniem mocowania.",
+    "Oszczędność na fundamencie i pośpiech szybko wychodzą bokiem w trakcie codziennego użytkowania. Zdarza się, że ludzie próbują stawiać wiatę bezpośrednio na kostce brukowej. Przy silniejszej wichurze konstrukcja przykręcona do samej kostki może po prostu odlecieć, dlatego solidna i związana baza pod słupami to kwestia Twojego bezpieczeństwa."
+   ]
+  },
+  {
+   "h2": "Prawidłowe parametry fundamentu pod słupy",
+   "akapity": [
+    "Pod każdy słup wiaty kopiemy dół o wymiarach około 50 x 50 x 80 cm. Taka głębokość pozwala zejść poniżej strefy przemarzania gruntu, co zabezpiecza całą wiatę przed ruchami ziemi zimą. Ilość potrzebnego betonu to po prostu objętość wykopanego dołu pomnożona przez liczbę słupów.",
+    "Czas wykonania tych prac zależy od wielkości wiaty. Fundamenty pod konstrukcję do 8 słupów robią 2 osoby w 1 dzień. Jeśli wiata ma powyżej 8 słupów, prace fundamentowe zajmują 2 dni i więcej."
+   ]
+  },
+  {
+   "h2": "Organizacja prac i dwa przyjazdy ekipy",
+   "akapity": [
+    "Konieczność odczekania na związanie betonu oznacza, że ekipa musi pojawić się na Twojej działce dwa razy. Najpierw powstają wykopy i stopy fundamentowe, a po 2-4 tygodniach następuje właściwy montaż. Sam montaż konstrukcji wiaty do 8 słupów zajmuje 1 dzień.",
+    "Wielu inwestorów chce zrobić wszystko od razu, jednak dobra ekipa ma grafik zajęty na kilka tygodni do przodu. Termin ustala się przy pierwszym kontakcie. Na ostateczną cenę montażu składa się beton, robocizna dwóch osób, wywóz ziemi, dwa osobne dojazdy ekipy, a także podatki i ryzyko, które bierze na siebie wykonawca."
+   ]
+  }
+ ],
+ "rozwiazanie": "W ramach usługi Montaż wiat garażowych - Mazowsze stawiamy stalowe konstrukcje modułowe oraz zestawy kupione w marketach lub u innych producentów. Działamy według zaplanowanego grafiku i nie robimy zleceń na jutro. Dokładną cenę podajemy po przesłaniu zdjęć miejsca i wymiarów, a wycena może uwzględniać także wywóz ziemi, rozebranie i ułożenie kostki brukowej wokół słupów, montaż ścian, przęseł czy oświetlenia.",
+ "faq": [
+  {
+   "pytanie": "Ile dokładnie trzeba czekać między fundamentem a montażem wiaty?",
+   "odpowiedz": "Beton musi dojrzeć, dlatego między wykonaniem fundamentów a montażem konstrukcji mijają zwykle 2-4 tygodnie."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słup wiaty?",
+   "odpowiedz": "Pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm, co pozwala zejść poniżej poziomu przemarzania gruntu."
+  },
+  {
+   "pytanie": "Ile czasu trwa sam montaż wiaty po związaniu betonu?",
+   "odpowiedz": "Sam montaż konstrukcji stalowej wiaty liczącej do 8 słupów zajmuje 1 dzień roboczy."
+  }
+ ],
+ "nr": 242,
+ "kolejnosc": 83,
+ "temat": "dlaczego między fundamentem a montażem trzeba czekać",
+ "adres": "dlaczego-miedzy-fundamentem-a-montazem-trzeba-czekac",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

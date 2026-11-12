@@ -1,0 +1,57 @@
+{
+ "tytul": "Montaż wiaty wielostanowiskowej - jak zaplanować prace krok po kroku",
+ "opis_meta": "Planujesz montaż wiaty wielostanowiskowej? Zobacz, jak wyglądają fundamenty, ile trwa montaż konstrukcji i dlaczego potrzebne są dwa przyjazdy ekipy.",
+ "wstep": "Planujesz postawić dużą wiatę i zastanawiasz się, jak wygląda taki montaż w praktyce? To spore przedsięwzięcie, które wymaga odpowiedniego przygotowania gruntu i podziału prac na etapy. Wyjaśniamy, ile trwa budowa fundamentów, jak przebiega montaż i o czym musisz pamiętać przed przyjazdem ekipy.",
+ "sekcje": [
+  {
+   "h2": "Solidny fundament to podstawa konstrukcji",
+   "akapity": [
+    "Wiata wielostanowiskowa ma sporą powierzchnię dachu, dlatego stabilne kotwienie w gruncie to kwestia bezpieczeństwa. Pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu. Ilość betonu potrzebnego na fundamenty oblicza się jako objętość takiego dołu pomnożoną przez liczbę słupów.",
+    "Oszczędzanie na fundamencie szybko wychodzi bokiem w czasie użytkowania. Zdarza się, że ktoś próbuje przykręcać słupy wprost do kostki brukowej, ale przy silnej wichurze cała wiata może po prostu odlecieć."
+   ]
+  },
+  {
+   "h2": "Dwa etapy prac i przerwa na dojrzewanie betonu",
+   "akapity": [
+    "Montaż wiaty wielostanowiskowej nie odbywa się podczas jednej wizyty. W pierwszym etapie wykonuje się same stopy fundamentowe. Przy wiacie do 8 słupów dwie osoby robią fundamenty w 1 dzień, a powyżej 8 słupów zajmuje to 2 dni i więcej.",
+    "Po zalaniu dołów beton musi dojrzeć, co trwa zwykle od 2 do 4 tygodni. Z tego powodu całe zadanie wymaga dwóch osobnych przyjazdów ekipy. Dopiero na związanych fundamentach stawia się konstrukcję, a sam montaż szkieletu do 8 słupów zajmuje 1 dzień."
+   ]
+  },
+  {
+   "h2": "Dodatkowe prace przy wielostanowiskowej wiacie",
+   "akapity": [
+    "Kopanie pod słupy i skręcanie ramy to nie wszystkie czynności na działce. Po wykonaniu wykopów zostaje ziemia, dlatego jej wywóz jest liczony jako osobna usługa.",
+    "Jeśli na podjeździe leży już nawierzchnia, konieczne jest rozebranie i ponowne ułożenie kostki brukowej wokół każdego słupa. Osobno wycenia się także montaż ścian, przęseł oraz poprowadzenie oświetlenia i prądu."
+   ]
+  },
+  {
+   "h2": "Grafik ekipy i przygotowanie do wyceny",
+   "akapity": [
+    "Wielu inwestorów chce zacząć prace od razu, ale dobra ekipa montażowa ma grafik zajęty na kilka tygodni do przodu. Terminy ustala się od razu przy pierwszym kontakcie, dlatego nie warto odkładać telefonu na ostatnią chwilę.",
+    "Na łączną cenę składa się materiał na fundamenty, robocizna dwóch osób, wywóz urobku, dwa osobne dojazdy ekipy oraz podatki i ryzyko po stronie wykonawcy. Dokładną kwotę moneterzy podają po otrzymaniu wymiarów i zdjęć Twojego podwórka."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli potrzebujesz sprawnej realizacji na swojej działce, usługa Montaż wiat garażowych - Mazowsze rozwiązuje kwestię prac ziemnych i składania konstrukcji. Montujemy stalowe wiaty garażowe na Mazowszu, w tym również modele z zestawów kupionych w marketach lub u innych producentów. Działamy według zaplanowanego grafiku, a wycenę i termin ustalamy po przesłaniu zdjęć miejsca montażu oraz wymiarów.",
+ "faq": [
+  {
+   "pytanie": "Czy montaż wiaty wielostanowiskowej można wykonać w jeden dzień?",
+   "odpowiedz": "Nie, ponieważ beton pod słupami musi dojrzeć przez 2 do 4 tygodni. Montaż wymaga zawsze dwóch osobnych przyjazdów: najpierw na fundamenty, a potem na konstrukcję."
+  },
+  {
+   "pytanie": "Ile czasu trwa wykonanie samych fundamentów?",
+   "odpowiedz": "Fundamenty pod wiatę do 8 słupów wykonują 2 osoby w 1 dzień. Przy konstrukcji mającej powyżej 8 słupów prace fundamentowe trwają 2 dni i więcej."
+  },
+  {
+   "pytanie": "Czy zamontujecie wiatę kupioną w markecie lub u innego producenta?",
+   "odpowiedz": "Tak, montujemy stalowe wiaty garażowe także z gotowych zestawów kupionych w marketach budowlanych lub u innych producentów."
+  }
+ ],
+ "nr": 250,
+ "kolejnosc": 179,
+ "temat": "montaż wiaty wielostanowiskowej",
+ "adres": "montaz-wiaty-wielostanowiskowej",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

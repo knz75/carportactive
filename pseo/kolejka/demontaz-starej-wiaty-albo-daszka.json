@@ -1,0 +1,50 @@
+{
+ "tytul": "Demontaż starej wiaty lub daszka. Jak zrobić to bezpiecznie",
+ "opis_meta": "Planujesz demontaż starej wiaty lub zadaszenia? Sprawdź, jak rozebrać konstrukcję krok po kroku i przygotować podłoże pod nowy montaż.",
+ "wstep": "Demontaż starej wiaty lub daszka wymaga zachowania odpowiedniej kolejności prac. Jeśli planujesz w tym samym miejscu postawić nową konstrukcję, musisz odpowiednio oczyścić teren i zająć się starymi mocowaniami. Zobacz, jak rozebrać stary obiekt bez niszczenia podwórka.",
+ "sekcje": [
+  {
+   "h2": "Zdejmowanie poszycia i rozbiórka od góry",
+   "akapity": [
+    "Prace rozbiórkowe zawsze zaczynaj od najwyższego punktu, czyli od pokrycia dachowego. Niezależnie od tego, czy na dachu leży blacha, poliwęglan czy deski, najpierw musisz odkręcić wszystkie elementy złączne. Zdejmuj poszycie partiami, stojąc na stabilnej drabinie lub rusztowaniu, a nie bezpośrednio na starym dachu.",
+    "Kiedy dach jest pusty, przejdź do demontażu poprzeczek, łat oraz krokwi. Zostaw same słupy nośne na sam koniec. Dzięki temu szkielet zachowa stabilność do momentu, w którym zdejmiesz z niego cały ciężar."
+   ]
+  },
+  {
+   "h2": "Co zrobić ze starymi fundamentami",
+   "akapity": [
+    "Po odkręceniu słupów zostaje kwestia ich podstawy. Stare wiaty bywały montowane bezpośrednio do nawierzchni lub na płytkich wylewkach. Pamiętaj, że oszczędność na fundamencie mści się w trakcie eksploatacji, a konstrukcja przykręcona jedynie do kostki brukowej może po prostu odlecieć przy silnej wichurze.",
+    "Nowa, solidna wiata wymaga prawidłowego posadowienia. Jeśli stare punkty podparcia są płytkie, popękane albo wypadają w innych miejscach niż nowe słupy, trzeba je usunąć lub ominąć. Prawidłowy dół pod słup powinien mieć wymiary około 50 x 50 x 80 cm, co pozwala zejść poniżej strefy przemarzania gruntu."
+   ]
+  },
+  {
+   "h2": "Przygotowanie podłoża pod kolejną konstrukcję",
+   "akapity": [
+    "Kiedy stara konstrukcja zniknie, musisz ocenić stan nawierzchni. Jeśli na podłożu leży kostka brukowa, w miejscach przyszłych słupów trzeba ją rozebrać. Wyjęcie bruku pozwala dokopać się do rodzimego gruntu bez niszczenia reszty podjazdu.",
+    "Podczas prac ziemnych pamiętaj o urobku. Wykopanie głębokich dołów generuje sporo ziemi, którą trzeba zutylizować lub zagospodarować w ogrodzie. Dopiero po uprzątnięciu terenu i odsłonięciu gruntu miejsce jest gotowe na kolejny etap."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli po rozbiórce planujesz nową inwestycję, sprawdź naszą ofertę na Montaż wiat garażowych - Mazowsze. Montujemy stalowe wiaty na terenie całego województwa mazowieckiego, w tym gotowe zestawy kupione w marketach lub u innych producentów. Pracujemy na podstawie grafiku, a wycenę i termin ustalamy po przesłaniu zdjęć oraz wymiarów terenu. Pod każdy słup kopiemy dół o wymiarach ok. 50 x 50 x 80 cm, dbając o pełną stabilność konstrukcji w gruncie.",
+ "faq": [
+  {
+   "pytanie": "Czy nową stalową wiatę można przykręcić do samej kostki brukowej?",
+   "odpowiedz": "Nie, to duży błąd. Wiata przykręcona jedynie do kostki może odlecieć przy porywistym wietrze. Pod każdy słup kopiemy dół ok. 50 x 50 x 80 cm i zalewamy go betonem poniżej poziomu przemarzania."
+  },
+  {
+   "pytanie": "Ile czasu schnie fundament przed montażem nowej wiaty?",
+   "odpowiedz": "Beton musi dobrze dojrzeć, dlatego między zalaniem fundamentów a montażem stalowej konstrukcji mijają zazwyczaj 2-4 tygodnie. Są to dwa osobne przyjazdy ekipy na działkę."
+  },
+  {
+   "pytanie": "Czy montujecie wiaty kupione samodzielnie w markecie?",
+   "odpowiedz": "Tak, montujemy stalowe wiaty garażowe na Mazowszu, w tym zestawy kupione u innych producentów oraz w marketach budowlanych. Wycenę przygotowujemy na podstawie przesłanych zdjęć i wymiarów."
+  }
+ ],
+ "nr": 249,
+ "kolejnosc": 167,
+ "temat": "demontaż starej wiaty albo daszka",
+ "adres": "demontaz-starej-wiaty-albo-daszka",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

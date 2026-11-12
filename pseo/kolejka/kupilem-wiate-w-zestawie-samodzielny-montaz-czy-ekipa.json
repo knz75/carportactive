@@ -1,0 +1,59 @@
+{
+ "tytul": "Kupiłem wiatę w zestawie. Samodzielny montaż czy ekipa?",
+ "opis_meta": "Kupiłeś wiatę garażową w zestawie i myślisz o montażu? Sprawdź, co wymaga zrobienie fundamentów, ile to trwa i kiedy warto wezwać ekipę.",
+ "wstep": "Kupiłeś paczkę z elementami wiaty i zastanawiasz się, czy złożyć ją samemu. Złożenie profili według instrukcji to jedno, ale prawdziwym wyzwaniem jest stabilne posadowienie całości w gruncie. Zobacz, z czym wiąże się taka praca i podejmij dobrą decyzję.",
+ "sekcje": [
+  {
+   "h2": "Fundament pod wiatę, czyli najtrudniejszy etap",
+   "akapity": [
+    "Największym błędem podczas prac na własną rękę jest przykręcenie słupów bezpośrednio do kostki brukowej. Wiata przykręcona w ten sposób może po prostu odlecieć przy silniejszej wichurze. Prawidłowy montaż wymaga wykopania pod każdy słup dołu o wymiarach około 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu.",
+    "Ilość potrzebnego betonu to objętość takiego dołu pomnożona przez liczbę słupów. Przy konstrukcji do 8 słupów dwie osoby wykonują wykopy i zalewanie w 1 dzień. Powyżej 8 słupów prace fundamentowe zajmują 2 dni i więcej, co oznacza przerzucenie sporej ilości ziemi i zaprawy."
+   ]
+  },
+  {
+   "h2": "Czas montażu i przerwa technologiczna",
+   "akapity": [
+    "Montaż wiaty z zestawu to proces podzielony w czasie, którego nie da się zamknąć w jedno popołudnie. Beton po zalaniu musi dojrzeć, dlatego między wykonaniem fundamentów a montażem konstrukcji mijają zwykle 2-4 tygodnie. Z tego powodu montaż to zawsze dwa osobne etapy robót.",
+    "Sam montaż konstrukcji wiaty do 8 słupów zajmuje 1 dzień, jeśli pracują przy tym sprawne osoby. Pamiętaj, że stalowe elementy sporo ważą i do ich unoszenia oraz skręcania potrzebujesz pomocy przynajmniej jednej dodatkowej osoby."
+   ]
+  },
+  {
+   "h2": "Koszty ekipy i prace dodatkowe",
+   "akapity": [
+    "Montaż wiaty z fundamentami przez fachowców zaczyna się od około 4 tys. zł. Na tę kwotę składa się koszt betonu, robocizna dwóch osób, dwa dojazdy na działkę, podatki oraz ryzyko, które bierze na siebie wykonawca.",
+    "Zwróć uwagę, że niektóre zadania są wyceniane osobno. Do dodatkowych kosztów zalicza się wywóz wykopanej ziemi, rozebranie i ponowne ułożenie kostki brukowej wokół słupów, instalację oświetlenia i prądu oraz montaż ścian czy przęseł."
+   ]
+  },
+  {
+   "h2": "Samodzielny montaż czy zlecenie fachowcom",
+   "akapity": [
+    "Samodzielny montaż ma sens, jeśli masz czas, narzędzia, siłę do prac ziemnych i pomocnika do dźwigania profili. Oszczędzasz wtedy na robociźnie, ale sam odpowiadasz za piony, poziomy i trwałość zakotwienia w gruncie.",
+    "Jeśli wolisz oddać to w ręce monterów, zacznij szukać pomocy z wyprzedzeniem. Dobra ekipa ma grafik zajęty na kilka tygodni do przodu i nikt nie przyjedzie z dnia na dzień. Termin ustala się od razu przy pierwszym kontakcie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Świadczymy usługę: Montaż wiat garażowych - Mazowsze. Montujemy stalowe wiaty na terenie województwa mazowieckiego, w tym zestawy kupione w marketach lub u innych producentów. Pracujemy według planu: po przesłaniu zdjęć miejsca i wymiarów przygotowujemy wycenę oraz ustalamy wolny termin w naszym grafiku.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę z zestawu można przykręcić do samej kostki brukowej?",
+   "odpowiedz": "Nie, wiata przykręcona do samej kostki może odlecieć w czasie wichury. Pod każdy słup należy wykopać dół ok. 50 x 50 x 80 cm i zalać go betonem."
+  },
+  {
+   "pytanie": "Ile trwa przerwa między fundamentami a montażem wiaty?",
+   "odpowiedz": "Beton musi dojrzeć, więc między zalaniem fundamentów a montażem konstrukcji stalowej mijają zwykle 2-4 tygodnie. Wymaga to dwóch osobnych przyjazdów na działkę."
+  },
+  {
+   "pytanie": "Ile kosztuje profesjonalny montaż wiaty garażowej?",
+   "odpowiedz": "Montaż wiaty wraz z wykonaniem fundamentów zaczyna się od około 4 tys. zł. Wywóz ziemi, odtworzenie kostki brukowej czy montaż ścian są liczone osobno po podaniu wymiarów i obejrzeniu zdjęć terenu."
+  }
+ ],
+ "nr": 239,
+ "kolejnosc": 47,
+ "temat": "kupiłem wiatę w zestawie - samodzielny montaż czy ekipa",
+ "adres": "kupilem-wiate-w-zestawie-samodzielny-montaz-czy-ekipa",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": [
+  "4 tys. zł"
+ ]
+}

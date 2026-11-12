@@ -1,0 +1,59 @@
+{
+ "tytul": "Co wpływa na cenę montażu wiaty garażowej? Wyjaśnia monter",
+ "opis_meta": "Zastanawiasz się, co wpływa na cenę montażu wiaty? Poznaj koszty fundamentów, robocizny, dojazdów i prac dodatkowych na Twojej działce.",
+ "wstep": "Koszt montażu wiaty rzadko bywa stałą kwotą z cennika, bo każde podwórko stawia przed ekipą inne wyzwania. Końcowy rachunek zależy od nakładu pracy pod ziemią, wielkości konstrukcji oraz tego, czy ekipa musi przyjechać na działkę raz, czy dwa razy. Poniżej wyjaśniam krok po kroku, za co dokładnie płacisz i z czego wynikają różnice w wycenach.",
+ "sekcje": [
+  {
+   "h2": "Fundamenty i przygotowanie gruntu",
+   "akapity": [
+    "Najważniejsza część prac dzieje się w ziemi. Pod każdy słup kopiemy dół o wymiarach około 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu. Ilość zużytego materiału to po prostu objętość wykopu pomnożona przez liczbę słupów, więc większa wiata oznacza znacznie więcej betonu.",
+    "Oszczędzanie na tym etapie szybko wychodzi bokiem w czasie użytkowania. Wiata przykręcona jedynie do samej kostki brukowej może odlecieć przy pierwszej mocniejszej wichurze. Solidny fundament wymaga wykopania ziemi, przygotowania szalunków oraz zalania słupów, co bezpośrednio buduje koszt usługi."
+   ]
+  },
+  {
+   "h2": "Liczba słupów, robocizna i czas pracy",
+   "akapity": [
+    "Na cenę duży wpływ ma skala całej konstrukcji. Fundamenty pod wiatę liczącą do 8 słupów wykonują dwie osoby w jeden dzień roboczy. Jeśli słupów jest więcej niż 8, prace ziemne zajmują co najmniej dwa dni, co automatycznie podnosi koszt robocizny.",
+    "Sam montaż konstrukcji stalowej do 8 słupów trwa zazwyczaj jeden dzień roboczy. Na stawkę robocizny składa się praca dwóch wykwalifikowanych monterów, ponoszone podatki oraz ryzyko montażowe, które legalnie działająca firma bierze na siebie."
+   ]
+  },
+  {
+   "h2": "Konieczność dwóch przyjazdów ekipy",
+   "akapity": [
+    "Prawidłowy montaż wiaty z fundamentami nie odbywa się w jeden dzień. Po zalaniu stóp fundamentowych beton musi dojrzeć, co oznacza przerwę technologiczną. Między wylaniem fundamentów a montażem samej konstrukcji mijają zwykle 2-4 tygodnie.",
+    "Z tego powodu ekipa musi pojawić się na Twojej posesji dwa razy. Koszt dojazdu jest więc liczony podwójnie w cenie usługi, co stanowi stały element profesjonalnej wyceny."
+   ]
+  },
+  {
+   "h2": "Prace dodatkowe i ukształtowanie terenu",
+   "akapity": [
+    "Montaż wiaty z fundamentami zaczyna się od około 4 tys. zł, ale zakres prac na działce może podnieść tę kwotę. Osobno wycenia się wywóz urobku z wykopów, jeśli ziemia nie zostaje na Twojej posesji.",
+    "Dodatkowym kosztem jest także rozebranie nawierzchni i ponowne ułożenie kostki brukowej wokół słupów. Odrębnej wyceny wymagają również prace elektryczne z oświetleniem oraz montaż dodatkowych ścian lub przęseł bocznych."
+   ]
+  }
+ ],
+ "rozwiazanie": "W ramach usługi Montaż wiat garażowych - Mazowsze montujemy stalowe konstrukcje na terenie całego województwa, także zestawy kupione w marketach lub u innych producentów. Pracujemy według stałego grafiku i nie robimy montaży na jutro, dlatego termin ustalamy już przy pierwszym kontakcie. Dokładną cenę podajemy po przesłaniu przez Ciebie wymiarów oraz zdjęć miejsca montażu.",
+ "faq": [
+  {
+   "pytanie": "Od jakiej kwoty zaczyna się montaż wiaty?",
+   "odpowiedz": "Montaż wiaty z wykonaniem fundamentów zaczyna się od około 4 tys. zł. Dodatkowe elementy, takie jak rozbiórka i układanie kostki, montaż ścian czy prąd, są wyceniane osobno."
+  },
+  {
+   "pytanie": "Dlaczego montaż wymaga dwóch wizyt ekipy?",
+   "odpowiedz": "Wylany beton pod słupy musi dobrze dojrzeć, co trwa zwykle od 2 do 4 tygodni. Dopiero po tym czasie ekipa przyjeżdża drugi raz, aby bezpiecznie zmontować konstrukcję."
+  },
+  {
+   "pytanie": "Co jest potrzebne do uzyskania dokładnej wyceny?",
+   "odpowiedz": "Do przygotowania dokładnej wyceny potrzebujemy wymiarów planowanej wiaty oraz zdjęć terenu, na którym ma stanąć konstrukcja."
+  }
+ ],
+ "nr": 245,
+ "kolejnosc": 119,
+ "temat": "co wpływa na cenę montażu wiaty",
+ "adres": "co-wplywa-na-cene-montazu-wiaty",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": [
+  "4 tys. zł"
+ ]
+}

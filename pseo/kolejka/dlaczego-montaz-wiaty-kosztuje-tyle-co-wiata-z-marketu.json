@@ -1,43 +1,50 @@
 {
  "tytul": "Dlaczego montaż wiaty kosztuje tyle co wiata z marketu?",
- "opis_meta": "Sprawdź, z czego wynika koszt profesjonalnego montażu wiaty. Dowiedz się, dlaczego solidny fundament i bezpieczny montaż są kluczowe.",
- "wstep": "Wiata z marketu kosztuje około 3-5 tys. zł, a sam montaż solidnego zadaszenia potrafi kosztować podobną kwotę. Na pierwszy rzut oka taka wycena może dziwić. Jako monterzy wyjaśniamy, z czego biorą się te koszty i dlaczego pozorna oszczędność może Cię słono kosztować.",
+ "opis_meta": "Zastanawiasz się, dlaczego montaż wiaty kosztuje od 4 tys. zł, czyli tyle co wiata z marketu? Zobacz, co kryje się w pracach gruntowych i montażu.",
+ "wstep": "Widzisz w markecie gotową wiatę za 3-5 tys. zł, a potem dostajesz wycenę samego montażu na podobną kwotę. Na początku może to budzić zdziwienie. Doświadczony monter szybko wyjaśni Ci jednak, skąd bierze się ta suma i co tak naprawdę decyduje o stabilności konstrukcji.",
  "sekcje": [
   {
-   "h2": "Co kryje się za niską ceną marketowej wiaty",
+   "h2": "Lekkie daszki a realne warunki pogodowe",
    "akapity": [
-    "Tani daszek z marketu jest projektowany pod kątem jak najniższej ceny. Z tego powodu materiały są liczone na minimalne obciążenie śniegiem i wiatrem. Podczas pracy często widzimy zamontowany marketowy daszek, który ugiął się pod ciężarem śniegu. Jeśli parkujesz pod nim drogi samochód, warto to przemyśleć przed zakupem.",
-    "Wiatę da się zrobić z profilu 40 x 40 mm o ściance 2 mm. Wtedy słupy wyglądają jak zapałki i cała konstrukcja prezentuje się bardzo wątło. Przy mocnych porywach wiatru takie cienkie elementy mogą się po prostu złamać."
+    "Tanie wiaty i daszki z marketu kosztują niewiele, bo są projektowane na minimalne obciążenie śniegiem i wiatrem. Czasem wykonuje się je z profili 40 x 40 mm o ściance 2 mm, przez co słupy wyglądają jak zapałki i przy mocniejszych porywach wiatru mogą się po prostu złamać. Na wielu podwórkach widać ugięte konstrukcje, które nie wytrzymały naporu mokrego śniegu.",
+    "Jeśli pod zadaszeniem ma stać drogi samochód, warto przekalkulować ryzyko przed zakupem. Konstrukcja musi utrzymać nie tylko sam dach, ale też zalegający śnieg i opierać się podmuchom wiatru."
    ]
   },
   {
-   "h2": "Fundament, czyli podstawa bezpieczeństwa",
+   "h2": "Fundament to podstawa bezpieczeństwa",
    "akapity": [
-    "Wiaty z marketu często stoją przykręcone jedynie do betonowych płyt albo samej kostki brukowej. Przy wichurze lekka konstrukcja potrafi polecieć jak trampolina z filmików w internecie. Może wtedy narobić poważnych szkód na podwórku sąsiada, a koszty napraw spadną na Ciebie.",
-    "Bezpieczny montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu. W Polsce to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Na zakotwienie jednego słupa zużywa się wtedy od 5 do 10 worków betonu. Alternatywą dla betonu są pale, ale ich wkręcanie wymaga specjalistycznego sprzętu."
+    "Wiaty z marketu często bywają przykręcane bezpośrednio do betonowych płyt lub samej kostki brukowej. Przy silniejszej wichurze taka lekka konstrukcja potrafi zachować się jak trampolina z filmików w internecie, odlecieć i narobić szkód u sąsiada. Warto zadać sobie pytanie, kto w takiej sytuacji pokryje straty.",
+    "Prawidłowy montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu. W Polsce oznacza to zwykle około 80 cm głębokości, a w niektórych regionach jeszcze więcej. Na zalanie tylko jednego punktu potrafi pójść od 5 do 10 worków betonu. Alternatywą są pale, ale ich wkręcenie wymaga specjalistycznego sprzętu."
    ]
   },
   {
-   "h2": "Prace brukarskie i porządkowe na podjeździe",
+   "h2": "Ukryte koszty prac brukarskich i ziemnych",
    "akapity": [
-    "Na łączny koszt montażu składają się też czynności, o których rzadko myśli się przed pracami. Monterzy muszą najpierw ostrożnie rozebrać kostkę brukową, wykopać doły, a po zabetonowaniu ułożyć kostkę z powrotem wokół słupów.",
-    "Konieczny jest również wywóz wykopanej ziemi oraz gruzu. Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem szybko wychodzi bokiem w czasie użytkowania. Właśnie dlatego stalowa wiata na zamówienie z fundamentami i montażem może kosztować nawet około 30 tys. zł."
+    "Cena profesjonalnego montażu, która zaczyna się od około 4 tys. zł, obejmuje etapy pomijane w marketowych instrukcjach. Jeśli na podjeździe leży kostka brukowa, monter musi ją najpierw starannie rozebrać, a po wykonaniu betonowania dociąć i ułożyć na nowo wokół słupów.",
+    "W grę wchodzi również wykopanie oraz wywóz sporej ilości ziemi i gruzu. Oszczędzanie na fundamencie i pracach ziemnych zazwyczaj wychodzi bokiem w trakcie późniejszego użytkowania, gdy podłoże zaczyna nierówno osiadać."
+   ]
+  },
+  {
+   "h2": "Projekt inżynierski zamiast masowego produktu",
+   "akapity": [
+    "Trwałe zadaszenie nie jest produktem z półki z jedną sztywną ceną. Rzetelna konstrukcja bazuje na wyliczeniach inżyniera, a realizacja zaczyna się od wizyty na miejscu, dokładnego pomiaru i sprawdzenia podłoża.",
+    "Dlatego sam montaż solidnej wiaty kosztuje tyle, co najtańszy marketowy gotowiec. Płacisz za odpowiednie zakotwienie w gruncie, właściwe przygotowanie terenu i spokój podczas każdej burzy."
    ]
   }
  ],
- "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy konstrukcji kotwimy do fundamentów wykonanych poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Oferujemy rozmiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m oraz wymiary indywidualne, które możesz uzupełnić o moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box lub przęsła żaluzjowe. Wystarczy, że wgrasz zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive rozwiązuje problem stabilności dzięki słupom z mocnego profilu 100 x 100 x 3 mm ze stali konstrukcyjnej S235, zabezpieczonym ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016. Słupy kotwimy do solidnych fundamentów wylewanych poniżej strefy przemarzania gruntu, a cały montaż zajmuje zazwyczaj 1 dzień roboczy. Przed decyzją możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
  "faq": [
   {
-   "pytanie": "Dlaczego nie powinno się montować wiaty tylko do kostki brukowej?",
-   "odpowiedz": "Sama kostka brukowa lub płyty betonowe nie utrzymają wiaty przy silnym wietrze. Przy mocnej wichurze lekka konstrukcja może zostać poderwana i wyrządzić szkody u Ciebie lub sąsiada."
+   "pytanie": "Ile kosztuje profesjonalny montaż wiaty stalowej?",
+   "odpowiedz": "Koszt wykonania fundamentów oraz montażu zaczyna się od około 4 tys. zł."
   },
   {
-   "pytanie": "Jak głęboki musi być fundament pod słupy wiaty?",
-   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu. W Polsce oznacza to wykop na głębokość zwykle około 80 cm, a w niektórych regionach jeszcze więcej."
+   "pytanie": "Dlaczego wiaty z marketu są tak tanie?",
+   "odpowiedz": "Wiaty z marketu kosztują około 3-5 tys. zł, ponieważ są projektowane na minimalne obciążenia wiatrem i śniegiem oraz powstają z bardzo cienkich profili, na przykład 40 x 40 mm."
   },
   {
-   "pytanie": "Ile betonu potrzeba na stabilny montaż jednego słupa?",
-   "odpowiedz": "Przy prawidłowo wykonanym fundamencie na właściwą głębokość, na zakotwienie jednego słupa zużywa się zazwyczaj od 5 do 10 worków betonu."
+   "pytanie": "Na jaką głębokość wykonuje się fundamenty pod słupy wiaty?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza zazwyczaj głębokość około 80 cm lub więcej, zależnie od regionu."
   }
  ],
  "nr": 178,
@@ -45,9 +52,9 @@
  "temat": "dlaczego montaż wiaty kosztuje tyle co wiata z marketu",
  "adres": "dlaczego-montaz-wiaty-kosztuje-tyle-co-wiata-z-marketu",
  "link": "wiata",
- "wygenerowano": "2026-11-11",
+ "wygenerowano": "2026-11-12",
  "uwagi": [
-  "30 tys. zł",
+  "4 tys. zł",
   "5 tys. zł"
  ]
 }

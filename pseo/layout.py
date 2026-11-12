@@ -12,7 +12,7 @@ HEAD = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="/css/site.css">'''
 
 def header(active=""):
-    items = [("/#moduly", "Moduły", "moduly"), ("/realizacje/", "Realizacje", "realizacje"), ("/dodatki/ca-stand/", "Stojaki", "stojaki"),
+    items = [("/#moduly", "Moduły", "moduly"), ("/realizacje/", "Realizacje", "realizacje"), ("/montaz/", "Montaż", "montaz"), ("/dodatki/ca-stand/", "Stojaki", "stojaki"),
              ("/poradnik/", "Poradnik", "poradnik"), ("/ai/", "Wizualizacja AI", "ai")]
     links = "\n      ".join(f'<a href="{u}"{" aria-current=\"page\"" if k == active else ""}>{t}</a>' for u, t, k in items)
     return f'''<header class="site-head">
@@ -49,6 +49,7 @@ FOOTER = '''<footer class="site-foot">
         <h3>Strona</h3>
         <ul>
           <li><a href="/realizacje/">Realizacje</a></li>
+          <li><a href="/montaz/">Montaż wiat</a></li>
           <li><a href="/dodatki/ca-stand/">Stojaki CA-Stand</a></li>
           <li><a href="/poradnik/">Poradnik</a></li>
           <li><a href="/ai/">Wizualizacja AI</a></li>
@@ -104,7 +105,7 @@ def form(options, selected="", placeholder="Wymiary (np. 4x6 m), miejscowość, 
 
 MODULE_OPTIONS = ["Moduł sportowy (drabinka, drążek)", "Solar Box (konstrukcja pod fotowoltaikę PV)",
                   "Panel narzędziowy / warsztat", "Ogród wertykalny", "Plac zabaw dla dzieci",
-                  "Przechowalnia rowerów", "Przęsło żaluzjowe (osłona boczna)", "Stojak na narzędzia CA-Stand", "Kilka modułów - omówię szczegóły"]
+                  "Przechowalnia rowerów", "Przęsło żaluzjowe (osłona boczna)", "Stojak na narzędzia CA-Stand", "Montaż wiaty z zestawu", "Kilka modułów - omówię szczegóły"]
 
 def page(title, desc, canonical, body, robots="index, follow", og_image="/img/solar.jpg", og_type="website", ld=None, extra_head=""):
     ldj = f'<script type="application/ld+json">\n{json.dumps(ld, ensure_ascii=False)}\n</script>' if ld else ""

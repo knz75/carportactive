@@ -1,0 +1,58 @@
+{
+ "tytul": "Prąd i oświetlenie pod wiatą - kiedy to zaplanować",
+ "opis_meta": "Planujesz prąd i oświetlenie pod wiatą garażową? Sprawdź porady montera i dowiedz się, kiedy przygotować przewody, by uniknąć kucia betonu.",
+ "wstep": "Chcesz mieć pod wiatą dobre światło i gniazdko do ładowania narzędzi? Najgorszy moment na planowanie instalacji to chwila, gdy konstrukcja już stoi, a wokół leży ułożony bruk. O kablach musisz pomyśleć jeszcze przed rozpoczęciem prac ziemnych i wykopaniem dołów pod fundamenty.",
+ "sekcje": [
+  {
+   "h2": "Instalacja pod ziemią - dlaczego liczy się kolejność prac",
+   "akapity": [
+    "Doprowadzenie kabla zasilającego z domu do wiaty wymaga przekopania trawnika lub podjazdu. Jeśli zrobisz to po montażu, czekają Cię dodatkowe koszty i podwójna praca.",
+    "Osobno liczą się takie zadania jak rozebranie i ułożenie z powrotem kostki brukowej wokół słupów. Gdy ułożysz peszle i kable ziemne przed przygotowaniem podłoża, unikniesz późniejszego prucia świeżo ułożonej nawierzchni."
+   ]
+  },
+  {
+   "h2": "Okienko technologiczne między fundamentem a montażem",
+   "akapity": [
+    "Pod każdy słup wiaty kopiemy dół o wymiarach około 50 x 50 x 80 cm, czyli poniżej strefy przemarzania gruntu. Fundamenty pod wiatę do 8 słupów robią 2 osoby w 1 dzień, a powyżej 8 słupów trwa to 2 dni i więcej.",
+    "Po zalaniu dołów beton musi dojrzeć. Między wykonaniem fundamentów a montażem konstrukcji mijają zwykle 2-4 tygodnie, więc są to dwa osobne przyjazdy ekipy.",
+    "Ten czas oczekiwania na związanie betonu to najlepszy moment na doprowadzenie zasilania. Możesz wtedy spokojnie wyprowadzić przewody dokładnie w miejscach, w których staną słupy nośne wiaty."
+   ]
+  },
+  {
+   "h2": "Prowadzenie kabli po konstrukcji i montaż osprzętu",
+   "akapity": [
+    "Sam montaż konstrukcji wiaty do 8 słupów zajmuje 1 dzień roboczy. Gdy szkielet już stoi, można rozprowadzić instalację wewnątrz profili lub w dedykowanych korytkach.",
+    "Pamiętaj, że oświetlenie i prąd liczą się jako osobna usługa, niezależna od stawiania samej konstrukcji. Warto wcześniej ustalić, w których miejscach potrzebujesz włączników, lamp i ewentualnych gniazd 230V."
+   ]
+  },
+  {
+   "h2": "Zgraj terminy z wyprzedzeniem",
+   "akapity": [
+    "Dobra ekipa montażowa ma grafik zajęty na kilka tygodni do przodu. Profesjonalny montaż nie odbywa się z dnia na dzień, dlatego termin ustala się już przy pierwszym kontakcie.",
+    "Z tego powodu instalację elektryczną planuj równolegle z zamawianiem wiaty. Dzięki temu unikniesz przestojów i zgrasz prace ziemne z harmonogramem prac montażowych."
+   ]
+  }
+ ],
+ "rozwiazanie": "Montaż wiat garażowych - Mazowsze to nasza codzienna praca, w ramach której montujemy konstrukcje stalowe, także z zestawów kupionych w marketach lub u innych producentów. Zawsze zaczynamy od kontaktu, zdjęć terenu i wymiarów, po czym przedstawiamy wycenę i ustalamy termin w grafiku. Prace prowadzimy etapami, uwzględniając solidne fundamenty poniżej strefy przemarzania, a kwestie takie jak oświetlenie i prąd wyceniamy indywidualnie.",
+ "faq": [
+  {
+   "pytanie": "Czy oświetlenie i przewody wliczone są w podstawowy montaż wiaty?",
+   "odpowiedz": "Nie, oświetlenie i prąd liczą się osobno od samego montażu konstrukcji wiaty garażowej."
+  },
+  {
+   "pytanie": "Kiedy najlepiej położyć kabel zasilający pod wiatę?",
+   "odpowiedz": "Najlepiej zrobić to przed ułożeniem nawierzchni lub w trakcie przerwy technologicznej, gdy beton w fundamentach dojrzewa przez 2-4 tygodnie."
+  },
+  {
+   "pytanie": "Dlaczego kable warto zaplanować przed postawieniem słupów?",
+   "odpowiedz": "Pozwala to wyprowadzić przewody w gruncie prosto do stóp słupów, bez konieczności późniejszego rozbierania kostki brukowej czy wiercenia w gotowych elementach."
+  }
+ ],
+ "nr": 248,
+ "kolejnosc": 155,
+ "temat": "prąd i oświetlenie pod wiatą - kiedy to zaplanować",
+ "adres": "prad-i-oswietlenie-pod-wiata-kiedy-to-zaplanowac",
+ "link": "montaz",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,43 +1,46 @@
 {
- "tytul": "Wiata za 3 tys. zł czy za 30 tys. zł? Skąd wynika różnica w cenie",
- "opis_meta": "Zastanawiasz się, skąd różnica między wiatą za 3 tys. a 30 tys. zł? Poznaj fakty o profilach, fundamentach i kosztach montażu z perspektywy montera.",
- "wstep": "Szukając zadaszenia na auto, trafisz na gotowe wiaty z marketu za 3-5 tys. zł oraz konstrukcje sięgające 30 tys. zł. Ta przepaść cenowa nie bierze się z sufitu i nie wynika jedynie z marży. Doświadczenie z montaży pokazuje, że różnica tkwi w grubości stali, sposobie kotwienia oraz pracach ziemnych.",
+ "tytul": "Skad roznica w cenie wiaty: 3 tys. zl czy 30 tys. zl?",
+ "opis_meta": "Zastanawiasz sie, dlaczego jedna wiata kosztuje 3 tys. zl, a inna 30 tys. zl? Poznaj roznice w profilach, fundamentach i kosztach montazu.",
+ "wstep": "Przegladasz oferty i widzisz proste zadaszenia za 3-5 tys. zl, a obok konstrukcje wyceniane na 30 tys. zl lub wiecej. Taka przepasc cenowa nie wynika z przypadku. Glowna roznica lezy w jakosci stali, sposobie kotwienia oraz nakladzie prac ziemnych, ktorych nie widac na zdjeciach w markecie.",
  "sekcje": [
   {
-   "h2": "Przekroje stali i odporność na śnieg",
+   "h2": "Przekroje stali i odpornosc na ciezki snieg",
    "akapity": [
-    "Tanie wiaty i daszki z marketu kosztują zazwyczaj ok. 3-5 tys. zł, ale są projektowane na minimalne obciążenie śniegiem oraz wiatrem. Podczas zimowych opadów niejednokrotnie widać zamontowany daszek rynkowy, który ugiął się pod ciężarem mokrego śniegu. Jeśli planujesz parkować pod wiatą drogi samochód, warto przekalkulować to ryzyko przed zakupem.",
-    "Konstrukcję można wykonać z profilu 40 x 40 mm o ściance 2 mm, co znacząco obniża koszt materiału. W takim wariancie słupy wyglądają jak zapałki, a całość prezentuje się bardzo wątło. Przy silniejszych porywach wiatru tak cienkie elementy nośne mogą się po prostu złamać."
+    "Tania wiate z marketu mozna wykonac z profili 40 x 40 mm o sciance zaledwie 2 mm. Tego typu slupy wygladaja jak zapalki, przez co przy silnym wietrze calosc jest watla i moze ulec zlamaniu. Budzetowe daszki sa projektowane na minimalne obciazenia sniegiem i wiatrem. Podczas zimowych montazy czesto widujemy wygiete konstrukcje marketowe, ktore nie wytrzymaly ciezaru sniegu. Jezeli pod dachem parkujesz wartosciowy samochod, warto przemyslec taki pozorny zysk przed zakupem."
    ]
   },
   {
-   "h2": "Kotwienie do podłoża i zachowanie podczas wichury",
+   "h2": "Prawidlowy fundament a stabilnosc konstrukcji",
    "akapity": [
-    "Budżetowe konstrukcje bardzo często stoją jedynie przykręcone do betonowych płyt chodnikowych albo bezpośrednio do kostki. Przy gwałtownej wichurze lekka wiata potrafi zachować się jak trampolina z filmików w internecie i odlecieć na posesję obok. Warto zadać sobie pytanie, kto zapłaci za zniszczone auto lub szkody wyrządzone u sąsiada.",
-    "Bezpieczny montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu i solidnego zakotwienia w nich słupów. W Polsce głębokość przemarzania wynosi zwykle ok. 80 cm, a w zależności od regionu nawet więcej. Oszczędzanie na podstawie konstrukcji to błąd, który szybko mści się podczas trudniejszych warunków pogodowych."
+    "Lekkie wiaty z marketu bywaja przykrecane bezposrednio do kostki brukowej lub cienkich plyt betonowych. Podczas wichury taka konstrukcja moze zachowac sie jak trampolina z filmikow w internecie, odleciec i uszkodzic mienie Twoje lub sasiada. Solidne posadowienie wymaga wykopania fundamentow ponizej strefy przemarzania gruntu, co w Polsce oznacza zwykle okolo 80 cm glebokosci lub wiecej. Do zalania tylko jednego slupa potrzeba od 5 do 10 workow betonu. Alternatywe dla tradycyjnego betonu stanowia pale, ale ich montaz wymaga specjalistycznego sprzetu."
    ]
   },
   {
-   "h2": "Ukryte koszty montażu i prace ziemne",
+   "h2": "Rzeczywiste koszty montazu i prac ziemnych",
    "akapity": [
-    "Klienci nierzadko dziwią się, dlaczego sam profesjonalny montaż z fundamentami potrafi kosztować tyle, co cała marketowa konstrukcja. Na końcowy koszt składają się bowiem zadania, o których rzadko myśli się na etapie przeglądania ofert.",
-    "Prawidłowe osadzenie słupa wiąże się ze zużyciem od 5 do 10 worków betonu na jeden punkt podparcia. Ekipa musi także rozebrać kostkę brukową, wybrać ziemię, zalać fundament i odtworzyć nawierzchnię wokół słupów. Do tego dochodzi wywóz urobku oraz gruzu, a w przypadku alternatywy dla betonu, czyli pali wkręcanych, potrzebny jest specjalistyczny sprzęt montażowy."
+    "Sam montaz solidnej konstrukcji kosztuje czesto od okolo 4 tys. zl w gore, czyli tyle, ile cala tania wiata w markecie. Na te kwote skladaja sie etapy prac, o ktorych malo kto mysli na samym poczatku planowania. Trzeba precyzyjnie rozebrac kostke brukowa, wykopac grunt, zabetonowac slupy i pozniej ponownie ulozyc nawierzchnie. Dochodzi do tego rowniez wywoz ziemi oraz gruzu. Oszczedzanie na fundamentach zazwyczaj wychodzi bokiem w trakcie pozniejszego uzytkowania."
+   ]
+  },
+  {
+   "h2": "Gotowy produkt z polki a projekt liczony przez inzyniera",
+   "akapity": [
+    "Wiata z marketu to masowy produkt o stalej cenie, natomiast trwalsze wiaty wymagaja indywidualnego podejscia. Konstrukcje sa przeliczane przez inzyniera, a przed budowa nastepuje pomiar podworka i weryfikacja podloza. Nasze ceny bazowe wiat stalowych bez montazu wynosza brutto: 16 500 zl za wariant 3 x 6 m, 17 605 zl za 4 x 6 m oraz 21 949 zl za 6 x 6 m. Z kolei wieksze projekty na 12-14 slupow, wyposazone w pomieszczenie gospodarcze i instalacje elektryczna, osiagaja koszt 60-70 tys. zl."
    ]
   }
  ],
- "rozwiazanie": "Stalowa wiata garażowa CarportActive eliminuje kompromisy konstrukcyjne, ponieważ powstaje ze stali konstrukcyjnej S235 zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy bezpośrednio do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Konstrukcję o wysokości 2,7 m zamówisz w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub pod wymiar indywidualny, dobierając moduły takie jak przęsła żaluzjowe, Solar Box pod panele PV, przechowalnia rowerów czy panel narzędziowy. Wystarczy wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "rozwiazanie": "Trwale rozwiazanie stanowi Stalowa wiata garazowa CarportActive, budowana ze stali konstrukcyjnej S235 ze slupami o profilu 100 x 100 x 3 mm. Konstrukcja jest zabezpieczona przez ocynk ogniowy i malowanie proszkowe w kolorze antracyt RAL 7016, a jej slupy kotwimy do fundamentow wylewanych ponizej strefy przemarzania gruntu. Oferujemy wymiary bazowe 3 x 6 m, 4 x 6 m oraz 6 x 6 m o wysokosci 2,7 m, a takze wymiary na zamowienie z mozliwoscia wdrozenia modulu sportowego, paneli narzedziowych, przasel zaluzjowych czy systemu Solar Box pod fotowoltaike. Montaz zajmuje zazwyczaj 1 dzien roboczy, a klient moze wgrac zdjecie podjazdu do wizualizatora AI, aby zobaczyc wiate na podworku w 3 wariantach.",
  "faq": [
   {
-   "pytanie": "Dlaczego tanie wiaty uginają się zimą?",
-   "odpowiedz": "Tanie konstrukcje z marketu są liczone na minimalne obciążenia śniegiem i wiatrem. Zastosowanie cienkich profili, na przykład 40 x 40 mm ze ścianką 2 mm, sprawia, że słupy i dach nie wytrzymują naporu ciężkiego, mokrego śniegu."
+   "pytanie": "Dlaczego marketowe zadaszenia kosztuja tylko 3-5 tys. zl?",
+   "odpowiedz": "Tanie wiaty sa tworzone z cienkosciennych profili i liczone na minimalne obciazenia sniegiem, a ich cena nie zawiera fundamentow, transportu ani montazu."
   },
   {
-   "pytanie": "Jak głęboko trzeba wkopać fundament pod wiatę?",
-   "odpowiedz": "Fundamenty należy wykonać poniżej strefy przemarzania gruntu, co w warunkach polskich oznacza zazwyczaj ok. 80 cm głębokości, a w niektórych regionach jeszcze więcej. Na stabilne zalanie jednego słupa zużywa się średnio od 5 do 10 worków betonu."
+   "pytanie": "Na jaka glebokosc nalezy posadowic slupy wiaty garazowej?",
+   "odpowiedz": "Fundamenty nalezy wykonac ponizej strefy przemarzania gruntu, co w warunkach polskich oznacza zazwyczaj okolo 80 cm glebokosci lub wiecej w zaleznosci od regionu."
   },
   {
-   "pytanie": "Jakie dodatkowe prace wchodzą w koszt profesjonalnego montażu?",
-   "odpowiedz": "W cenie montażu zawierają się prace ziemne, rozebranie oraz ponowne ułożenie kostki brukowej wokół słupów, a także wywóz wykopanej ziemi i gruzu. Alternatywą dla fundamentów betonowych są pale, jednak ich wkręcenie wymaga użycia specjalistycznego sprzętu."
+   "pytanie": "Ile wynosi koszt bazowej wiaty stalowej bez montazu?",
+   "odpowiedz": "Ceny bazowe brutto wynosza 16 500 zl za rozmiar 3 x 6 m, 17 605 zl za 4 x 6 m oraz 21 949 zl za wariant 6 x 6 m."
   }
  ],
  "nr": 177,
@@ -45,10 +48,6 @@
  "temat": "skąd różnica w cenie wiaty: 3 tys. zł czy 30 tys. zł",
  "adres": "skad-roznica-w-cenie-wiaty-3-tys-zl-czy-30-tys-zl",
  "link": "wiata",
- "wygenerowano": "2026-11-11",
- "uwagi": [
-  "3 tys. zł",
-  "30 tys. zł",
-  "5 tys. zł"
- ]
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
 }

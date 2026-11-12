@@ -110,11 +110,31 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=10)
     ap.add_argument("--redo-ceny", action="store_true")
+    ap.add_argument("--redo", default="", help="adresy po przecinku albo 'ceny-wiata' - przepisz te artykuły")
     a = ap.parse_args()
     os.makedirs(KOLEJKA, exist_ok=True); os.makedirs(WYDANE, exist_ok=True)
     topics = load_topics()
     client = genai.Client()
     cfg = types.GenerateContentConfig(response_mime_type="application/json", response_schema=Artykul, temperature=0.7)
+
+    if a.redo:
+        by = {r["adres"]: r for r in topics}
+        want = set(FACTS["wiata"]["ceny_tematy"]) if a.redo == "ceny-wiata" else set(x.strip() for x in a.redo.split(",") if x.strip())
+        fixed = 0
+        for d in (KOLEJKA, WYDANE):
+            for fn in sorted(os.listdir(d)):
+                if fn[:-5] not in want: continue
+                p = os.path.join(d, fn); old = json.load(open(p, encoding="utf-8"))
+                new = gen_one(client, cfg, by[old["adres"]])
+                if not new:
+                    print("POMINIĘTO", old["adres"]); continue
+                new["kolejnosc"] = old.get("kolejnosc", new["kolejnosc"])
+                if "wydano" in old: new["wydano"] = old["wydano"]
+                json.dump(new, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                fixed += 1
+                print("PRZEPISANO", old["adres"], ("UWAGA: " + ", ".join(new["uwagi"])) if new["uwagi"] else "")
+        print("przepisano:", fixed)
+        return
 
     if a.redo_ceny:
         by = {r["adres"]: r for r in topics}
