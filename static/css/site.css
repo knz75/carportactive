@@ -283,3 +283,6 @@ h1, h2, h3 { font-family: var(--head); font-weight: 700; line-height: 1.05; colo
 .works a { display: block; }
 @media (max-width: 960px) { .works { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .works { grid-template-columns: 1fr; } }
+.case-photos { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-width: 1000px; }
+@media (max-width: 560px) { .case-photos { grid-template-columns: 1fr; } }
+.case-photos figure:only-child { max-width: 760px; }

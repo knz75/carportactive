@@ -57,7 +57,8 @@ def update_module_pages(arts):
 
 def sitemap(arts):
     today = datetime.date.today().isoformat()
-    rows = [f"  <url><loc>{SITE}{u}</loc></url>" for u in BASE_URLS]
+    extra = sorted("/realizacje/" + os.path.basename(os.path.dirname(x)) + "/" for x in glob.glob(os.path.join(STATIC, "realizacje", "*", "index.html")))
+    rows = [f"  <url><loc>{SITE}{u}</loc></url>" for u in BASE_URLS + extra]
     if arts:
         rows.append(f"  <url><loc>{SITE}/poradnik/</loc><lastmod>{today}</lastmod></url>")
         rows += [f"  <url><loc>{SITE}/poradnik/{a['adres']}/</loc><lastmod>{a['wydano']}</lastmod></url>" for a in arts]
