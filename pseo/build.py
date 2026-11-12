@@ -20,6 +20,23 @@ def load(d):
     return out
 
 from article_tpl import article_html, index_html, home_guides
+import urllib.request
+
+INDEXNOW_KEY = "37f97a6be16daeadecd4856bbbbde7c3"
+
+def indexnow(urls):
+    """Wysyła adresy do Bing i innych wyszukiwarek przez IndexNow. Błąd nie zatrzymuje budowania."""
+    if not urls:
+        return "brak adresów"
+    data = json.dumps({"host": "carportactive.pl", "key": INDEXNOW_KEY,
+                       "keyLocation": f"{SITE}/{INDEXNOW_KEY}.txt", "urlList": urls[:10000]}).encode()
+    req = urllib.request.Request("https://api.indexnow.org/indexnow", data=data,
+                                 headers={"Content-Type": "application/json; charset=utf-8"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return f"IndexNow: {r.status} ({len(urls)} adresów)"
+    except Exception as ex:
+        return f"IndexNow: błąd {ex}"
 
 def render(arts, folder, base, noindex):
     out = os.path.join(STATIC, folder)
@@ -69,6 +86,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--preview", action="store_true")
     ap.add_argument("--publish", type=int, default=0)
+    ap.add_argument("--indexnow-all", action="store_true")
     a = ap.parse_args()
     if a.preview:
         q = load(KOLEJKA)
@@ -92,9 +110,21 @@ def main():
     update_module_pages(arts)
     sitemap(arts)
     w_kolejce = len(load(KOLEJKA))
+    if a.indexnow_all:
+        import re as _re
+        urls = _re.findall(r"<loc>(.*?)</loc>", open(os.path.join(STATIC, "sitemap.xml"), encoding="utf-8").read())
+        print(indexnow(urls))
+    inx = ""
+    if a.publish and wydane_teraz:
+        urls = [f"{SITE}/poradnik/{x['adres']}/" for x in wydane_teraz] + [f"{SITE}/poradnik/", f"{SITE}/"] + \
+               sorted(set(SITE + FACTS[x["link"]]["url"] for x in wydane_teraz))
+        inx = indexnow(sorted(set(urls)))
+        print(inx)
     print("na stronie:", len(arts), "| w kolejce:", w_kolejce)
     if a.publish:
         head = f"Poradnik CarportActive: +{len(wydane_teraz)} | na stronie: {len(arts)} | w kolejce: {w_kolejce}"
+        if inx:
+            head += "\n" + inx
         if not wydane_teraz:
             head += "\nKolejka jest pusta - nic nie wydano."
         body = "\n\n".join(f"{x['tytul']}\n{SITE}/poradnik/{x['adres']}/" for x in wydane_teraz)
