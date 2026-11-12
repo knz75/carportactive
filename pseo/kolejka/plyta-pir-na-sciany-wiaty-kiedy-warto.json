@@ -1,0 +1,57 @@
+{
+ "tytul": "Płyta PIR na ściany wiaty - kiedy warto ją wybrać",
+ "opis_meta": "Zastanawiasz się, czy płyta PIR na ściany wiaty to dobry wybór? Sprawdź, kiedy warto w nią zainwestować, a kiedy wystarczy zwykła blacha.",
+ "wstep": "Stoisz przed wyborem zabudowy wiaty garażowej i zastanawiasz się nad montażem płyty PIR. Wiele zależy od tego, do czego dokładnie ma służyć to miejsce na Twojej działce. Zobacz, w jakich sytuacjach izolacja ścian ma sens, a kiedy będzie jedynie niepotrzebnym wydatkiem.",
+ "sekcje": [
+  {
+   "h2": "Zwykła blacha na ścianach a problem wilgoci",
+   "akapity": [
+    "Pojedyncza blacha falista dobrze chroni wnętrze przed deszczem i wiatrem. To popularne, trwałe poszycie, ale z doświadczenia na montażach wiemy o jednej istotnej wadzie. W chłodne dni ściany z samej blachy mogą się pocić od środka.",
+    "Kiedy temperatura na zewnątrz spada, na zimnej blasze natychmiast skrapla się wilgoć. Woda spływająca po ścianach to spore ryzyko dla sprzętów, które stoją w środku. Jeśli planujesz trzymać tam metalowe narzędzia, rowery czy kosiarkę, szybko zauważysz na nich pierwsze ślady korozji."
+   ]
+  },
+  {
+   "h2": "Kiedy płyta PIR 5 cm jest najlepszym wyborem",
+   "akapity": [
+    "Płyta PIR o grubości 5 cm sprawdza się wszędzie tam, gdzie wiata ma pełnić funkcję schowka gospodarczego lub małego warsztatu. Rdzeń izolacyjny ogranicza gwałtowne wahania temperatur we wnętrzu. Dzięki temu na ścianach nie osiada rosa.",
+    "W tak zabezpieczonym pomieszczeniu łatwiej utrzymać suchy klimat, co chroni wyposażenie przed niszczeniem. To dobre rozwiązanie, jeśli chcesz magazynować kartony, meble ogrodowe czy sprzęt elektroniczny bez obawy o wilgoć."
+   ]
+  },
+  {
+   "h2": "Kiedy nie warto dopłacać do płyty PIR",
+   "akapity": [
+    "Jeśli zależy Ci wyłącznie na bezpiecznym parkowaniu samochodu, płyta PIR nie jest konieczna. Auto potrzebuje przede wszystkim osłony przed deszczem, śniegiem, gradem i słońcem. Do tego celu w zupełności wystarczy zwykła blacha falista lub stalowa żaluzja.",
+    "Płyta z rdzeniem podnosi koszt całej inwestycji. Jeśli wiata ma pozostać przestrzenią czysto parkingową i nie planujesz w niej magazynu na narzędzia, tańsze poszycie w zupełności spełni swoje zadanie."
+   ]
+  },
+  {
+   "h2": "Pamiętaj o stabilnym fundamencie",
+   "akapity": [
+    "Niezależnie od tego, czy wybierzesz blachę, czy płytę PIR, zamknięta konstrukcja zachowuje się inaczej niż wiata otwarta. Pełne ściany stawiają duży opór powietrzu i łapią wiatr znacznie mocniej, zwłaszcza przy otwartej bramie.",
+    "Z tego względu taka wiata bezwzględnie wymaga solidnego podłoża. Zwykłe kotwienie słupów w samej kostce brukowej nie wystarczy, bo nie utrzyma takich sił. Podstawą bezpieczeństwa są fundamenty sięgające poniżej strefy przemarzania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli potrzebujesz trwałej przestrzeni zamiast zwykłego blaszaka, rozwiązaniem jest zamknięta wiata CarportActive w kolorze antracyt RAL 7016 na słupach 100 x 100 x 3 mm. Ściany możesz zabudować płytą PIR 5 cm, blachą falistą lub żaluzją bez szczelin, a dach chroni blacha z powłoką antykondensacyjną. Całość zamykamy bramą segmentową (np. Hörmann) lub roletową (np. Portos), także w wersji przelotowej z dwoma bramami, a cenę ustalamy po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy płyta PIR na ścianach utrzyma ciepło bez ogrzewania?",
+   "odpowiedz": "Płyta PIR 5 cm skutecznie spowalnia wychładzanie i eliminuje problem pocenia się ścian, ale bez źródła ciepła temperatura wewnątrz budynku z czasem zrówna się z temperaturą na zewnątrz."
+  },
+  {
+   "pytanie": "Dlaczego do schowka na narzędzia poleca się płytę PIR zamiast blachy?",
+   "odpowiedz": "Ściany z pojedynczej blachy mocno się pocą w chłodne dni, przez co woda ścieka do środka. Płyta PIR zapobiega skraplaniu wilgoci i chroni metalowe narzędzia przed rdzewieniem."
+  },
+  {
+   "pytanie": "Co daje powłoka antykondensacyjna na dachu wiaty?",
+   "odpowiedz": "Powłoka antykondensacyjna zatrzymuje wilgoć skraplającą się pod dachem i nie pozwala, aby krople wody spadały bezpośrednio na zaparkowany samochód lub przechowywane rzeczy."
+  }
+ ],
+ "nr": 267,
+ "kolejnosc": 181,
+ "temat": "płyta PIR na ściany wiaty - kiedy warto",
+ "adres": "plyta-pir-na-sciany-wiaty-kiedy-warto",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

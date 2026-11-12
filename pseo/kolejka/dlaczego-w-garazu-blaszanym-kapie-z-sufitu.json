@@ -1,0 +1,50 @@
+{
+ "tytul": "Dlaczego w garażu blaszanym kapie z sufitu i jak to zatrzymać?",
+ "opis_meta": "Z sufitu w blaszaku kapie woda? Dowiedz się, skąd bierze się skraplanie pod dachem i sprawdź proste sposoby na wilgoć w garażu blaszanym.",
+ "wstep": "Jeśli po chłodnej nocy wchodzisz do blaszaka, a na dach auta kapią krople wody, wcale nie musi to oznaczać dziury w poszyciu. Najczęściej winna jest zwykła kondensacja, czyli para wodna osiadająca na wyziębionym materiale. Zobacz, dlaczego tak się dzieje i jak możesz temu zapobiec.",
+ "sekcje": [
+  {
+   "h2": "Skąd bierze się woda pod dachem blaszaka",
+   "akapity": [
+    "Cienka blacha błyskawicznie reaguje na spadki temperatury na zewnątrz. Gdy w nocy dach mocno się wychładza, a wewnątrz garażu znajduje się cieplejsze powietrze, dochodzi do zjawiska punktu rosy. Niewidoczna wilgoć obecna w powietrzu gwałtownie zamienia się w krople po wewnętrznej stronie zadaszenia.",
+    "Wilgoć bardzo często wprowadzasz do środka sam. Wystarczy wjechać rozgrzanym samochodem po deszczu lub ze śniegiem zalegającym w nadkolach. Ciepło stygnącego silnika przyspiesza parowanie wody, która unosi się pod sufit i trafia bezpośrednio na zimną blachę."
+   ]
+  },
+  {
+   "h2": "Brak wentylacji jako główna przyczyna problemu",
+   "akapity": [
+    "Wielu użytkowników stara się uszczelnić garaż blaszany na zimę, zatykając wszelkie szczeliny pianą lub silikonem. To błąd, ponieważ uwięzione powietrze nie ma jak wydostać się na zewnątrz. Wilgoć kumuluje się w zamkniętej przestrzeni i prędzej czy później spłynie na posadzkę lub na auto.",
+    "Podstawą walki ze skraplaniem jest stały ruch powietrza. Skutecznym krokiem bywa montaż kratek wentylacyjnych na przeciwległych ścianach, najlepiej jednej niżej, a drugiej wysoko pod dachem. Cyrkulacja pomaga usunąć nadmiar pary zanim zdąży się skroplić."
+   ]
+  },
+  {
+   "h2": "Zabezpieczenie dachu i ścian przed wilgocią",
+   "akapity": [
+    "Skuteczną metodą ograniczenia kapania jest zastosowanie blachy z fabryczną powłoką antykondensacyjną. Taki filc pochłania skropliny w momencie ich powstawania i trzyma je tak długo, aż wywietrzeją w ciągu dnia.",
+    "Warto pamiętać, że same ściany z blachy również potrafią mocno pocić się od środka w chłodne dni. Jeśli garaż służy jako warsztat lub schowek na narzędzia, goła blacha na ścianach może sprzyjać powstawaniu rdzy na sprzęcie. W miejscach do przechowywania znacznie lepiej radzi sobie materiał izolowany termicznie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego rozwiązania problemu wilgoci, alternatywą dla tradycyjnego blaszaka jest zamknięta stalowa wiata CarportActive na słupach 100 x 100 x 3 mm i fundamentach wylewanych poniżej strefy przemarzania. Standardowo stosujemy w niej dach z blachy z powłoką antykondensacyjną, która zatrzymuje kapiącą wodę. Konstrukcję w kolorze antracyt RAL 7016 można wyposażyć w bramę segmentową lub roletową oraz ściany z płyty PIR 5 cm, blachy falistej lub żaluzji bez szczelin, a cenę ustalamy indywidualnie po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy kapiąca woda oznacza, że dach w garażu jest nieszczelny?",
+   "odpowiedz": "Nie, najczęściej to kondensacja pary wodnej. Jeśli krople pojawiają się równomiernie na całej powierzchni w chłodne dni, problemem jest różnica temperatur i brak wentylacji, a nie dziura w dachu."
+  },
+  {
+   "pytanie": "Jak działa powłoka antykondensacyjna na blasze dachowej?",
+   "odpowiedz": "Jest to specjalna warstwa filcu podklejona od spodu blachy, która zatrzymuje skraplającą się wilgoć. Woda nie spada na auto, lecz czeka w materiale, aż zostanie odparowana przez naturalny ruch powietrza."
+  },
+  {
+   "pytanie": "Dlaczego woda spływa także po ścianach garażu?",
+   "odpowiedz": "Ściany z samej blachy wychładzają się tak samo jak dach i w kontakcie z wilgotnym powietrzem zaczynają się pocić. Aby temu zapobiec w miejscach na narzędzia, warto stosować wypełnienie ścian płytą PIR 5 cm."
+  }
+ ],
+ "nr": 256,
+ "kolejnosc": 38,
+ "temat": "dlaczego w garażu blaszanym kapie z sufitu",
+ "adres": "dlaczego-w-garazu-blaszanym-kapie-z-sufitu",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

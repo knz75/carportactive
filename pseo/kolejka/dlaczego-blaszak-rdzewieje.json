@@ -1,0 +1,57 @@
+{
+ "tytul": "Dlaczego blaszak rdzewieje i jak temu zapobiec?",
+ "opis_meta": "Sprawdź, dlaczego blaszak rdzewieje od środka i od spodu. Poznaj przyczyny korozji, błędy montażowe oraz sposoby na wilgoć w garażu blaszanym.",
+ "wstep": "Rdza na garażu blaszanym pojawia się znacznie szybciej, niż większość osób się spodziewa. Najczęściej problemem wcale nie jest woda z nieba, ale wilgoć uwięziona wewnątrz i błędy przy montażu na podłożu. Poniżej wyjaśniamy główne przyczyny korozji oraz podpowiadamy, jak radzić sobie z niszczeniem blachy.",
+ "sekcje": [
+  {
+   "h2": "Skraplanie wody, czyli blacha poci się od środka",
+   "akapity": [
+    "Gdy temperatura na zewnątrz spada, cieplejsze powietrze wewnątrz garażu styka się z zimną ścianą. Wtedy następuje zjawisko kondensacji, przez co blacha zaczyna się pocić od środka, a woda spływa strumieniami po ścianach i kapie z dachu. Zwykłe, pojedyncze ściany z blachy są na to wyjątkowo podatne podczas chłodnych dni.",
+    "Ciągła wilgoć w zamkniętym pomieszczeniu bez dobrego przewiewu wnika w każdą szczelinę. Z czasem woda niszczy fabryczną powłokę cynkową, co prowadzi do powstawania brunatnych plam rdzy na łączeniach i profilach."
+   ]
+  },
+  {
+   "h2": "Brak izolacji i zaciekanie od strony gruntu",
+   "akapity": [
+    "Bardzo częstym błędem jest stawianie blaszaka bezpośrednio na gruncie lub mocowanie go do kostki bez zabezpieczenia przed podciekaniem. Deszczówka spływająca po ścianach gromadzi się pod dolnym profilem, tworząc wilgotne środowisko, które nie ma jak wyschnąć.",
+    "Zamknięta konstrukcja potrzebuje stabilnego oparcia, a zwykłe kotwienie w kostce brukowej nie rozwiązuje problemu wody gruntowej. Rdza zaczyna się wtedy od samego dołu i po kilku sezonach dolne krawędzie blachy po prostu kruszą się w rękach."
+   ]
+  },
+  {
+   "h2": "Uszkodzenia mechaniczne i wnoszona sól",
+   "akapity": [
+    "Cienkie arkusze blachy łatwo zarysować podczas montażu, wkręcania śrub czy codziennego użytkowania. Każde takie naruszenie warstwy lakieru lub ocynku natychmiast staje się nowym ogniskiem korozji.",
+    "Zimą problem narasta, bo wjeżdżający samochód wnosi na kołach i podwoziu błoto pośniegowe pełne soli drogowej. Parująca z podłogi słona woda tworzy agresywne środowisko, które błyskawicznie atakuje nieosłonięte elementy stalowe."
+   ]
+  },
+  {
+   "h2": "Jak ratować blaszak przed dalszym niszczeniem",
+   "akapity": [
+    "Jeśli Twój garaż już zaczął rdzewieć, pierwszym krokiem jest mechaniczne usunięcie nalotu szczotką drucianą i odtłuszczenie powierzchni. Następnie nałóż farbę podkładową oraz preparat powstrzymujący korozję.",
+    "Musisz też zadbać o wentylację, wycinając kratki nawiewne na przeciwległych ścianach, co zmniejszy pocenie się konstrukcji. Warto również uszczelnić dolną krawędź przy podłożu, aby odciąć dopływ wody opadowej pod ścianki."
+   ]
+  }
+ ],
+ "rozwiazanie": "Alternatywą dla tradycyjnego garażu blaszanego jest zamknięta wiata CarportActive w kolorze antracyt RAL 7016, oparta na słupach 100 x 100 x 3 mm i fundamentach sięgających poniżej strefy przemarzania. Zamiast cienkiej blachy możesz wybrać trwałe ściany z płyty PIR 5 cm, blachy falistej lub szczelnej żaluzji bez szczelin, która nie wpuści do środka kun. Dach chroniony jest blachą z powłoką antykondensacyjną, a wjazd zamykają bramy segmentowe lub roletowe, także w wersji z wjazdem i wyjazdem na wylot. Cenę konstrukcji liczymy indywidualnie po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Dlaczego blacha na ścianach i dachu jest mokra od środka?",
+   "odpowiedz": "Wynika to z różnicy temperatur między wnętrzem a otoczeniem. Ściany z samej blachy łatwo się pocą w chłodne dni, a brak izolacji i słaba wentylacja sprawiają, że wilgoć skrapla się na zimnej stali."
+  },
+  {
+   "pytanie": "Czy płyta PIR lepiej chroni przed wilgocią niż blacha?",
+   "odpowiedz": "Tak, płyta PIR o grubości 5 cm stanowi barierę termiczną, dzięki czemu ściany nie wychładzają się tak gwałtownie, co ogranicza zjawisko skraplania wody w schowku czy warsztacie."
+  },
+  {
+   "pytanie": "Co daje powłoka antykondensacyjna na dachu?",
+   "odpowiedz": "Specjalna powłoka antykondensacyjna na blasze dachowej magazynuje gromadzącą się wilgoć i zapobiega kapaniu kropel wody bezpośrednio na zaparkowany samochód lub sprzęt."
+  }
+ ],
+ "nr": 258,
+ "kolejnosc": 64,
+ "temat": "dlaczego blaszak rdzewieje",
+ "adres": "dlaczego-blaszak-rdzewieje",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

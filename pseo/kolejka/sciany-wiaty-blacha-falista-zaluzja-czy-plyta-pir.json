@@ -1,0 +1,57 @@
+{
+ "tytul": "Ściany wiaty: blacha falista, żaluzja czy płyta PIR?",
+ "opis_meta": "Wybierasz ściany do wiaty garażowej? Sprawdź wady i zalety blachy falistej, żaluzji oraz płyty PIR. Zobacz, co sprawdzi się na Twojej działce.",
+ "wstep": "Wybór ścian decyduje o tym, jak będziesz korzystać z wiaty przez cały rok. Każde z tych trzech rozwiązań ma inne właściwości i sprawdza się w innych warunkach. Poniżej znajdziesz praktyczne porównanie przygotowane na bazie doświadczeń z montażu.",
+ "sekcje": [
+  {
+   "h2": "Blacha falista jako proste zamknięcie wiaty",
+   "akapity": [
+    "Blacha falista to popularny wybór, gdy zależy Ci na trwałej osłonie przed zacinającym deszczem i wiatrem. Taka zabudowa tworzy prostą i odporną barierę dla auta. Wiata zamknięta blachą falistą z bramą przypomina w praktyce solidny garaż postawiony na mocnej konstrukcji.",
+    "Musisz jednak pamiętać o zjawisku skraplania wody. Ściany z samej blachy mogą się pocić od środka w chłodne dni przy gwałtownych zmianach temperatur. Samochodowi to nie przeszkadza, ale w przypadku przechowywania wrażliwych rzeczy warto mieć to na uwadze."
+   ]
+  },
+  {
+   "h2": "Ściany żaluzjowe i ochrona przed gryzoniami",
+   "akapity": [
+    "Żaluzja to rozwiązanie, które łączy estetyczny wygląd z pełną osłoną wnętrza. W praktyce lamele żaluzjowe montuje się bez szczelin, dzięki czemu ściana jest zwarta i zachowuje się jak blacha ułożona w żebra.",
+    "Brak prześwitów ma bardzo ważne zadanie użytkowe. Taka konstrukcja zapobiega wchodzeniu kun i innych małych zwierząt, które szukają ciepła w zaparkowanych autach. Masz dzięki temu spokój i osłonięte auto."
+   ]
+  },
+  {
+   "h2": "Płyta PIR do części gospodarczej i schowków",
+   "akapity": [
+    "Płyta PIR o grubości 5 cm sprawdza się najlepiej tam, gdzie planujesz wydzielić schowek lub trzymać narzędzia. Zwykła blacha wychładza się błyskawicznie i powoduje osadzanie się wilgoci wewnątrz pomieszczenia.",
+    "Płyta z rdzeniem izolacyjnym ogranicza to zjawisko, dzięki czemu metalowe narzędzia i sprzęty ogrodowe są lepiej chronione. To sprawdzony materiał na ściany, jeśli zależy Ci na suchym wnętrzu w chłodniejsze dni."
+   ]
+  },
+  {
+   "h2": "Fundamenty a opór wiatru przy pełnych ścianach",
+   "akapity": [
+    "Zabudowana wiata stawia duży opór dla powietrza. Taka konstrukcja łapie wiatr znacznie mocniej niż wiata otwarta, szczególnie w momencie, gdy brama wjazdowa jest otwarta.",
+    "Z tego powodu zamknięte ściany wymagają solidnego podłoża. Zwykłe kotwienie słupów w kostce brukowej nie wystarczy, dlatego konieczne są fundamenty sięgające poniżej strefy przemarzania gruntu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te potrzeby jest zamknięta wiata CarportActive, czyli trwała alternatywa dla blaszaka. Konstrukcję opieramy na stalowych słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016 oraz dachu z blachy z powłoką antykondensacyjną, z fundamentami poniżej strefy przemarzania. Ściany możesz wybrać z żaluzji bez szczelin, blachy falistej lub płyty PIR 5 cm i uzupełnić je o bramę segmentową lub roletową, także w wersji przelotowej. Cenę ustalamy indywidualnie po dokładnym pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy ściany żaluzjowe chronią przed kunami?",
+   "odpowiedz": "Tak, jeśli żaluzja jest wykonana bez szczelin, stanowi jednolitą barierę, przez którą kuny ani gryzonie nie przedostaną się do środka."
+  },
+  {
+   "pytanie": "Dlaczego pojedyncza blacha falista może wilgotnieć od wewnątrz?",
+   "odpowiedz": "Pojedyncza blacha szybko przejmuje temperaturę z zewnątrz, co w chłodne dni przy różnicy temperatur wywołuje skraplanie pary wodnej na jej powierzchni."
+  },
+  {
+   "pytanie": "Co wybrać na ściany wiaty z pomieszczeniem gospodarczym?",
+   "odpowiedz": "Do pomieszczeń na narzędzia i sprzęty najlepiej sprawdza się płyta PIR 5 cm, która ogranicza pocenie się ścian w chłodniejsze dni."
+  }
+ ],
+ "nr": 266,
+ "kolejnosc": 168,
+ "temat": "ściany wiaty: blacha falista, żaluzja czy płyta PIR",
+ "adres": "sciany-wiaty-blacha-falista-zaluzja-czy-plyta-pir",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

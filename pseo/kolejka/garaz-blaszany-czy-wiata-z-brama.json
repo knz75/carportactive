@@ -1,0 +1,50 @@
+{
+ "tytul": "Garaż blaszany czy wiata z bramą? Porównanie i opinia montera",
+ "opis_meta": "Zastanawiasz się: garaż blaszany czy wiata z bramą? Zobacz praktyczne różnice w stabilności, wilgoci i komforcie użytkowania na co dzień.",
+ "wstep": "Szukasz osłoniętego miejsca na auto i zastanawiasz się, co wybrać na swoją działkę. Zwykły blaszak kusi niską ceną, ale wiata z pełnymi ścianami i bramą daje zupełnie inne możliwości. Odpowiedź zależy od tego, jak bardzo zależy Ci na stabilności konstrukcji, braku wilgoci i ochronie przed szkodnikami.",
+ "sekcje": [
+  {
+   "h2": "Odporność na wiatr i sposób montażu",
+   "akapity": [
+    "Zwykły garaż blaszany jest lekki i ludzie często stawiają go bezpośrednio na kostce brukowej. To błąd, bo każda zamknięta bryła działa jak duży żagiel. Siła wiatru jest szczególnie niebezpieczna wtedy, gdy otworzysz bramę w wietrzny dzień i powietrze wpadnie do środka.",
+    "Zamknięta konstrukcja łapie wiatr znacznie mocniej niż przewiewna wiata. Właśnie dlatego nie wystarczą tu zwykłe kotwy wkręcane w kostkę. Potrzebujesz porządnych fundamentów sięgających poniżej poziomu przemarzania gruntu, żeby cała konstrukcja stała pewnie przez lata."
+   ]
+  },
+  {
+   "h2": "Wilgoć i skraplanie wody od środka",
+   "akapity": [
+    "W typowym blaszaku ściany i sufit potrafią mocno się pocić, gdy na zewnątrz robi się chłodno. Woda skrapla się na zimnym metalu i kapie prosto na karoserię albo podłogę. Żeby temu zapobiec, na dachu konieczna jest specjalna powłoka antykondensacyjna.",
+    "Pojedyncza blacha na ścianach ma ten sam problem z wilgocią. Jeżeli chcesz trzymać w środku nie tylko auto, ale też narzędzia ogrodowe czy kosiarkę, sama blacha może nie wystarczyć. W miejscach planowanych na schowek o wiele lepiej sprawdza się płyta PIR, która ogranicza zjawisko skraplania pary wodnej."
+   ]
+  },
+  {
+   "h2": "Szczelność i nieproszeni goście",
+   "akapity": [
+    "Prosty blaszak rzadko bywa idealnie spasowany, co ułatwia gryzoniom dostanie się do środka. W przypadku wiaty z zabudową możesz wybrać ściany z żaluzji wykonane bez żadnych przerw. Taka ściana wygląda nowocześnie, ma przetłoczenia w żebra, a jednocześnie jest szczelna jak pełna blacha. Dzięki temu kuny nie mają szans przecisnąć się do komory silnika Twojego samochodu.",
+    "Ciekawą zaletą wiaty z bramą jest też możliwość zrobienia wersji przelotowej. Możesz zamontować bramę z przodu oraz z tyłu budynku. Po otwarciu obu przejedziesz autem lub sprzętem ogrodowym na wylot prosto na tył działki, czego tradycyjny blaszak Ci nie zaoferuje."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz solidnej alternatywy dla blaszaka, dobrym wyborem jest zamknięta wiata CarportActive na słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016, osadzona na fundamentach poniżej strefy przemarzania. Możesz wybrać ściany z żaluzji bez szczelin, blachy falistej lub płyty PIR 5 cm, a dach zabezpiecza powłoka antykondensacyjna. Montujemy bramy segmentowe (np. Hörmann) lub roletowe (np. Portos) z napędem, także w wersji przelotowej z wyjazdem na tył działki. Koszt ustalamy indywidualnie po dokładnym pomiarze na miejscu, zależnie od wymiarów i wybranego wyposażenia.",
+ "faq": [
+  {
+   "pytanie": "Czy zamkniętą wiatę można postawić na samej kostce brukowej?",
+   "odpowiedz": "Nie, zamknięta konstrukcja stawia duży opór wiatrowi i wymaga fundamentów poniżej strefy przemarzania gruntu."
+  },
+  {
+   "pytanie": "Jakie ściany najlepiej wybrać, jeśli w środku ma być schowek na narzędzia?",
+   "odpowiedz": "W części gospodarczej najlepiej sprawdza się płyta PIR 5 cm, ponieważ ściany z pojedynczej blachy mogą się pocić w chłodne dni."
+  },
+  {
+   "pytanie": "Na czym polega wersja przelotowa wiaty z bramą?",
+   "odpowiedz": "To konstrukcja z dwiema bramami - jedną z przodu i drugą z tyłu. Po ich otwarciu można swobodnie przejechać na wylot na drugą stronę posesji."
+  }
+ ],
+ "nr": 255,
+ "kolejnosc": 25,
+ "temat": "garaż blaszany czy wiata z bramą",
+ "adres": "garaz-blaszany-czy-wiata-z-brama",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -11,7 +11,7 @@ WYDANE = os.path.join(HERE, "wydane")
 SITE = "https://carportactive.pl"
 FACTS = json.load(open(os.path.join(HERE, "facts.json"), encoding="utf-8"))
 BASE_URLS = ["/", "/ai/", "/moduly/sportowy/", "/moduly/panel-narzedziowy/", "/moduly/ogrod-wertykalny/",
-             "/moduly/plac-zabaw/", "/moduly/przechowalnia-rowerow/", "/moduly/solar-box/", "/moduly/przeslo-zaluzjowe/", "/dodatki/ca-stand/", "/realizacje/", "/montaz/"]
+             "/moduly/plac-zabaw/", "/moduly/przechowalnia-rowerow/", "/moduly/solar-box/", "/moduly/przeslo-zaluzjowe/", "/moduly/zamknieta-wiata/", "/dodatki/ca-stand/", "/realizacje/", "/montaz/", "/okolice/"]
 
 def e(s): return html.escape(s, quote=True)
 
@@ -74,7 +74,7 @@ def update_module_pages(arts):
 
 def sitemap(arts):
     today = datetime.date.today().isoformat()
-    extra = sorted("/realizacje/" + os.path.basename(os.path.dirname(x)) + "/" for x in glob.glob(os.path.join(STATIC, "realizacje", "*", "index.html")))
+    extra = sorted(f"/{sec}/" + os.path.basename(os.path.dirname(x)) + "/" for sec in ("realizacje", "okolice") for x in glob.glob(os.path.join(STATIC, sec, "*", "index.html")))
     rows = [f"  <url><loc>{SITE}{u}</loc></url>" for u in BASE_URLS + extra]
     if arts:
         rows.append(f"  <url><loc>{SITE}/poradnik/</loc><lastmod>{today}</lastmod></url>")

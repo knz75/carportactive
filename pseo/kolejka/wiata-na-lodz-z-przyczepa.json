@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata na łódź z przyczepą. O czym pamiętać przed budową?",
+ "opis_meta": "Szukasz wiaty na łódź z przyczepą? Sprawdź, na co zwrócić uwagę przy wymiarach, słupach i solidnym fundamencie, aby konstrukcja przetrwała wichury.",
+ "wstep": "Przechowywanie łodzi na przyczepie na otwartej przestrzeni naraża kadłub i osprzęt na niszczenie pod wpływem deszczu oraz słońca. Dobrze dobrane zadaszenie chroni sprzęt przez cały rok, ale musi wytrzymać silne podmuchy wiatru i śnieg. Zanim zdecydujesz się na konkretne rozwiązanie, sprawdź kluczowe parametry techniczne.",
+ "sekcje": [
+  {
+   "h2": "Wymiary zestawu, czyli długość i wysokość w praktyce",
+   "akapity": [
+    "Łódź na przyczepie zajmuje znacznie więcej miejsca niż zwykły samochód osobowy. Musisz zmierzyć nie tylko sam kadłub, ale cały zestaw od przedniego zaczepu dyszla aż po wystający silnik zaburtowy lub śrubę. Zostaw też bezpieczny zapas z przodu i z tyłu, aby swobodnie manewrować przyczepą podczas parkowania.",
+    "Kluczowa jest również wysokość całkowita. Łódź ustawiona na kołach przyczepy z zamontowaną konsolą, owiewką czy relingami potrafi wyraźnie przekroczyć standardową wysokość garażu. Zadaszenie musi umożliwiać wjazd bez konieczności demontażu elementów osprzętu po każdym powrocie z wody."
+   ]
+  },
+  {
+   "h2": "Wytrzymałość konstrukcji na wiatr i śnieg",
+   "akapity": [
+    "Z doświadczenia z montaży wiemy, że gotowe daszki z marketu bywają liczone na minimalne obciążenia. Czasami widać konstrukcje z profili 40 x 40 mm o ściance 2 mm, które wyglądają jak zapałki i przy porywistym wietrze mogą się po prostu złamać. Zimą taki lekki dach może też ugiąć się pod ciężarem mokrego śniegu.",
+    "Pod wiatą stoi cenny sprzęt, dlatego stal musi mieć odpowiedni przekrój i sztywność. Konstrukcja z solidnych profili zachowuje stabilność w każdych warunkach i nie stwarza zagrożenia dla łodzi."
+   ]
+  },
+  {
+   "h2": "Mocowanie do podłoża i właściwy fundament",
+   "akapity": [
+    "Częstym błędem jest przykręcanie słupów wiaty wyłącznie do nawierzchni z kostki brukowej lub luźnych płyt. Podczas gwałtownej wichury tak zamocowana konstrukcja potrafi zadziałać jak żagiel, unieść się i wylądować u sąsiada. Warto wtedy zadać sobie pytanie, kto pokryje koszty takich zniszczeń.",
+    "Stabilność gwarantują betonowe fundamenty sięgające poniżej strefy przemarzania gruntu, co w Polsce wynosi zwykle około 80 cm lub więcej. Na pojedynczy słup zużywa się średnio od 5 do 10 worków betonu. Pamiętaj też o pracach towarzyszących, takich jak rozebranie i ułożenie kostki wokół słupów oraz wywóz wykopanej ziemi."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235 ze słupami z profilu 100 x 100 x 3 mm, zabezpieczonymi ocynkiem ogniowym i malowaniem proszkowym w kolorze RAL 7016. Choć wykonywaliśmy już wysokie wiaty pod kampera, konstrukcję na łódź z przyczepą projektujemy na wymiar po wizycie i pomiarach na Twojej działce. Słupy kotwimy do solidnych fundamentów w gruncie, a sam montaż na Mazowszu i w Warszawie trwa zazwyczaj 1 dzień roboczy. Do wyboru są też dodatki, w tym przęsła żaluzjowe czy panel narzędziowy.",
+ "faq": [
+  {
+   "pytanie": "Czy standardowa wysokość wiaty 2,7 m wystarczy na łódź z przyczepą?",
+   "odpowiedz": "Wysokość 2,7 m sprawdza się przy wielu jednostkach, ale wysoka łódź na przyczepie może wymagać więcej miejsca. W takiej sytuacji przygotowujemy projekt indywidualny o wysokości dopasowanej do Twojego zestawu."
+  },
+  {
+   "pytanie": "Jak mogę sprawdzić, jak wiata będzie wyglądać na mojej działce?",
+   "odpowiedz": "Wystarczy wgrać zdjęcie swojego podjazdu, a nasz wizualizator AI przygotuje podgląd wiaty na Twoim podwórku w 3 wariantach."
+  },
+  {
+   "pytanie": "Czy do wiaty można dobrać dodatkowe moduły użytkowe?",
+   "odpowiedz": "Tak, do konstrukcji można dołożyć między innymi panel narzędziowy, przechowalnię rowerów, przęsła żaluzjowe, ogród wertykalny, moduł sportowy, plac zabaw lub Solar Box pod panele PV."
+  }
+ ],
+ "nr": 275,
+ "kolejnosc": 274,
+ "temat": "wiata na łódź z przyczepą",
+ "adres": "wiata-na-lodz-z-przyczepa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,0 +1,57 @@
+{
+ "tytul": "Brama segmentowa czy roletowa do wiaty? Poradnik praktyka",
+ "opis_meta": "Zastanawiasz się, jaka brama sprawdzi się w Twojej wiacie? Poznaj różnice między bramą segmentową a roletową. Sprawdź porady praktyka z montażu.",
+ "wstep": "Wybór między bramą segmentową a roletową do wiaty zależy głównie od ilości miejsca pod dachem i Twoich planów na zagospodarowanie wnętrza. Brama roletowa zwija się w skrzynkę nad wjazdem, a segmentowa chowa się na prowadnicach pod sufitem. Obie konstrukcje mają swoje zalety, ale na konkretnym podwórku jedna z nich sprawdzi się po prostu lepiej.",
+ "sekcje": [
+  {
+   "h2": "Brama roletowa - kiedy warto ją wybrać?",
+   "akapity": [
+    "Brama roletowa to dobre rozwiązanie, jeśli zależy Ci na całkowicie wolnej przestrzeni pod sufitem. Cały pancerz zwija się do kasety umieszczonej nad wjazdem, więc pod dachem nie ma żadnych szyn ani wieszaków. Możesz tam swobodnie zamontować wysokie oświetlenie albo podwiesić drabinę.",
+    "Pamiętaj jednak, że skrzynka rolety zabiera trochę światła wjazdu od góry. Brama roletowa ma też cieńsze lamele niż panele segmentowe, co w otwartym terenie przy mocnych podmuchach wiatru może powodować lekkie uginanie się pancerza."
+   ]
+  },
+  {
+   "h2": "Brama segmentowa - zalety i ograniczenia",
+   "akapity": [
+    "Brama segmentowa jest masywniejsza, stabilniejsza i zapewnia lepsze uszczelnienie. Składa się z grubych paneli, które po otwarciu wsuwają się pod zadaszenie na podsufitowych prowadnicach. Taka konstrukcja pracuje bardzo cicho i jest odporna na silne napory wiatru.",
+    "Głównym minusem jest zabranie przestrzeni podsufitowej. Prowadnice i otwarty pancerz wiszą pod dachem, co wyklucza wykorzystanie tego miejsca na wysoki regał czy podwieszenie sprzętu. Wymaga też stabilnej konstrukcji nośnej dachu do montażu podwieszeń."
+   ]
+  },
+  {
+   "h2": "Wpływ wiatru i fundamentów na zamkniętą wiatę",
+   "akapity": [
+    "Z doświadczenia z montaży wiemy, że zamknięta wiata z bramą zachowuje się zupełnie inaczej niż wiata otwarta. Gdy dołożysz ściany i zamkniesz wjazd bramą, konstrukcja zaczyna działać jak żagiel. Szczególnie przy otwartej bramie wiatr wpada do środka i mocno napiera na dach oraz ściany od wewnątrz.",
+    "Dlatego pod konstrukcję z bramą niezbędne są porządne fundamenty sięgające poniżej strefy przemarzania. Zwykłe kotwienie słupów w kostce brukowej to za mało, bo silna wichura może taką wiatę po prostu poderwać."
+   ]
+  },
+  {
+   "h2": "Dwie bramy i przejazd na wylot",
+   "akapity": [
+    "Na wielu działkach sprawdza się wersja przelotowa, czyli montaż bramy z przodu oraz z tyłu wiaty. Po otwarciu obu skrzydeł możesz przejechać autem, traktorkiem lub przyczepą na wylot na tył posesji bez konieczności manewrowania.",
+    "Przy takim wariancie warto dokładnie zaplanować rodzaj bram. Dwie bramy segmentowe mogą kolidować prowadnicami na środku sufitu, jeśli wiata jest krótka, dlatego w takich miejscach często łączy się bramę segmentową z roletową."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz solidnego rozwiązania, dobrą alternatywą dla zwykłego garażu jest zamknięta wiata CarportActive zamiast blaszaka. Budujemy ją ze stalowych słupów 100 x 100 x 3 mm w kolorze antracyt RAL 7016, osadzanych na fundamentach poniżej strefy przemarzania, a dach kryjemy blachą z powłoką antykondensacyjną. Do wyboru masz ściany z blachy falistej, płyty PIR 5 cm lub żaluzji bez szczelin, a całość zamykamy bramą segmentową (np. Hörmann) lub roletową (np. Portos), także z napędem. Cenę liczymy indywidualnie po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy do wiaty można zamontować napęd elektryczny do bramy?",
+   "odpowiedz": "Tak, zarówno bramy segmentowe, jak i roletowe montujemy z napędem elektrycznym, co pozwala na wygodne otwieranie pilotem."
+  },
+  {
+   "pytanie": "Czy brama roletowa sprawdza się przy niskim wjeździe?",
+   "odpowiedz": "Skrzynka bramy roletowej zabiera kilkadziesiąt centymetrów od góry, więc przy bardzo niskiej konstrukcji może ograniczyć wysokość przejazdu dla wyższego auta."
+  },
+  {
+   "pytanie": "Dlaczego ściany z blachy falistej czasami wilgotnieją od środka?",
+   "odpowiedz": "Pojedyncza blacha falista bez izolacji w chłodne dni może się pocić od wewnątrz z powodu różnicy temperatur. Jeśli w wiacie planujesz schowek na narzędzia, lepszym wyborem pod kątem wilgoci jest płyta PIR 5 cm."
+  }
+ ],
+ "nr": 263,
+ "kolejnosc": 129,
+ "temat": "brama segmentowa czy roletowa do wiaty",
+ "adres": "brama-segmentowa-czy-roletowa-do-wiaty",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

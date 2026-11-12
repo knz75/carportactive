@@ -1,0 +1,50 @@
+{
+ "tytul": "Miejsce na przyczepę albo łódź pod dachem. Na co uważać?",
+ "opis_meta": "Szukasz miejsca na łódź lub przyczepę pod dachem? Poznaj porady montera dotyczące manewrowania, wilgoci i stabilnego montażu konstrukcji.",
+ "wstep": "Trzymanie łodzi lub przyczepy pod chmurką szybko niszczy poszycie, instalację elektryczną i tapicerkę. Plandeka nie rozwiązuje problemu, bo zbiera wilgoć i utrudnia bieżący dostęp do sprzętu. Zanim postawisz jakiekolwiek zadaszenie, powinieneś wziąć pod uwagę kilka kwestii technicznych z podwórka.",
+ "sekcje": [
+  {
+   "h2": "Wygodne manewrowanie i układ przelotowy",
+   "akapity": [
+    "Cofanie długą przyczepą kempingową lub zestawem z łodzią bywa uciążliwe, szczególnie na wąskiej działce. Jeśli postawisz tradycyjny garaż na drodze do ogrodu, zablokujesz sobie możliwość swobodnego przejazdu.",
+    "Praktycznym wyjściem jest zadaszenie przelotowe. Kiedy zamontujesz wjazd z przodu i wyjazd z tyłu, wjeżdżasz przodem z ulicy i wyjeżdżasz prosto na tył podwórka. Oszczędza to sprzęgło w aucie i eliminuje ryzyko zahaczenia burtą o słupek."
+   ]
+  },
+  {
+   "h2": "Wiatr i stabilne posadowienie w gruncie",
+   "akapity": [
+    "Konstrukcja przygotowana pod wysokie sprzęty działa na wietrze jak wielki żagiel. Kiedy zamkniesz ściany, a brama pozostanie otwarta, podmuchy tworzą wewnątrz potężne ciśnienie. W takich warunkach zwykłe kołki rozporowe w kostce brukowej po prostu nie wytrzymają.",
+    "Pod zadaszenie na łódź lub przyczepę potrzebujesz solidnych fundamentów wpuszczonych poniżej strefy przemarzania gruntu. Tylko takie zakotwienie daje pewność, że porywisty wiatr nie uniesie zadaszenia razem z nawierzchnią."
+   ]
+  },
+  {
+   "h2": "Wilgoć na ścianach i zabezpieczenie przed kunami",
+   "akapity": [
+    "Zwykła, pojedyncza blacha na ścianach i dachu ma tendencję do skraplania wody w chłodniejsze dni. Krople spadające z sufitu na łódź lub przyczepę sprzyjają powstawaniu pleśni. Aby tego uniknąć, dach powinien posiadać powłokę antykondensacyjną, a w części magazynowej na osprzęt lepiej sprawdzają się płyty z izolacją.",
+    "Innym problemem na posesjach są gryzonie i kuny, które szukają ciepła w instalacji przyczepy. Każda zabudowa ścienna musi być wykonana bez zbędnych szpar i szczelin, aby szkodniki nie dostały się do cennego wnętrza pojazdu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wszystkie te wymagania spełnia zamknięta wiata CarportActive w kolorze antracyt RAL 7016, oparta na stalowych słupach 100 x 100 x 3 mm i fundamentach poniżej strefy przemarzania. Dach wyposażony jest w blachę z powłoką antykondensacyjną, a ściany możesz wybrać z blachy falistej, płyty PIR 5 cm lub szczelnej żaluzji bez szczelin, przez które nie wejdą kuny. Zadaszenie można zamówić w wersji przelotowej z dwiema bramami segmentowymi lub roletowymi, a ostateczną cenę ustalamy po indywidualnym pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę na łódź można przykręcić do samej kostki brukowej?",
+   "odpowiedz": "Nie, to zbyt duże ryzyko. Zamknięta konstrukcja stawia silny opór wiatrowi, zwłaszcza przy otwartej bramie, dlatego słupy muszą być osadzone w fundamentach poniżej strefy przemarzania."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć wnętrze wiaty przed kunami?",
+   "odpowiedz": "Należy unikać ścian z otwartymi przerwami. Rozwiązaniem są ściany z blachy falistej, płyty PIR 5 cm albo specjalnie wykonana żaluzja bez szczelin, która blokuje dostęp zwierzętom."
+  },
+  {
+   "pytanie": "Na czym polega wersja przelotowa zadaszenia?",
+   "odpowiedz": "To konstrukcja z dwiema bramami: jedną z przodu, a drugą z tyłu. Po otwarciu obu bram możesz przejechać zestawem z przyczepą lub łodzią na wylot, bezpośrednio na drugą część posesji."
+  }
+ ],
+ "nr": 270,
+ "kolejnosc": 216,
+ "temat": "miejsce na przyczepę albo łódź pod dachem",
+ "adres": "miejsce-na-przyczepe-albo-lodz-pod-dachem",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata dla floty firmowej - jak zabezpieczyć auta służbowe",
+ "opis_meta": "Sprawdź, jak zaplanować wiatę na kilka aut służbowych. Dowiedz się, na co zwrócić uwagę przy konstrukcji i fundamentach, by chronić firmową flotę.",
+ "wstep": "Gdy parkujesz na firmowym placu kilka aut służbowych, ich ochrona przed gradem i śniegiem to czysta kalkulacja kosztów. Zniszczone nadwozia lub opóźniony wyjazd do klienta z powodu zamarzniętych szyb oznaczają straty dla firmy. Dobrze zaplanowana wiata wielostanowiskowa rozwiązuje ten problem na lata.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego lekkie konstrukcje nie sprawdzą się przy flocie",
+   "akapity": [
+    "Tanie zadaszenia z marketu są projektowane na minimalne obciążenia wiatrem i śniegiem. W praktyce widzieliśmy już wiele takich daszków, które ugięły się pod naporem mokrego śniegu lub połamały przy pierwszej poważniejszej wichurze. Gdy konstrukcja opiera się na cienkich profilach 40 x 40 mm ze ścianką 2 mm, słupy wyglądają i zachowują się jak zapałki.",
+    "Jeśli parkujesz pod zadaszeniem drogie samochody służbowe, ryzyko zniszczenia całej floty przez załamany dach jest po prostu zbyt duże. Dodatkowo wiaty marketowe bywają przykręcane bezpośrednio do kostki brukowej lub luźnych płyt betonowych. Silny poryw wiatru potrafi poderwać taką konstrukcję jak trampolinę i rzucić na auta Twoje lub sąsiada."
+   ]
+  },
+  {
+   "h2": "Fundamenty to podstawa bezpieczeństwa samochodów",
+   "akapity": [
+    "Stabilność zadaszenia wielostanowiskowego zależy przede wszystkim od tego, co znajduje się pod ziemią. Prawidłowy montaż wymaga wykonania wykopów poniżej strefy przemarzania gruntu, która w Polsce wynosi zazwyczaj około 80 cm, a w niektórych rejonach jeszcze więcej. Na zalanie pojedynczego punktu pod słup potrafi pójść od 5 do 10 worków betonu.",
+    "Oszczędzanie na pracach ziemnych szybko mści się w trakcie eksploatacji placu. Trzeba też pamiętać o kosztach prac towarzyszących, takich jak rozebranie i ponowne ułożenie kostki brukowej wokół słupów oraz wywóz nadmiaru ziemi i gruzu. Alternatywą dla tradycyjnego betonu bywają wkręcane pale, jednak ich instalacja wymaga użycia specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Planowanie przestrzeni dla różnych pojazdów firmowych",
+   "akapity": [
+    "Wiata dla aut firmowych rzadko jest produktem branym prosto z półki za jedną stałą cenę. Auta służbowe to nie tylko standardowe osobówki, ale często także wyższe samochody dostawcze, busy czy pojazdy specjalne. W naszej pracy montowaliśmy już wiatę o zwiększonej wysokości pod kampera, a także duże zadaszenie wielostanowiskowe dla karetek pogotowia.",
+    "Rzetelny wykonawca przyjeżdża na pomiar, ocenia ukształtowanie terenu i dopasowuje rozstaw słupów do promienia skrętu aut. Całość musi być przeliczona przez inżyniera tak, aby manewrowanie na firmowym podwórku było swobodne, a słupy nie blokowały otwierania drzwi przy codziennym załadunku towaru."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive wykonujemy stalowe wiaty z profili 100 x 100 x 3 mm ze stali konstrukcyjnej S235, zabezpieczone ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy zawsze kotwimy do solidnych fundamentów poniżej strefy przemarzania. Oferujemy rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m, a także projekty na wymiar, które można wyposażyć w Solar Box pod fotowoltaikę, panel narzędziowy czy przęsła żaluzjowe. Działamy na terenie Warszawy i Mazowsza, a sam montaż gotowej konstrukcji zajmuje zazwyczaj 1 dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy pod wiatą zmieszczą się wyższe auta dostawcze?",
+   "odpowiedz": "Standardowa wysokość naszych wiat to 2,7 m, co wystarcza dla większości aut. Przygotowujemy również konstrukcje na wymiar indywidualny, dopasowane do pojazdów o nietypowych gabarytach."
+  },
+  {
+   "pytanie": "Jak mogę sprawdzić, jak wiata będzie wyglądać na firmowym parkingu?",
+   "odpowiedz": "Możesz wgrać zdjęcie swojego firmowego podjazdu, a nasz wizualizator AI pokaże wiatę na Twoim placu w 3 różnych wariantach."
+  },
+  {
+   "pytanie": "Czy do wiaty firmowej można domówić dodatkowe wyposażenie?",
+   "odpowiedz": "Tak, konstrukcję można rozbudować o przęsła żaluzjowe, Solar Box pod panele PV, przechowalnię rowerów czy panel narzędziowy przydatny przy serwisowaniu aut."
+  }
+ ],
+ "nr": 276,
+ "kolejnosc": 275,
+ "temat": "wiata dla floty firmowej - kilka aut służbowych",
+ "adres": "wiata-dla-floty-firmowej-kilka-aut-sluzbowych",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

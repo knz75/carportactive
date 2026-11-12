@@ -1,0 +1,57 @@
+{
+ "tytul": "Wysoka wiata - na co uważać przy projekcie? Porady montera",
+ "opis_meta": "Planujesz wysoką wiatę na kampera lub wysokie auto? Zobacz, na co uważać przy projekcie konstrukcji i fundamentów. Sprawdź porady montera.",
+ "wstep": "Wysoka wiata na kampera, busa czy łódź wymaga zupełnie innego podejścia niż niski daszek na małe auto. Wyższa konstrukcja działa jak duży żagiel, przez co błędy w doborze profili lub fundamentu szybko doprowadzą do uszkodzeń. Poniżej zebraliśmy kluczowe kwestie, na które musisz zwrócić uwagę przed rozpoczęciem budowy.",
+ "sekcje": [
+  {
+   "h2": "Siła wiatru i przekrój słupów",
+   "akapity": [
+    "Im wyższy słup, tym większa siła działa na całą konstrukcję podczas silnego wiatru. Tanie wiaty i daszki z marketu są projektowane na minimalne obciążenia śniegiem oraz wiatrem. Pod naporem śniegu potrafią się ugiąć, a przy wichurze stanowią realne zagrożenie dla zaparkowanego pod nimi samochodu.",
+    "Konstrukcję można technicznie złożyć z profilu 40 x 40 mm o ściance 2 mm, ale takie słupy zachowują się jak zapałki. Przy dużej wysokości zadaszenia wiotka konstrukcja może się po prostu złamać podczas nawałnicy. Stabilność wymagana przy wysokich autach zaczyna się od grubościennych, masywnych profili."
+   ]
+  },
+  {
+   "h2": "Solidny fundament zamiast mocowania do kostki",
+   "akapity": [
+    "Częstym błędem na podwórkach jest przykręcanie słupów bezpośrednio do kostki brukowej lub cienkich płyt betonowych. Taka lekka konstrukcja przy porywistym wietrze może zadziałać jak latająca trampolina, polecieć na posesję sąsiada i wyrządzić kosztowne szkody.",
+    "Bezpieczny montaż wymaga wykonania betonowych fundamentów poniżej strefy przemarzania gruntu, do których kotwi się słupy. W Polsce jest to zazwyczaj głębokość około 80 cm, a w niektórych rejonach nawet więcej. Na pojedynczy punkt fundamentowy zużywa się średnio od 5 do 10 worków betonu. Alternatywą są wkręcane pale, lecz wymagają one użycia specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Prace ziemne i otoczenie słupa",
+   "akapity": [
+    "Wysoka wiata to nie tylko sam szkielet dachowy, ale również prace przygotowawcze, o których łatwo zapomnieć przy planowaniu budżetu. Wokół każdego słupa trzeba ostrożnie rozebrać istniejącą kostkę brukową, a po zalaniu fundamentu dociąć ją i ułożyć z powrotem.",
+    "Kolejną kwestią jest nadmiar ziemi oraz gruzu powstały po głębokich wykopach. Warto z góry ustalić, kto zajmie się ich załadunkiem i wywozem z działki, aby podjazd pozostał czysty i przejezdny."
+   ]
+  },
+  {
+   "h2": "Indywidualny projekt pod wymiar pojazdu",
+   "akapity": [
+    "Wysokie zadaszenie rzadko sprawdza się jako typowy produkt z marketowej półki. Bezpieczna konstrukcja powinna być przeliczona przez inżyniera, zwłaszcza gdy planujesz parkować pod nią wysoki pojazd.",
+    "Doświadczenie montażowe pokazuje, że inne parametry są potrzebne pod kampera, inne pod dużą wiatę dla karetek pogotowia, a jeszcze inne pod łódź na przyczepie. Rzetelny wykonawca przyjeżdża na pomiar, ocenia grunt, sprawdza wymiary auta i dopiero po przeliczeniu nośności przygotowuje wycenę."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive to certyfikowana konstrukcja ze stali S235 ze słupami 100 x 100 x 3 mm, zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy zawsze kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Poza bazową wysokością 2,7 m wykonujemy indywidualne projekty dopasowane do kamperów w Warszawie i na Mazowszu, a dopasowanie wiaty do posesji ułatwia nasz wizualizator AI pokazujący obiekt w 3 wariantach na zdjęciu Twojego podjazdu.",
+ "faq": [
+  {
+   "pytanie": "Jaka jest standardowa wysokość wiaty CarportActive?",
+   "odpowiedz": "Wymiary bazowe mają wysokość 2,7 m, ale wykonujemy również konstrukcje na wymiar indywidualny, dopasowane do wyższych pojazdów."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba wkopać fundament pod słupy wiaty?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce wynosi zazwyczaj około 80 cm głębokości lub więcej, zależnie od regionu."
+  },
+  {
+   "pytanie": "Czy wiatę można zaprojektować na łódź z przyczepą?",
+   "odpowiedz": "Tak, konstrukcję można zaprojektować pod indywidualne gabaryty łodzi razem z przyczepą transportową."
+  }
+ ],
+ "nr": 277,
+ "kolejnosc": 276,
+ "temat": "wysoka wiata - na co uważać przy projekcie",
+ "adres": "wysoka-wiata-na-co-uwazac-przy-projekcie",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

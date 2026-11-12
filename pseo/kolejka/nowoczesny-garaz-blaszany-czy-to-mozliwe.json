@@ -1,0 +1,57 @@
+{
+ "tytul": "Nowoczesny garaż blaszany - czy to możliwe?",
+ "opis_meta": "Szukasz nowoczesnego garażu blaszanego? Sprawdź, na co zwrócić uwagę przy konstrukcji, ścianach i fundamentach, aby budynek służył przez lata.",
+ "wstep": "Zastanawiasz się, czy garaż blaszany może wyglądać nowocześnie i nie szpecić Twojego podwórka. Krótka odpowiedź brzmi: tak, ale wymaga to zupełnie innego podejścia do konstrukcji niż przy tanich gotowcach. Zobacz, na jakie elementy zwrócić uwagę, aby budynek był trwały, szczelny i estetyczny.",
+ "sekcje": [
+  {
+   "h2": "Solidna podstawa zamiast kotew w kostce",
+   "akapity": [
+    "Wielu inwestorów zaczyna od wyboru koloru blachy, zapominając o fundamencie. To błąd, ponieważ zamknięta bryła działa jak duży żagiel. Taki budynek łapie wiatr znacznie mocniej niż zadaszenie otwarte, zwłaszcza w momencie, gdy brama jest otwarta podczas silniejszych podmuchów.",
+    "Mocowanie słupów za pomocą zwykłych kotew w kostce brukowej to prosta droga do problemów przy pierwszej wichurze. Stabilność gwarantują wyłącznie fundamenty sięgające poniżej strefy przemarzania gruntu. Tylko wtedy cała konstrukcja zachowuje pion przez lata, a brama nie zacina się przy zamykaniu."
+   ]
+  },
+  {
+   "h2": "Pocenie się ścian i dobór materiałów",
+   "akapity": [
+    "Tradycyjna pojedyncza blacha ma jedną dużą wadę, którą widać jesienią i zimą. W chłodne dni na wewnętrznej stronie ścian skrapla się wilgoć. Woda spływa po ścianach na podłogę, co może niszczyć przechowywane wewnątrz przedmioty.",
+    "Jeśli planujesz w środku schowek na narzędzia, kosiarkę lub rowery, sama blacha może okazać się niewystarczająca. W takich miejscach znacznie lepiej sprawdza się płyta PIR o grubości 5 cm. Na dachu niezbędna jest natomiast blacha wyposażona w specjalną powłokę antykondensacyjną, która zatrzymuje wilgoć."
+   ]
+  },
+  {
+   "h2": "Ściany z żaluzji i ochrona przed gryzoniami",
+   "akapity": [
+    "Nowoczesny wygląd można uzyskać dzięki obudowie z blachy falistej lub poziomych paneli żaluzjowych. Przy żaluzjach warto jednak pamiętać o kwestii szczelności. Klasyczne ażurowe przesłony wpuszczają do środka liście, śnieg oraz nieproszonych gości.",
+    "Praktycznym rozwiązaniem są panele żaluzjowe montowane bez żadnych szczelin, tworzące szczelne ożebrowanie. Taka ściana wygląda z zewnątrz nowocześnie i lekko, a działa dokładnie jak pełna blacha. Przede wszystkim stanowi skuteczną barierę dla kun, które często szukają schronienia w ciepłych komorach silników."
+   ]
+  },
+  {
+   "h2": "Wygodny wjazd i układ przelotowy",
+   "akapity": [
+    "Trudno mówić o nowoczesnym garażu, jeśli musisz ręcznie szarpać się ze skrzydłami drzwi. Standardem ułatwiającym codzienne życie stają się automatyczne bramy segmentowe lub roletowe. Zapewniają one wygodny wjazd za pomocą pilota i oszczędzają miejsce na podjeździe.",
+    "Praktycznym pomysłem przy wąskich działkach jest montaż dwóch bram: z przodu oraz z tyłu budynku. Taki układ przelotowy pozwala po otwarciu obu bram przejechać autem, traktorkiem ogrodowym lub przyczepą bezpośrednio na tył posesji."
+   ]
+  }
+ ],
+ "rozwiazanie": "Nowoczesną alternatywą dla typowego blaszaka jest zamknięta stalowa wiata CarportActive w kolorze antracyt RAL 7016, oparta na mocnych słupach 100 x 100 x 3 mm i fundamentach poniżej strefy przemarzania. Konstrukcję możemy wyposażyć w dach z powłoką antykondensacyjną oraz ściany z blachy falistej, płyty PIR 5 cm lub żaluzji bez szczelin, chroniących przed kunami. Montujemy zautomatyzowane bramy segmentowe (np. Hörmann) lub roletowe (np. Portos), także w wersji przelotowej z wjazdem i wyjazdem na wylot. Cenę ustalamy indywidualnie po dokładnym pomiarze na miejscu, uwzględniając wymiary, rodzaj ścian, liczbę bram oraz ewentualne pomieszczenie gospodarcze.",
+ "faq": [
+  {
+   "pytanie": "Czy w zamkniętej konstrukcji można zrobić wyjazd na tył ogrodu?",
+   "odpowiedz": "Tak, istnieje możliwość wykonania wersji przelotowej z bramą zamontowaną z przodu oraz z tyłu, co umożliwia przejazd na wylot."
+  },
+  {
+   "pytanie": "Dlaczego ściany z samej blachy mogą sprawiać problemy?",
+   "odpowiedz": "Pojedyncza blacha w chłodne dni mocno się poci od wewnątrz, dlatego w miejscach przeznaczonych na schowek lepiej sprawdza się płyta PIR o grubości 5 cm."
+  },
+  {
+   "pytanie": "Jak zabezpieczyć garaż żaluzjowy przed kunami?",
+   "odpowiedz": "Należy zastosować ściany żaluzjowe montowane bez szczelin. Tworzą one szczelną barierę mechaniczną, przez którą zwierzęta nie przecisną się do środka."
+  }
+ ],
+ "nr": 269,
+ "kolejnosc": 205,
+ "temat": "nowoczesny garaż blaszany - czy to możliwe",
+ "adres": "nowoczesny-garaz-blaszany-czy-to-mozliwe",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

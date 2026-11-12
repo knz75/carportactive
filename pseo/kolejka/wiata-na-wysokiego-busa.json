@@ -1,0 +1,51 @@
+{
+ "tytul": "Wiata na wysokiego busa. Na co zwrócić uwagę przed montażem?",
+ "opis_meta": "Szukasz wiaty na wysokiego busa? Sprawdź, jaka wysokość i fundamenty utrzymają konstrukcję przy silnym wietrze. Poznaj porady montera.",
+ "wstep": "Szukasz zadaszenia dla wysokiego busa lub vana i standardowe daszki są za niskie. Przy wyższym aucie liczy się nie tylko sam prześwit, ale przede wszystkim stabilność konstrukcji na wietrze. Zobacz, na co zwrócić uwagę, żeby wiata nie ugięła się pod śniegiem ani nie odleciała podczas burzy.",
+ "sekcje": [
+  {
+   "h2": "Wysokość wjazdu i manewrowanie busem",
+   "akapity": [
+    "Standardowe wiaty projektuje się zwykle pod auta osobowe, dlatego wysoki bus po prostu się pod nimi nie zmieści. Przy planowaniu wysokości musisz pamiętać nie tylko o dachu auta, ale też o antenach, relingach czy bagażniku dachowym.",
+    "Wysoki samochód potrzebuje też więcej swobody przy wjeździe i wyjeździe. Jeśli podjazd ma lekki spadek, wysokość wjazdu w najniższym punkcie musi nadal dawać bezpieczny zapas nad dachem pojazdu."
+   ]
+  },
+  {
+   "h2": "Dlaczego wysoka wiata wymaga mocniejszej stali",
+   "akapity": [
+    "Im wyższy słup i większy dach, tym silniej na wiatę działa boczny wiatr. Tanie konstrukcje z marketu bywają robione z profili 40 x 40 mm o ściance 2 mm. Przy dużej wysokości słupy wyglądają wtedy jak zapałki i przy mocnych porywach wiatru mogą się po prostu złamać.",
+    "Tanie daszki są liczone na minimalne obciążenia, dlatego często widać konstrukcje ugięte pod ciężarem mokrego śniegu. Jeśli parkujesz pod dachem drogi samochód dostawczy, konstrukcja musi być policzona przez inżyniera i wykonana z grubego profilu stalowego."
+   ]
+  },
+  {
+   "h2": "Fundamenty poniżej strefy przemarzania gruntu",
+   "akapity": [
+    "Lekkie wiaty z marketu bywają przykręcane bezpośrednio do płyt chodnikowych albo kostki brukowej. Podczas wichury taka konstrukcja może polecieć jak trampolina z internetowych filmików i uszkodzić auto lub dom sąsiada.",
+    "Dlatego słupy wiaty trzeba kotwić w solidnym betonie sięgającym poniżej strefy przemarzania gruntu. W Polsce oznacza to zazwyczaj około 80 cm głębokości, a w niektórych rejonach jeszcze więcej. Na jeden stabilny punkt fundamentowy potrafi pójść od 5 do 10 worków betonu.",
+    "Pamiętaj też o dodatkowych pracach przy montażu. Konieczne bywa rozebranie i ponowne ułożenie kostki brukowej wokół słupów oraz wywóz wykopanej ziemi i gruzu. Oszczędzanie na tych elementach zawsze wychodzi bokiem podczas użytkowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive wykonujemy stalowe wiaty garażowe ze stali konstrukcyjnej S235 ze słupami z profilu 100 x 100 x 3 mm, zabezpieczone ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Poza bazową wysokością 2,7 m przygotowujemy projekty na wymiary indywidualne, dopasowane do wysokich busów czy kamperów, a słupy kotwimy w fundamentach poniżej strefy przemarzania. Działamy w Warszawie i na Mazowszu, gdzie montaż zajmuje nam zazwyczaj 1 dzień roboczy. Na naszej stronie możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI bezpłatnie pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jaka wysokość wiaty jest potrzebna na wysokiego busa?",
+   "odpowiedz": "Wysokość zależy od modelu pojazdu oraz wyposażenia dachowego, jednak zazwyczaj bezpieczna przestrzeń zaczyna się od 2,7 m lub wymaga projektu na wymiar indywidualny."
+  },
+  {
+   "pytanie": "Czy wiatę na busa można przykręcić do samej kostki brukowej?",
+   "odpowiedz": "Nie, wysoka wiata działa jak żagiel i poryw wiatru może ją wyrwać razem z kostką. Słupy muszą być zakotwione w betonowych fundamentach sięgających poniżej strefy przemarzania gruntu na głębokość około 80 cm."
+  },
+  {
+   "pytanie": "Ile trwa montaż stalowej wiaty garażowej?",
+   "odpowiedz": "Montaż gotowej konstrukcji wiaty na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  }
+ ],
+ "nr": 273,
+ "kolejnosc": 272,
+ "temat": "wiata na wysokiego busa",
+ "adres": "wiata-na-wysokiego-busa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

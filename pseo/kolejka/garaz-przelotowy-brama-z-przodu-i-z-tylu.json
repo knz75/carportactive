@@ -1,0 +1,50 @@
+{
+ "tytul": "Garaż przelotowy: brama z przodu i z tyłu. Jak to zrobić z głową",
+ "opis_meta": "Planujesz garaż przelotowy z dwiema bramami? Sprawdź, na co uważać przy naporze wiatru, jak dobrać ściany i przygotować solidne fundamenty.",
+ "wstep": "Garaż przelotowy z bramą z przodu i z tyłu to sprawdzony sposób na wąską działkę, gdy musisz regularnie przejeżdżać na tył ogrodu. Otwierasz oba wjazdy i przejeżdżasz na wylot bez cofania i niszczenia trawnika. Zanim jednak zamówisz taką konstrukcję, poznaj kilka technicznych faktów z montaży.",
+ "sekcje": [
+  {
+   "h2": "Kiedy brama z przodu i z tyłu jest najlepszym wyborem",
+   "akapity": [
+    "Taki układ sprawdza się najlepiej wtedy, gdy garaż stoi w wąskim przejeździe obok domu albo bezpośrednio odcina dojazd do dalszej części posesji. Dzięki dwóm bramom możesz bez problemu przetransportować drewno opałowe, ziemię do ogrodu czy wjechać kosiarką traktorkiem. Przydaje się to także przy parkowaniu przyczepy, którą łatwiej przeciągnąć na wylot niż manewrować nią na ciasnym podjeździe.",
+    "Po otwarciu obu skrzydeł zyskujesz wygodny korytarz transportowy bez konieczności robienia osobnej drogi wokół budynku. Trzeba jednak pamiętać, że konstrukcja przelotowa wymaga odpowiedniego zaplanowania przestrzeni pod sufitem na prowadnice obu bram."
+   ]
+  },
+  {
+   "h2": "Napór wiatru i fundamenty, czyli pułapka tunelu",
+   "akapity": [
+    "Zamknięta konstrukcja z bramami stawia znacznie większy opór dla wiatru niż zwykła wiata z otwartymi bokami. Sytuacja staje się szczególnie trudna, kiedy podczas silnej wichury otworzysz jedną lub obie bramy. Tworzy się wtedy tunel aerodynamiczny, a wiatr napiera na ściany i dach od środka z ogromną siłą.",
+    "Z montaży wiemy, że kotwienie takiej konstrukcji w samej kostce brukowej to poważny błąd. Garaż z dwiema bramami wymaga pełnych fundamentów sięgających poniżej strefy przemarzania. Tylko solidne posadowienie w gruncie daje pewność, że porywisty wiatr nie poderwie słupów ani nie wypaczy ram wjazdowych."
+   ]
+  },
+  {
+   "h2": "Wybór ścian: blacha falista, płyta PIR czy żaluzja",
+   "akapity": [
+    "Wybór poszycia ścian zależy od tego, co zamierzasz trzymać w środku poza samym samochodem. Zwykła blacha falista tworzy trwałe zamknięcie, ale w chłodne dni na jej powierzchni od wewnątrz skrapla się wilgoć. Jeśli planujesz zorganizować w garażu warsztat lub schowek na narzędzia, znacznie lepiej sprawdza się płyta PIR o grubości 5 cm, która ogranicza ten problem.",
+    "Ciekawą opcją są ściany z żaluzji stalowej, pod warunkiem że wybierzesz wariant bez szczelin. Wyglądają nowocześnie i estetycznie, a jednocześnie zachowują pełną szczelność blachy falistej. Brak prześwitów uniemożliwia wchodzenie kunom i innym dzikim zwierzętom, które szukają ciepła pod maską zaparkowanego auta."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jako CarportActive budujemy zamknięte wiaty przelotowe na solidnej konstrukcji ze stalowych słupów 100 x 100 x 3 mm w kolorze antracyt RAL 7016, kotwionych w fundamentach poniżej strefy przemarzania. Z przodu i z tyłu montujemy bramy segmentowe np. Hörmann lub roletowe np. Portos, w tym wersje z automatycznym napędem. Ściany wykonujemy z żaluzji bez szczelin, blachy falistej lub płyty PIR 5 cm, a dach wyposażamy w powłokę antykondensacyjną. Cenę ustalamy indywidualnie po dokładnym pomiarze na miejscu, uwzględniając wymiary, rodzaj ścian, liczbę bram i opcjonalne pomieszczenie gospodarcze.",
+ "faq": [
+  {
+   "pytanie": "Czy w garażu przelotowym można zamontować napęd do obu bram?",
+   "odpowiedz": "Tak, do obu bram montuje się niezależne napędy elektryczne, którymi można sterować jednym pilotem."
+  },
+  {
+   "pytanie": "Dlaczego pod dachem z blachy potrzebna jest powłoka antykondensacyjna?",
+   "odpowiedz": "Powłoka antykondensacyjna zatrzymuje skraplającą się wilgoć, zapobiegając kapaniu wody bezpośrednio na karoserię auta i przechowywane rzeczy."
+  },
+  {
+   "pytanie": "Czy ściany z żaluzji bez szczelin chronią przed gryzoniami?",
+   "odpowiedz": "Tak, żaluzja bez szczelin jest szczelnie spasowana w żebra, dzięki czemu kuny i drobne gryzonie nie mają jak przecisnąć się do wnętrza garażu."
+  }
+ ],
+ "nr": 259,
+ "kolejnosc": 77,
+ "temat": "garaż przelotowy - brama z przodu i z tyłu",
+ "adres": "garaz-przelotowy-brama-z-przodu-i-z-tylu",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

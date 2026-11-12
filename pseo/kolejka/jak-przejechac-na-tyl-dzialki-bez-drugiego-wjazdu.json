@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak przejechać na tył działki bez drugiego wjazdu?",
+ "opis_meta": "Masz wąską działkę i brak drugiego wjazdu? Sprawdź, jak zaplanować przejazd kosiarką, autem czy przyczepką na tył ogrodu przez budynek lub wiatę.",
+ "wstep": "Jeśli Twoja działka jest wąska lub gęsto zabudowana, dostanie się do ogrodu bywa sporym problemem. Nie musisz jednak niszczyć rabat ani przeciskać się ze sprzętem przez wąską furtkę. Zobacz, jak zorganizować wygodny przejazd na tył posesji, korzystając z jednego istniejącego wjazdu.",
+ "sekcje": [
+  {
+   "h2": "Wąskie gardło przy domu - skąd bierze się problem",
+   "akapity": [
+    "Często dom lub garaż stoi tak blisko ogrodzenia, że obok zmieści się co najwyżej taczka. Kiedy chcesz dowieźć drewno, ziemię pod trawnik albo wjechać kosiarką traktorkiem, brak miejsca staje się uciążliwy. Jeśli z boku budynku nie da się wytyczyć utwardzonej drogi, musisz wykorzystać przestrzeń, którą już masz od frontu.",
+    "W takiej sytuacji naturalnym korytarzem staje się miejsce parkingowe przed domem. Zamiast rezygnować z zadaszenia dla auta na rzecz pustego przejazdu, lepiej połączyć obie te funkcje w jednym miejscu."
+   ]
+  },
+  {
+   "h2": "Konstrukcja przelotowa, czyli dwie bramy w jednej linii",
+   "akapity": [
+    "Praktycznym sposobem na ominięcie przeszkody jest stworzenie przejazdu przez samo zadaszenie garażowe. Wystarczy zaplanować dwie bramy w osi jazdy: jedną od strony ulicy, a drugą wychodzącą prosto na ogród. Na co dzień parkujesz w środku samochód, a budynek jest zamknięty i bezpieczny.",
+    "Kiedy przychodzi czas na prace w ogrodzie lub większe porządki, otwierasz obie bramy i przejeżdżasz na wylot. Zyskujesz swobodne połączenie frontu z tyłem działki dla przyczepki, traktorka czy taczek bez niszczenia roślin wokół domu."
+   ]
+  },
+  {
+   "h2": "O czym pamiętać przy planowaniu przejazdu na wylot",
+   "akapity": [
+    "Gdy otworzysz obie bramy naraz, przez wnętrze przechodzi mocny ciąg powietrza. Taka zamknięta konstrukcja łapie wiatr znacznie silniej niż w pełni otwarta wiata, szczególnie podczas porywistych burz. Z tego powodu nie wolno stawiać takich obiektów na zwykłych kotwach wkręconych w kostkę brukową, bo wiatr może wyrwać słupy.",
+    "Zwróć też uwagę na materiał ścian i dachu. W chłodniejsze dni ściany z samej blachy mogą się pocić od środka, co sprawia, że wewnątrz robi się wilgotno. Jeśli w przejeździe planujesz trzymać wrażliwe narzędzia lub kosiarkę, lepiej sprawdzają się ściany z płyty z rdzeniem izolacyjnym oraz dach z powłoką chroniącą przed skraplaniem wody."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive rozwiązujemy ten problem za pomocą zamkniętej wiaty stalowej w wersji przelotowej. Konstrukcję opieramy na słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016 i stabilnych fundamentach poniżej strefy przemarzania. Montujemy bramę z przodu oraz z tyłu (segmentową np. Hörmann lub roletową np. Portos, także z napędem), co po otwarciu obu pozwala przejechać na wylot na tył działki. Do wyboru masz dach z powłoką antykondensacyjną oraz ściany z blachy falistej, szczelnej żaluzji bez prześwitów chroniącej przed kunami albo płyty PIR 5 cm, a cenę liczymy po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy przez wiatę przelotową można przejechać większym sprzętem?",
+   "odpowiedz": "Tak, po otwarciu przedniej i tylnej bramy masz swobodny przejazd na tył działki, ograniczony jedynie szerokością i wysokością światła wjazdu wybranych bram."
+  },
+  {
+   "pytanie": "Dlaczego konstrukcja przelotowa wymaga głębokiego fundamentu?",
+   "odpowiedz": "Zamknięty budynek z bramami mocno opiera się podmuchom wiatru, zwłaszcza przy przeciągu po otwarciu wjazdu. Zwykłe kotwienie w kostce jest za słabe, dlatego fundamenty muszą sięgać poniżej strefy przemarzania."
+  },
+  {
+   "pytanie": "Co zrobić, żeby wewnątrz przejazdu nie skraplała się woda?",
+   "odpowiedz": "W nieogrzewanych obiektach ściany z samej blachy falistej mogą się pocić w chłodne dni. Warto wybrać dach ze specjalną powłoką antykondensacyjną oraz ściany z płyty PIR 5 cm, która ogranicza ten problem."
+  }
+ ],
+ "nr": 260,
+ "kolejnosc": 90,
+ "temat": "jak przejechać na tył działki bez drugiego wjazdu",
+ "adres": "jak-przejechac-na-tyl-dzialki-bez-drugiego-wjazdu",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

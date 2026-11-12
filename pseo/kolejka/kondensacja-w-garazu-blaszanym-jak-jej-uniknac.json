@@ -1,0 +1,57 @@
+{
+ "tytul": "Kondensacja w garażu blaszanym - jak jej uniknąć",
+ "opis_meta": "Krople wody na suficie to częsty problem w blaszaku. Zobacz, skąd bierze się kondensacja w garażu blaszanym i jak skutecznie ograniczyć wilgoć.",
+ "wstep": "Wchodzisz rano do blaszaka, a z dachu kapie woda prosto na dach samochodu. Znamy ten widok z dziesiątek podwórek, które odwiedzamy podczas montaży. Kondensacja pojawia się wtedy, gdy ciepłe i wilgotne powietrze styka się z zimną blachą.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego blaszak się poci",
+   "akapity": [
+    "Blacha błyskawicznie przejmuje temperaturę otoczenia. Gdy wjeżdżasz do środka rozgrzanym autem po deszczu lub śniegu, parująca woda unosi się do góry. Zimny sufit natychmiast zamienia tę parę w krople wody.",
+    "Problem bardzo często zaczyna się także od dołu. Zwykła wylewka lub kostka brukowa bez izolacji podciąga wilgoć z gruntu. Brak ruchu powietrza w szczelnie zamkniętym garażu sprawia, że ta wilgoć nie ma gdzie uciec."
+   ]
+  },
+  {
+   "h2": "Wentylacja to podstawa walki ze skraplaniem",
+   "akapity": [
+    "Najprostszym sposobem na zmniejszenie kondensacji jest zapewnienie stałego przepływu powietrza. Zamknięty szczelnie blaszak działa jak termos z zimną pokrywką, w którym para natychmiast siada na ścianach i dachu.",
+    "Warto zamontować kratki wentylacyjne po przeciwnych stronach garażu. Jedną umieść nisko przy posadzce, a drugą wysoko pod dachem. Taki układ wymusza naturalną cyrkulację i na bieżąco usuwa nadmiar pary wodnej na zewnątrz."
+   ]
+  },
+  {
+   "h2": "Ochrona dachu i ścian przed wilgocią",
+   "akapity": [
+    "Krople spadające na auto można zatrzymać za pomocą blachy dachowej z powłoką antykondensacyjną. Taki filc wchłania skraplającą się wodę, a gdy temperatura rośnie i pojawia się przewiew, wilgoć po prostu odparowuje.",
+    "Pamiętaj też, że ściany z samej blachy mogą się mocno pocić od środka w chłodne dni. Jeśli planujesz trzymać w garażu narzędzia lub zrobić mały warsztat, blacha bez żadnej izolacji szybko doprowadzi do rdzewienia metalowych przedmiotów."
+   ]
+  },
+  {
+   "h2": "Odizolowanie podłoża od gruntu",
+   "akapity": [
+    "Wielu właścicieli stawia blaszaki bezpośrednio na gruncie lub na luźno ułożonych płytach. Woda z ziemi stale paruje do wnętrza, co potęguje efekt kapiącego sufitu.",
+    "Jeżeli przygotowujesz podłoże, pomyśl o folii hydroizolacyjnej pod płytą betonową. Zimą staraj się też regularnie wymiatać naniesione na kołach błoto pośniegowe, bo to gotowe źródło litrów wody parującej w zamkniętej przestrzeni."
+   ]
+  }
+ ],
+ "rozwiazanie": "Trwałym rozwiązaniem problemu z wilgocią może być zamknięta wiata stalowa CarportActive na słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016, posadowiona na fundamentach poniżej strefy przemarzania. Zastosowany dach z powłoką antykondensacyjną zatrzymuje skropliny, a ściany z płyty PIR 5 cm chronią narzędzia przed poceniem się blachy. Obiekt można wyposażyć w bramę segmentową lub roletową, a cenę liczymy indywidualnie po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy powłoka antykondensacyjna rozwiązuje problem w stu procentach?",
+   "odpowiedz": "Filc pod blachą magazynuje skropliny w nocy, ale wymaga sprawnej wentylacji w garażu, aby w ciągu dnia nagromadzona wilgoć mogła swobodnie odparować."
+  },
+  {
+   "pytanie": "Dlaczego ściany z blachy robią się mokre od środka?",
+   "odpowiedz": "Ściany z samej blachy szybko wychładzają się do temperatury zewnętrznej, przez co wilgoć z wnętrza garażu natychmiast się na nich skrapla w chłodne dni."
+  },
+  {
+   "pytanie": "Jak wiatr wpływa na zamkniętą konstrukcję garażową?",
+   "odpowiedz": "Zamknięta konstrukcja łapie podmuchy wiatru mocniej niż otwarta wiata, szczególnie przy otwartej bramie, dlatego wymaga solidnych fundamentów w gruncie, a nie tylko kotew w kostce."
+  }
+ ],
+ "nr": 257,
+ "kolejnosc": 51,
+ "temat": "kondensacja w garażu blaszanym - jak jej uniknąć",
+ "adres": "kondensacja-w-garazu-blaszanym-jak-jej-uniknac",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

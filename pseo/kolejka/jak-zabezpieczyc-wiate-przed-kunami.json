@@ -1,0 +1,56 @@
+{
+ "tytul": "Jak zabezpieczyć wiatę przed kunami? Praktyczne sposoby",
+ "opis_meta": "Sprawdź, jak zabezpieczyć wiatę przed kunami. Poznaj skuteczne sposoby na ochronę auta i dowiedz się, dlaczego szczelna zabudowa to podstawa.",
+ "wstep": "Kuna pod wiatą to ryzyko przegryzionych kabli i zniszczonego wygłuszenia w aucie. W otwartej przestrzeni te zwierzęta czują się swobodnie, bo szukają ciepła stygnącego silnika. Z tego poradnika dowiesz się, jak skutecznie zablokować im dostęp do samochodu.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego kuna wybiera Twoją wiatę garażową",
+   "akapity": [
+    "Kuny szukają schronienia i ciepła, a komora silnika niedawno zaparkowanego auta to dla nich doskonała kryjówka. Otwarta wiata chroni je przed deszczem i wiatrem, ale nie stanowi żadnej bariery fizycznej. Zwierzę bez trudu wchodzi po oponach pod maskę, gdzie zostawia swój zapach i gryzie przewody."
+   ]
+  },
+  {
+   "h2": "Odstraszacze dźwiękowe i zapachowe - czy działają",
+   "akapity": [
+    "Wielu kierowców zaczyna od kostek toaletowych, sierści psa lub preparatów w sprayu. Te metody działają jednak krótko, bo zapachy szybko wietrzeją na świeżym powietrzu pod zadaszeniem. Kuny z czasem przyzwyczajają się do nowej woni i przestają na nią reagować.",
+    "Ultradźwiękowe odstraszacze montowane pod maską mogą pomóc, ale na otwartej przestrzeni dźwięk szybko się rozprasza. Jeśli w okolicy żeruje kilka osobników, same bodźce dźwiękowe rzadko rozwiązują problem na stałe."
+   ]
+  },
+  {
+   "h2": "Fizyczne zabezpieczenia na podłożu i wokół auta",
+   "akapity": [
+    "Popularnym i tanim sposobem jest rozłożenie metalowej siatki na ziemi w miejscu postoju. Kuny mają delikatne łapy i unikają chodzenia po uginającym się drucie. Siatka musi jednak wystawać poza obrys samochodu, a codzienne najeżdżanie na nią bywa uciążliwe.",
+    "Możesz też założyć twarde peszle ochronne na kable w komorze silnika. To zabezpiecza newralgiczne punkty, ale nie usuwa problemu obecności szkodnika w zadaszeniu. Najpewniejszym krokiem jest uniemożliwienie zwierzęciu wejścia w strefę postojową."
+   ]
+  },
+  {
+   "h2": "Szczelna zabudowa boków zamiast otwartej przestrzeni",
+   "akapity": [
+    "Z doświadczenia wiemy, że kuna przeciśnie się przez szczelinę o szerokości zaledwie kilku centymetrów. Zwykłe ażurowe ścianki nie zatrzymają intruza. Żeby odciąć mu drogę, zabudowa ścian bocznych musi być wykonana na styk, bez wolnych przestrzeni.",
+    "Pamiętaj też, że zamknięta konstrukcja łapie wiatr znacznie mocniej niż otwarta wiata, szczególnie gdy brama jest otwarta. Taki budynek potrzebuje stabilnych, wylewanych fundamentów, a nie tylko mocowania do kostki brukowej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Trwałym rozwiązaniem problemu kun jest zamknięta wiata stalowa CarportActive na słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016, osadzona na fundamentach poniżej strefy przemarzania. Ściany z żaluzji montujemy bez szczelin, dzięki czemu kuna nie ma punktu wejścia, podobnie jak przy ścianach z blachy falistej lub płyty PIR 5 cm. Wiatę zamykamy bramą segmentową (np. Hörmann) lub roletową (np. Portos), a dach wyposażamy w powłokę antykondensacyjną. Cenę ustalamy indywidualnie po dokładnym pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy kuna potrafi wspiąć się po słupie wiaty?",
+   "odpowiedz": "Tak, kuna bez problemu wspina się po chropowatych ścianach, drewnie czy rynnach. Po gładkim słupie stalowym jest to trudniejsze, ale potrafi wskoczyć na dach z pobliskiego drzewa lub płotu."
+  },
+  {
+   "pytanie": "Czy ściana żaluzyjna chroni przed wejściem kuny?",
+   "odpowiedz": "Tak, pod warunkiem że jest wykonana bez szczelin. Nasze ściany żaluzjowe montujemy na styk w żebra, dzięki czemu są tak samo szczelne jak pełna blacha falista."
+  },
+  {
+   "pytanie": "Dlaczego blacha na ścianach wiaty może się pocić?",
+   "odpowiedz": "Ściany z pojedynczej blachy falistej mogą w chłodne dni zbierać wilgoć od wewnątrz. W miejscach, gdzie planujesz schowek na narzędzia, lepiej sprawdzają się ściany z płyty PIR 5 cm."
+  }
+ ],
+ "nr": 264,
+ "kolejnosc": 142,
+ "temat": "jak zabezpieczyć wiatę przed kunami",
+ "adres": "jak-zabezpieczyc-wiate-przed-kunami",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

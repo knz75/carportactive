@@ -31,7 +31,7 @@ FOOTER = '''<footer class="site-foot">
     <div class="foot-grid">
       <div>
         <a class="logo" href="/">Carport<span>Active</span></a>
-        <p style="margin-top:12px;max-width:360px">Stalowe wiaty modułowe ze stali S235. Projektujemy, spawamy i montujemy w całej Polsce.</p>
+        <p style="margin-top:12px;max-width:360px">Stalowe wiaty modułowe ze stali S235. Jesteśmy z Pruszkowa, montujemy w Warszawie i na Mazowszu.</p>
       </div>
       <div>
         <h3>Moduły</h3>
@@ -43,6 +43,7 @@ FOOTER = '''<footer class="site-foot">
           <li><a href="/moduly/przechowalnia-rowerow/">Przechowalnia rowerów</a></li>
           <li><a href="/moduly/solar-box/">Solar Box (PV)</a></li>
           <li><a href="/moduly/przeslo-zaluzjowe/">Przęsło żaluzjowe</a></li>
+          <li><a href="/moduly/zamknieta-wiata/">Zamknięta wiata</a></li>
         </ul>
       </div>
       <div>
@@ -50,6 +51,7 @@ FOOTER = '''<footer class="site-foot">
         <ul>
           <li><a href="/realizacje/">Realizacje</a></li>
           <li><a href="/montaz/">Montaż wiat</a></li>
+          <li><a href="/okolice/">Obszar działania</a></li>
           <li><a href="/dodatki/ca-stand/">Stojaki CA-Stand</a></li>
           <li><a href="/poradnik/">Poradnik</a></li>
           <li><a href="/ai/">Wizualizacja AI</a></li>
@@ -105,7 +107,7 @@ def form(options, selected="", placeholder="Wymiary (np. 4x6 m), miejscowość, 
 
 MODULE_OPTIONS = ["Moduł sportowy (drabinka, drążek)", "Solar Box (konstrukcja pod fotowoltaikę PV)",
                   "Panel narzędziowy / warsztat", "Ogród wertykalny", "Plac zabaw dla dzieci",
-                  "Przechowalnia rowerów", "Przęsło żaluzjowe (osłona boczna)", "Stojak na narzędzia CA-Stand", "Montaż wiaty z zestawu", "Kilka modułów - omówię szczegóły"]
+                  "Przechowalnia rowerów", "Przęsło żaluzjowe (osłona boczna)", "Zamknięta wiata (ściany i brama)", "Stojak na narzędzia CA-Stand", "Montaż wiaty z zestawu", "Kilka modułów - omówię szczegóły"]
 
 def page(title, desc, canonical, body, robots="index, follow", og_image="/img/solar.jpg", og_type="website", ld=None, extra_head=""):
     ldj = f'<script type="application/ld+json">\n{json.dumps(ld, ensure_ascii=False)}\n</script>' if ld else ""

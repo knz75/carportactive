@@ -1,0 +1,56 @@
+{
+ "tytul": "Wiata z bramą roletową - jak ją zaplanować i na co uważać",
+ "opis_meta": "Szukasz wiaty z bramą roletową? Sprawdź porady montera: jak dobrać ściany, fundamenty i zabezpieczyć wjazd. Praktyczny przewodnik bez marketingowego bełkotu.",
+ "wstep": "Chcesz zamknąć wiatę bramą roletową, żeby chronić auto i schowane rzeczy przed deszczem oraz wzrokiem przechodniów. Zanim zdecydujesz się na montaż, musisz wziąć pod uwagę siłę wiatru, rodzaj bocznych ścian oraz wilgoć. Doświadczenie z montaży pokazuje, że diabeł tkwi w detalach, o których łatwo zapomnieć na etapie planowania.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego brama roletowa dobrze sprawdza się w wiacie",
+   "akapity": [
+    "Brama roletowa nawija się na wał umieszczony w skrzynce tuż nad wjazdem. W przeciwieństwie do tradycyjnych rozwiązań nie zabiera cennego miejsca pod sufitem wewnątrz wiaty. Dzięki temu masz pełną swobodę manewru i możesz w pełni wykorzystać wysokość konstrukcji.",
+    "Do bramy roletowej bez problemu dobierzesz napęd elektryczny. Pozwala to na wygodne otwieranie wjazdu pilotem, więc nie musisz moknąć na deszczu po powrocie do domu."
+   ]
+  },
+  {
+   "h2": "Fundamenty i wiatr - o czym musisz wiedzieć",
+   "akapity": [
+    "Zwykła wiata bez ścian pozwala wiatrowi swobodnie przepływać między słupami. Kiedy zabudujesz boki i wstawisz bramę, cała konstrukcja zaczyna stawiać duży opór powietrzu. Dzieje się tak zwłaszcza wtedy, gdy brama jest otwarta, a podmuchy wpadają wprost do wnętrza wiaty.",
+    "Z tego powodu zabudowana wiata potrzebuje solidnych fundamentów sięgających poniżej strefy przemarzania gruntu. Kotwienie słupów bezpośrednio do kostki brukowej to częsty błąd, który przy silnym wietrze może doprowadzić do poderwania konstrukcji."
+   ]
+  },
+  {
+   "h2": "Jakie ściany dobrać do bramy roletowej",
+   "akapity": [
+    "Zamknięcie frontu bramą wymaga też odpowiedniego wypełnienia boków. Jeżeli wybierzesz ściany z samej blachy falistej, musisz liczyć się z tym, że w chłodniejsze dni blacha może się pocić od środka. Gdy chcesz trzymać w środku narzędzia lub stworzyć schowek, znacznie lepiej sprawdzi się płyta PIR o grubości 5 cm, która ogranicza ten problem. Dobrze sprawdza się także dach z powłoką antykondensacyjną, zapobiegający kapaniu wody na auto.",
+    "Inną opcją są ściany żaluzjowe. Warto zadbać o to, aby były wykonane bez szczelin, tworząc układ zwartej żaluzji. Taka zabudowa wygląda nowocześnie, a przy tym stanowi barierę, przez którą do środka nie przedostaną się kuny szukające schronienia przy ciepłym silniku."
+   ]
+  },
+  {
+   "h2": "Wersja przelotowa - wygodne rozwiązanie na działkę",
+   "akapity": [
+    "Ciekawym wariantem montażowym jest wiata z dwiema bramami - jedną z przodu, a drugą z tyłu konstrukcji. Kiedy otworzysz obie bramy, możesz bez problemu przejechać autem, traktorkiem ogrodowym lub przyczepką na wylot, bezpośrednio na tył swojej działki. To bardzo praktyczne rozwiązanie, jeśli za wiatą znajduje się ogród lub część gospodarcza."
+   ]
+  }
+ ],
+ "rozwiazanie": "Zamknięta wiata zamiast blaszaka od CarportActive to stalowa konstrukcja oparta na profilach 100 x 100 x 3 mm w kolorze antracyt RAL 7016, osadzana na fundamentach poniżej strefy przemarzania. Ściany możesz wybrać w formie płyty PIR 5 cm, blachy falistej lub żaluzji bez szczelin, a dach wyposażony jest w powłokę antykondensacyjną. Montujemy bramy roletowe (np. Portos) oraz segmentowe (np. Hörmann), także w wersji z napędem oraz w wariancie przelotowym. Cenę liczymy indywidualnie po pomiarze na miejscu, uwzględniając wymiar, rodzaj ścian i dodatkowe pomieszczenie gospodarcze.",
+ "faq": [
+  {
+   "pytanie": "Czy do wiaty z bramą roletową wejdą kuny?",
+   "odpowiedz": "Jeśli ściany wykonasz z płyty PIR, blachy falistej lub żaluzji bez szczelin, a brama szczelnie schodzi do podłoża, kuny nie znajdą drogi do wnętrza."
+  },
+  {
+   "pytanie": "Dlaczego pojedyncza blacha na ścianach wiaty staje się mokra?",
+   "odpowiedz": "W chłodne dni na pojedynczej blasze skrapla się wilgoć z powietrza. Jeśli zależy Ci na suchym schowku na narzędzia, lepszym wyborem jest płyta PIR 5 cm."
+  },
+  {
+   "pytanie": "Czy wiatę z bramą można zamontować na samej kostce brukowej?",
+   "odpowiedz": "Nie, zamknięta wiata stawia duży opór wiatrowi, dlatego słupy wymagają stabilnych fundamentów wkopanych poniżej strefy przemarzania."
+  }
+ ],
+ "nr": 262,
+ "kolejnosc": 116,
+ "temat": "wiata z bramą roletową",
+ "adres": "wiata-z-brama-roletowa",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

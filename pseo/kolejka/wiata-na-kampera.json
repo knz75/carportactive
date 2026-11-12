@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata na kampera - na co zwrócić uwagę przed budową?",
+ "opis_meta": "Planujesz postawić wiatę na kampera? Dowiedz się, jakie wymiary, przekroje stali oraz fundamenty ochronią wysoki pojazd przed wiatrem i śniegiem.",
+ "wstep": "Kamper to duża inwestycja, dlatego parkowanie go pod gołym niebem szybko rodzi potrzebę zadaszenia. Zwykłe konstrukcje garażowe często okazują się za niskie lub zbyt delikatne przy dużych gabarytach auta turystycznego. Z tego artykułu dowiesz się, jak zaplanować wiatę, która bez problemu pomieści Twój pojazd i wytrzyma trudne warunki pogodowe.",
+ "sekcje": [
+  {
+   "h2": "Wysokość i gabaryty dopasowane do pojazdu",
+   "akapity": [
+    "Większość gotowych zadaszeń ma standardową wysokość 2,7 m. W przypadku kampera to często za mało, ponieważ musisz doliczyć nie tylko samą bryłę auta, ale też wyposażenie dachowe, takie jak klimatyzator, anteny satelitarne czy relingi z bagażnikiem.",
+    "Wiata pod kampera rzadko bywa produktem prosto z półki. Aby wjeżdżać bez stresu i móc swobodnie otworzyć drzwi lub rozłożyć markizę, cała konstrukcja musi zostać przeliczona i wykonana pod konkretny wymiar pojazdu."
+   ]
+  },
+  {
+   "h2": "Przekroje stali a obciążenie wiatrem i śniegiem",
+   "akapity": [
+    "Wysoka wiata działa na wietrze jak żagiel. Tanie konstrukcje z marketu bywają produkowane z profili 40 x 40 mm o ściance 2 mm, które przy dużej wysokości wyglądają jak zapałki i mogą wygiąć się lub złamać podczas silniejszych porywów.",
+    "Marketowe daszki projektuje się z myślą o minimalnych obciążeniach, przez co w zimie potrafią ugiąć się pod ciężarem mokrego śniegu. Jeśli parkujesz drogi pojazd, wybieraj konstrukcje oparte na masywnych słupach, na przykład 100 x 100 x 3 mm, które zapewniają stabilność całego szkieletu."
+   ]
+  },
+  {
+   "h2": "Mocny fundament zamiast montażu do kostki",
+   "akapity": [
+    "Lekkie wiaty bywają przykręcane bezpośrednio do betonowych płyt lub samej kostki brukowej. W czasie gwałtownej wichury taka konstrukcja może unieść się i polecieć jak trampolina, niszcząc Twój samochód albo mienie sąsiada.",
+    "Prawidłowy montaż wymaga wylania fundamentów poniżej strefy przemarzania gruntu, co w Polsce oznacza około 80 cm głębokości lub więcej. Na jeden słup przypada zwykle od 5 do 10 worków betonu. Trzeba też pamiętać o pracach towarzyszących, takich jak rozebranie i docięcie kostki brukowej oraz wywóz wykopanej ziemi."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235 ze słupami z profilu 100 x 100 x 3 mm, zabezpieczonych ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Poza bazowymi wymiarami 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m realizujemy indywidualne projekty przeliczane przez inżyniera, w tym zadaszenia o podwyższonym profilu dopasowanym do kampera. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, montaż w Warszawie i na Mazowszu trwa zazwyczaj 1 dzień roboczy, a na naszej stronie możesz sprawdzić wizualizator AI, który naniesie wiatę na zdjęcie Twojego podjazdu.",
+ "faq": [
+  {
+   "pytanie": "Czy standardowa wiata o wysokości 2,7 m wystarczy na kampera?",
+   "odpowiedz": "Zazwyczaj nie, ponieważ kampery z zamontowaną klimatyzacją dachową lub bagażnikami wymagają wyższego przejazdu. W takich sytuacjach konstrukcję wykonuje się na wymiar indywidualny."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba posadowić fundamenty pod wiatę?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, czyli na głębokości około 80 cm lub większej w zależności od regionu. Na stabilizację jednego słupa zużywa się średnio 5-10 worków betonu."
+  },
+  {
+   "pytanie": "Ile trwa montaż stalowej wiaty na posesji?",
+   "odpowiedz": "Sam montaż konstrukcji na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  }
+ ],
+ "nr": 272,
+ "kolejnosc": 271,
+ "temat": "wiata na kampera",
+ "adres": "wiata-na-kampera",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Blaszak czy zamknięta wiata? Porównanie i opinia montera",
+ "opis_meta": "Zastanawiasz się, co wybrać: tani blaszak czy zamkniętą wiatę? Poznaj wady, zalety i różnice konstrukcyjne prosto od doświadczonego montera.",
+ "wstep": "Wybór między typowym blaszakiem a zamkniętą wiatą sprowadza się do trwałości, stabilności i ochrony przed wilgocią. Tani garaż blaszany szybko postawisz, ale jego konstrukcja ma spore ograniczenia użytkowe. Zamknięta wiata to rozwiązanie znacznie masywniejsze, które zachowuje się inaczej podczas codziennej eksploatacji.",
+ "sekcje": [
+  {
+   "h2": "Sztywność konstrukcji i odporność na wiatr",
+   "akapity": [
+    "Zwykły blaszak opiera się najczęściej na lekkich profilach i bywa mocowany jedynie kołkami do kostki brukowej. Zamknięta konstrukcja łapie wiatr o wiele bardziej niż otwarta wiata, szczególnie w momencie, gdy otworzysz bramę podczas wichury. Powstaje wtedy silne parcie od środka, które może poderwać zbyt lekki obiekt.",
+    "Z doświadczenia na montażach wiemy, że pełna zabudowa wymaga solidnego oparcia w gruncie. Prawdziwe fundamenty sięgające poniżej strefy przemarzania gwarantują, że całość nie zacznie pracować ani się luzować. Kotwy w samej kostce brukowej to przy silnych porywach wiatru za mało."
+   ]
+  },
+  {
+   "h2": "Zjawisko skraplania wody i wilgoć",
+   "akapity": [
+    "Głównym problemem prostych blaszaków jest skraplanie pary wodnej na nieizolowanych ścianach i dachu. W chłodniejsze dni blacha poci się od środka, a kapiąca woda może niszczyć lakier samochodu oraz powodować korozję narzędzi.",
+    "Jeśli w budynku ma powstać schowek gospodarczy lub mały warsztat, sama pojedyncza blacha szybko da o sobie znać wilgocią. W takich zastosowaniach znacznie lepiej radzi sobie izolacja z płyty PIR oraz dach z powłoką antykondensacyjną, która zatrzymuje skropliny."
+   ]
+  },
+  {
+   "h2": "Szczelność ścian i zabezpieczenie przed zwierzętami",
+   "akapity": [
+    "Częstą wadą tradycyjnych blaszaków są szczeliny w narożnikach oraz przy ziemi. Przez takie szpary do środka z łatwością dostają się gryzonie oraz kuny, które szukają ciepła i mogą uszkodzić przewody w aucie.",
+    "Przy nowoczesnych ścianach osłonowych, na przykład w formie żaluzji, montuje się profile tak, aby nie pozostawiać żadnych prześwitów. Taka ściana z przetłoczeniami w żebra jest szczelna jak pełna blacha falista, dzięki czemu skutecznie blokuje dostęp dzikim zwierzętom."
+   ]
+  }
+ ],
+ "rozwiazanie": "Zamknięta wiata CarportActive to alternatywa dla blaszaka, oparta na stalowych słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016 i fundamentach poniżej strefy przemarzania. Ściany możesz wybrać z żaluzji bez szczelin, blachy falistej lub płyty PIR 5 cm, a dach posiada powłokę antykondensacyjną. Montujemy bramy segmentowe Hörmann lub roletowe Portos z napędem, a także wersje przelotowe z bramą z przodu i z tyłu. Cenę ustalamy indywidualnie po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy przez zamkniętą wiatę można przejechać na tył działki?",
+   "odpowiedz": "Tak, istnieje możliwość montażu bramy segmentowej lub roletowej zarówno z przodu, jak i z tyłu. Po otwarciu obu przejeżdża się przez wiatę na wylot."
+  },
+  {
+   "pytanie": "Kiedy lepiej wybrać płytę PIR zamiast blachy falistej?",
+   "odpowiedz": "Ściany z samej blachy falistej mogą się pocić od środka w chłodne dni. Jeśli planujesz wydzielone pomieszczenie gospodarcze na narzędzia lub sprzęt, płyta PIR 5 cm sprawdzi się znacznie lepiej."
+  },
+  {
+   "pytanie": "Dlaczego zamknięta wiata potrzebuje głębszych fundamentów niż otwarta?",
+   "odpowiedz": "Zabudowane ściany i brama stawiają duży opór wiatrowi, zwłaszcza gdy brama jest otwarta. Aby konstrukcja była stabilna, słupy muszą być zakotwione w fundamentach poniżej strefy przemarzania, a nie tylko w kostce brukowej."
+  }
+ ],
+ "nr": 254,
+ "kolejnosc": 12,
+ "temat": "blaszak czy zamknięta wiata",
+ "adres": "blaszak-czy-zamknieta-wiata",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

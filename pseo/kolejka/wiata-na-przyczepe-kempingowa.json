@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata na przyczepę kempingową. O czym musisz pamiętać?",
+ "opis_meta": "Szukasz wiaty na przyczepę kempingową? Sprawdź, na co zwrócić uwagę przy wysokości, profilach i fundamentach, aby sprzęt był bezpieczny przez cały rok.",
+ "wstep": "Przyczepa kempingowa to spory wydatek, dlatego trzymanie jej pod chmurką szybko niszczy poszycie i uszczelki. Zwykła wiata osobowa często okazuje się za niska lub zbyt delikatna na tak duży pojazd. Zanim postawisz konstrukcję na podwórku, poznaj kilka technicznych zasad montażu.",
+ "sekcje": [
+  {
+   "h2": "Wymiary wiaty a wysokość przyczepy",
+   "akapity": [
+    "Przyczepa kempingowa ma inną specyfikę niż typowy samochód. Często dochodzi do niej dodatkowe wyposażenie na dachu, takie jak kominki wentylacyjne czy klimatyzator, przez co standardowe zadaszenie nie wystarczy. Przed wyborem konstrukcji musisz dokładnie zmierzyć najwyższy punkt pojazdu wraz z całym osprzętem.",
+    "Pamiętaj również o szerokości i swobodzie manewru. Cofanie przyczepą na ciasnym podjeździe bywa trudne, dlatego solidny zapas miejsca między słupami ułatwia codzienne parkowanie i chroni poszycie przed przypadkowym zarysowaniem."
+   ]
+  },
+  {
+   "h2": "Dlaczego tanie konstrukcje z marketu to ryzyko",
+   "akapity": [
+    "Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem. Podczas zimowych miesięcy często widać zamontowany marketowy daszek, który ugiął się pod ciężarem śniegu. Jeśli parkujesz tam wartościowy sprzęt, takie oszczędności mogą przynieść spore straty.",
+    "Wiatę da się zrobić z taniego profilu 40 x 40 mm o ściance 2 mm, ale wtedy słupy wyglądają jak zapałki. Przy mocnych porywach wiatru cienkie profile mogą się po prostu złamać. Duża ściana boczna przyczepy działa jak żagiel, więc cała konstrukcja musi być stabilna."
+   ]
+  },
+  {
+   "h2": "Prawidłowy fundament chroni przed wichurą",
+   "akapity": [
+    "Gotowe wiaty z marketu często stoją przykręcone jedynie do betonowych płyt albo samej kostki brukowej. Przy silnej wichurze lekka konstrukcja może polecieć jak trampolina z filmików w internecie i narobić szkód u sąsiada. Warto zadać sobie pytanie, kto potem za to zapłaci.",
+    "Dlatego fundamenty robimy poniżej strefy przemarzania gruntu i dopiero do nich kotwimy słupy. W Polsce to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Na zalanie jednego słupa może pójść od 5 do 10 worków betonu. Alternatywą dla betonu są pale, ale ich montaż wymaga specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Ukryte koszty prac i dopasowanie projektu",
+   "akapity": [
+    "Na koszt montażu składają się też rzeczy, o których mało kto myśli przed rozpoczęciem prac. Trzeba wziąć pod uwagę wywóz ziemi i gruzu oraz rozebranie i ułożenie z powrotem kostki brukowej wokół nowych słupów. Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem wychodzi bokiem w czasie użytkowania.",
+    "Bezpieczne zadaszenie na duży pojazd to nie jest produkt z półki z jedną ceną. Konstrukcja musi być przeliczona przez inżyniera pod konkretne obciążenia. Najlepsze efekty daje przyjazd na pomiar, sprawdzenie warunków na miejscu i przygotowanie projektu dopasowanego do Twoich potrzeb."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te wyzwania jest stalowa wiata garażowa CarportActive. Wykonujemy ją ze stali konstrukcyjnej S235, ze słupami z profilu 100 x 100 x 3 mm, zabezpieczonymi ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów poniżej strefy przemarzania. Oferujemy rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m oraz wymiary indywidualne, a sam montaż w Warszawie i na Mazowszu zajmuje zazwyczaj 1 dzień roboczy.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata może być wyższa niż standardowe 2,7 m?",
+   "odpowiedz": "Tak, oprócz wymiarów bazowych wykonujemy projekty pod wymiary indywidualne, co pozwala dopasować wysokość wiaty do wysokiej przyczepy lub kampera."
+  },
+  {
+   "pytanie": "Jak mogę sprawdzić wygląd wiaty przed zamówieniem?",
+   "odpowiedz": "Możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach."
+  },
+  {
+   "pytanie": "Czy do wiaty można dobrać dodatkowe moduły?",
+   "odpowiedz": "Tak, konstrukcję można rozbudować o moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV lub przęsła żaluzjowe."
+  }
+ ],
+ "nr": 274,
+ "kolejnosc": 273,
+ "temat": "wiata na przyczepę kempingową",
+ "adres": "wiata-na-przyczepe-kempingowa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

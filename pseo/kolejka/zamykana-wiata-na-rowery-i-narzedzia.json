@@ -1,0 +1,57 @@
+{
+ "tytul": "Zamykana wiata na rowery i narzędzia - na co uważać",
+ "opis_meta": "Szukasz zamykanej wiaty na rowery i narzędzia? Sprawdź, jak zabezpieczyć schowek przed wilgocią, wiatrem i nieproszonymi gośćmi. Porady montera.",
+ "wstep": "Rowery, kosiarka i elektronarzędzia potrzebują bezpiecznego oraz suchego miejsca na działce. Zwykły blaszak szybko niszczeje i szpeci podwórko, a pod otwartą wiatą sprzęt jest narażony na kradzież. Jeśli planujesz zamykaną konstrukcję, musisz zwrócić uwagę na fundamenty, wilgoć i szczelność ścian.",
+ "sekcje": [
+  {
+   "h2": "Fundamenty to podstawa przy pełnych ścianach",
+   "akapity": [
+    "Zamykana wiata zachowuje się przy porywach wiatru zupełnie inaczej niż wiata otwarta. Gdy na dworze wieje, a Ty otworzysz bramę, w środku tworzy się potężne ciśnienie i konstrukcja łapie wiatr niczym żagiel.",
+    "Mocowanie słupów za pomocą zwykłych kotew w kostce brukowej to częsty błąd, który podczas wichury może skończyć się zerwaniem całości. Taki obiekt wymaga solidnych fundamentów wpuszczonych w grunt poniżej strefy przemarzania."
+   ]
+  },
+  {
+   "h2": "Wilgoć w schowku a stan Twoich narzędzi",
+   "akapity": [
+    "Ściany wykonane z samej, pojedynczej blachy mają tendencję do pocenia się od środka podczas chłodniejszych dni. Skraplająca się woda osiada na podłodze, a co gorsza - kapie na stalowe ramy rowerów i drogie narzędzia, prowadząc do rdzy.",
+    "Kluczowy jest dach wyposażony w specjalną powłokę antykondensacyjną, która zapobiega opadaniu kropel. Jeśli planujesz wydzielony schowek na warsztat, znacznie lepszym wyborem na ściany jest płyta PIR o grubości 5 cm, która ogranicza skoki temperatur i problem wilgoci."
+   ]
+  },
+  {
+   "h2": "Ochrona przed kradzieżą i nieproszonymi gośćmi",
+   "akapity": [
+    "Przy wyborze zabudowy bocznej liczy się nie tylko ochrona przed deszczem, ale też przed zwierzętami. Tradycyjne panele żaluzjowe często mają szpary, przez które bez trudu przecisną się kuny, szukające schronienia i niszczące przewody czy wyposażenie.",
+    "Rozwiązaniem są ściany z żaluzji wykonane bez szczelin. Zapewniają estetyczny, nowoczesny wygląd przetłoczeń, a jednocześnie są szczelne jak pełna blacha falista i tworzą skuteczną barierę dla drobnych drapieżników."
+   ]
+  },
+  {
+   "h2": "Wygodna brama i opcja przejazdu na tył ogrodu",
+   "akapity": [
+    "Codzienne wyprowadzanie roweru czy kosiarki nie powinno wymagać siłowania się z ciężkimi wrotami. Najwygodniej sprawdzają się bramy segmentowe lub roletowe, najlepiej doposażone w napęd elektryczny.",
+    "Ciekawym wariantem na wąskie posesje jest wiata przelotowa z bramą zamontowaną z przodu i z tyłu. Kiedy otworzysz obie bramy, możesz przejechać taczką, traktorkiem albo rowerem na wylot, bezpośrednio do ogrodu za wiatą."
+   ]
+  }
+ ],
+ "rozwiazanie": "Zamknięta wiata CarportActive to alternatywa dla klasycznego blaszaka, oparta na stalowych słupach 100 x 100 x 3 mm w kolorze antracyt RAL 7016 i kotwiona w fundamentach poniżej strefy przemarzania. Ściany możesz skonfigurować z blachy falistej, żaluzji bez szczelin lub izolującej płyty PIR 5 cm, a dach posiada powłokę antykondensacyjną. Całość uzupełniają bramy segmentowe lub roletowe z napędem, w tym w układzie przelotowym, a koszt ustalamy po indywidualnym pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy ściany z samej blachy falistej wystarczą na schowek narzędziowy?",
+   "odpowiedz": "Blacha falista dobrze zabezpiecza przed deszczem i wiatrem, jednak w chłodne dni może się pocić od środka. Jeśli przechowujesz wrażliwy sprzęt lub elektronikę, lepiej sprawdza się płyta PIR 5 cm."
+  },
+  {
+   "pytanie": "Dlaczego konstrukcja zamknięta wymaga głębszego fundamentu niż wiata otwarta?",
+   "odpowiedz": "Pełne ściany i otwarta brama stawiają duży opór masom powietrza podczas silnego wiatru. Stabilność gwarantują wyłącznie fundamenty wkopane poniżej poziomu przemarzania gruntu, a nie kotwy w kostce."
+  },
+  {
+   "pytanie": "Jak działa wiata w wersji przelotowej?",
+   "odpowiedz": "Taka konstrukcja posiada bramę wjazdową z przodu oraz identyczną z tyłu. Po otwarciu obu bram zyskujesz możliwość przejechania kosiarką, rowerem lub sprzętem na wylot, prosto na zaplecze działki."
+  }
+ ],
+ "nr": 265,
+ "kolejnosc": 155,
+ "temat": "zamykana wiata na rowery i narzędzia",
+ "adres": "zamykana-wiata-na-rowery-i-narzedzia",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata z bramą segmentową. Na co uważać przy montażu?",
+ "opis_meta": "Szukasz wiaty z bramą segmentową? Sprawdź, jak zaplanować fundamenty, dobrać ściany i uniknąć skraplania wody. Porady z praktyki montera.",
+ "wstep": "Chcesz zamknąć wiatę bramą segmentową, żeby lepiej chronić samochód i narzędzia. To praktyczne rozwiązanie, ale taka zabudowa stawia konstrukcji zupełnie inne wymagania niż zwykłe zadaszenie. Zanim zamówisz materiały, sprawdź, jak przygotować podłoże i czym obudować ściany.",
+ "sekcje": [
+  {
+   "h2": "Wiatr i obciążenia, czyli dlaczego fundament to podstawa",
+   "akapity": [
+    "Otwarta wiata przepuszcza podmuchy wiatru na wskroś, dzięki czemu działają na nią mniejsze siły. Gdy dodasz pełne ściany i zamontujesz bramę segmentową, budynek zaczyna działać jak żagiel. Duże obciążenie pojawia się zwłaszcza wtedy, gdy brama jest otwarta, a wiatr wciska się do środka i napiera na ściany od wewnątrz.",
+    "Z doświadczenia z montaży wiemy, że kotwienie słupów w samej kostce brukowej to za mało na takie siły. Zamknięta konstrukcja wymaga porządnych fundamentów sięgających poniżej strefy przemarzania. Bez tego silniejsza wichura może poderwać lub zwichrować całą bryłę."
+   ]
+  },
+  {
+   "h2": "Czym zamknąć boki wiaty: blacha, żaluzja czy płyta PIR",
+   "akapity": [
+    "Wiata zamknięta zwykłą blachą falistą z bramą segmentową to w praktyce solidny blaszak na mocnej ramie. Trzeba jednak pamiętać, że pojedyncza blacha na ścianach może się mocno pocić od środka w chłodniejsze dni. Jeżeli planujesz wydzielić w środku schowek na sprzęt ogrodowy lub narzędzia, o wiele lepiej sprawdzi się płyta PIR o grubości 5 cm, która ogranicza wilgoć.",
+    "Jeśli zależy Ci na nowoczesnym wyglądzie, dobrym wyborem jest żaluzja stalowa. Warto jednak dopilnować, aby lamele były ułożone bez szczelin. Taka ściana zachowuje żebrowany wygląd, ale pozostaje szczelna jak blacha, co skutecznie blokuje kunom dostęp do komory silnika Twojego auta."
+   ]
+  },
+  {
+   "h2": "Wygoda użytkowania i opcja przejazdu na wylot",
+   "akapity": [
+    "Brama segmentowa po otwarciu chowa się pod dachem, dlatego konstrukcja musi mieć odpowiednią wysokość na prowadnice i ewentualny napęd. Dobrze wymierzona wiata pozwala zachować wygodny wjazd nawet dla wyższego auta z boksem dachowym.",
+    "Ciekawym wariantem na wąskich działkach jest wersja przelotowa. Montuje się wtedy dwie bramy: jedną od frontu, a drugą z tyłu budynku. Po otwarciu obu skrzydeł możesz bez manewrowania przejechać samochodem, przyczepą lub kosiarką prosto do ogrodu na tył posesji."
+   ]
+  }
+ ],
+ "rozwiazanie": "Alternatywą dla zwykłego garażu blaszanego jest zamknięta wiata CarportActive. Opieramy ją na słupach stalowych 100 x 100 x 3 mm w kolorze antracyt RAL 7016, kotwionych w fundamentach poniżej strefy przemarzania. Ściany wykonujemy z żaluzji bez szczelin, blachy falistej lub płyty PIR 5 cm, a dach zabezpieczamy powłoką antykondensacyjną. Montujemy bramy segmentowe Hörmann lub roletowe Portos z napędem, w tym w wersji przelotowej, a wycenę przygotowujemy po pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Czy dach w zamkniętej wiacie musi mieć powłokę antykondensacyjną?",
+   "odpowiedz": "Tak, w zamkniętej wiacie wahania temperatur wywołują skraplanie wilgoci na blasze dachowej. Powłoka antykondensacyjna zapobiega kapaniu wody prosto na lakier zaparkowanego auta."
+  },
+  {
+   "pytanie": "Jak działa wersja przelotowa wiaty z bramami?",
+   "odpowiedz": "W konstrukcji montuje się bramę z przodu oraz z tyłu. Po otwarciu obu bram powstaje wolny korytarz, przez który można przejechać autem lub sprzętem na wylot na drugą część działki."
+  },
+  {
+   "pytanie": "Dlaczego do wiaty z bramą nie wystarczy kotwienie w kostce brukowej?",
+   "odpowiedz": "Ściany i brama stawiają duży opór masom powietrza podczas wichur. Kotwy w samej kostce brukowej mogłyby zostać wyrwane, dlatego konieczne są fundamenty betonowe sięgające poniżej strefy przemarzania."
+  }
+ ],
+ "nr": 261,
+ "kolejnosc": 103,
+ "temat": "wiata z bramą segmentową",
+ "adres": "wiata-z-brama-segmentowa",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

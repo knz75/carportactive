@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata z pomieszczeniem gospodarczym - jak ją zaplanować",
+ "opis_meta": "Planujesz wiatę z pomieszczeniem gospodarczym? Sprawdź, jak dobrać ściany, fundamenty i zabezpieczyć narzędzia przed wilgocią oraz gryzoniami.",
+ "wstep": "Jeśli potrzebujesz miejsca na auto i zamykanego schowka na kosiarkę czy opony, wiata z pomieszczeniem gospodarczym to praktyczny wybór. Wiele osób traktuje jednak taką zabudowę zbyt lekko i potem zmaga się z wilgocią lub niestabilną konstrukcją. Zobacz, na co zwrócić uwagę przed montażem, żeby schowek służył Ci przez lata.",
+ "sekcje": [
+  {
+   "h2": "Ściany schowka a problem wilgoci",
+   "akapity": [
+    "Jeśli zamykasz część wiaty na narzędzia lub sprzęt ogrodowy, uważaj na zwykłą blachę. W chłodne dni ściany z samej blachy mogą pocić się od środka. Skraplająca się woda kapie na posadzkę i sprawia, że metalowe narzędzia szybko pokrywają się nalotem.",
+    "Tam, gdzie ma być schowek na narzędzia, znacznie lepiej sprawdza się płyta PIR o grubości 5 cm. Ogranicza ona skraplanie pary wodnej wewnątrz budynku. Z kolei na dachu warto zastosować blachę ze specjalną powłoką antykondensacyjną, która zatrzymuje wilgoć."
+   ]
+  },
+  {
+   "h2": "Fundamenty to podstawa stabilności",
+   "akapity": [
+    "Zamknięta wiata lub wydzielone pomieszczenie gospodarcze działają na wietrze jak żagiel. Taka konstrukcja łapie podmuchy znacznie bardziej niż wiata w pełni otwarta. Szczególnie duże siły działają na budynek wtedy, gdy brama jest otwarta podczas silnego wiatru.",
+    "Z tego powodu kotwienie konstrukcji w samej kostce brukowej nie wystarczy. Słupy nośne muszą stanąć na betonowych fundamentach sięgających poniżej strefy przemarzania gruntu. Tylko takie posadowienie daje pewność, że zabudowa nie ulegnie uszkodzeniu przy gwałtownej pogodzie."
+   ]
+  },
+  {
+   "h2": "Ochrona przed gryzoniami i kunami",
+   "akapity": [
+    "Schowek przy wiacie często przyciąga drobne zwierzęta, które szukają ciepła i osłony. Jeśli zdecydujesz się na nowoczesne wykończenie ze ścianek żaluzjowych, zwróć uwagę na ich wykonanie.",
+    "Ściany żaluzjowe można zrobić tak, aby profile nachodziły na siebie bez żadnych prześwitów. Taka żaluzja jest szczelna jak blacha falista w żebra, więc kuny i myszy nie wcisną się do środka schowka."
+   ]
+  },
+  {
+   "h2": "Układ działki i wariant przelotowy",
+   "akapity": [
+    "Postawienie wiaty z pomieszczeniem gospodarczym w granicy lub przy wjeździe może odciąć drogę na tył ogrodu. Warto wtedy przemyśleć kwestię bram wjazdowych.",
+    "Praktycznym rozwiązaniem jest wersja przelotowa z bramą zamontowaną z przodu oraz z tyłu wiaty. Po otwarciu obu bram możesz wjechać autem, busem lub przyczepą bezpośrednio na tył posesji."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive wykonujemy zamknięte wiaty zamiast klasycznego blaszaka na bazie stalowej konstrukcji ze słupami 100 x 100 x 3 mm w kolorze antracyt RAL 7016, zawsze na fundamentach poniżej strefy przemarzania. Ściany pomieszczenia gospodarczego montujemy z płyty PIR 5 cm, blachy falistej lub szczelnej żaluzji bez szczelin, a dach zabezpieczamy powłoką antykondensacyjną. Do wyboru są bramy segmentowe lub roletowe, także z napędem i w wersji przelotowej, a ostateczną cenę ustalamy po indywidualnym pomiarze na miejscu.",
+ "faq": [
+  {
+   "pytanie": "Jaka brama najlepiej pasuje do zamkniętej wiaty ze schowkiem?",
+   "odpowiedz": "Montujemy bramy segmentowe (na przykład Hörmann) lub bramy roletowe (na przykład Portos). Obie wersje mogą być wyposażone w automatyczny napęd."
+  },
+  {
+   "pytanie": "Czym różni się zamknięta wiata z blachy falistej od zwykłego blaszaka?",
+   "odpowiedz": "Wiata zamknięta blachą falistą to w praktyce solidna wersja garażu blaszanego, wykonana na grubej konstrukcji stalowej 100 x 100 x 3 mm i na fundamentach sięgających poniżej poziomu przemarzania."
+  },
+  {
+   "pytanie": "Od czego zależy cena wiaty z pomieszczeniem gospodarczym?",
+   "odpowiedz": "Cenę liczymy indywidualnie po pomiarze na miejscu. Wycena zależy od wymiarów wiaty, rodzaju wybranych ścian, wydzielenia pomieszczenia gospodarczego oraz liczby i typu bram."
+  }
+ ],
+ "nr": 268,
+ "kolejnosc": 194,
+ "temat": "wiata z pomieszczeniem gospodarczym",
+ "adres": "wiata-z-pomieszczeniem-gospodarczym",
+ "link": "moduly/zamknieta-wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

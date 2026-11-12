@@ -246,7 +246,7 @@ h1, h2, h3 { font-family: var(--head); font-weight: 700; line-height: 1.05; colo
 .text-block p { font-size: 18px; color: var(--text); margin-bottom: 16px; }
 .note { background: var(--paper); border-left: 4px solid var(--green); padding: 16px 20px; font-size: 16px; color: var(--text); margin-top: 8px; }
 
-.tiles-small { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.tiles-small { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
 .tiles-small .tile h3 { font-size: 20px; margin: 10px 0 0; }
 
 .models { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }

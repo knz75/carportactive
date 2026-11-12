@@ -177,7 +177,8 @@
    "Fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy.",
    "Do wiaty można dołożyć moduły: sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV, przęsła żaluzjowe.",
    "Montaż wiaty zajmuje zazwyczaj 1 dzień roboczy.",
-   "Klient może wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na jego podwórku w 3 wariantach."
+   "Klient może wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na jego podwórku w 3 wariantach.",
+   "Firma jest z Pruszkowa, montujemy w Warszawie i na Mazowszu."
   ],
   "notatki": [
    "Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem. Często widać zamontowany marketowy daszek, który ugiął się pod ciężarem śniegu. Jeśli pod wiatą ma stać drogi samochód, warto to przemyśleć przed zakupem.",
@@ -187,7 +188,8 @@
    "Alternatywą dla betonu są pale, ale ich montaż wymaga specjalistycznego sprzętu.",
    "Na koszt montażu składają się też rzeczy, o których mało kto myśli: wywóz ziemi i gruzu oraz rozebranie i ułożenie z powrotem kostki brukowej wokół słupów.",
    "Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem wychodzi bokiem w czasie użytkowania.",
-   "To nie jest produkt z półki z jedną ceną. Mamy kilka projektów bazowych policzonych przez inżyniera, a wszystko inne to projekt indywidualny: ktoś przyjeżdża na pomiar, sprawdza miejsce i potrzeby klienta, w razie potrzeby konstrukcja jest przeliczana i dopiero wtedy powstaje wycena całości."
+   "To nie jest produkt z półki z jedną ceną. Mamy kilka projektów bazowych policzonych przez inżyniera, a wszystko inne to projekt indywidualny: ktoś przyjeżdża na pomiar, sprawdza miejsce i potrzeby klienta, w razie potrzeby konstrukcja jest przeliczana i dopiero wtedy powstaje wycena całości.",
+   "Robiliśmy wiatę pod kampera (wysokość dopasowana do pojazdu) i dużą wiatę wielostanowiskową dla karetek pogotowia. Wiaty na łódź jeszcze nie robiliśmy, ale można ją zaprojektować pod wymiar łodzi z przyczepą."
   ],
   "notatki_ceny": [
    "Wiata z marketu kosztuje ok. 3-5 tys. zł. Nasze ceny bazowe wiat stalowych (brutto, bez montażu): 3 x 6 m - 16 500 zł, 4 x 6 m - 17 605 zł, 6 x 6 m - 21 949 zł. Do tego dochodzą fundamenty i montaż (od ok. 4 tys. zł) oraz dodatki. Większe projekty, na przykład 12-14 słupów z pomieszczeniem gospodarczym i elektryką, to nawet 60-70 tys. zł. Klienci często pytają, dlaczego sam montaż kosztuje tyle, co cała wiata z marketu."
@@ -230,6 +232,27 @@
    "co-wplywa-na-cene-montazu-wiaty",
    "montaz-wiaty-z-zestawu-kto-to-zrobi",
    "kupilem-wiate-w-zestawie-samodzielny-montaz-czy-ekipa"
+  ]
+ },
+ "moduly/zamknieta-wiata": {
+  "name": "Zamknięta wiata",
+  "h1": "Zamknięta wiata zamiast blaszaka",
+  "url": "/moduly/zamknieta-wiata/",
+  "img": "/img/realizacje/z03-wiata-zamknieta-z-brama-segmentowa.jpg",
+  "facts": [
+   "Zamknięta wiata to stalowa wiata CarportActive (słupy 100 x 100 x 3 mm, fundamenty poniżej strefy przemarzania, kolor antracyt RAL 7016) obudowana ścianami i zamykana bramą.",
+   "Ściany do wyboru: żaluzja bez szczelin, blacha falista albo płyta PIR 5 cm.",
+   "Montujemy bramy segmentowe (np. Hörmann) i roletowe (np. Portos), także z napędem.",
+   "Wersja przelotowa: brama z przodu i z tyłu, po otwarciu obu można przejechać na wylot.",
+   "Dach z blachy z powłoką antykondensacyjną.",
+   "Cenę liczymy indywidualnie po pomiarze na miejscu: wymiar, ściany, liczba bram, pomieszczenie gospodarcze."
+  ],
+  "notatki": [
+   "Ściany z żaluzji robimy tak, żeby nie było szczelin - szczelne jak blacha falista, tylko w żebra. Chodzi o to, żeby kuny nie weszły do środka.",
+   "Wiata zamknięta blachą falistą i z bramą segmentową to w praktyce taki solidny, drogi blaszak - tylko na prawdziwej konstrukcji i fundamentach.",
+   "Zrobiliśmy wiatę z bramą z przodu i z tyłu: jak się otworzy obie, można przejechać na wylot na tył działki.",
+   "Zamknięta konstrukcja łapie wiatr bardziej niż otwarta wiata, szczególnie przy otwartej bramie - dlatego tym bardziej potrzebuje porządnych fundamentów, a nie kotew w kostce.",
+   "Ściany z samej blachy mogą się pocić od środka w chłodne dni. Tam, gdzie ma być schowek albo narzędzia, lepiej sprawdza się płyta PIR."
   ]
  }
 }
