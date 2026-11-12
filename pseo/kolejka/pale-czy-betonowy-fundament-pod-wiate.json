@@ -1,0 +1,50 @@
+{
+ "tytul": "Pale czy betonowy fundament pod wiatę? Co wybrać",
+ "opis_meta": "Zastanawiasz się, czy pod wiatę wybrać pale, czy fundament z betonu? Poznaj wady i zalety obu opcji oraz sprawdź, jak uniknąć błędów przy montażu.",
+ "wstep": "Wybór odpowiedniego podłoża pod wiatę decyduje o tym, czy konstrukcja przetrwa silne porywy wiatru i obciążenie śniegiem. Zastanawiasz się, czy lepiej sprawdzą się wkręcane pale, czy klasyczny fundament z betonu? Obie metody mają swoje zalety, ale różnią się wymogami technicznymi i trwałością.",
+ "sekcje": [
+  {
+   "h2": "Betonowy fundament punktowy i głębokość przemarzania",
+   "akapity": [
+    "Klasyczne stopy fundamentowe to najbardziej sprawdzony sposób na stabilne osadzenie wiaty. Fundamenty najlepiej wykonywać poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle około 80 cm głębokości lub nawet więcej w zależności od regionu. Dzięki temu zamarzająca zimą ziemia nie wypchnie słupów do góry, a cała konstrukcja zachowa swój pion i poziom.",
+    "Do zalania jednego punktu pod słup zużywa się zazwyczaj od 5 do 10 worków betonu. Po związaniu mieszanki słupy konstrukcji są mocno kotwione do betonu. Taki fundament daje dużą masę, która skutecznie trzyma wiatę w podłożu nawet podczas porywistego wiatru."
+   ]
+  },
+  {
+   "h2": "Pale stalowe jako alternatywa dla betonu",
+   "akapity": [
+    "Częstą alternatywą dla tradycyjnego betonu są wkręcane pale stalowe. Sprawdzają się one wtedy, gdy zależy Ci na bardzo szybkim montażu bez konieczności czekania na wiązanie betonu. Można na nich stawiać elementy konstrukcyjne niemal od razu po wkręceniu w ziemię.",
+    "Pamiętaj jednak, że prawidłowy montaż pali wymaga specjalistycznego sprzętu. Ręczne wkręcenie ich na odpowiednią głębokość w twardym gruncie bywa niemożliwe. Dodatkowo w kamienistym podłożu pal może natrafić na przeszkodę, co utrudnia zachowanie równego rozstawu słupów."
+   ]
+  },
+  {
+   "h2": "Dlaczego kotwienie do kostki brukowej to błąd",
+   "akapity": [
+    "Częstym błędem przy tanich zadaszeniach jest przykręcanie słupów bezpośrednio do kostki brukowej lub cienkich płyt. Podczas wichury taka lekka konstrukcja może zachować się jak trampolina i odlecieć na posesję sąsiada. Oszczędność na fundamencie niemal zawsze wychodzi bokiem w trakcie użytkowania.",
+    "Planując prace fundamentowe, weź pod uwagę także koszty towarzyszące. Należą do nich rozebranie i ponowne ułożenie kostki brukowej wokół słupów oraz wywóz wykopanej ziemi i gruzu. Warto zadbać o te elementy od razu, aby mieć pewność, że konstrukcja wytrzyma trudne warunki pogodowe."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235, zabezpieczonej przez ocynk ogniowy i malowanie proszkowe w kolorze antracyt RAL 7016. Jej słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż całej konstrukcji zajmuje zazwyczaj 1 dzień roboczy. Do wyboru są rozmiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub wymiary indywidualne, które można wyposażyć w moduły sportowe, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV lub przęsła żaluzjowe. Możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Na jaką głębokość powinien sięgać fundament pod słup wiaty?",
+   "odpowiedz": "Fundamenty robimy poniżej strefy przemarzania gruntu. W Polsce jest to zwykle około 80 cm głębokości lub więcej, zależnie od konkretnego regionu."
+  },
+  {
+   "pytanie": "Czy wkręcane pale są lepsze od fundamentu betonowego?",
+   "odpowiedz": "Pale są dobrą alternatywą, jeśli zależy Ci na czasie, jednak ich montaż wymaga użycia specjalistycznego sprzętu. Betonowy fundament punktowy pozostaje rozwiązaniem bardziej uniwersalnym."
+  },
+  {
+   "pytanie": "Czy można zamontować wiatę tylko na kostce brukowej?",
+   "odpowiedz": "Nie należy kotwić wiaty wyłącznie do kostki brukowej, ponieważ nie stanowi ona stabilnego obciążenia. Silny wiatr może wyrwać słupy wraz z brukiem."
+  }
+ ],
+ "nr": 212,
+ "kolejnosc": 231,
+ "temat": "pale czy betonowy fundament pod wiatę",
+ "adres": "pale-czy-betonowy-fundament-pod-wiate",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

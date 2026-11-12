@@ -1,0 +1,52 @@
+{
+ "tytul": "Daszek z marketu ugiął się pod śniegiem - co dalej?",
+ "opis_meta": "Twój daszek z marketu ugiął się pod śniegiem? Zobacz, jak zabezpieczyć auto, ocenić uszkodzenia konstrukcji i uniknąć podobnych awarii w przyszłości.",
+ "wstep": "Jeśli mokry śnieg wygiął konstrukcję daszku, musisz działać szybko i ostrożnie. Najpierw zabezpiecz samochód oraz teren wokół, a potem oceń zniszczenia. Z perspektywy montera podpowiadamy, co zrobić krok po kroku i jak uniknąć takich problemów na stałe.",
+ "sekcje": [
+  {
+   "h2": "Pierwsze kroki: bezpieczeństwo i usunięcie obciążenia",
+   "akapity": [
+    "Przede wszystkim nie wchodź pod ugiętą konstrukcję. Jeśli samochód stoi pod spodem i da się go bezpiecznie wyprowadzić, zrób to od razu. Każdy kolejny kilogram śniegu może doprowadzić do całkowitego załamania stelaża.",
+    "Śnieg usuwaj wyłącznie z boku lub z góry, jeśli masz bezpieczny dostęp z drabiny postawionej obok. Użyj miotły z miękkim włosiem lub ściągacza na długim kiju. Pamiętaj, aby nie szarpać za elementy nośne, bo osłabiony profil może pęknąć bez ostrzeżenia."
+   ]
+  },
+  {
+   "h2": "Dlaczego tanie daszki marketowe uginają się w zimie",
+   "akapity": [
+    "Konstrukcje z marketu są zazwyczaj liczone na minimalne obciążenie śniegiem i wiatrem. W pogoni za niską ceną producenci stosują bardzo cienkie materiały. Zdarza się, że cała wiata opiera się na profilach 40 x 40 mm o ściance zaledwie 2 mm.",
+    "Słupy wykonane z tak cienkiego materiału wyglądają jak zapałki. Wystarczą intensywne opady mokrego śniegu, aby dach zaczął opadać ku ziemi. Jeśli pod takim zadaszeniem parkuje drogi samochód, pozorna oszczędność na zakupie materiału szybko zamienia się w duży wydatek.",
+    "Kolejnym problemem bywa montaż. Tanie wiaty często przykręca się jedynie do betonowych płyt lub bezpośrednio do kostki brukowej. Taka konstrukcja nie ma odpowiedniej sztywności, a przy silnej wichurze może polecieć jak trampolina i uszkodzić mienie sąsiada."
+   ]
+  },
+  {
+   "h2": "Naprawa czy wymiana: jak ocenić stan konstrukcji",
+   "akapity": [
+    "Obejrzyj dokładnie miejsca zgięcia profili oraz spawy i połączenia śrubowe. Zgięty profil stalowy traci swoją fabryczną wytrzymałość. Nawet jeśli go wyprostujesz, materiał będzie osłabiony i ugnie się przy najbliższych opadach.",
+    "Jeśli konstrukcja straciła geometrię, najbezpieczniejszym wyjściem jest jej demontaż. Oszczędzanie na drobiazgach, a zwłaszcza na solidności szkieletu i fundamentach, zawsze wychodzi bokiem w trakcie zimowej eksploatacji.",
+    "Gdy zdecydujesz się na nowe zadaszenie, pamiętaj o prawidłowym montażu w gruncie. Trwałe fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza około 80 cm głębokości lub więcej, zależnie od regionu. Na stabilne zalanie jednego słupa zużywa się zwykle od 5 do 10 worków betonu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli potrzebujesz trwałego rozwiązania, sprawdź stalowe wiaty garażowe CarportActive ze stali konstrukcyjnej S235. Konstrukcja jest zabezpieczona przez ocynk ogniowy oraz malowanie proszkowe na kolor antracyt RAL 7016, a słupy kotwimy do solidnych fundamentów poniżej strefy przemarzania gruntu. Oferujemy wersje 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m oraz wymiary indywidualne, a montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy ugięty daszek z marketu można bezpiecznie wyprostować?",
+   "odpowiedz": "Nie warto tego robić, ponieważ odkształcona stal traci swoją pierwotną sztywność. Taki element przy kolejnym opadzie śniegu ugnie się znacznie szybciej i może stworzyć zagrożenie."
+  },
+  {
+   "pytanie": "Jak głęboki powinien być fundament pod stabilną wiatę?",
+   "odpowiedz": "Fundamenty należy wykonać poniżej strefy przemarzania gruntu. W warunkach polskich jest to zazwyczaj około 80 cm głębokości lub więcej, zależnie od konkretnego regionu."
+  },
+  {
+   "pytanie": "Dlaczego przykręcenie wiaty do samej kostki brukowej to błąd?",
+   "odpowiedz": "Kostka brukowa nie stanowi trwałego punktu podparcia dla konstrukcji. Podczas silnego wiatru lekka wiata może wyrwać kostkę z podłoża i zadziałać jak żagiel, stwarzając ryzyko zniszczeń."
+  }
+ ],
+ "nr": 215,
+ "kolejnosc": 234,
+ "temat": "daszek z marketu ugiął się pod śniegiem - co dalej",
+ "adres": "daszek-z-marketu-ugial-sie-pod-sniegiem-co-dalej",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

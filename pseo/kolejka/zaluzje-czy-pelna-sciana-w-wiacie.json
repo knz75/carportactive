@@ -1,0 +1,50 @@
+{
+ "tytul": "Żaluzje czy pełna ściana w wiacie? Co sprawdzi się lepiej",
+ "opis_meta": "Zastanawiasz się, co wybrać: żaluzje czy pełną ścianę do wiaty? Sprawdź wady i zalety obu opcji w kwestii wiatru, światła oraz prywatności na podjeździe.",
+ "wstep": "Wybór bocznej zabudowy zależy od tego, jak korzystasz ze swojego podjazdu. Pełna ściana tworzy twardą barierę, natomiast żaluzje zapewniają stały przepływ powietrza i nowoczesny wygląd. Sprawdź, które rozwiązanie lepiej poradzi sobie na Twojej działce.",
+ "sekcje": [
+  {
+   "h2": "Kiedy warto wybrać pełną ścianę w wiacie",
+   "akapity": [
+    "Pełna zabudowa sprawdza się wtedy, gdy chcesz zupełnie odciąć się od widoku z zewnątrz. Daje całkowitą osłonę przed zacinającym deszczem oraz śniegiem z jednego dominującego kierunku. To dobry wybór, gdy bezpośrednio za wiatą znajduje się ruchliwa droga lub zaniedbana działka sąsiada.",
+    "Taka ściana ma jednak swoje minusy. Całkowicie blokuje światło dzienne, przez co pod zadaszeniem robi się ciemno i ponuro. Ponadto stanowi twardy opór dla wiatru, co tworzy zawirowania powietrza pod dachem w wietrzne dni."
+   ]
+  },
+  {
+   "h2": "Dlaczego lamele żaluzjowe to popularny wybór",
+   "akapity": [
+    "Żaluzje z poziomymi lamelami dają poczucie prywatności, ale nie odcinają światła tak drastycznie jak lity mur. Skutecznie zasłaniają samochód przed spojrzeniami przechodniów i osłaniają podjazd z boku od wiatru. Dzięki odstępom między lamelami konstrukcja wygląda lekko i nowocześnie.",
+    "Ażurowy układ pozwala na swobodny ruch powietrza. Mokry samochód po deszczu lub zimowej trasie schnie znacznie szybciej, bo wilgoć nie zostaje uwięziona pod wiatą. To duża przewaga nad szczelną zabudową."
+   ]
+  },
+  {
+   "h2": "Jak dopasować osłonę do warunków na działce",
+   "akapity": [
+    "Zwróć uwagę na kierunek wiatru oraz usytuowanie zadaszenia względem stron świata. Jeśli postawisz pełną ścianę od południa, odbierzesz sobie całe naturalne doświetlenie strefy wjazdu. Z kolei żaluzje przepuszczą rozproszone światło, ograniczając jednocześnie widoczność z ulicy.",
+    "Warto też pomyśleć o elastyczności. Czasem wystarczy osłonić tylko jeden bok, aby zatrzymać przeciągi, a pozostałe zostawić otwarte dla łatwego wsiadania i manewrowania. Żaluzje pozwalają na takie punktowe i estetyczne odgrodzenie podjazdu."
+   ]
+  }
+ ],
+ "rozwiazanie": "W ofercie CarportActive problem ten rozwiązują stalowe wiaty ze stali konstrukcyjnej S235, ocynkowanej ogniowo i malowanej proszkowo na kolor antracyt RAL 7016. Konstrukcję o wymiarach 3 x 6 m, 4 x 6 m, 6 x 6 m lub wymiarach indywidualnych możesz wyposażyć w przęsła żaluzjowe z poziomymi lamelami na jednym lub kilku bokach. Przęsła zasłaniają podjazd od ulicy oraz sąsiada, osłaniają od wiatru i są dostępne w kolorach antracyt RAL 7016, orzech oraz ciemny orzech. Do wiaty CarportActive możesz je także bez problemu dołożyć później.",
+ "faq": [
+  {
+   "pytanie": "Czy przez przęsła żaluzjowe widać zaparkowane auto?",
+   "odpowiedz": "Poziome lamele są ułożone pod takim kątem, że skutecznie zasłaniają wnętrze wiaty przed wzrokiem osób stojących na ulicy lub sąsiedniej posesji."
+  },
+  {
+   "pytanie": "Czy montaż pełnej ściany wpływa na schnięcie auta?",
+   "odpowiedz": "Tak, pełna ściana blokuje cyrkulację powietrza, przez co wilgoć po opadach paruje wolniej niż przy bocznych żaluzjach."
+  },
+  {
+   "pytanie": "Czy muszę decydować się na zabudowę boków od razu?",
+   "odpowiedz": "W przypadku wiaty CarportActive nie musisz wybierać od razu, ponieważ przęsła żaluzjowe można zamontować między słupami także w późniejszym czasie."
+  }
+ ],
+ "nr": 224,
+ "kolejnosc": 98,
+ "temat": "żaluzje czy pełna ściana w wiacie",
+ "adres": "zaluzje-czy-pelna-sciana-w-wiacie",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

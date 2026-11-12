@@ -1,0 +1,47 @@
+{
+ "tytul": "Śnieg wdmuchiwany pod wiatę - jak temu zapobiec",
+ "opis_meta": "Śnieg wdmuchiwany pod wiatę to częsty problem zimą. Poznaj sprawdzone metody na osłonę podjazdu przed wiatrem i zawiejami. Zobacz porady montera.",
+ "wstep": "Rano podchodzisz do samochodu pod wiatą, a na szybach leży gruba warstwa nawianego puchu. Sam dach chroni tylko przed opadami z góry, ale zimowy wiatr wciska śnieg z każdej otwartej strony. Zobacz, jak możesz zabezpieczyć swój podjazd przed zawiejami.",
+ "sekcje": [
+  {
+   "h2": "Sprawdź, z której strony wieje najczęściej",
+   "akapity": [
+    "Zanim zaczniesz cokolwiek montować na podwórku, ustal kierunek zimowych wiatrów. W większości rejonów śnieżyce przychodzą z zachodu albo z północy. Obserwuj, w których miejscach po zamieci tworzą się największe zaspy. Wystarczy osłonić tylko jedną lub dwie najbardziej narażone strony, aby zatrzymać większość nawiewanego śniegu."
+   ]
+  },
+  {
+   "h2": "Dlaczego pełna ściana nie zawsze pomaga",
+   "akapity": [
+    "Wielu kierowców próbuje całkowicie zabudować boki wiaty szczelną płytą lub blachą. Taka lita przegroda działa jednak jak żagiel i zatrzymuje wiatr zbyt gwałtownie. Za pełną ścianą powstaje silne podciśnienie, które potrafi zassać śnieg od przodu i ułożyć go prosto na masce auta. Znacznie lepiej sprawdzają się osłony z drobnymi szczelinami, które rozbijają podmuch i łagodnie wytracają pęd powietrza."
+   ]
+  },
+  {
+   "h2": "Proste metody osłony przed zamiecią",
+   "akapity": [
+    "Jeśli szukasz naturalnych rozwiązań, dobrym wyborem jest gęsty żywopłot posadzony w pewnej odległości od wiaty. Krzewy działają jak naturalny filtr i zatrzymują część zasp daleko przed wjazdem. Na otwartych działkach niektórzy stosują też tymczasowe siatki przeciwwiatrowe na ogrodzeniu. Trzeba jednak pamiętać o ich solidnym naciągnięciu przed nadejściem pierwszych mrozów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Trwałym sposobem na ten problem jest wiata z przęsłami żaluzjowymi. Przęsła z poziomymi lamelami montuje się między słupami konstrukcji na jednym boku albo na kilku. Zasłaniają one podjazd od sąsiada i ulicy oraz skutecznie osłaniają auto z boku od wiatru. Do wiaty CarportActive ze stali S235 w kolorze antracyt RAL 7016 możesz dokupić przęsła w kolorze konstrukcji lub w odcieniach orzech i ciemny orzech, montując je od razu albo dołożyć później.",
+ "faq": [
+  {
+   "pytanie": "Czy przęsła żaluzjowe trzeba zamontować od razu z wiatą?",
+   "odpowiedz": "Nie, do wiaty CarportActive przęsła żaluzjowe można bez problemu dołożyć później, na przykład po pierwszej zimie, gdy zobaczysz, skąd najmocniej zawiewa."
+  },
+  {
+   "pytanie": "W jakich kolorach dostępne są przęsła żaluzjowe?",
+   "odpowiedz": "Przęsła żaluzjowe z poziomymi lamelami są produkowane w kolorze antracyt RAL 7016, a także w dekorach drewnopodobnych: orzech oraz ciemny orzech."
+  },
+  {
+   "pytanie": "W jakich rozmiarach wykonywane są wiaty CarportActive?",
+   "odpowiedz": "Wiaty CarportActive ze stali ocynkowanej ogniowo i malowanej proszkowo mają rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m, a także wymiary indywidualne."
+  }
+ ],
+ "nr": 228,
+ "kolejnosc": 142,
+ "temat": "śnieg wdmuchiwany pod wiatę - jak temu zapobiec",
+ "adres": "snieg-wdmuchiwany-pod-wiate-jak-temu-zapobiec",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

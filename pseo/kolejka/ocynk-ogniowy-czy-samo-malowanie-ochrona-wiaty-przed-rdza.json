@@ -1,0 +1,57 @@
+{
+ "tytul": "Ocynk ogniowy czy samo malowanie? Ochrona wiaty przed rdzą",
+ "opis_meta": "Ocynk ogniowy czy samo malowanie wiaty? Poznaj wady i zalety obu metod ochrony stali przed rdzą z perspektywy montera. Wybierz trwałe rozwiązanie.",
+ "wstep": "Jeśli zastanawiasz się, czy samo malowanie wystarczy do ochrony wiaty przed korozją, odpowiedź z doświadczenia montażowego brzmi: nie na zewnątrz. Stal bez solidnego zabezpieczenia podkładowego w kontakcie z deszczem i wilgocią szybko zacznie niszczeć. Poniżej wyjaśniamy, dlaczego ocynk ogniowy daje przewagę i na co zwrócić uwagę przed wyborem konstrukcji.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego samo malowanie wiaty garażowej to za mało",
+   "akapity": [
+    "Samo malowanie tworzy na stali wyłącznie powierzchniową powłokę. Wystarczy drobne uderzenie, zarysowanie podczas wnoszenia zakupów lub praca konstrukcji na wietrze, aby na lakierze powstała mikroszczelina. Przez takie pęknięcie wilgoć błyskawicznie dociera do surowego metalu.",
+    "Wtedy korozja rozwija się pod warstwą farby, często pozostając długo niewidoczna dla oka. Z czasem farba zaczyna pękać i odpadać płatami. W praktyce oznacza to konieczność regularnego czyszczenia konstrukcji i uciążliwego malowania co kilka sezonów."
+   ]
+  },
+  {
+   "h2": "Jak działa ocynk ogniowy i dlaczego daje spokój na lata",
+   "akapity": [
+    "Ocynk ogniowy polega na zanurzeniu całego elementu stalowego w płynnym cynku. W ten sposób powstaje stop żelaza z cynkiem, który jest trwale związany z podłożem. Cynk dociera w każde zagłębienie oraz zabezpiecza profil od środka, co jest niemożliwe przy tradycyjnym malowaniu pistoletem.",
+    "Nawet jeśli zarysujesz ocynkowaną powierzchnię, stal jest nadal chroniona. Cynk utlenia się w pierwszej kolejności, nie dopuszczając do powstawania rdzy na samym profilu. To sprawia, że nie musisz martwić się wilgocią ani korozją w newralgicznych miejscach łączeń."
+   ]
+  },
+  {
+   "h2": "Połączenie ocynku ogniowego i malowania proszkowego",
+   "akapity": [
+    "Najskuteczniejszą metodą zabezpieczenia stali jest system łączący obie technologie. Najpierw stal trafia do kąpieli cynkowej, a dopiero na tak przygotowaną bazę nakłada się farbę proszkową. Cynk odpowiada za ochronę przed korozją, a powłoka lakiernicza nadaje estetyczny wygląd i chroni sam cynk przed czynnikami atmosferycznymi.",
+    "Dzięki takiemu rozwiązaniu konstrukcja zyskuje równomierny kolor oraz podwójną barierę. Nie tracisz wolnych weekendów na poprawki malarskie, a wiata przez długi czas zachowuje swój pierwotny stan."
+   ]
+  },
+  {
+   "h2": "Grubość stali i fundament a stabilność wiaty",
+   "akapity": [
+    "Sama ochrona przed rdzą nie pomoże, jeśli konstrukcja będzie zbyt delikatna. Na rynku zdarzają się wiaty z profili 40 x 40 mm o ściance 2 mm, które przy mocnych porywach wiatru potrafią się wygiąć lub złamać. Tanie daszki liczone na minimalne obciążenia mogą ugiąć się pod ciężarem śniegu, co stwarza bezpośrednie ryzyko dla zaparkowanego auta.",
+    "Drugą kluczową kwestią jest montaż do podłoża. Wiata przykręcona jedynie do kostki brukowej lub płyt może przy wichurze zachować się jak trampolina i odlecieć na posesję sąsiada. Dlatego słupy należy zawsze kotwić do fundamentów sięgających poniżej strefy przemarzania gruntu, co w Polsce wynosi zwykle około 80 cm głębokości lub więcej."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive jest produkowana ze stali konstrukcyjnej S235, zabezpieczonej zarówno ocynkiem ogniowym, jak i trwałym malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do solidnych fundamentów wylewanych poniżej strefy przemarzania gruntu, co zapewnia odporność na wiatr oraz śnieg. Konstrukcja jest dostępna w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub na wymiar indywidualny, a jej montaż trwa zazwyczaj 1 dzień roboczy z opcją dołożenia modułów, takich jak Solar Box pod panele PV czy przęsła żaluzjowe.",
+ "faq": [
+  {
+   "pytanie": "Czy samo malowanie proszkowe ochroni wiatę przed korozją?",
+   "odpowiedz": "Samo malowanie proszkowe nie zabezpiecza profilu od wewnątrz, a uszkodzenie lakieru szybko prowadzi do korozji podpowłokowej. Do pełnej ochrony na zewnątrz niezbędna jest warstwa ocynku ogniowego pod farbą."
+  },
+  {
+   "pytanie": "Dlaczego fundament pod wiatę musi mieć co najmniej 80 cm głębokości?",
+   "odpowiedz": "Głębokość około 80 cm lub większa pozwala sięgnąć poniżej strefy przemarzania gruntu w Polsce. Zapobiega to wysadzaniu fundamentów przez mróz i stabilnie utrzymuje konstrukcję w trakcie silnych wichur."
+  },
+  {
+   "pytanie": "Jak sprawdzić, czy stalowa wiata będzie pasować do mojego podjazdu?",
+   "odpowiedz": "Możesz wgrać zdjęcie swojego podjazdu do dedykowanego wizualizatora AI. System przygotuje dla Ciebie wizualizację wiaty bezpośrednio na Twoim podwórku w 3 wariantach."
+  }
+ ],
+ "nr": 190,
+ "kolejnosc": 163,
+ "temat": "ocynk ogniowy czy samo malowanie - ochrona wiaty przed rdzą",
+ "adres": "ocynk-ogniowy-czy-samo-malowanie-ochrona-wiaty-przed-rdza",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

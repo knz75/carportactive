@@ -1,0 +1,50 @@
+{
+ "tytul": "Fundament pod wiatę - jak głęboko kopać? Poradnik montera",
+ "opis_meta": "Zastanawiasz się, jak głęboko kopać fundament pod wiatę? Sprawdź zalecenia montera, strefy przemarzania oraz błędy, których warto unikać.",
+ "wstep": "Planujesz budowę wiaty i zastanawiasz się nad właściwym wykopem pod słupy? Bez solidnego oparcia w ziemi konstrukcja może pracować przy mrozach lub ulec uszkodzeniu podczas silnego wiatru. Odpowiedź na pytanie o głębokość zależy przede wszystkim od strefy przemarzania gruntu na Twojej działce.",
+ "sekcje": [
+  {
+   "h2": "Jak głęboko kopać dół pod słup wiaty",
+   "akapity": [
+    "Z doświadczenia montażowego wynika prosta zasada: dół musi sięgać poniżej poziomu, do którego zimą zamarza grunt. W Polsce jest to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Płytszy wykop sprawi, że zamarzająca woda w gruncie zacznie wypychać beton ku górze, co może rozregulować lub pokrzywić całą konstrukcję.",
+    "Na zalanie jednego punktowego fundamentu schodzi przeważnie od 5 do 10 worków betonu. Alternatywą dla tradycyjnego betonu są pale, ale ich montaż wymaga specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Dlaczego montaż do samej kostki brukowej to błąd",
+   "akapity": [
+    "Częstym błędem jest przykręcanie słupów bezpośrednio do betonowych płyt lub kostki brukowej. Przy gwałtownej wichurze lekka konstrukcja może unieść się i polecieć jak trampolina z filmików w internecie, wyrządzając szkody u sąsiada. Oszczędność na fundamencie szybko obraca się wtedy przeciwko właścicielowi.",
+    "Wiata potrzebuje solidnej bazy, do której kotwi się słupy nośne. Tylko fundament sięgający rodzimego gruntu poniżej strefy przemarzania daje gwarancję stabilności w czasie trudnych warunków pogodowych."
+   ]
+  },
+  {
+   "h2": "Ukryte prace przy przygotowaniu podłoża",
+   "akapity": [
+    "Samo wykopanie dołów to nie wszystko, z czym musisz się zmierzyć na podwórku. Jeśli na podjeździe leży już nawierzchnia, dochodzi rozebranie kostki brukowej przed pracami oraz jej ponowne ułożenie wokół słupów po zalaniu betonu.",
+    "Pamiętaj także o wykopanej ziemi i ewentualnym gruzie. Taki urobek trzeba zebrać oraz zorganizować jego wywóz, co stanowi dodatkowy etap prac przy budowie fundamentów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive eliminuje problemy ze stabilnością, ponieważ fundamenty wykonujemy poniżej strefy przemarzania gruntu i precyzyjnie kotwimy do nich słupy. Konstrukcja zrobiona jest ze stali S235 zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016, a montaż zajmuje zazwyczaj 1 dzień roboczy. Oferujemy rozmiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m oraz warianty indywidualne, do których możesz dobrać moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box lub przęsła żaluzjowe. Wystarczy wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jaka jest standardowa głębokość fundamentu pod wiatę w Polsce?",
+   "odpowiedz": "Wykop powinien sięgać poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle około 80 cm głębokości, a w niektórych rejonach nawet więcej."
+  },
+  {
+   "pytanie": "Ile betonu zużywa się na jeden słup wiaty?",
+   "odpowiedz": "W zależności od wymiarów punktowej stopy fundamentowej, na jeden słup przypada zwykle od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Czy zamiast betonu można zastosować inne rozwiązanie?",
+   "odpowiedz": "Alternatywą dla betonowych fundamentów są pale, jednak ich prawidłowy montaż wymaga użycia specjalistycznego sprzętu."
+  }
+ ],
+ "nr": 182,
+ "kolejnosc": 75,
+ "temat": "fundament pod wiatę - jak głęboko kopać",
+ "adres": "fundament-pod-wiate-jak-gleboko-kopac",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

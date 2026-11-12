@@ -1,0 +1,57 @@
+{
+ "tytul": "Nowoczesna wiata z płaskim dachem - na co uważać przy wyborze",
+ "opis_meta": "Szukasz nowoczesnej wiaty z płaskim dachem? Sprawdź porady montera o profilach, fundamentach i odporności na śnieg oraz silny wiatr. Zadbaj o auto.",
+ "wstep": "Nowoczesna wiata z płaskim dachem świetnie komponuje się z prostą bryłą współczesnego domu. Zanim jednak wybierzesz konkretną konstrukcję, musisz poznać techniczne pułapki związane z takim zadaszeniem. Płaska powierzchnia wymaga znacznie większej uwagi przy doborze przekrojów stali i sposobie montażu do gruntu.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego płaski dach wymaga mocnej konstrukcji",
+   "akapity": [
+    "Płaski dach zatrzymuje śnieg znacznie dłużej niż zadaszenie dwuspadowe. Tanie wiaty i daszki z marketu są najczęściej projektowane na minimalne obciążenie śniegiem oraz wiatrem. Podczas prac montażowych nieraz widziałem lekki daszek z marketu, który ugiął się pod ciężarem mokrego śniegu.",
+    "Jeśli pod zadaszeniem planujesz trzymać wartościowy samochód, wybór zbyt delikatnego modelu niesie duże ryzyko. Oszczędność na grubości materiału może skończyć się uszkodzeniem dachu pojazdu przy pierwszej śnieżnej zimie."
+   ]
+  },
+  {
+   "h2": "Grubość profili a stabilność podczas wichury",
+   "akapity": [
+    "Wiatę można technicznie wykonać z profilu 40 x 40 mm o ściance 2 mm, ale w rzeczywistości jej słupy wyglądają wtedy jak zapałki. Taka konstrukcja prezentuje się wątło i mocno pracuje przy każdym podmuchu wiatru.",
+    "Mocniejsze porywy mogą doprowadzić do wygięcia lub złamania zbyt cienkich elementów nośnych. Odpowiedni przekrój profili to gwarancja, że konstrukcja zachowa sztywność przez wiele lat i nie stworzy zagrożenia na Twoim podjeździe."
+   ]
+  },
+  {
+   "h2": "Prawidłowe fundamenty zamiast mocowania do kostki",
+   "akapity": [
+    "Częstym błędem jest przykręcanie słupów bezpośrednio do kostki brukowej lub cienkich płyt betonowych. Lekka konstrukcja podczas porywistej wichury może zachować się jak trampolina i polecieć na posesję sąsiada, niszcząc mienie. Warto zadać sobie pytanie, kto zapłaci za powstałe w ten sposób zniszczenia.",
+    "Prawidłowy montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu, do których następnie kotwi się słupy. W Polsce jest to zazwyczaj głębokość około 80 cm, a w chłodniejszych rejonach nawet więcej. Na solidne zabetonowanie jednego słupa schodzi średnio od 5 do 10 worków betonu. Alternatywnym rozwiązaniem są pale, jednak ich wkręcanie wymaga użycia specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Ukryte prace towarzyszące na Twoim podwórku",
+   "akapity": [
+    "Kiedy planujesz montaż zadaszenia, weź pod uwagę czynności, o których rzadko myśli się na początku. Jeżeli na posesji leży już kostka brukowa, konieczne jest jej miejscowe rozebranie, a po wykonaniu betonowania powtórne docięcie i ułożenie wokół słupów.",
+    "Trzeba również zaplanować wywóz ziemi i gruzu z wykopów pod stopy fundamentowe. Oszczędzanie na etapie prac ziemnych i stabilnym podłożu szybko wychodzi bokiem w codziennym użytkowaniu wiaty."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235 z ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy o wysokości 2,7 m kotwimy do solidnych fundamentów wylewanych poniżej strefy przemarzania gruntu. Konstrukcja jest dostępna w rozmiarach bazowych 3 x 6 m, 4 x 6 m i 6 x 6 m oraz w wymiarach indywidualnych, z możliwością rozbudowy o moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV lub przęsła żaluzjowe. Montaż zajmuje zazwyczaj 1 dzień roboczy, a wizualizator AI pozwala sprawdzić wiatę na zdjęciu Twojego podjazdu w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Na jaką głębokość należy wykonać fundamenty pod wiatę?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle około 80 cm głębokości lub więcej. Na jeden punkt fundamentowy zużywa się zazwyczaj od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Czy można zamontować wiatę bezpośrednio do ułożonej kostki brukowej?",
+   "odpowiedz": "Nie, przykręcenie słupów wyłącznie do kostki stwarza ryzyko poderwania konstrukcji przez wiatr. Kostkę brukową w miejscach słupów należy rozebrać, wykopać dół, zalać betonowy fundament i dopiero do niego zakotwić słup."
+  },
+  {
+   "pytanie": "Ile czasu trwa montaż wiaty CarportActive?",
+   "odpowiedz": "Montaż wiaty CarportActive na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  }
+ ],
+ "nr": 214,
+ "kolejnosc": 233,
+ "temat": "nowoczesna wiata z płaskim dachem",
+ "adres": "nowoczesna-wiata-z-plaskim-dachem",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

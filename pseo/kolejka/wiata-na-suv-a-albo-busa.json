@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata na SUV-a albo busa. Na co zwrócić uwagę przed wyborem?",
+ "opis_meta": "Szukasz wiaty na SUV-a lub busa? Sprawdź, jaka wysokość, przekroje profili i fundamenty są potrzebne, aby auto było bezpieczne przez cały rok.",
+ "wstep": "Wysokie i ciężkie auto wymaga innego podejścia do zadaszenia niż mały samochód miejski. Standardowe daszki z marketu okazują się często za niskie, zbyt wąskie i podatne na podmuchy wiatru. Zanim zdecydujesz się na konkretny model, sprawdź parametry techniczne, które decydują o bezpieczeństwie Twojego pojazdu.",
+ "sekcje": [
+  {
+   "h2": "Wymiary wiaty dopasowane do dużego auta",
+   "akapity": [
+    "Typowy samochód osobowy zmieści się pod niskim zadaszeniem, ale SUV czy bus potrzebują sporego zapasu przestrzeni. Jeśli na dachu wozisz boks bagażowy lub uchwyty rowerowe, wysokość konstrukcji na poziomie 2,7 m staje się koniecznością. Zbyt niski dach zmusi Cię do kłopotliwego demontażu akcesoriów przed każdym wjazdem.",
+    "Równie ważna jest szerokość całej konstrukcji. Duże samochody mają szerokie drzwi, które wymagają swobodnego otwarcia bez ryzyka obicia lakieru o słupy. Warto wybrać rozmiar, który pozwoli Ci wygodnie wysiąść, rozładować zakupy i swobodnie obejść pojazd z każdej strony."
+   ]
+  },
+  {
+   "h2": "Przekroje stali a obciążenie śniegiem i wiatrem",
+   "akapity": [
+    "Wiatę można wykonać z taniego profilu 40 x 40 mm o ściance 2 mm, jednak słupy wyglądają wtedy jak zapałki. Przy wysokim pojeździe cała konstrukcja stawia duży opór powietrzu, przez co cienkie profile mogą się wygiąć lub wręcz złamać podczas silnej wichury.",
+    "Tanie konstrukcje marketowe są projektowane na minimalne obciążenia środowiskowe. W praktyce widzieliśmy wiele takich daszków, które ugięły się pod naporem ciężkiego, mokrego śniegu. Jeśli pod zadaszeniem ma stać kosztowny bus lub SUV, oszczędzanie na grubości stali niesie za sobą duże ryzyko."
+   ]
+  },
+  {
+   "h2": "Solidne fundamenty zamiast mocowania do kostki",
+   "akapity": [
+    "Lekkie wiaty bywają przykręcane bezpośrednio do betonowych płyt chodnikowych albo samej kostki brukowej. Podczas gwałtownej burzy taka konstrukcja potrafi zadziałać jak żagiel i polecieć na posesję sąsiada niczym niezabezpieczona trampolina. Warto zadać sobie pytanie, kto pokryje koszty takich zniszczeń.",
+    "Prawidłowy montaż wymaga wykonania wykopów poniżej strefy przemarzania gruntu, co w Polsce wynosi zwykle około 80 cm głębokości lub więcej. Na pojedynczy słup przypada od 5 do 10 worków betonu, w którym stabilnie kotwi się stalowe elementy. Alternatywą są specjalne pale, lecz ich wkręcanie wymaga ciężkiego sprzętu. Pamiętaj też o pracach towarzyszących, takich jak wywóz ziemi oraz ponowne ułożenie rozebranej kostki."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive to konstrukcja ze stali S235 zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy są trwale kotwione w fundamentach poniżej strefy przemarzania, a wysokość 2,7 m w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub indywidualnych pozwala wygodnie zaparkować busa czy SUV-a. Montaż zajmuje zazwyczaj 1 dzień roboczy, a całość można rozbudować m.in. o przęsła żaluzjowe, panel narzędziowy czy Solar Box pod panele PV. Jeśli chcesz sprawdzić wygląd konstrukcji, wgraj zdjęcie swojego podjazdu do wizualizatora AI, który przedstawi wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jaka wysokość wiaty jest odpowiednia na busa lub SUV-a z boksem dachowym?",
+   "odpowiedz": "Optymalna wysokość wiaty wynosi 2,7 m. Taki wymiar zapewnia bezpieczny wjazd wyższym autem bez konieczności demontowania bagażnika dachowego."
+  },
+  {
+   "pytanie": "Czy wiatę na duże auto można przymocować do samej kostki brukowej?",
+   "odpowiedz": "Nie, to niebezpieczne rozwiązanie. Słupy nośne muszą być zakotwione w betonowych fundamentach sięgających poniżej strefy przemarzania gruntu, czyli na głębokość około 80 cm lub większą."
+  },
+  {
+   "pytanie": "Ile trwa montaż stalowej wiaty garażowej?",
+   "odpowiedz": "Montaż wiaty CarportActive zajmuje zazwyczaj 1 dzień roboczy na przygotowanym wcześniej podłożu."
+  }
+ ],
+ "nr": 197,
+ "kolejnosc": 213,
+ "temat": "wiata na SUV-a albo busa",
+ "adres": "wiata-na-suv-a-albo-busa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

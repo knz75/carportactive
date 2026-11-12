@@ -1,0 +1,56 @@
+{
+ "tytul": "Odprowadzenie wody z dachu wiaty. Jak zrobić to dobrze",
+ "opis_meta": "Dowiedz się, jak skutecznie zaplanować odprowadzenie wody z dachu wiaty garażowej. Poznaj porady montera i uniknij podtopień wokół auta.",
+ "wstep": "Woda spływająca prosto z dachu wiaty potrafi szybko wypłukać grunt i zalać podjazd. Z tego tekstu dowiesz się, jak zaplanować odprowadzenie deszczówki, aby ochronić konstrukcję i zaparkowane auto. Zobacz praktyczne wskazówki prosto z montaży.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego swobodny spływ wody to błąd",
+   "akapity": [
+    "Zostawienie dachu bez systemu rynnowego oznacza, że cała deszczówka spada bezpośrednio przy słupach wiaty. Woda podmywa wtedy grunt wokół podpór, a w czasie mrozów tworzy lodowisko tuż przy drzwiach samochodu. Oszczędność na drobiazgach potem wychodzi bokiem w czasie codziennego użytkowania wiaty."
+   ]
+  },
+  {
+   "h2": "Spadek dachu i zbieranie deszczówki",
+   "akapity": [
+    "Każde zadaszenie potrzebuje równego spadku w stronę rynny, aby woda nie stała na dachu. Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem, dlatego uginają się pod ciężarem i zaburzają spływ wody. Jeśli pod wiatą ma stać drogi samochód, warto to przemyśleć przed zakupem.",
+    "Rynnę montuje się w najniższym punkcie połaci dachowej. Zadbaj o to, aby rura spustowa nie wylewała wody bezpośrednio pod konstrukcję, tylko wyprowadzała ją na zewnątrz."
+   ]
+  },
+  {
+   "h2": "Gdzie skierować wodę z rury spustowej",
+   "akapity": [
+    "Najprostszym rozwiązaniem jest odprowadzenie deszczówki na trawnik za pomocą przedłużenia rury spustowej. Możesz też skierować wodę do zbiornika retencyjnego albo wykonać drenaż rozsączający w gruncie.",
+    "Pamiętaj, że prace przy odprowadzeniu wody często wiążą się z podłożem. Na koszt montażu składają się też rzeczy, o których mało kto myśli: wywóz ziemi i gruzu oraz rozebranie i ułożenie z powrotem kostki brukowej wokół słupów i rur."
+   ]
+  },
+  {
+   "h2": "Fundamenty a wilgoć w gruncie",
+   "akapity": [
+    "Odprowadzenie wody ma duży wpływ na stabilność gruntu pod wiatą. Wiaty z marketu często stoją przykręcone do betonowych płyt albo kostki, a spływająca woda dodatkowo rozmiękcza ziemię pod nimi. Przy wichurze lekka konstrukcja może polecieć jak trampolina z filmików w internecie i narobić szkód u sąsiada.",
+    "Dlatego fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy. W Polsce to zwykle ok. 80 cm głębokości, a zależnie od regionu nawet więcej. Na jeden słup może pójść 5-10 worków betonu, co daje stabilną podstawę niezależnie od deszczu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Solidną bazę pod bezpieczne odprowadzenie wody zapewnia Stalowa wiata garażowa CarportActive. Wykonujemy ją ze stali konstrukcyjnej S235, zabezpieczonej przez ocynk ogniowy i malowanie proszkowe w kolorze antracyt RAL 7016, a fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy. Wiata jest dostępna w rozmiarach bazowych 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m lub na wymiar indywidualny, a montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz wgrać zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata garażowa musi mieć rynnę?",
+   "odpowiedz": "Tak, rynna zapobiega podmywaniu fundamentów i chroni auto oraz podjazd przed zalewaniem strugami deszczu."
+  },
+  {
+   "pytanie": "Jak głęboko osadza się słupy wiaty?",
+   "odpowiedz": "Fundamenty robimy poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle ok. 80 cm głębokości, a zależnie od regionu nawet więcej."
+  },
+  {
+   "pytanie": "Czy do wiaty CarportActive można domówić wyposażenie dodatkowe?",
+   "odpowiedz": "Tak, do wiaty można dołożyć moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV lub przęsła żaluzjowe."
+  }
+ ],
+ "nr": 192,
+ "kolejnosc": 181,
+ "temat": "odprowadzenie wody z dachu wiaty",
+ "adres": "odprowadzenie-wody-z-dachu-wiaty",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

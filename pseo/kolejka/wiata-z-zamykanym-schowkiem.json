@@ -1,0 +1,49 @@
+{
+ "tytul": "Wiata z zamykanym schowkiem - na co zwrócić uwagę przed budową",
+ "opis_meta": "Szukasz wiaty z zamykanym schowkiem? Sprawdź porady montera: jak dobrać konstrukcję, uniknąć błędów przy montażu i dobrze zaplanować fundamenty.",
+ "wstep": "Szukasz miejsca na auto, ale potrzebujesz też bezpiecznego kąta na kosiarkę, opony i rowery. Wiata z zamykanym schowkiem rozwiązuje oba problemy za jednym razem. Zanim jednak wybierzesz konkretny model, sprawdź, jak podejść do montażu i solidnego posadowienia.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego zamykany schowek pod wiatą to spore wyzwanie dla konstrukcji",
+   "akapity": [
+    "Zabudowany schowek tworzy litą ścianę, która przy silnym wietrze działa jak żagiel. Jeśli postawisz wiatę z cienkich profili, na przykład 40 x 40 mm ze ścianką 2 mm, słupy pod wpływem porywów będą pracować jak zapałki. Tanie konstrukcje z marketu są projektowane na minimalne obciążenia śniegiem i wiatrem. Pod ciężarem mokrego śniegu taki daszek potrafi się ugiąć, a jeśli trzymasz pod nim wartościowe rzeczy, ryzyko jest po prostu zbyt duże."
+   ]
+  },
+  {
+   "h2": "Błędy przy montażu, czyli dlaczego kostka brukowa to nie fundament",
+   "akapity": [
+    "Na wielu podwórkach widać wiaty przykręcone bezpośrednio do betonowych płyt lub kostki brukowej. Przy gwałtownej wichurze lekka konstrukcja potrafi unieść się i odlecieć jak trampolina, niszcząc mienie Twoje lub sąsiada. Oszczędność na montażu szybko wychodzi bokiem, a koszty zniszczeń zawsze spadają na właściciela posesji.",
+    "Stabilność dają wyłącznie fundamenty sięgające poniżej strefy przemarzania gruntu, do których solidnie kotwi się słupy. W polskich warunkach oznacza to zazwyczaj głębokość około 80 cm lub więcej, zależnie od regionu. Na zalanie dołka pod jeden słup schodzi przeważnie od 5 do 10 worków betonu."
+   ]
+  },
+  {
+   "h2": "Ukryte prace ziemne i przygotowanie terenu",
+   "akapity": [
+    "Planując wiatę ze schowkiem, musisz wziąć pod uwagę prace, o których rzadko myśli się przed zakupem. Trzeba tymczasowo rozebrać kostkę brukową wokół każdego słupa, a po związaniu betonu ułożyć ją z powrotem. Dochodzi do tego także wywóz wykopanej ziemi oraz gruzu, co wymaga wcześniejszego zaplanowania miejsca na podwórku.",
+    "Alternatywą dla tradycyjnego betonu są pale wkręcane w grunt, ale ich montaż wymaga użycia specjalistycznego sprzętu. Niezależnie od wybranej metody, odpowiednie zakotwienie w gruncie to jedyny sposób, by konstrukcja stała stabilnie przez lata."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive jest produkowana ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym oraz malowana proszkowo na kolor antracyt RAL 7016. Słupy kotwimy do fundamentów wykonanych poniżej strefy przemarzania gruntu, a cały montaż trwa zazwyczaj 1 dzień roboczy. Konstrukcję o wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m (wysokość 2,7 m) lub na wymiar indywidualny możesz uzupełnić o panel narzędziowy, przechowalnię rowerów czy przęsła żaluzjowe. Wgrywając zdjęcie podjazdu, sprawdzisz wygląd wiaty w 3 wariantach dzięki wizualizatorowi AI.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę ze schowkiem można przymocować do samej kostki brukowej?",
+   "odpowiedz": "Nie, to duże ryzyko. Wiata ze schowkiem ma większą powierzchnię oporu dla wiatru, dlatego słupy należy zakotwić w fundamentach sięgających poniżej strefy przemarzania gruntu."
+  },
+  {
+   "pytanie": "Ile czasu trwa montaż stalowej wiaty CarportActive?",
+   "odpowiedz": "Montaż konstrukcji na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  },
+  {
+   "pytanie": "Jakie moduły ułatwiają przechowywanie rzeczy pod wiatą?",
+   "odpowiedz": "Do wiaty CarportActive można dołożyć dedykowany panel narzędziowy, przechowalnię rowerów, a także przęsła żaluzjowe."
+  }
+ ],
+ "nr": 211,
+ "kolejnosc": 230,
+ "temat": "wiata z zamykanym schowkiem",
+ "adres": "wiata-z-zamykanym-schowkiem",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

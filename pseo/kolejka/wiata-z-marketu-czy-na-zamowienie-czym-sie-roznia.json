@@ -1,0 +1,53 @@
+{
+ "tytul": "Wiata z marketu czy na zamówienie - czym się różnią",
+ "opis_meta": "Zastanawiasz się, czy kupić wiatę z marketu, czy zamówić na wymiar? Poznaj różnice w konstrukcji, kosztach montażu oraz stabilności fundamentów.",
+ "wstep": "Wybór między wiatą z marketu a konstrukcją na zamówienie sprowadza się do trwałości i bezpieczeństwa Twojego auta. Gotowy produkt z marketu kusi ceną, ale różni się od wiaty robionej na wymiar niemal każdym detalem technicznym. Zobacz, na czym polegają te różnice i dlaczego pozorna oszczędność potrafi wyjść bokiem.",
+ "sekcje": [
+  {
+   "h2": "Grubość profili a obciążenie śniegiem i wiatrem",
+   "akapity": [
+    "Tanie wiaty i daszki z marketu są projektowane na minimalne obciążenia wiatrem oraz śniegiem. W praktyce na wielu podwórkach widać potem ugięte dachy pod naporem zimowego puchu. Jeśli zamierzasz parkować pod zadaszeniem drogi samochód, warto dokładnie przemyśleć taką konstrukcję przed zakupem.",
+    "Wiatę można wyprodukować z profili 40 x 40 mm o ściance zaledwie 2 mm. Tego typu słupy przypominają zapałki i przy mocniejszych porywach wiatru mogą się po prostu złamać. Z kolei konstrukcja na zamówienie wykorzystuje masywniejsze elementy, które zapewniają stabilność w każdych warunkach pogodowych."
+   ]
+  },
+  {
+   "h2": "Kotwienie do kostki czy fundament poniżej strefy przemarzania",
+   "akapity": [
+    "Wiaty z marketu bardzo często stawia się bezpośrednio na kostce brukowej lub na cienkich płytach betonowych. Przy silnej wichurze tak lekki szkielet potrafi zadziałać jak trampolina i polecieć na posesję obok. Wtedy pojawia się problem uszkodzeń oraz pytanie, kto pokryje straty u sąsiada.",
+    "Prawidłowy montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu, do których kotwi się słupy. W Polsce jest to zazwyczaj głębokość około 80 cm, a w niektórych regionach jeszcze więcej. Na zalanie pojedynczego słupa schodzi od 5 do 10 worków betonu, co gwarantuje, że całość utrzyma się w gruncie. Alternatywą dla betonu bywają pale, jednak do ich montażu niezbędny jest specjalistyczny sprzęt."
+   ]
+  },
+  {
+   "h2": "Różnice w cenie i koszty montażu, o których się zapomina",
+   "akapity": [
+    "Wiata z marketu to wydatek rzędu 3-5 tys. zł, natomiast stalowa wiata na zamówienie z pełnym montażem i fundamentami może kosztować nawet około 30 tys. zł. Wielu inwestorów dziwi się, dlaczego sama usługa montażu kosztuje tyle, co kompletny zestaw z marketu.",
+    "Na cenę rzetelnego montażu składają się prace ziemne, o których rzadko myśli się na etapie zakupu. Trzeba rozebrać kostkę brukową wokół każdego słupa, wywieźć urobek i gruz, a po zabetonowaniu precyzyjnie dociąć i ułożyć kostkę na nowo. Oszczędzanie na tych pracach, zwłaszcza na fundamencie, szybko skutkuje problemami w trakcie użytkowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive to konstrukcja ze stali S235, zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Model w wariancie bazowym 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub o wymiarach indywidualnych możesz doposażyć w moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV lub przęsła żaluzjowe. Wystarczy wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twojej działce w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Dlaczego daszki z marketu uginają się pod śniegiem?",
+   "odpowiedz": "Konstrukcje marketowe są projektowane na minimalne obciążenia. Cienkie profile, na przykład 40 x 40 mm o ściance 2 mm, nie radzą sobie z dużym naporem mokrego śniegu, co prowadzi do ich deformacji."
+  },
+  {
+   "pytanie": "Czy wiatę można postawić bezpośrednio na kostce brukowej?",
+   "odpowiedz": "Montaż wiaty bezpośrednio do kostki niesie ryzyko poderwania konstrukcji przez wiatr. Bezpieczny montaż wymaga fundamentów sięgających poniżej strefy przemarzania, czyli na około 80 cm w głąb gruntu."
+  },
+  {
+   "pytanie": "Co wchodzi w zakres prac fundamentowych przy wiacie stalowej?",
+   "odpowiedz": "Prace obejmują wykop, zużycie od 5 do 10 worków betonu na słup, wywóz ziemi i gruzu, a także ostrożne rozebranie i powtórne ułożenie kostki brukowej po zabetonowaniu konstrukcji."
+  }
+ ],
+ "nr": 176,
+ "kolejnosc": 9,
+ "temat": "wiata z marketu czy na zamówienie - czym się różnią",
+ "adres": "wiata-z-marketu-czy-na-zamowienie-czym-sie-roznia",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "30 tys. zł",
+  "5 tys. zł"
+ ]
+}

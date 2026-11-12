@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata zimą - koniec ze skrobaniem szyb",
+ "opis_meta": "Masz dość skrobania szyb rano? Sprawdź, jak wiata chroni auto zimą i dlaczego solidna konstrukcja oraz głęboki fundament są kluczem do spokoju.",
+ "wstep": "Poranne skrobanie szyb i odśnieżanie auta przy ujemnej temperaturze zabiera czas oraz energię przed wyjściem do pracy. Wiata nad samochodem skutecznie likwiduje ten problem, osłaniając pojazd przed mrozem i śnieżycą. Zanim jednak postawisz jakiekolwiek zadaszenie, warto wiedzieć, jak przygotować je na trudne zimowe warunki.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego pod wiatą nie trzeba skrobać szyb",
+   "akapity": [
+    "Zjawisko zamarzania szyb wynika głównie z ucieczki ciepła z samochodu wprost ku bezchmurnemu niebu oraz z osiadania wilgoci, która zamienia się w szron. Dach wiaty działa jak bariera, która odbija promieniowanie cieplne z powrotem w stronę pojazdu. Dzięki temu temperatura powierzchni szyb pozostaje nieco wyższa niż temperatura otoczenia.",
+    "Nawet przy kilkunastostopniowym mrozie auto stojące pod zadaszeniem ma czyste, przejrzyste szyby. Dodatkowo rano nie musisz zrzucać grubej warstwy mokrego śniegu z dachu i maski, co oszczędza lakier przed przypadkowym porysowaniem szczotką."
+   ]
+  },
+  {
+   "h2": "Ciężar śniegu a wytrzymałość konstrukcji",
+   "akapity": [
+    "Zima szybko weryfikuje jakość materiałów. Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem. Podczas wizyt na montażach często widzimy marketowe konstrukcje, które po prostu ugięły się pod naporem mokrego puchu.",
+    "Wiatę da się zrobić z taniego profilu 40 x 40 mm o ściance 2 mm, ale słupy wyglądają wtedy jak zapałki. Przy mocnych porywach wiatru i obciążeniu śniegiem takie elementy mogą się zgiąć lub złamać. Jeśli pod dachem parkujesz wartościowe auto, konstrukcja musi być stabilna i odporna na obciążenia."
+   ]
+  },
+  {
+   "h2": "Fundament na zimowe mrozy i wichury",
+   "akapity": [
+    "Lekkie zadaszenia bywają montowane bezpośrednio do kostki brukowej lub płyt chodnikowych. Przy zimowej wichurze taka konstrukcja potrafi unieść się w powietrze niczym trampolina i narobić kosztownych szkód u Ciebie lub u sąsiada. Oszczędność na mocowaniu zawsze mści się w trakcie trudnej pogody.",
+    "Trwały montaż wymaga osadzenia fundamentów poniżej strefy przemarzania gruntu, do których kotwi się słupy. W Polsce to zwykle około 80 cm głębokości lub więcej, zależnie od regionu. Na jeden słup zużywa się średnio 5-10 worków betonu. Alternatywą są pale wkręcane, ale wymagają one specjalistycznego sprzętu. Przy pracach pamiętaj też o kosztach rozebrania i ponownego ułożenia kostki oraz wywozie urobku."
+   ]
+  },
+  {
+   "h2": "Ochrona przed bocznym wiatrem i zawiewaniem",
+   "akapity": [
+    "Sam dach chroni przed opadem pionowym, jednak silne podmuchy potrafią nawiać śnieg pod konstrukcję. Jeśli Twój podjazd znajduje się na otwartej przestrzeni, warto osłonić wiatę z boku, na przykład wypełnieniem żaluzjowym.",
+    "Taka ścianka zatrzymuje zamieć śnieżną i ogranicza przeciągi, a samochód pozostaje całkowicie suchy bez względu na kierunek wiatru."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego zadaszenia na lata, rozwiązaniem jest stalowa wiata garażowa CarportActive wykonana ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy o wysokości 2,7 m kotwimy do fundamentów wylewanych poniżej strefy przemarzania gruntu, a cały montaż trwa zazwyczaj 1 dzień roboczy. Konstrukcję w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub pod indywidualny wymiar możesz wyposażyć w przęsła żaluzjowe chroniące przed zawiewaniem, a także w moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów czy Solar Box pod panele PV. Wystarczy, że wgrasz zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Dlaczego pod wiatą szyby nie zachodzą lodem?",
+   "odpowiedz": "Dach wiaty zatrzymuje ucieczkę promieniowania cieplnego z pojazdu i blokuje opadanie wilgoci z powietrza, dzięki czemu szron nie osadza się na szkle."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słupy wiaty?",
+   "odpowiedz": "Wykop musi sięgać poniżej strefy przemarzania gruntu, co w Polsce wynosi zazwyczaj około 80 cm lub więcej, przy zużyciu 5-10 worków betonu na punkt."
+  },
+  {
+   "pytanie": "Czy wiatę można przykręcić bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Nie, mocowanie do samej kostki grozi wyrwaniem konstrukcji podczas silnej wichury, co stwarza bezpośrednie zagrożenie dla auta i otoczenia."
+  }
+ ],
+ "nr": 206,
+ "kolejnosc": 225,
+ "temat": "wiata zimą - koniec ze skrobaniem szyb",
+ "adres": "wiata-zima-koniec-ze-skrobaniem-szyb",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

@@ -1,0 +1,57 @@
+{
+ "tytul": "Dach wiaty: poliwęglan czy blacha trapezowa? Porównanie",
+ "opis_meta": "Wybierasz dach wiaty garażowej? Poznaj wady i zalety poliwęglanu oraz blachy trapezowej. Zobacz, co sprawdzi się lepiej na Twoim podjeździe.",
+ "wstep": "Wybór między poliwęglanem a blachą trapezową zależy głównie od tego, czy potrzebujesz światła, czy pełnego cienia i trwałej osłony. Oba materiały mają swoje zalety, ale też ograniczenia, które widać dopiero po kilku sezonach użytkowania. Poznaj praktyczne wnioski z montaży, które pomogą Ci podjąć dobrą decyzję.",
+ "sekcje": [
+  {
+   "h2": "Kiedy lepiej sprawdzi się blacha trapezowa?",
+   "akapity": [
+    "Blacha trapezowa to sprawdzony wybór, jeśli zależy Ci na pełnym zacienieniu i bezobsługowej eksploatacji. Samochód zaparkowany pod pełnym dachem nie nagrzewa się tak mocno w upalne dni, co wyraźnie poprawia komfort latem.",
+    "Z punktu widzenia montera blacha jest materiałem bardzo trwałym, który nie niszczeje pod wpływem promieniowania słonecznego. Nie widać na niej drobnego brudu ani opadających liści, więc nie musisz jej regularnie myć, aby podjazd wyglądał schludnie."
+   ]
+  },
+  {
+   "h2": "Kiedy warto wybrać poliwęglan na dach wiaty?",
+   "akapity": [
+    "Poliwęglan jest dobrym rozwiązaniem w sytuacji, gdy wiata stoi bezpośrednio przy oknach domu mieszkalnego. Zastosowanie przezroczystego pokrycia sprawia, że do wnętrza budynku nadal dociera naturalne światło dzienne.",
+    "Pamiętaj jednak, że poliwęglan wymaga regularnego czyszczenia, ponieważ widać na nim kurz, zacieki oraz gnijące igliwie. Tanie tworzywa z marketu potrafią z czasem matowieć pod wpływem słońca, a podczas deszczu bywają głośniejsze niż solidnie zamocowana blacha."
+   ]
+  },
+  {
+   "h2": "Obciążenie śniegiem i wiatrem a wybór pokrycia",
+   "akapity": [
+    "Każdy materiał dachowy musi utrzymać ciężar zimowego śniegu i oprzeć się naporom wiatru. Tanie wiaty i daszki z marketu są często liczone na minimalne obciążenia, co bywa zgubne przy nagłych opadach. Na wielu podwórkach widać ugięte pod śniegiem zadaszenia, a zniszczenie dachu nad zaparkowanym autem oznacza duże straty.",
+    "Wybierając materiał na dach, musisz zadbać o nośność całej konstrukcji. Jeśli wiata zostanie wykonana ze zbyt wiotkich profili, nawet najlepsze poszycie nie uchroni jej przed odkształceniem."
+   ]
+  },
+  {
+   "h2": "Konstrukcja i fundament to podstawa stabilnego dachu",
+   "akapity": [
+    "Samo pokrycie dachowe to tylko część sukcesu, bo kluczowa jest konstrukcja nośna. Zdarza się, że wiaty buduje się z profili 40 x 40 mm o ściance 2 mm, przez co słupy wyglądają jak zapałki i przy silnych porywach wiatru mogą się po prostu złamać.",
+    "Równie ważny jest fundament, na którym wielu inwestorów próbuje oszczędzać. Tanie wiaty przykręcone tylko do kostki brukowej lub płyt betonowych potrafią podczas wichury odlecieć na posesję sąsiada. Z tego powodu słupy należy kotwić w betonie sięgającym poniżej strefy przemarzania gruntu, czyli w Polsce zazwyczaj na około 80 cm głębokości lub więcej. Na jeden taki punkt fundamentowy zużywa się zwykle od 5 do 10 worków betonu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz bezpiecznego schronienia dla auta, rozwiązaniem jest stalowa wiata garażowa CarportActive ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do stabilnych fundamentów wykonanych poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Oferujemy rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m oraz wymiary indywidualne, z opcją montażu modułów takich jak Solar Box pod panele PV, przechowalnia rowerów czy przęsła żaluzjowe. Możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI bezpłatnie pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy pod dachem z blachy trapezowej auto mniej się nagrzewa?",
+   "odpowiedz": "Tak, blacha trapezowa zapewnia pełne odcięcie promieni słonecznych, dzięki czemu wnętrze samochodu nagrzewa się znacznie mniej niż pod przezroczystym poliwęglanem."
+  },
+  {
+   "pytanie": "Co jest łatwiejsze w utrzymaniu czystości: poliwęglan czy blacha?",
+   "odpowiedz": "Zdecydowanie blacha trapezowa. Na poliwęglanie widać wszelkie zanieczyszczenia, liście i zacieki, co wymusza częste mycie dachu."
+  },
+  {
+   "pytanie": "Czy montaż stabilnej wiaty wymaga naruszenia kostki brukowej?",
+   "odpowiedz": "Tak, wykonanie trwałego fundamentu poniżej poziomu przemarzania gruntu wiąże się z punktowym rozebraniem kostki, wykopem ziemi oraz ponownym ułożeniem bruku wokół słupa."
+  }
+ ],
+ "nr": 188,
+ "kolejnosc": 141,
+ "temat": "dach wiaty: poliwęglan czy blacha trapezowa",
+ "adres": "dach-wiaty-poliweglan-czy-blacha-trapezowa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

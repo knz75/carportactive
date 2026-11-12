@@ -1,0 +1,51 @@
+{
+ "tytul": "Jaka wysokość wiaty na samochód? Praktyczny poradnik",
+ "opis_meta": "Zastanawiasz się, jaka wysokość wiaty na samochód sprawdzi się najlepiej? Sprawdź praktyczne porady montera i dowiedz się, na co uważać.",
+ "wstep": "Wybór odpowiedniej wysokości wiaty decyduje o tym, czy codzienne parkowanie będzie wygodne. Zbyt niska konstrukcja utrudni wjazd wyższym autem lub z bagażnikiem dachowym, a zbyt wysoka słabiej chroni przed deszczem. Z doświadczenia montażowego wynika, że sprawdzona wysokość użytkowa to około 2,7 m.",
+ "sekcje": [
+  {
+   "h2": "Standardowa wysokość a codzienne użytkowanie",
+   "akapity": [
+    "Planując zadaszenie, nie mierz tylko dachu samego auta. Pamiętaj o bagażnikach dachowych, boksach narciarskich czy rowerach przewożonych na dachu. Wysokość 2,7 m daje bezpieczny margines, dzięki któremu wjedziesz pod wiatę bez stresu i bez konieczności demontażu sprzętu po urlopie.",
+    "Z drugiej strony warto uważać na przesadę w górę. Zbyt wysoka wiata gorzej zabezpiecza auto przed opadami. Zacinający deszcz oraz śnieg nawiewany przez porywisty wiatr łatwiej dostają się wtedy pod dach, brudząc stojący samochód."
+   ]
+  },
+  {
+   "h2": "Wysokość wiaty a odporność na podmuchy wiatru",
+   "akapity": [
+    "Im wyższa wiata, tym większe siły działają na nią podczas wichury. Daszek działa wtedy jak żagiel, który musi wytrzymać mocny napór powietrza. Tanie wiaty i daszki z marketu bywają liczone na minimalne obciążenie śniegiem i wiatrem, dlatego łatwo ulegają uszkodzeniom.",
+    "Wiatę da się zrobić z profilu 40 x 40 mm o ściance 2 mm, ale słupy wyglądają wtedy jak zapałki. Przy mocnych porywach wiatru mogą się po prostu złamać. Jeśli pod wiatą ma parkować drogi samochód, wątła konstrukcja to niepotrzebne ryzyko zniszczenia karoserii."
+   ]
+  },
+  {
+   "h2": "Stabilny fundament pod wysokie słupy",
+   "akapity": [
+    "Wysoka konstrukcja wymaga solidnego oparcia w gruncie. Lekkie wiaty z marketu bywają przykręcane bezpośrednio do betonowych płyt albo samej kostki brukowej. Przy silnej wichurze taka konstrukcja potrafi polecieć jak trampolina z filmików w internecie i narobić szkód na działce sąsiada.",
+    "Dlatego słupy wiaty trzeba kotwić do fundamentów sięgających poniżej strefy przemarzania gruntu. W Polsce to zwykle około 80 cm głębokości, a w chłodniejszych regionach nawet więcej. Na jeden punkt fundamentowy może pójść 5-10 worków betonu.",
+    "Pamiętaj też o pracach towarzyszących, o których rzadko myśli się na początku. Przygotowanie podłoża wiąże się często z wywozem ziemi i gruzu oraz z rozebraniem i ponownym ułożeniem kostki brukowej wokół słupów. Oszczędność na tych elementach szybko wychodzi bokiem w czasie użytkowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive ma standardową wysokość 2,7 m, co pozwala na wygodne parkowanie auta także z boksem dachowym. Powstaje ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016, a jej słupy kotwimy w stabilnych fundamentach poniżej strefy przemarzania. Do wyboru są rozmiary 3 x 6 m, 4 x 6 m, 6 x 6 m oraz wymiary indywidualne, a sam montaż zajmuje zazwyczaj 1 dzień roboczy. Na stronie możesz wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wysokość 2,7 m wystarczy na samochód z boksem dachowym?",
+   "odpowiedz": "Tak, wysokość 2,7 m zapewnia swobodny wjazd większości samochodów osobowych i SUV-ów z zamontowanym boksem dachowym."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba osadzić fundament pod wiatę o wysokości 2,7 m?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza zazwyczaj głębokość od 80 cm w dół, zużywając na jeden słup około 5-10 worków betonu."
+  },
+  {
+   "pytanie": "Czy wysoka wiata gorzej chroni przed zacinającym deszczem?",
+   "odpowiedz": "Tak, wyższe zadaszenie pozwala na łatwiejsze wdmuchiwanie deszczu i śniegu pod spód, dlatego boki konstrukcji można dodatkowo osłonić przęsłami żaluzjowymi."
+  }
+ ],
+ "nr": 195,
+ "kolejnosc": 208,
+ "temat": "jaka wysokość wiaty na samochód",
+ "adres": "jaka-wysokosc-wiaty-na-samochod",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

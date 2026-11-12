@@ -1,0 +1,50 @@
+{
+ "tytul": "Osłona z przęseł na ścianie domu - montaż i praktyka",
+ "opis_meta": "Szukasz sposobu na osłonę z przęseł na ścianie domu? Zobacz, jak zamocować panele, uniknąć uszkodzenia ocieplenia i osłonić przestrzeń przed wiatrem.",
+ "wstep": "Montaż osłony z przęseł przy ścianie budynku to częsty sposób na odgrodzenie podjazdu lub strefy wypoczynku. Zanim wywiercisz pierwszy otwór w elewacji, musisz poznać kilka zasad montażowych. Źle zamocowane panele mogą uszkodzić ocieplenie domu i nie wytrzymać mocniejszych podmuchów wiatru.",
+ "sekcje": [
+  {
+   "h2": "Mocowanie do ściany a warstwa ocieplenia",
+   "akapity": [
+    "Największym problemem przy montażu przęseł bezpośrednio do ściany jest gruba warstwa styropianu lub wełny mineralnej. Standardowe kołki rozporowe nie utrzymają ciężaru konstrukcji poddanej działaniu wiatru. W takiej sytuacji konieczne jest stosowanie długich kotew chemicznych z tulejami dystansowymi, które sięgają do materiału nośnego budynku.",
+    "Pomiędzy przęsłem a tynkiem zawsze zostaw mały odstęp roboczy. Przyleganie paneli do samej elewacji powoduje gromadzenie się brudu i liści, a spływająca woda opadowa tworzy brzydkie zacieki na tynku."
+   ]
+  },
+  {
+   "h2": "Wolnostojące słupy zamiast dziurawienia tynku",
+   "akapity": [
+    "Wielu monterów zaleca rezygnację z bezpośredniego wiercenia w ścianie domu. Dużo bezpieczniejszym wyjściem jest postawienie przęseł na własnych słupach tuż przy elewacji. Wystarczy zabetonować słupki w gruncie lub przykręcić stopy montażowe do betonowej płyty podjazdu.",
+    "Takie rozwiązanie całkowicie eliminuje mostki termiczne i ryzyko spękania elewacji. Cała osłona pracuje wtedy niezależnie od ruchów konstrukcyjnych budynku, co zwiększa trwałość obu elementów."
+   ]
+  },
+  {
+   "h2": "Opór powietrza i wybór układu przęseł",
+   "akapity": [
+    "Wąska przestrzeń wzdłuż ściany domu często działa jak korytarz powietrzny. Jeśli zamontujesz tam całkowicie pełną ściankę, stworzysz żagiel podatny na wyrwanie podczas wichury. Siły działające na punkty mocowania przy silnym wietrze bywają bardzo duże.",
+    "Znacznie lepszym wyborem są przęsła żaluzjowe lub ażurowe. Poziome listwy skutecznie odcinają wzrok sąsiadów i tłumią bezpośrednie uderzenia wiatru, ale jednocześnie przepuszczają część powietrza, zmniejszając obciążenie słupów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wygodną alternatywą dla ingerencji w ścianę domu jest wiata CarportActive ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016. Możesz wyposażyć ją w przęsła żaluzjowe z poziomymi lamelami montowane między słupami wiaty, na jednym boku lub na kilku. Przęsła zasłaniają podjazd od sąsiada i ulicy oraz chronią auto z boku od wiatru, a do konstrukcji da się je dołożyć także później. Rozwiązanie jest dostępne w rozmiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub na wymiar indywidualny, z lamelami w kolorze antracyt RAL 7016, orzech lub ciemny orzech.",
+ "faq": [
+  {
+   "pytanie": "Czy warto mocować przęsła do ocieplonej ściany domu?",
+   "odpowiedz": "Lepiej tego unikać, aby nie dziurawić izolacji i nie tworzyć mostków termicznych. Bezpieczniej jest postawić słupy nośne tuż obok budynku."
+  },
+  {
+   "pytanie": "Jakie wypełnienie przęsła sprawdzi się najlepiej przy ścianie?",
+   "odpowiedz": "Najlepiej sprawdzają się poziome lamele żaluzjowe. Zapewniają prywatność, a jednocześnie przepuszczają powietrze i nie działają jak pełny żagiel."
+  },
+  {
+   "pytanie": "Czy osłona przy ścianie musi dotykać tynku?",
+   "odpowiedz": "Nie, zawsze należy zachować przerwę wentylacyjną. Ułatwia to spływanie wody deszczowej i zapobiega niszczeniu tynku przez gromadzący się brud."
+  }
+ ],
+ "nr": 232,
+ "kolejnosc": 182,
+ "temat": "osłona z przęseł na ścianie domu",
+ "adres": "oslona-z-przesel-na-scianie-domu",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

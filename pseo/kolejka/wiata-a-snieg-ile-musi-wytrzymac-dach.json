@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata a śnieg - ile musi wytrzymać dach? Poradnik montera",
+ "opis_meta": "Sprawdź, jak śnieg wpływa na wiatę garażową. Zobacz, dlaczego tanie zadaszenia się giną i jak solidny montaż chroni auto przed zimą.",
+ "wstep": "Zimą mokry śnieg potrafi ważyć zaskakująco dużo, a lekki dach szybko staje się dla niego pułapką. Jeśli zastanawiasz się, ile powinna wytrzymać wiata, odpowiedź jest prosta: musi bez problemu znieść najcięższy napór zimy w Twoim rejonie bez uginania konstrukcji. Zobacz, co decyduje o tym, czy auto pod wiatą będzie bezpieczne, gdy nadejdą opady.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego tanie daszki uginają się pod śniegiem",
+   "akapity": [
+    "Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem. Na montażach często widzimy zamontowany marketowy daszek, który ugiął się pod ciężarem śniegu. Jeśli pod zadaszeniem ma stać Twój drogi samochód, warto dobrze to przemyśleć jeszcze przed zakupem.",
+    "Konstrukcję da się wprawdzie poskładać z profilu 40 x 40 mm o ściance 2 mm, ale słupy wyglądają wtedy jak zapałki. Taka konstrukcja nie tylko prezentuje się wątło, lecz przy mocnych porywach wiatru i naporze śniegu może się po prostu złamać."
+   ]
+  },
+  {
+   "h2": "Fundament to podstawa walki z ciężarem śniegu",
+   "akapity": [
+    "Wytrzymałość dachu zależy nie tylko od stali na górze, ale przede wszystkim od tego, na czym stoi cała wiata. Fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy. W Polsce to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej.",
+    "Na jeden solidny słup może pójść od 5 do 10 worków betonu. Alternatywą dla betonu są pale, jednak ich montaż wymaga specjalistycznego sprzętu. Oszczędność na drobiazgach, zwłaszcza na fundamencie, potem szybko wychodzi bokiem w czasie zimowego użytkowania."
+   ]
+  },
+  {
+   "h2": "Co grozi przy słabym mocowaniu do podłoża",
+   "akapity": [
+    "Wiaty z marketu bardzo często stoją po prostu przykręcone do betonowych płyt albo do samej kostki brukowej. Kiedy przyjdzie zima połączona z wichurą, lekka konstrukcja potrafi unieść się i polecieć jak trampolina z filmików w internecie.",
+    "Taka latająca wiata potrafi narobić sporych szkód u sąsiada lub zniszczyć zaparkowane auta. Warto zadać sobie wtedy pytanie, kto za te wszystkie zniszczenia zapłaci."
+   ]
+  },
+  {
+   "h2": "Koszty prac ziemnych, o których mało kto pamięta",
+   "akapity": [
+    "Przygotowanie wiaty na obciążenia śniegowe wiąże się z pracami, o których mało kto myśli na początku. Na łączny koszt montażu składają się wywóz wykopanej ziemi i gruzu oraz rozebranie i ponowne ułożenie kostki brukowej wokół słupów.",
+    "Pominięcie tych kroków i próba postawienia wiaty bez wkopania się w grunt zemści się przy pierwszych większych opadach śniegu. Solidna podstawa gwarantuje, że dach wytrzyma ciężar czapy śnieżnej bez żadnego ryzyka."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, co daje stabilność przy zimowych obciążeniach. Wiata dostępna jest w rozmiarach 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub na wymiar, a jej montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz też wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Dlaczego wiata pod śnieg musi mieć głębokie fundamenty?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, czyli zwykle na około 80 cm głębokości lub głębiej. Dzięki temu konstrukcja nie przemieszcza się zimą i stabilnie utrzymuje cały ciężar dachu ze śniegiem."
+  },
+  {
+   "pytanie": "Z jakiego profilu nie powinno się stawiać wiaty narażonej na śnieg i wiatr?",
+   "odpowiedz": "Odradzamy profile 40 x 40 mm ze ścianką 2 mm. Wyglądają jak zapałki, cała wiata staje się wątła i może się złamać przy trudniejszych warunkach pogodowych."
+  },
+  {
+   "pytanie": "Czy wiatę CarportActive można rozbudować o dodatkowe elementy?",
+   "odpowiedz": "Tak, do wiaty można dołożyć moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box pod panele PV oraz przęsła żaluzjowe."
+  }
+ ],
+ "nr": 184,
+ "kolejnosc": 97,
+ "temat": "wiata a śnieg - ile musi wytrzymać dach",
+ "adres": "wiata-a-snieg-ile-musi-wytrzymac-dach",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

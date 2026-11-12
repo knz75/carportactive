@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata stalowa czy drewniana? Co lepiej sprawdzi się pod auto",
+ "opis_meta": "Wiata stalowa czy drewniana? Sprawdź wady i zalety obu rozwiązań, kwestie konserwacji, odporność na śnieg i wiatr oraz montaż fundamentów.",
+ "wstep": "Zastanawiasz się, czy na Twoim podjeździe lepiej sprawdzi się wiata stalowa, czy drewniana. Oba materiały mają swoje zalety, ale różnią się odpornością na warunki pogodowe i czasem, jaki musisz poświęcić na ich utrzymanie. Przeczytaj, na co zwrócić uwagę, zanim podejmiesz ostateczną decyzję.",
+ "sekcje": [
+  {
+   "h2": "Konserwacja i odporność na upływ czasu",
+   "akapity": [
+    "Drewno to klasyczny wybór, który dobrze komponuje się z zielenią w ogrodzie. Pamiętaj jednak, że naturalny surowiec stale pracuje, pęka pod wpływem słońca i chłonie wilgoć. Aby wiata drewniana wyglądała estetycznie i nie próchniała, musisz ją regularnie szlifować oraz impregnować co kilka sezonów.",
+    "Konstrukcja stalowa rozwiązuje problem uciążliwej konserwacji. Odpowiednio zabezpieczona stal nie wymaga corocznego malowania i nie traci swoich właściwości pod wpływem deszczu czy mrozu. Jeśli zależy Ci na rozwiązaniu bezobsługowym, metal ma pod tym względem przewagę."
+   ]
+  },
+  {
+   "h2": "Stabilność konstrukcji a obciążenie śniegiem i wiatrem",
+   "akapity": [
+    "Na podwórkach często widać tanie, marketowe daszki wykonane z bardzo cienkich elementów. Takie konstrukcje bywają projektowane na minimalne obciążenia wiatrem i śniegiem. Po intensywnych opadach mokry śnieg potrafi wygiąć dach, co stwarza bezpośrednie zagrożenie dla zaparkowanego pod nim samochodu.",
+    "Znaczenie ma również sam przekrój użytych materiałów. Zdarza się, że wiaty buduje się z profili 40 x 40 mm o ściance 2 mm. Słupy o takich wymiarach wyglądają wątło i zachowują się jak zapałki, przez co przy gwałtownych porywach wiatru mogą się po prostu złamać."
+   ]
+  },
+  {
+   "h2": "Fundamenty, czyli baza bezpieczeństwa",
+   "akapity": [
+    "Nawet najmocniejszy materiał nie spełni swojej roli, jeśli wiata zostanie źle zamontowana. Konstrukcje przykręcone jedynie do kostki brukowej lub płyt chodnikowych mogą podczas wichury zachować się jak trampolina i odlecieć na posesję sąsiada. Skutki takich zdarzeń bywają bardzo kosztowne.",
+    "Prawidłowy montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu, co w Polsce oznacza zazwyczaj głębokość od około 80 cm w głąb. Na osadzenie jednego słupa schodzi przeważnie od 5 do 10 worków betonu. Planując budowę, uwzględnij też dodatkowe prace, takie jak demontaż i ponowne ułożenie kostki brukowej oraz wywóz wykopanej ziemi i gruzu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te wyzwania jest stalowa wiata garażowa CarportActive ze stali konstrukcyjnej S235, zabezpieczona przez ocynk ogniowy i malowanie proszkowe w kolorze antracyt RAL 7016. Słupy kotwimy bezpośrednio do fundamentów wpuszczonych poniżej strefy przemarzania gruntu, a cały montaż trwa zazwyczaj 1 dzień roboczy. Wiata o wysokości 2,7 m dostępna jest w rozmiarach 3 x 6 m, 4 x 6 m, 6 x 6 m lub na wymiar indywidualny i pozwala na montaż przęseł żaluzjowych, modułu sportowego, panelu narzędziowego, ogrodu wertykalnego, placu zabaw, przechowalni rowerów oraz systemu Solar Box pod panele PV. Możesz wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał gotową wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata stalowa wymaga regularnego malowania?",
+   "odpowiedz": "Stal zabezpieczona fabrycznie ocynkiem ogniowym oraz lakierem proszkowym nie wymaga okresowego odnawiania powłoki ani impregnacji, w przeciwieństwie do wiat drewnianych."
+  },
+  {
+   "pytanie": "Dlaczego nie powinno się montować wiaty tylko do kostki brukowej?",
+   "odpowiedz": "Sama kostka brukowa nie stanowi trwałego oparcia. Silny wiatr może poderwać lekką konstrukcję razem z podłożem, dlatego słupy należy kotwić w głębokich fundamentach betonowych."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba wkopać fundament pod słup wiaty?",
+   "odpowiedz": "Wykop musi sięgać poniżej poziomu przemarzania gruntu. W polskich warunkach klimatycznych jest to zazwyczaj co najmniej 80 cm głębokości, zależnie od rejonu kraju."
+  }
+ ],
+ "nr": 186,
+ "kolejnosc": 119,
+ "temat": "wiata stalowa czy drewniana",
+ "adres": "wiata-stalowa-czy-drewniana",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

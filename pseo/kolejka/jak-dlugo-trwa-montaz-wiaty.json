@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak długo trwa montaż wiaty garażowej? Wyjaśnia monter",
+ "opis_meta": "Zastanawiasz się, ile trwa montaż wiaty garażowej? Poznaj realny czas prac, etapy montażu i dowiedz się, na czym nie warto oszczędzać.",
+ "wstep": "Sam montaż konstrukcji wiaty zajmuje zazwyczaj jeden dzień roboczy. Całkowity czas prac zależy jednak od przygotowania podłoża oraz fundamentów pod słupy. Prawidłowe zakotwienie konstrukcji w gruncie wymaga odpowiednich kroków, których nie warto przyspieszać.",
+ "sekcje": [
+  {
+   "h2": "Od czego zależy czas montażu wiaty",
+   "akapity": [
+    "Kiedy elementy przyjeżdżają na Twoją działkę jako gotowy system, samo składanie szkieletu idzie sprawnie. Najwięcej czasu pochłaniają jednak prace ziemne i przygotowanie terenu. Czas wydłuża się zwłaszcza wtedy, gdy montaż odbywa się na ułożonej wcześniej nawierzchni.",
+    "Przed zalaniem fundamentów trzeba zdemontować kostkę brukową w miejscach, gdzie staną słupy. Po montażu kostkę trzeba dociąć i ułożyć na nowo wokół podpór. Do czasu całej operacji dochodzi również wykopanie dołów oraz wywóz nadmiaru ziemi i gruzu z Twojej posesji."
+   ]
+  },
+  {
+   "h2": "Dlaczego fundamentów nie wolno stawiać w pośpiechu",
+   "akapity": [
+    "Tanie daszki z marketu bywają przykręcane bezpośrednio do betonowych płyt lub samej kostki. Przy silnej wichurze taka konstrukcja potrafi unieść się w powietrze jak trampolina z filmików w internecie i spaść na posesję sąsiada. Jeśli pod zadaszeniem stoi drogi samochód, warto pomyśleć o skutkach takich oszczędności.",
+    "Trwały montaż wymaga wykopania dołów poniżej strefy przemarzania gruntu, do których kotwi się słupy. W Polsce to zwykle około 80 cm głębokości, a w chłodniejszych rejonach nawet więcej. Na jeden solidny słup przypada od 5 do 10 worków betonu. Czas wiązania mieszanki to etap, którego nie da się bezpiecznie pominąć."
+   ]
+  },
+  {
+   "h2": "Solidna konstrukcja a ryzyko ugięcia pod śniegiem",
+   "akapity": [
+    "Wiatę można złożyć szybko, gdy użyje się słupów z cienkich profili 40 x 40 mm o ściance 2 mm. Taka konstrukcja wygląda jednak jak zapałki i przy mocnym porywie wiatru może ulec złamaniu. Oszczędzanie na grubości stali stwarza bezpośrednie zagrożenie dla auta i otoczenia.",
+    "Lekkie wiaty marketowe są projektowane pod minimalne obciążenia śniegiem i wiatrem. W zimie nietrudno zobaczyć zadaszenie ugięte pod warstwą śniegu. Alternatywą dla tradycyjnego betonu pod słupy są pale wkręcane, ale ich montaż wymaga wjazdu na podwórko specjalistycznym sprzętem."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive jest produkowana ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż konstrukcji zajmuje zazwyczaj 1 dzień roboczy. Oferujemy rozmiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub wymiary indywidualne, z opcją dodania modułów, takich jak przęsła żaluzjowe, moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnia rowerów czy Solar Box pod panele PV. Możesz wgrać zdjęcie podjazdu, a nasz wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Ile trwa montaż samej wiaty na gotowych fundamentach?",
+   "odpowiedz": "Montaż konstrukcji wiaty zajmuje zazwyczaj 1 dzień roboczy."
+  },
+  {
+   "pytanie": "Jak głęboko należy osadzić fundamenty pod słupy wiaty?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce wynosi zwykle około 80 cm, a zależnie od regionu nawet więcej."
+  },
+  {
+   "pytanie": "Czy wiatę można przykręcić bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Nie, lekkie konstrukcje przykręcone do samej kostki mogą zostać wyrwane podczas silnej wichury, dlatego słupy należy kotwić do betonowych fundamentów w gruncie."
+  }
+ ],
+ "nr": 198,
+ "kolejnosc": 215,
+ "temat": "jak długo trwa montaż wiaty",
+ "adres": "jak-dlugo-trwa-montaz-wiaty",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

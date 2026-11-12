@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak zasłonić podjazd od sąsiada? Sprawdzone sposoby",
+ "opis_meta": "Szukasz sposobu na zasłonięcie podjazdu od sąsiada? Poznaj praktyczne rozwiązania, które zapewnią prywatność i osłonią auto przed wzrokiem innych.",
+ "wstep": "Brak prywatności na własnym podjeździe bywa uciążliwy, zwłaszcza gdy parkujesz tuż przy granicy działki. Możesz odgrodzić tę przestrzeń na kilka sposobów, zależnie od ilości wolnego miejsca i budżetu. Poniżej omawiamy najpopularniejsze metody, które sprawdzają się na co dzień.",
+ "sekcje": [
+  {
+   "h2": "Rośliny i żywopłoty wzdłuż granicy",
+   "akapity": [
+    "Jednym z naturalnych rozwiązań jest posadzenie rzędu roślin. Najczęściej wybierane są tuje, cisy lub gęste krzewy liściaste. Dają one estetyczne tło i dobrze tłumią hałasy z sąsiedniej posesji.",
+    "Musisz jednak pamiętać, że rośliny potrzebują czasu na rozrost oraz regularnej pielęgnacji. Przy wąskim podjeździe gałęzie mogą też rysować lakier auta, więc trzeba pilnować ich systematycznego przycinania."
+   ]
+  },
+  {
+   "h2": "Panele ogrodzeniowe i maty osłonowe",
+   "akapity": [
+    "Jeśli masz już siatkę lub proste ogrodzenie, możesz zamontować na nim matę technorattanową lub specjalne taśmy ogrodzeniowe. To szybki sposób na odcięcie widoku od strony sąsiada.",
+    "Inną opcją są drewniane panele osłonowe wbijane w grunt. Drewno wymaga jednak regularnej impregnacji, a silne podmuchy wiatru mogą z czasem obluzować słabsze mocowania."
+   ]
+  },
+  {
+   "h2": "Zabudowa boczna przy miejscu postojowym",
+   "akapity": [
+    "Gdy podjazd znajduje się bardzo blisko sąsiada, dobrą opcją jest osłonięcie samego stanowiska postojowego. Zamiast stawiać wysokie ogrodzenie na całej długości działki, skupiasz się tylko na strefie parkowania.",
+    "Taka boczna przesłona chroni prywatność dokładnie tam, gdzie wysiadasz z auta lub pakujesz zakupy. Rozwiązanie to daje duży komfort na co dzień i nie zacienia reszty Twojego ogrodu."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive problem ten rozwiązuje stalowa wiata z przęsłami żaluzjowymi. Poziome lamele montuje się między słupami wiaty na jednym lub kilku bokach, co skutecznie zasłania podjazd od sąsiada i ulicy oraz osłania od wiatru. Przęsła są dostępne w kolorach orzech, ciemny orzech oraz antracyt RAL 7016, a do wiaty CarportActive można je dołożyć także później. Konstrukcje wykonujemy ze stali S235 z ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016, w wymiarach 3 x 6 m, 4 x 6 m, 6 x 6 m lub na wymiar indywidualny.",
+ "faq": [
+  {
+   "pytanie": "Czy przęsła żaluzjowe osłaniają też przed wiatrem?",
+   "odpowiedz": "Tak, poziome lamele montowane między słupami wiaty skutecznie osłaniają podjazd z boku od wiatru."
+  },
+  {
+   "pytanie": "Czy muszę od razu kupować wiatę ze ściankami bocznymi?",
+   "odpowiedz": "Nie, do wiaty CarportActive przęsła żaluzjowe można bez problemu dołożyć później."
+  },
+  {
+   "pytanie": "Na ilu bokach wiaty można zamontować lamele?",
+   "odpowiedz": "Przęsła żaluzjowe można zamontować na jednym boku albo na kilku, w zależności od potrzeb."
+  }
+ ],
+ "nr": 216,
+ "kolejnosc": 10,
+ "temat": "jak zasłonić podjazd od sąsiada",
+ "adres": "jak-zaslonic-podjazd-od-sasiada",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Czy wiata chroni samochód przed gradem? Doświadczenie montera",
+ "opis_meta": "Zastanawiasz się, czy wiata ochroni auto przed gradem? Sprawdź, na co zwrócić uwagę przy dachu i mocowaniu konstrukcji, by uniknąć kosztownych szkód.",
+ "wstep": "Krótka odpowiedź brzmi: tak, solidna wiata skutecznie chroni samochód przed gradobiciem. Wszystko zależy jednak od tego, jak wykonano konstrukcję oraz jak radzi sobie ona z towarzyszącym burzy porywistym wiatrem. Jeśli zadaszenie jest zbyt wątłe lub źle zamocowane w gruncie, grad może okazać się Twoim najmniejszym zmartwieniem.",
+ "sekcje": [
+  {
+   "h2": "Grad rzadko pada pionowo, czyli problem zacinającego wiatru",
+   "akapity": [
+    "Podczas nawałnicy gradobiciu niemal zawsze towarzyszy porywisty wiatr, przez co bryły lodu uderzają pod ostrym kątem. Standardowy dach ochroni szybę, dach oraz maskę samochodu, jednak boki pojazdu mogą nadal ucierpieć, jeśli wiata jest zbyt wąska lub za wysoka.",
+    "W takich warunkach samo zadaszenie to za mało. Pomocne okazują się boczne osłony, na przykład przęsła żaluzjowe, które zatrzymują znoszone przez podmuchy kule gradu, zanim uderzą w drzwi lub błotniki."
+   ]
+  },
+  {
+   "h2": "Grubość stali ma znaczenie przy nawałnicy",
+   "akapity": [
+    "Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem. Często spotyka się konstrukcje wykonane z profilu 40 x 40 mm o ściance 2 mm. Słupy wyglądają wtedy jak zapałki i przy silnych porywach wiatru po prostu mogą się ugiąć lub złamać.",
+    "Jeśli pod dachem parkujesz wartościowe auto, warto to przemyśleć jeszcze przed zakupem. Ugięty pod naporem wiatru lub gradu lekki daszek może spaść bezpośrednio na karoserię."
+   ]
+  },
+  {
+   "h2": "Kotwienie do gruntu decyduje o bezpieczeństwie",
+   "akapity": [
+    "Marketowe konstrukcje bywają przykręcane jedynie do betonowych płyt chodnikowych albo bezpośrednio do kostki brukowej. Przy gwałtownej wichurze taka lekka wiata może unieść się i polecieć jak trampolina z filmików w internecie, niszcząc auto i podwórko sąsiada.",
+    "Dlatego fundamenty należy robić poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Na jeden stabilny słup zużywa się średnio od 5 do 10 worków betonu. Wymaga to też rozebrania kostki brukowej i wywozu ziemi, ale oszczędność na fundamencie zawsze wychodzi bokiem w czasie pierwszej nawałnicy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów wylewanych poniżej strefy przemarzania gruntu, co daje pełną odporność na burze. Dostępne są wymiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub projekty na wymiar, a montaż zajmuje zazwyczaj 1 dzień roboczy. Na naszej stronie możesz wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy boki wiaty są konieczne do ochrony przed gradem?",
+   "odpowiedz": "Nie są bezwzględnie konieczne, ale przy silnym, zacinającym wietrze grad uderza pod kątem. Boczne elementy, takie jak przęsła żaluzjowe, chronią lakier po bokach auta."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba osadzić słupy wiaty w ziemi?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, czyli w Polsce zazwyczaj na głębokości około 80 cm lub większej."
+  },
+  {
+   "pytanie": "W jakie dodatki można wyposażyć wiatę CarportActive?",
+   "odpowiedz": "Do konstrukcji można dobrać moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, przęsła żaluzjowe lub system Solar Box pod panele fotowoltaiczne."
+  }
+ ],
+ "nr": 205,
+ "kolejnosc": 224,
+ "temat": "czy wiata chroni samochód przed gradem",
+ "adres": "czy-wiata-chroni-samochod-przed-gradem",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

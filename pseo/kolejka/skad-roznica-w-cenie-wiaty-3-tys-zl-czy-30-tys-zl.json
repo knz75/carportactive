@@ -1,0 +1,54 @@
+{
+ "tytul": "Wiata za 3 tys. zł czy za 30 tys. zł? Skąd wynika różnica w cenie",
+ "opis_meta": "Zastanawiasz się, skąd różnica między wiatą za 3 tys. a 30 tys. zł? Poznaj fakty o profilach, fundamentach i kosztach montażu z perspektywy montera.",
+ "wstep": "Szukając zadaszenia na auto, trafisz na gotowe wiaty z marketu za 3-5 tys. zł oraz konstrukcje sięgające 30 tys. zł. Ta przepaść cenowa nie bierze się z sufitu i nie wynika jedynie z marży. Doświadczenie z montaży pokazuje, że różnica tkwi w grubości stali, sposobie kotwienia oraz pracach ziemnych.",
+ "sekcje": [
+  {
+   "h2": "Przekroje stali i odporność na śnieg",
+   "akapity": [
+    "Tanie wiaty i daszki z marketu kosztują zazwyczaj ok. 3-5 tys. zł, ale są projektowane na minimalne obciążenie śniegiem oraz wiatrem. Podczas zimowych opadów niejednokrotnie widać zamontowany daszek rynkowy, który ugiął się pod ciężarem mokrego śniegu. Jeśli planujesz parkować pod wiatą drogi samochód, warto przekalkulować to ryzyko przed zakupem.",
+    "Konstrukcję można wykonać z profilu 40 x 40 mm o ściance 2 mm, co znacząco obniża koszt materiału. W takim wariancie słupy wyglądają jak zapałki, a całość prezentuje się bardzo wątło. Przy silniejszych porywach wiatru tak cienkie elementy nośne mogą się po prostu złamać."
+   ]
+  },
+  {
+   "h2": "Kotwienie do podłoża i zachowanie podczas wichury",
+   "akapity": [
+    "Budżetowe konstrukcje bardzo często stoją jedynie przykręcone do betonowych płyt chodnikowych albo bezpośrednio do kostki. Przy gwałtownej wichurze lekka wiata potrafi zachować się jak trampolina z filmików w internecie i odlecieć na posesję obok. Warto zadać sobie pytanie, kto zapłaci za zniszczone auto lub szkody wyrządzone u sąsiada.",
+    "Bezpieczny montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu i solidnego zakotwienia w nich słupów. W Polsce głębokość przemarzania wynosi zwykle ok. 80 cm, a w zależności od regionu nawet więcej. Oszczędzanie na podstawie konstrukcji to błąd, który szybko mści się podczas trudniejszych warunków pogodowych."
+   ]
+  },
+  {
+   "h2": "Ukryte koszty montażu i prace ziemne",
+   "akapity": [
+    "Klienci nierzadko dziwią się, dlaczego sam profesjonalny montaż z fundamentami potrafi kosztować tyle, co cała marketowa konstrukcja. Na końcowy koszt składają się bowiem zadania, o których rzadko myśli się na etapie przeglądania ofert.",
+    "Prawidłowe osadzenie słupa wiąże się ze zużyciem od 5 do 10 worków betonu na jeden punkt podparcia. Ekipa musi także rozebrać kostkę brukową, wybrać ziemię, zalać fundament i odtworzyć nawierzchnię wokół słupów. Do tego dochodzi wywóz urobku oraz gruzu, a w przypadku alternatywy dla betonu, czyli pali wkręcanych, potrzebny jest specjalistyczny sprzęt montażowy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive eliminuje kompromisy konstrukcyjne, ponieważ powstaje ze stali konstrukcyjnej S235 zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy bezpośrednio do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Konstrukcję o wysokości 2,7 m zamówisz w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub pod wymiar indywidualny, dobierając moduły takie jak przęsła żaluzjowe, Solar Box pod panele PV, przechowalnia rowerów czy panel narzędziowy. Wystarczy wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Dlaczego tanie wiaty uginają się zimą?",
+   "odpowiedz": "Tanie konstrukcje z marketu są liczone na minimalne obciążenia śniegiem i wiatrem. Zastosowanie cienkich profili, na przykład 40 x 40 mm ze ścianką 2 mm, sprawia, że słupy i dach nie wytrzymują naporu ciężkiego, mokrego śniegu."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba wkopać fundament pod wiatę?",
+   "odpowiedz": "Fundamenty należy wykonać poniżej strefy przemarzania gruntu, co w warunkach polskich oznacza zazwyczaj ok. 80 cm głębokości, a w niektórych regionach jeszcze więcej. Na stabilne zalanie jednego słupa zużywa się średnio od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Jakie dodatkowe prace wchodzą w koszt profesjonalnego montażu?",
+   "odpowiedz": "W cenie montażu zawierają się prace ziemne, rozebranie oraz ponowne ułożenie kostki brukowej wokół słupów, a także wywóz wykopanej ziemi i gruzu. Alternatywą dla fundamentów betonowych są pale, jednak ich wkręcenie wymaga użycia specjalistycznego sprzętu."
+  }
+ ],
+ "nr": 177,
+ "kolejnosc": 20,
+ "temat": "skąd różnica w cenie wiaty: 3 tys. zł czy 30 tys. zł",
+ "adres": "skad-roznica-w-cenie-wiaty-3-tys-zl-czy-30-tys-zl",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": [
+  "3 tys. zł",
+  "30 tys. zł",
+  "5 tys. zł"
+ ]
+}

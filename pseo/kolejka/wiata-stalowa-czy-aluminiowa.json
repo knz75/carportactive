@@ -1,0 +1,51 @@
+{
+ "tytul": "Wiata stalowa czy aluminiowa? Porównanie i opinia montera",
+ "opis_meta": "Wiata stalowa czy aluminiowa? Sprawdź różnice w sztywności, stabilności na wietrze i montażu. Praktyczne wskazówki montera bez marketingowych obietnic.",
+ "wstep": "Wybór między stalą a aluminium sprowadza się głównie do masy, sztywności i odporności na obciążenia. Aluminium jest lekkie i naturalnie odporne na korozję, ale stal daje znacznie większą stabilność przy silnym wietrze i naporze śniegu. Poniżej wyjaśniamy, jak te materiały sprawdzają się w praktyce na polskich podwórkach.",
+ "sekcje": [
+  {
+   "h2": "Masa i odporność na porywy wiatru",
+   "akapity": [
+    "Lekkie konstrukcje, często spotykane w marketach, są liczone na minimalne obciążenia wiatrem i śniegiem. Przy silnej wichurze lekki szkielet potrafi zachować się jak trampolina z filmów w internecie i odlecieć na działkę sąsiada. Jeśli uszkodzi czyjeś mienie, pojawia się problem z odpowiedzialnością za szkody.",
+    "Stal ma znacznie większą masę własną niż aluminium. W połączeniu z odpowiednim kotwieniem sprawia to, że wiata stalowa stoi nieruchomo nawet w czasie gwałtownych burz. Chroni to nie tylko samochód, ale też otoczenie Twojego domu."
+   ]
+  },
+  {
+   "h2": "Przekroje profili a ryzyko ugięcia pod śniegiem",
+   "akapity": [
+    "Wiatę można złożyć z profili o wymiarach 40 x 40 mm ze ścianką 2 mm. Takie słupy wyglądają jednak jak zapałki, a cała konstrukcja sprawia wrażenie bardzo wątłej. Przy mocniejszych podmuchach wiatru cienkie profile mogą się po prostu złamać.",
+    "Wielu właścicieli domów montuje lekkie daszki, które po pierwszej śnieżnej zimie uginają się pod ciężarem mokrego puchu. Jeśli planujesz trzymać pod zadaszeniem drogie auto, nie warto oszczędzać na grubości materiału. Zginający się dach stwarza bezpośrednie zagrożenie dla pojazdu."
+   ]
+  },
+  {
+   "h2": "Fundament decyduje o trwałości",
+   "akapity": [
+    "Nawet najlepszy materiał nie pomoże, jeśli konstrukcja zostanie przykręcona tylko do kostki brukowej lub luźnych płyt betonowych. Pod każdą stabilną wiatę wykonuje się fundamenty poniżej strefy przemarzania gruntu. W Polsce jest to zazwyczaj około 80 cm głębokości, a w niektórych regionach jeszcze więcej.",
+    "Na solidne osadzenie jednego słupa w gruncie zużywa się od 5 do 10 worków betonu. Alternatywą dla tradycyjnego betonu są pale wkręcane, ale ich montaż wymaga specjalistycznego sprzętu. Oszczędność na fundamencie zawsze wychodzi bokiem w trakcie użytkowania wiaty.",
+    "Planując montaż, pamiętaj o pracach towarzyszących. Trzeba zdjąć i dociąć kostkę brukową wokół słupów oraz wywieźć ziemię i gruz z wykopów. To dodatkowe czynności, które bezpośrednio wpływają na ostateczną jakość i stabilność całego zadaszenia."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive rozwiązuje te problemy dzięki solidnej konstrukcji ze stali S235, chronionej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania, a montaż zajmuje zazwyczaj 1 dzień roboczy. Wiata dostępna jest w rozmiarach 3 x 6 m, 4 x 6 m, 6 x 6 m lub pod wymiar i można ją rozbudować m.in. o panel narzędziowy, ogród wertykalny, przechowalnię rowerów czy Solar Box pod fotowoltaikę. Wystarczy wgrać zdjęcie podjazdu, aby wizualizator AI pokazał wiatę na Twojej działce w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata może być mocowana bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Nie, to częsty błąd przy lekkich konstrukcjach. Przy silnym wietrze cała wiata może zostać wyrwana razem z kostką. Słupy muszą być zakotwione w fundamentach sięgających poniżej strefy przemarzania gruntu, czyli na około 80 cm głębokości lub głębiej."
+  },
+  {
+   "pytanie": "Dlaczego tanie zadaszenia uginają się zimą?",
+   "odpowiedz": "Tanie wiaty są projektowane pod minimalne obciążenia i powstają ze zbyt cienkich profili. Mokry śnieg jest bardzo ciężki, dlatego delikatna konstrukcja traci sztywność i trwale się odkształca."
+  },
+  {
+   "pytanie": "Jakie ukryte koszty wiążą się z montażem wiaty?",
+   "odpowiedz": "Często pomija się koszty robót ziemnych. Do montażu fundamentów dochodzi wywóz urobku i gruzu oraz czasochłonne rozebranie, docięcie i ponowne ułożenie kostki brukowej wokół słupów."
+  }
+ ],
+ "nr": 187,
+ "kolejnosc": 130,
+ "temat": "wiata stalowa czy aluminiowa",
+ "adres": "wiata-stalowa-czy-aluminiowa",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

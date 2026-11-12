@@ -1,0 +1,57 @@
+{
+ "tytul": "Jak przygotować podjazd pod montaż wiaty garażowej?",
+ "opis_meta": "Sprawdź, jak przygotować podjazd pod montaż wiaty. Dowiedz się, dlaczego stabilny fundament poniżej strefy przemarzania to podstawa bezpieczeństwa.",
+ "wstep": "Planujesz postawienie wiaty garażowej i zastanawiasz się, od czego zacząć prace na podjeździe. Najważniejsze jest stabilne podłoże, które utrzyma konstrukcję w czasie silnego wiatru oraz naporu śniegu. Zobacz z perspektywy montera, jak właściwie przygotować grunt pod słupy wiaty.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego kostka brukowa to za mało na stabilną wiatę",
+   "akapity": [
+    "Mocowanie słupów wiaty bezpośrednio do kostki brukowej lub luźnych płyt betonowych to poważny błąd. Przy mocniejszej wichurze lekka konstrukcja może zachować się jak żagiel, oderwać się od podłoża i polecieć na posesję sąsiada niczym ogrodowa trampolina.",
+    "Oszczędzanie na mocowaniu szybko obraca się przeciwko inwestorowi, gdy zniszczeniu ulegnie stojące pod zadaszeniem auto. Warto zadać sobie pytanie, kto pokryje koszty takich zniszczeń, zanim zrezygnujesz z wylewania betonu."
+   ]
+  },
+  {
+   "h2": "Fundamenty poniżej strefy przemarzania gruntu",
+   "akapity": [
+    "Bezpieczny montaż wymaga wykonania fundamentów punktowych sięgających poniżej strefy przemarzania gruntu. W Polsce oznacza to zazwyczaj głębokość około 80 cm, a w niektórych regionach kraju nawet więcej.",
+    "Na zalanie wykopu pod pojedynczy słup zużywa się średnio od 5 do 10 worków betonu. Alternatywą dla tradycyjnego betonu mogą być wkręcane pale, jednak ich instalacja wymaga użycia specjalistycznego sprzętu mechanicznego."
+   ]
+  },
+  {
+   "h2": "Co zrobić, gdy podjazd jest już wybrukowany",
+   "akapity": [
+    "Obecność kostki brukowej nie wyklucza montażu wiaty, ale wymaga dodatkowych prac. Kostkę należy zdemontować miejscowo dokładnie w tych punktach, w których zaplanowano stopy fundamentowe pod słupy.",
+    "Po wykopaniu dołów, zalaniu betonu i osadzeniu mocowań nawierzchnię wokół słupów trzeba dociąć i ułożyć na nowo. Przy planowaniu prac pamiętaj też o wywozie ziemi i gruzu z podbudowy, które zostaną wybrane podczas robienia fundamentów."
+   ]
+  },
+  {
+   "h2": "Solidna konstrukcja zamiast cienkich profili",
+   "akapity": [
+    "Marketowe daszki bywają projektowane na minimalne obciążenia śniegiem i wiatrem. Zastosowanie słupów z cienkich profili 40 x 40 mm ze ścianką 2 mm sprawia, że konstrukcja przypomina zapałki i może ulec wygięciu lub złamaniu przy pierwszym mocnym załamaniu pogody.",
+    "Zalegający na dachu mokry śnieg generuje bardzo duży nacisk. Jeśli pod wiatą parkujesz wartościowy samochód, solidność stalowych profili oraz pewne zakotwienie w gruncie powinny być priorytetem."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235 zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016. Słupy zawsze kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a cały montaż konstrukcji zajmuje zazwyczaj 1 dzień roboczy. Dostępne są wymiary 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m oraz rozmiary indywidualne, które można uzupełnić o przęsła żaluzjowe, moduł sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów czy dach Solar Box pod panele PV. Przed rozpoczęciem prac możesz wgrać zdjęcie swojego podjazdu, a nasz wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słup wiaty?",
+   "odpowiedz": "Fundament powinien sięgać poniżej poziomu przemarzania gruntu. W polskich warunkach oznacza to zazwyczaj około 80 cm głębokości lub więcej, zależnie od rejonu."
+  },
+  {
+   "pytanie": "Czy trzeba ściągać całą kostkę z podjazdu przed montażem?",
+   "odpowiedz": "Nie, kostkę brukową demontuje się jedynie punktowo w miejscach, gdzie powstaną betonowe fundamenty pod słupy. Po zalaniu betonu bruk układa się z powrotem i docina."
+  },
+  {
+   "pytanie": "Ile betonu potrzeba na fundament pod jeden słup wiaty?",
+   "odpowiedz": "Do wykonania jednego punktu fundamentowego sięgającego poniżej strefy przemarzania gruntu zużywa się zazwyczaj od 5 do 10 worków betonu."
+  }
+ ],
+ "nr": 199,
+ "kolejnosc": 217,
+ "temat": "jak przygotować podjazd pod montaż wiaty",
+ "adres": "jak-przygotowac-podjazd-pod-montaz-wiaty",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata przy ścianie domu - na co uważać przed montażem",
+ "opis_meta": "Planujesz postawić wiatę przy ścianie domu? Sprawdź, na co uważać przy fundamentach, obciążeniach śniegiem i montażu konstrukcji.",
+ "wstep": "Stawianie wiaty tuż przy ścianie budynku wydaje się proste, ale wymaga uwagi na kilka technicznych detali. Źle zaplanowana konstrukcja może uszkodzić elewację albo ulec zniszczeniu pod naporem wiatru i śniegu. Zobacz, na co zwrócić uwagę, zanim zaczniesz jakiekolwiek prace na podjeździe.",
+ "sekcje": [
+  {
+   "h2": "Mocowanie do gruntu zamiast pozornych oszczędności",
+   "akapity": [
+    "Częstym błędem jest przykręcanie słupów bezpośrednio do ułożonej kostki brukowej lub płyt chodnikowych. Przy mocnej wichurze lekka wiata potrafi zachować się jak trampolina z filmików w internecie i pofrunąć na posesję sąsiada. Warto wtedy zadać sobie pytanie, kto pokryje powstałe szkody.",
+    "Trwały montaż wymaga wykopania fundamentów poniżej strefy przemarzania gruntu. W Polsce to zwykle około 80 cm głębokości, a w niektórych regionach jeszcze więcej. Na zabetonowanie jednego dołka pod słup schodzi zazwyczaj od 5 do 10 worków betonu. Oszczędzanie na tym etapie szybko wychodzi bokiem w czasie użytkowania."
+   ]
+  },
+  {
+   "h2": "Przekroje profili oraz napór śniegu",
+   "akapity": [
+    "Tanie daszki i zadaszenia z marketu są projektowane na minimalne obciążenia pogodowe. Zimą śnieg zsuwający się ze spadzistego dachu domu może spaść wprost na wiatę i wygiąć jej poszycie. Jeśli parkujesz pod nią drogi samochód, dobrze przekalkuluj to ryzyko przed zakupem.",
+    "Wiatę można zespawać nawet z drobnego profilu 40 x 40 mm o ściance 2 mm. Słupy wyglądają wtedy jak zapałki i przy silnych porywach wiatru mogą się złamać. Cała konstrukcja przy ścianie musi być sztywna, stabilna i odporna na zmienne warunki atmosferyczne."
+   ]
+  },
+  {
+   "h2": "Prace na podjeździe, o których łatwo zapomnieć",
+   "akapity": [
+    "Montaż konstrukcji przy domu to nie tylko postawienie słupów i dachu. Musisz pamiętać o konieczności rozebrania kostki brukowej, a po zabetonowaniu stóp - o jej ponownym docięciu i ułożeniu. Dodatkowym kłopotem oraz kosztem bywa też wywóz wykopanej ziemi i gruzu.",
+    "Alternatywą dla tradycyjnego betonu są pale wkręcane w grunt. Pamiętaj jednak, że ich wkręcenie wymaga użycia specjalistycznego sprzętu, na który trzeba mieć odpowiednią przestrzeń manewrową przy ścianie."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive rozwiązuje te problemy dzięki solidnej konstrukcji ze stali S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy zawsze kotwimy do fundamentów przygotowanych poniżej strefy przemarzania gruntu, a cały montaż zajmuje zazwyczaj 1 dzień roboczy. Do wyboru są warianty 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub wymiary indywidualne, które można wyposażyć w przęsła żaluzjowe czy moduł Solar Box pod panele PV. Jeśli chcesz sprawdzić efekt, wgraj zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę przy ścianie można przykręcić do samej kostki brukowej?",
+   "odpowiedz": "Nie, ponieważ sama kostka nie utrzyma ciężaru wiatry podczas wichury. Słupy konstrukcji muszą być zakotwione w betonowych fundamentach sięgających poniżej strefy przemarzania."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słup wiaty?",
+   "odpowiedz": "Głębokość zależy od strefy przemarzania w danym regionie Polski i wynosi zwykle od 80 cm w górę. Na solidne zalanie jednego punktu zużywa się od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Jakie ukryte prace wiążą się z montażem na gotowym bruku?",
+   "odpowiedz": "Należy uwzględnić czas i koszt rozebrania nawierzchni, wykopania dołów, wywiezienia urobku oraz ponownego docięcia i ułożenia kostki wokół nowych słupów."
+  }
+ ],
+ "nr": 181,
+ "kolejnosc": 64,
+ "temat": "wiata przy ścianie domu - na co uważać",
+ "adres": "wiata-przy-scianie-domu-na-co-uwazac",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

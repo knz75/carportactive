@@ -1,0 +1,50 @@
+{
+ "tytul": "Czy wiatę można przykręcić do kostki brukowej? Wyjaśniamy",
+ "opis_meta": "Czy wiatę można przykręcić bezpośrednio do kostki brukowej? Zobacz, dlaczego to ryzykowny pomysł i jak poprawnie zamontować słupy w gruncie.",
+ "wstep": "Krótka odpowiedź brzmi: nie, wiaty nie powinno się przykręcać bezpośrednio do kostki brukowej. Taki montaż nie zapewnia stabilności i grozi wyrwaniem konstrukcji podczas silnego wiatru. Jeśli zależy Ci na bezpieczeństwie auta i spokoju na lata, potrzebujesz solidnego oparcia w gruncie.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego sama kostka brukowa nie utrzyma wiaty?",
+   "akapity": [
+    "Kostka brukowa leży na podsypce z piasku lub żwiru, więc nie tworzy monolitu trwale związanego z gruntem. Tanie wiaty i daszki z marketu, które stoją przykręcone tylko do kostki lub betonowych płyt, są liczone na minimalne obciążenia. Przy mocniejszych porywach wiatru lekka konstrukcja działa jak żagiel.",
+    "W skrajnych sytuacjach niezakotwiona wiata może polecieć jak trampolina z filmików w internecie i uszkodzić dom lub mienie sąsiada. Warto zadać sobie wtedy pytanie, kto zapłaci za powstałe szkody. Jeśli pod zadaszeniem parkuje drogi samochód, pozorna oszczędność na montażu szybko wychodzi bokiem."
+   ]
+  },
+  {
+   "h2": "Prawidłowy montaż, czyli fundament poniżej strefy przemarzania",
+   "akapity": [
+    "Prawidłowy montaż wymaga wykonania betonowych fundamentów poniżej strefy przemarzania gruntu. W Polsce jest to zwykle około 80 cm głębokości, a w chłodniejszych rejonach kraju nawet więcej. Na jeden solidny słup przypada zazwyczaj od 5 do 10 worków betonu.",
+    "Dopiero do takich betonowych stóp kotwi się słupy konstrukcji, co daje pewność przy silnych wichurach. Alternatywą dla betonu bywają specjalne pale wkręcane, jednak ich instalacja wymaga użycia specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Ukryte prace przy montażu na gotowym podjeździe",
+   "akapity": [
+    "Jeśli masz już ułożoną kostkę, przygotowanie fundamentów wymaga dodatkowego nakładu pracy. Fachowy montaż oznacza konieczność punktowego rozebrania nawierzchni, wykopania dołów i zalania betonu. Po związaniu mieszanki kostkę docina się i układa z powrotem wokół słupów.",
+    "Warto pamiętać także o wywozie urobku, czyli nadmiaru ziemi oraz gruzu powstałego w trakcie prac ziemnych. To elementy montażu, o których mało kto myśli na początku, a wpływają one na ostateczny czas i nakład sił."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive eliminuje ryzyko uszkodzeń, ponieważ jej słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu. Konstrukcję wykonujemy ze stali S235 zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Montaż konstrukcji w rozmiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m lub pod wymiar zajmuje zazwyczaj 1 dzień roboczy, a wiatę możesz wyposażyć w panele żaluzjowe lub Solar Box.",
+ "faq": [
+  {
+   "pytanie": "Czy muszę demontować całą kostkę na podjeździe?",
+   "odpowiedz": "Nie, kostkę zdejmuje się tylko punktowo w miejscach, w których wylewane są betonowe stopy fundamentowe pod słupy."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słup wiaty?",
+   "odpowiedz": "Wykop musi sięgać poniżej strefy przemarzania gruntu, co w warunkach polskich oznacza przeważnie minimum 80 cm głębokości."
+  },
+  {
+   "pytanie": "Ile worków betonu potrzeba na jeden fundament?",
+   "odpowiedz": "W zależności od wymiarów wykopu i warunków gruntowych na jeden punkt fundamentowy zużywa się zwykle od 5 do 10 worków betonu."
+  }
+ ],
+ "nr": 183,
+ "kolejnosc": 86,
+ "temat": "czy wiatę można przykręcić do kostki brukowej",
+ "adres": "czy-wiate-mozna-przykrecic-do-kostki-brukowej",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

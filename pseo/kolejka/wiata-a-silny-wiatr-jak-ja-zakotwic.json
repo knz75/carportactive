@@ -1,0 +1,55 @@
+{
+ "tytul": "Wiata a silny wiatr - jak ją skutecznie zakotwić",
+ "opis_meta": "Zastanawiasz się, jak zabezpieczyć wiatę przed wichurą? Dowiedz się, dlaczego kotwienie w samej kostce to błąd i jak zrobić solidny fundament.",
+ "wstep": "Silny wiatr potrafi poderwać zbyt lekki daszek i uszkodzić zaparkowany samochód. Jeśli zależy Ci na bezpieczeństwie auta i otoczenia, musisz zadbać o stabilne posadowienie konstrukcji. Wyjaśniamy, jak poprawnie zakotwić wiatę i jakich błędów unikać podczas prac w gruncie.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego kotwienie do samej kostki brukowej to błąd",
+   "akapity": [
+    "Wielu właścicieli posesji próbuje przykręcać wiaty bezpośrednio do kostki brukowej lub pojedynczych płyt chodnikowych. To prosta droga do problemów przy pierwszej silniejszej wichurze. Taka wiata działa jak żagiel i pod wpływem porywu może polecieć jak trampolina z filmików w internecie. Jeśli konstrukcja wyląduje na działce obok, zniszczy mienie sąsiada i trzeba będzie za to zapłacić.",
+    "Kostka brukowa leży na podsypce i nie stanowi stabilnego oporu dla sił wyrywających. Oszczędność na mocowaniu konstrukcji szybko wychodzi bokiem w trakcie użytkowania."
+   ]
+  },
+  {
+   "h2": "Prawidłowy fundament poniżej strefy przemarzania",
+   "akapity": [
+    "Jedynym skutecznym sposobem na silny wiatr jest wykonanie solidnych fundamentów punktowych pod każdy słup. W Polsce wykop musi sięgać poniżej strefy przemarzania gruntu, czyli zazwyczaj na około 80 cm głębokości lub głębiej, zależnie od lokalizacji. Dopiero w tak przygotowanym betonie bezpiecznie kotwi się słupy nośne.",
+    "Przy tradycyjnym montażu na jeden słup przypada zwykle od 5 do 10 worków betonu. Alternatywą dla wylewek betonowych są pale wkręcane, jednak ich prawidłowe osadzenie wymaga specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Prace brukarskie i przygotowanie terenu",
+   "akapity": [
+    "Planując kotwienie słupów na gotowym podjeździe, musisz pamiętać o pracach towarzyszących. Konieczne jest rozebranie fragmentów nawierzchni, a po zalaniu stóp fundamentowych ponowne docięcie i ułożenie kostki wokół słupów. Warto też uwzględnić wywóz wykopanej ziemi oraz gruzu, bo to elementy montażu, o których łatwo zapomnieć przy planowaniu budżetu."
+   ]
+  },
+  {
+   "h2": "Sztywność konstrukcji ma znaczenie przy porywach",
+   "akapity": [
+    "Nawet najgłębszy fundament nie pomoże, jeśli sama wiata jest zbyt wiotka. Na rynku spotyka się konstrukcje wykonane z profilu 40 x 40 mm o ściance 2 mm, które pod obciążeniem wyglądają jak zapałki. Przy silnych porywach wiatru cienkie profile mogą się zgiąć lub całkowicie złamać. Tanie wiaty i daszki z marketu są liczone na minimalne obciążenia, co przy droższym aucie staje się sporym ryzykiem."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive fundamenty robimy poniżej strefy przemarzania gruntu i kotwimy do nich słupy, dbając o pełną stabilność konstrukcji. Nasze wiaty wykonujemy ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Oferujemy modele o wysokości 2,7 m w wymiarach bazowych 3 x 6 m, 4 x 6 m, 6 x 6 m oraz rozmiary indywidualne, które można uzupełnić między innymi o przęsła żaluzjowe czy moduł Solar Box pod panele PV. Sam montaż zajmuje zazwyczaj 1 dzień roboczy, a przed zamówieniem możesz wgrać zdjęcie podjazdu, aby nasz wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy można przykręcić wiatę garażową do samej kostki brukowej?",
+   "odpowiedz": "Nie, sama kostka brukowa nie utrzyma naporu wiatru. Podczas wichury podmuch może wyrwać konstrukcję razem z kostką, dlatego słupy należy kotwić w fundamencie sięgającym w grunt."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod słupy wiaty?",
+   "odpowiedz": "Fundament pod wiatę powinien sięgać poniżej poziomu przemarzania gruntu. W warunkach polskich jest to zwykle około 80 cm głębokości lub więcej, zależnie od regionu."
+  },
+  {
+   "pytanie": "Ile betonu potrzeba na zakotwienie jednego słupa?",
+   "odpowiedz": "W zależności od warunków gruntowych i wielkości wykopu, na solidne posadowienie jednego słupa zużywa się średnio od 5 do 10 worków betonu."
+  }
+ ],
+ "nr": 185,
+ "kolejnosc": 108,
+ "temat": "wiata a silny wiatr - jak ją zakotwić",
+ "adres": "wiata-a-silny-wiatr-jak-ja-zakotwic",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

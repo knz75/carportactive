@@ -1,0 +1,58 @@
+{
+ "tytul": "Wymiary wiaty na jeden samochód. Jaki rozmiar wybrać?",
+ "opis_meta": "Planujesz wiatę na jedno auto? Sprawdź praktyczne wymiary, minimalną szerokość i długość oraz błędy, których warto unikać przy montażu konstrukcji.",
+ "wstep": "Szukasz wymiarów wiaty na jeden samochód i zastanawiasz się, ile miejsca na podjeździe naprawdę potrzebujesz. Zbyt ciasna wiata utrudni Ci codzienne wysiadanie, wypakowywanie zakupów czy dostęp do bagażnika. Zobacz, jak dobrać szerokość, długość i wysokość zadaszenia, aby parkowanie było w pełni wygodne.",
+ "sekcje": [
+  {
+   "h2": "Szerokość wiaty na jedno auto - 3 czy 4 metry",
+   "akapity": [
+    "Bazowa szerokość wiaty na jedno auto wynosi zazwyczaj 3 metry. Taki wymiar pozwala bez trudu zaparkować pojazd i wysiąść z niego bez obijania drzwi o słupy nośne. Sprawdza się to dobrze na węższych działkach, gdzie liczy się każdy centymetr przestrzeni.",
+    "Jeśli dysponujesz wolnym miejscem, znacznie lepszym wyborem jest szerokość 4 metrów. Dodatkowy metr daje ogromną swobodę przy otwieraniu drzwi z obu stron, zapinaniu dzieci w fotelikach czy przenoszeniu bagaży. Przy 4 metrach deszcz i śnieg zacinają też znacznie mniej na boki pojazdu."
+   ]
+  },
+  {
+   "h2": "Długość i wysokość zadaszenia",
+   "akapity": [
+    "Praktyczna długość wiaty na jeden samochód to 6 metrów. Samochód osobowy mierzy zazwyczaj nieco ponad 4 metry, więc 6 metrów długości zostawia wygodny zapas z przodu i z tyłu. Dzięki temu możesz spokojnie otworzyć klapę bagażnika pod dachem lub postawić z tyłu rowery.",
+    "Standardowa i funkcjonalna wysokość konstrukcji wynosi 2,7 metra. Taka wysokość pozwala wjechać autem z boksem dachowym lub większym busem bez ryzyka uszkodzenia dachu. Zbyt niska wiata utrudnia ruch wokół auta, a zbyt wysoka gorzej osłania pojazd przed deszczem i wiatrem."
+   ]
+  },
+  {
+   "h2": "Przekrój słupów a bezpieczeństwo Twojego auta",
+   "akapity": [
+    "Wiatę da się zrobić z cienkiego profilu 40 x 40 mm o ściance 2 mm. Słupy wyglądają wtedy jak zapałki, cała konstrukcja prezentuje się wątło, a przy mocnych porywach wiatru słupy mogą się po prostu złamać. Tanie wiaty i daszki z marketu są liczone na minimalne obciążenie śniegiem i wiatrem.",
+    "Na montażach często widzimy marketowy daszek, który ugiął się pod ciężarem śniegu. Oszczędność na materiale szybko wychodzi bokiem w czasie użytkowania. Jeśli pod zadaszeniem ma stać drogi samochód, solidność profilu warto przemyśleć jeszcze przed zakupem."
+   ]
+  },
+  {
+   "h2": "Stabilny fundament zamiast mocowania do kostki",
+   "akapity": [
+    "Wiaty z marketu bardzo często stoją przykręcone tylko do betonowych płyt albo samej kostki brukowej. Przy mocnej wichurze lekka konstrukcja potrafi polecieć jak trampolina z filmików w internecie i narobić szkód u sąsiada. Warto zadać sobie pytanie, kto za to później zapłaci.",
+    "Prawidłowy montaż wymaga wykonania fundamentów poniżej strefy przemarzania gruntu, do których kotwi się słupy. W Polsce to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Na jeden solidny słup może pójść od 5 do 10 worków betonu.",
+    "Alternatywą dla betonu są pale, ale ich montaż wymaga specjalistycznego sprzętu. Pamiętaj też o dodatkowych pracach montażowych, takich jak wywóz ziemi i gruzu oraz rozebranie i ponowne ułożenie kostki brukowej wokół słupów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wszystkie te wyzwania rozwiązuje stalowa wiata garażowa CarportActive, wykonana ze stali konstrukcyjnej S235, zabezpieczona przez ocynk ogniowy i malowanie proszkowe w kolorze antracyt RAL 7016. Konstrukcja jest dostępna w sprawdzonych rozmiarach 3 x 6 m oraz 4 x 6 m przy wysokości 2,7 m, a także w wymiarach indywidualnych. Słupy kotwimy do solidnych fundamentów poniżej strefy przemarzania, a montaż zajmuje zazwyczaj 1 dzień roboczy. Do wiaty możesz dołożyć moduły, takie jak panel narzędziowy, przechowalnia rowerów czy przęsła żaluzjowe, a wizualizator AI pokaże wiatę na Twoim podjeździe w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jaki jest zalecany wymiar wiaty na jeden samochód?",
+   "odpowiedz": "Zalecany wymiar bazowy to 3 x 6 m lub 4 x 6 m przy wysokości 2,7 m. Długość 6 metrów zapewnia swobodny dostęp do bagażnika pod dachem, a szerokość 4 metrów daje pełną wygodę przy wysiadaniu."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba osadzić fundament pod wiatę?",
+   "odpowiedz": "Fundamenty należy wykonać poniżej strefy przemarzania gruntu, co w Polsce wynosi zazwyczaj około 80 cm lub więcej. Na pojedynczy słup zużywa się przeważnie od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Czy wiatę można przykręcić bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Nie, przykręcanie słupów do samej kostki jest błędem. Silny wiatr może wyrwać taką konstrukcję i doprowadzić do poważnych uszkodzeń pojazdu lub sąsiednich posesji."
+  }
+ ],
+ "nr": 196,
+ "kolejnosc": 211,
+ "temat": "wymiary wiaty na jeden samochód",
+ "adres": "wymiary-wiaty-na-jeden-samochod",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

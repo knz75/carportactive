@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata dla samochodu elektrycznego. O czym pamiętać przed montażem?",
+ "opis_meta": "Szukasz wiaty pod auto elektryczne? Sprawdź, jak dobrać konstrukcję, stabilny fundament i zadaszenie, które wytrzyma śnieg oraz silny wiatr.",
+ "wstep": "Samochód elektryczny to spory wydatek, dlatego warto zadbać o jego bezpieczne parkowanie pod domem. Dobrze zaplanowana wiata chroni baterię przed nagrzewaniem w upale, a lakier przed gradem i mokrym śniegiem. Zanim jednak postawisz konstrukcję na podjeździe, sprawdź kilka kwestii technicznych, które decydują o jej trwałości na lata.",
+ "sekcje": [
+  {
+   "h2": "Wytrzymałość konstrukcji a bezpieczeństwo drogiego auta",
+   "akapity": [
+    "Na rynku znajdziesz wiele tanich wiat z marketu, które projektuje się na minimalne obciążenia wiatrem i śniegiem. Na montażach nieraz widzieliśmy takie daszki ugięte pod warstwą zmarzniętego śniegu. Jeśli parkujesz pod spodem nowoczesny samochód elektryczny, każda śnieżna zima staje się niepotrzebnym ryzykiem.",
+    "Zwróć też uwagę na przekroje profili stalowych. Wiatę da się wykonać z profilu 40 x 40 mm o ściance 2 mm, ale słupy wyglądają wtedy jak zapałki. Taka konstrukcja jest wątła i przy mocnych porywach wiatru może ulec wygięciu lub złamaniu."
+   ]
+  },
+  {
+   "h2": "Prawidłowy fundament to gwarancja spokoju",
+   "akapity": [
+    "Częstym błędem jest przykręcanie słupów bezpośrednio do betonowych płyt lub samej kostki brukowej. Podczas wichury lekka wiata może unieść się w powietrze niczym trampolina i narobić kosztownych szkód u Ciebie lub sąsiada. Warto zadać sobie pytanie, kto za to zapłaci.",
+    "Dlatego fundamenty należy wykonywać poniżej strefy przemarzania gruntu i dopiero do nich kotwić słupy. W Polsce to zwykle około 80 cm głębokości, a zależnie od regionu nawet więcej. Na jeden solidny słup schodzi zazwyczaj 5-10 worków betonu. Alternatywą są pale wkręcane w grunt, ale ich wkręcenie wymaga specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Koszty montażu, o których mało kto pamięta",
+   "akapity": [
+    "Planując budżet na zadaszenie, weź pod uwagę prace ziemne i brukarskie. Na pełen koszt montażu składają się też rzeczy pomijane na początku, takie jak wywóz ziemi i gruzu z wykopów pod stopy betonowe.",
+    "Jeśli masz już gotowy podjazd, konieczne jest wcześniejsze rozebranie kostki brukowej wokół słupów, a po związaniu betonu jej ponowne ułożenie i docięcie. Oszczędność na tych drobiazgach oraz na fundamencie szybko wychodzi bokiem w czasie codziennego użytkowania."
+   ]
+  },
+  {
+   "h2": "Miejsce pod ładowarkę i zasilanie energią słoneczną",
+   "akapity": [
+    "Wiata dla auta elektrycznego powinna zapewniać swobodny dostęp do gniazda ładowania z każdej strony pojazdu. Odpowiednia wysokość i szerokość ułatwiają manewrowanie kablem oraz montaż ładowarki na słupie lub ścianie bocznej.",
+    "Warto od razu pomyśleć o konstrukcji, która poradzi sobie z dodatkowym ciężarem paneli fotowoltaicznych. Zadaszenie może nie tylko chronić pojazd, ale też wytwarzać prąd prosto do Twojej domowej baterii."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive ze stali konstrukcyjnej S235, ocynkowana ogniowo i malowana proszkowo na kolor antracyt RAL 7016, to stabilne rozwiązanie dla auta na prąd. Słupy kotwimy do fundamentów wylewanych poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Do wyboru są wymiary 3 x 6 m, 4 x 6 m, 6 x 6 m lub rozmiary indywidualne o wysokości 2,7 m, z możliwością dodania modułu Solar Box pod panele PV oraz przęseł żaluzjowych. Możesz też wgrać zdjęcie swojego podjazdu, aby wizualizator AI pokazał wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Na jaką głębokość trzeba wylać fundamenty pod wiatę?",
+   "odpowiedz": "Fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza zazwyczaj głębokość około 80 cm lub więcej, zależnie od lokalizacji."
+  },
+  {
+   "pytanie": "Czy na wiacie CarportActive można zainstalować panele słoneczne?",
+   "odpowiedz": "Tak, do konstrukcji można dołożyć dedykowany moduł Solar Box przeznaczony pod montaż paneli PV."
+  },
+  {
+   "pytanie": "Ile czasu trwa montaż wiaty CarportActive na podjeździe?",
+   "odpowiedz": "Sam montaż wiaty garażowej zajmuje zazwyczaj 1 dzień roboczy."
+  }
+ ],
+ "nr": 200,
+ "kolejnosc": 219,
+ "temat": "wiata dla samochodu elektrycznego",
+ "adres": "wiata-dla-samochodu-elektrycznego",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

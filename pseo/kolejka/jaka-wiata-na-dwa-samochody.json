@@ -1,0 +1,51 @@
+{
+ "tytul": "Jaka wiata na dwa samochody? Wymiary i konstrukcja",
+ "opis_meta": "Zastanawiasz sie, jaka wiata na dwa samochody sprawdzi sie na podjezdzie? Sprawdz wymiary, przekroje profili i zasady solidnego montazu.",
+ "wstep": "Szukasz wiaty na dwa auta i zastanawiasz sie, na co zwrocic uwage przy wyborze. Dobra konstrukcja musi dac Ci wygode przy wsiadaniu oraz pewnosc, ze dach wytrzyma napory wiatru i ciezki snieg. Z doswiadczenia z montazy powiem krotko: najwazniejsze sa realne wymiary, przekroj stali oraz solidny fundament.",
+ "sekcje": [
+  {
+   "h2": "Jakie wymiary powinna miec wiata na dwa samochody",
+   "akapity": [
+    "Jesli chcesz parkowac dwa auta obok siebie, optymalnym rozmiarem bazowym jest 6 x 6 m. Taka szerokosc pozwala na swobodne otwarcie drzwi z obu stron bez ryzyka obicia sasiedniego lakieru. Standardowa wysokosc 2,7 m ulatwia wjazd takze wiekszym samochodom rodzinnym.",
+    "Konstrukcje wezsze, na przyklad 4 x 6 m, dobrze sprawdzaja sie dla jednego auta z zapasem miejsca na przejscie. Przy dwoch pojazdach ustawionych obok siebie 4 metry to za malo, a parkowanie jedno za drugim bywa uciazliwe na co dzien."
+   ]
+  },
+  {
+   "h2": "Grubosc profili a odpornosc na snieg i wiatr",
+   "akapity": [
+    "Wiaty z marketu sa czesto projektowane pod minimalne dopuszczalne obciazenia. Czesto widujemy zamontowane daszki z marketow, ktore ugiely sie pod ciezarem mokrego sniegu. Jesli pod konstrukcja parkujesz drogie samochody, ryzyko uszkodzenia karoserii nie jest warte pozornych oszczednosci.",
+    "Wiate mozna zespawac z profilu 40 x 40 mm o sciance 2 mm, ale wtedy slupy wygladaja jak zapalki. Taka konstrukcja wyglada watle i przy silnych porywach wiatru moze sie po prostu zlamac. Konstrukcja dwustanowiskowa ma spora powierzchnie dachu, ktora dziala na wiatr jak zagiel, wiec sztywnosc stali to podstawa."
+   ]
+  },
+  {
+   "h2": "Prawidlowy fundament pod zadaszenie",
+   "akapity": [
+    "Tanie wiaty bywaja przykrecane bezposrednio do betonowych plyt chodnikowych lub kostki brukowej. W czasie wichury taka lekka wiata potrafi odleciec jak trampolina z filmikow w internecie i zrobic szkody na Twoim podworku lub u sasiada. Warto wtedy zadac sobie pytanie, kto za to zaplaci.",
+    "Z tego powodu fundamenty wykonuje sie ponizej strefy przemarzania gruntu, co w Polsce oznacza zwykle okolo 80 cm glebokosci lub wiecej. Do takiego wykopu kotwi sie slupy, a na jeden punkt moze pojsc od 5 do 10 workow betonu. Alternatywa sa specjalne pale, ale ich wkrecanie wymaga dedykowanego sprzetu.",
+    "Planujac budowe, wez pod uwage takze prace wokol montazu. Koszt i czas to rowniez rozebranie kostki, wykop, wywoz ziemi oraz gruzu, a na koniec ponowne dolicie lub ulozenie bruku wokol slupow."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jako CarportActive produkujemy stalowe wiaty garazowe ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Na dwa auta montujemy najczesciej rozmiar 6 x 6 m o wysokosci 2,7 m lub wymiary indywidualne, kotwiac slupy do fundamentow ponizej strefy przemarzania. Do wiaty mozesz dodac przesla zaluzjowe, modul sportowy, przechowalnie rowerow czy dach pod panele Solar Box, a sam montaz zajmuje zazwyczaj 1 dzien roboczy. Na naszej stronie mozesz wgrac zdjecie podjazdu, aby wizualizator AI pokazal wiate na Twoim podworku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jaki rozmiar wiaty jest potrzebny na dwa samochody?",
+   "odpowiedz": "Wygodny rozmiar bazowy na dwa auta stojace obok siebie to 6 x 6 m przy wysokosci 2,7 m. Pozwala to na bezproblemowe otwieranie drzwi i swobodne manewrowanie."
+  },
+  {
+   "pytanie": "Czy wiate dwustanowiskowa mozna postawic na samej kostce brukowej?",
+   "odpowiedz": "Nie, poniewaz silny wiatr moze wyrwac konstrukcje razem z kostka. Slupy nosne nalezy zakotwic w fundamentach betonowych sięgajacych ponizej poziomu przemarzania gruntu, czyli na okolo 80 cm glebokosci lub wiecej."
+  },
+  {
+   "pytanie": "Ile czasu trwa montaz stalowej wiaty CarportActive?",
+   "odpowiedz": "Montaz konstrukcji na przygotowanym podlozu zajmuje zazwyczaj 1 dzien roboczy."
+  }
+ ],
+ "nr": 180,
+ "kolejnosc": 53,
+ "temat": "jaka wiata na dwa samochody",
+ "adres": "jaka-wiata-na-dwa-samochody",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

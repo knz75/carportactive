@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata z bocznymi ścianami czy otwarta? Sprawdź, co wybrać",
+ "opis_meta": "Wiata z bocznymi ścianami czy otwarta? Poznaj różnice, wady i zalety obu opcji. Sprawdź, które rozwiązanie lepiej sprawdzi się na Twojej działce.",
+ "wstep": "Wybór między wiatą otwartą a zabudowaną zależy głównie od położenia Twojej działki i kierunku wiatru. Otwarta konstrukcja ułatwia codzienne manewrowanie, ale boki dają ochronę przed nawiewaniem śniegu i deszczu. Sprawdź praktyczne porównanie obu rozwiązań, zanim podejmiesz decyzję.",
+ "sekcje": [
+  {
+   "h2": "Kiedy wystarczy zwykła wiata otwarta",
+   "akapity": [
+    "Otwarta wiata to prosta opcja, która sprawdza się na osłoniętych podwórkach. Jeśli w pobliżu stoją gęste budynki, garaż lub wysokie ogrodzenie, samochód rzadko jest narażony na silny, boczny deszcz. W takich warunkach sam dach w zupełności wystarczy, by ochronić lakier przed opadami czy słońcem.",
+    "Wjeżdżanie pod otwarty dach jest bardzo wygodne, bo masz pełną widoczność we wszystkich kierunkach. Taka konstrukcja zapewnia też stały obieg powietrza. Mokre po deszczu auto szybko wysycha, co ogranicza gromadzenie się wilgoci."
+   ]
+  },
+  {
+   "h2": "Kiedy przydają się ściany boczne",
+   "akapity": [
+    "Zabudowa boczna przydaje się na odsłoniętych działkach i w wietrznych rejonach. Sam dach nie zatrzyma śniegu ani deszczu zacinającego pod ostrym kątem. Ściany tworzą barierę, dzięki której auto rano nie jest pokryte warstwą lodu czy błota.",
+    "Boki pomagają także wtedy, gdy podjazd znajduje się blisko granicy posesji. Osłona pozwala zasłonić strefę parkowania przed spojrzeniami z ulicy lub od strony sąsiada. Dzięki temu zyskujesz więcej prywatności na własnym podwórku."
+   ]
+  },
+  {
+   "h2": "Zabudowa pełna czy tylko z jednej strony",
+   "akapity": [
+    "Nie musisz decydować się na pełne zamknięcie całej konstrukcji. Dobrym rozwiązaniem jest montaż ścianki tylko od strony nawietrznej, z której najczęściej wieje wiatr w Twojej okolicy.",
+    "Reszta wiaty może pozostać otwarta, co ułatwia wysiadanie i manewrowanie samochodem. Takie połączenie łączy zalety obu wariantów, dając osłonę przed zacinającymi opadami bez uczucia ciasnoty."
+   ]
+  }
+ ],
+ "rozwiazanie": "Praktycznym wyborem jest wiata z przęsłami żaluzjowymi, które posiadają poziome lamele montowane między słupami. Przęsła zasłaniają podjazd od sąsiada i ulicy oraz osłaniają auto z boku od wiatru. W konstrukcjach CarportActive ze stali S235, zabezpieczonych ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016, lamele żaluzjowe można zamontować na jednym boku albo na kilku. Dostępne są w kolorze antracyt RAL 7016, orzech i ciemny orzech, a do wiaty można je dołożyć także w późniejszym czasie.",
+ "faq": [
+  {
+   "pytanie": "Czy można osłonić tylko jeden bok wiaty?",
+   "odpowiedz": "Tak, przęsła można zamontować tylko na jednej ścianie, na przykład od strony sąsiada lub od kierunku, z którego najczęściej wieje wiatr."
+  },
+  {
+   "pytanie": "Czy boki do wiaty trzeba montować od razu?",
+   "odpowiedz": "W przypadku wiat CarportActive przęsła żaluzjowe można zamówić od razu lub zdecydować się na ich montaż w późniejszym terminie."
+  },
+  {
+   "pytanie": "W jakich rozmiarach dostępne są stalowe wiaty?",
+   "odpowiedz": "Dostępne są rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m, a także konstrukcje przygotowywane na wymiary indywidualne."
+  }
+ ],
+ "nr": 230,
+ "kolejnosc": 164,
+ "temat": "wiata z bocznymi ścianami czy otwarta",
+ "adres": "wiata-z-bocznymi-scianami-czy-otwarta",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

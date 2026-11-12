@@ -1,0 +1,50 @@
+{
+ "tytul": "Oświetlenie pod wiatą garażową - jak zaplanować lampy i kable",
+ "opis_meta": "Zastanawiasz się, jak dobrać i zamontować oświetlenie pod wiatą? Sprawdź praktyczne wskazówki montera dotyczące lamp, czujników i kabli.",
+ "wstep": "Dobre oświetlenie pod wiatą pozwala bezpiecznie zaparkować, wysiąść z auta i wypakować bagaże po zmroku. Wielu kierowców montuje przypadkową lampę na środku, która potem oślepia zamiast ułatwiać manewry. Zobacz, jak mądrze rozplanować punkty świetlne i instalację elektryczną.",
+ "sekcje": [
+  {
+   "h2": "Rozmieszczenie punktów świetlnych",
+   "akapity": [
+    "Jedna centralna lampa pod dachem rzadko zdaje egzamin. Po wjechaniu samochodu dach pojazdu blokuje strumień światła, a przestrzeń wokół drzwi i bagażnika tonie w mroku. Zamiast tego lepiej sprawdzają się dwa lub cztery punkty zamontowane po bokach wiaty.",
+    "Zwróć uwagę na kąt padania światła. Oprawy powinny kierować snop w dół i lekko na boki, aby nie świecić prosto w szybę wjeżdżającego auta. Dobrze doświetlone progi ułatwiają bezpieczne wysiadanie bez ryzyka potknięcia o krawężnik."
+   ]
+  },
+  {
+   "h2": "Czujnik ruchu i automatyka",
+   "akapity": [
+    "Czujnik ruchu połączony z czujnikiem zmierzchu to standard, który oszczędza energię. Warto jednak wiedzieć, że na tanich wiatach z marketu, składanych z cienkich profili 40 x 40 mm o ściance 2 mm, cała konstrukcja potrafi drżeć na wietrze. Taki ruch słupa potrafi wzbudzać tani sensor, przez co światło gaśnie i zapala się bez przerwy.",
+    "Czujnik zamontuj na stabilnym elemencie i skieruj go w stronę wjazdu, by włączał lampy tuż przed Twoim pojawieniem się pod dachem. Dobrym nawykiem jest też wyprowadzenie równoległego włącznika ręcznego. Przydaje się wtedy, gdy chcesz umyć samochód lub popracować przy nim wieczorem bez machania rękami do czujnika."
+   ]
+  },
+  {
+   "h2": "Bezpieczne prowadzenie kabli",
+   "akapity": [
+    "Instalację zasilającą najlepiej zaplanować przed ułożeniem nawierzchni. Na montażach często niezbędne jest rozebranie i ułożenie z powrotem kostki brukowej wokół słupów, aby ukryć peszle ziemne bez niszczenia estetyki podwórka. Oszczędność na drobiazgach na tym etapie potem wychodzi bokiem w czasie użytkowania.",
+    "Kable na samej konstrukcji prowadzi się w sztywnych korytkach lub rurkach elektroinstalacyjnych, dobranych kolorystycznie do szkieletu. Solidne kotwienie słupów do fundamentów wylewanych poniżej strefy przemarzania gruntu sprawia, że konstrukcja nie pracuje na wietrze, a to chroni przewody przed przetarciem i uszkodzeniem."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive zapewnia stabilną bazę pod instalację oświetleniową dzięki konstrukcji ze stali S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy o wysokości 2,7 m kotwimy do fundamentów poniżej strefy przemarzania gruntu, co eliminuje drgania wiaty. Konstrukcję w rozmiarach 3 x 6 m, 4 x 6 m, 6 x 6 m lub na wymiar montujemy zazwyczaj w 1 dzień roboczy, a na dachu możesz zaplanować moduł Solar Box pod panele PV do zasilania lamp.",
+ "faq": [
+  {
+   "pytanie": "Na jakiej wysokości najlepiej zamontować oświetlenie pod wiatą?",
+   "odpowiedz": "Optymalna wysokość to około 2,5 do 2,7 m. Taki montaż zapewnia szeroki kąt świecenia i nie koliduje z unoszoną klapą bagażnika wyższych aut."
+  },
+  {
+   "pytanie": "Czy do zasilenia oświetlenia wiaty można wykorzystać panele fotowoltaiczne?",
+   "odpowiedz": "Tak, decydując się na wiatę z modułem Solar Box, można przygotować konstrukcję pod montaż paneli PV i zasilać lampy energią ze słońca."
+  },
+  {
+   "pytanie": "Jak sprawdzić, jak wiata będzie wyglądać z instalacją na moim podwórku?",
+   "odpowiedz": "Wystarczy wgrać zdjęcie swojego podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach dopasowanych do otoczenia."
+  }
+ ],
+ "nr": 193,
+ "kolejnosc": 190,
+ "temat": "oświetlenie pod wiatą",
+ "adres": "oswietlenie-pod-wiata",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

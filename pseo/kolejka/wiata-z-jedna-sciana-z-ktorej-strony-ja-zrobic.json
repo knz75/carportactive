@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata z jedną ścianą - z której strony najlepiej ją zrobić?",
+ "opis_meta": "Zastanawiasz się, gdzie postawić jedną ścianę w wiacie? Sprawdź, jak osłonić auto przed wiatrem, zacinającym deszczem oraz wzrokiem sąsiadów.",
+ "wstep": "Jeśli planujesz wiatę z jedną ścianą, jej położenie zależy głównie od kierunku wiatru oraz układu Twojej działki. Najczęściej zabudowuje się bok zachodni lub stronę od granicy z sąsiadem. Poniżej podpowiadamy, jak wybrać najlepsze miejsce na osłonę podjazdu.",
+ "sekcje": [
+  {
+   "h2": "Kierunek wiatru i zacinający deszcz",
+   "akapity": [
+    "W Polsce wiatr najczęściej wieje z zachodu i południowego zachodu. To z tych stron najczęściej zacina deszcz oraz nawiewa śnieg pod zadaszenie. Jeśli Twoim celem jest ochrona karoserii przed zabrudzeniami, zabuduj właśnie ten bok wiaty.",
+    "Dzięki temu samochód stoi w osłoniętym miejscu, a Ty możesz wygodnie wysiąść w czasie niepogody. Taki układ sprawdza się na większości otwartych podwórek."
+   ]
+  },
+  {
+   "h2": "Prywatność od strony sąsiada lub ulicy",
+   "akapity": [
+    "Często powodem montażu jednej ściany nie są warunki pogodowe, ale chęć zyskania prywatności. Jeżeli wiata stoi blisko ogrodzenia, boczna osłona odcina widok z sąsiedniej posesji. Podobnie jest przy drodze, gdzie ściana ogranicza widok z ulicy oraz zatrzymuje kurz.",
+    "W takim przypadku postaw ścianę od strony, z której najczęściej przechodzą lub parkują inne osoby. Nawet jedna przegroda pozwoli Ci stworzyć spokojniejszą przestrzeń wokół samochodu."
+   ]
+  },
+  {
+   "h2": "Strona północna a chłód i przymrozki",
+   "akapity": [
+    "Od północy słońce nie dociera prawie wcale, a zimą to stamtąd napływa najzimniejsze powietrze. Zabudowanie północnego boku ogranicza wychładzanie auta i zmniejsza ryzyko zamarzania szyb.",
+    "Rozważ tę opcję wtedy, gdy Twoja wiata jest już osłonięta od zachodu przez bryłę domu lub wysoki budynek gospodarczy. Wtedy to północna strona staje się głównym źródłem nieprzyjemnych podmuchów."
+   ]
+  },
+  {
+   "h2": "Wygoda parkowania i widoczność",
+   "akapity": [
+    "Zanim zdecydujesz o montażu ściany, sprawdź codzienne manewry na podjeździe. Przegroda nie powinna przeszkadzać w otwieraniu drzwi od strony kierowcy ani utrudniać dojścia do bagażnika.",
+    "Zwróć także uwagę na pole widzenia podczas wyjeżdżania na drogę. Pełny bok nie może zasłaniać widoku na ulicę, gdy włączasz się do ruchu tyłem."
+   ]
+  }
+ ],
+ "rozwiazanie": "W wiatach CarportActive ten problem rozwiązują przęsła żaluzjowe z poziomymi lamelami, montowane między słupami wiaty na jednym boku albo na kilku. Skutecznie zasłaniają podjazd od sąsiada i ulicy oraz osłaniają z boku od wiatru. Do wiaty ze stali konstrukcyjnej S235 w kolorze antracyt RAL 7016 przęsła możesz dołożyć także później, wybierając kolor antracyt RAL 7016, orzech lub ciemny orzech. Wiaty są dostępne w wymiarach bazowych 3 x 6 m, 4 x 6 m i 6 x 6 m oraz w wymiarach indywidualnych.",
+ "faq": [
+  {
+   "pytanie": "Z której strony najczęściej montuje się jedną ścianę?",
+   "odpowiedz": "Najczęściej wybiera się stronę zachodnią ze względu na dominujące wiatry lub bok skierowany ku granicy z sąsiadem dla zachowania prywatności."
+  },
+  {
+   "pytanie": "Czy w wiacie CarportActive można dołożyć ścianę w późniejszym czasie?",
+   "odpowiedz": "Tak, przęsła żaluzjowe montowane między słupami wiaty CarportActive można bez problemu dołożyć później."
+  },
+  {
+   "pytanie": "W jakich kolorach dostępne są przęsła żaluzjowe?",
+   "odpowiedz": "Przęsła z poziomymi lamelami można wybrać w kolorze antracyt RAL 7016, orzech lub ciemny orzech."
+  }
+ ],
+ "nr": 227,
+ "kolejnosc": 131,
+ "temat": "wiata z jedną ścianą - z której strony ją zrobić",
+ "adres": "wiata-z-jedna-sciana-z-ktorej-strony-ja-zrobic",
+ "link": "moduly/przeslo-zaluzjowe",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

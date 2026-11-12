@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak dbać o stalową wiatę garażową? Porady montera",
+ "opis_meta": "Dowiedz się, jak dbać o stalową wiatę garażową. Poznaj sprawdzone porady montera dotyczące czyszczenia, kontroli powłoki i dbania o stabilność.",
+ "wstep": "Stalowa wiata garażowa wymaga znacznie mniej pracy niż drewniana konstrukcja, ale nie jest całkowicie bezobsługowa. Kilka prostych czynności w roku pozwoli Ci uniknąć zarysowań, korozji oraz uszkodzeń pod wpływem pogody. Pokażemy, na co zwracać uwagę podczas codziennego użytkowania i po sezonie zimowym.",
+ "sekcje": [
+  {
+   "h2": "Regularne mycie i kontrola powłoki lakierniczej",
+   "akapity": [
+    "Kurz, pył z drogi i ptasie odchody mogą z czasem niszczyć zewnętrzną powłokę ochronną. Do mycia konstrukcji wystarczy użyć zwykłej wody pod umiarkowanym ciśnieniem oraz miękkiej gąbki z łagodnym detergentem. Unikaj ostrych szczotek i agresywnej chemii, które mogłyby zmatowić lub porysować lakier.",
+    "Dwa razy w roku, najlepiej wiosną i jesienią, obejrzyj dokładnie wszystkie słupy oraz łączenia. Zwróć uwagę na ewentualne odpryski lakieru lub głębokie zarysowania, powstałe na przykład po uderzeniu kosiarką czy drzwiami auta. Uszkodzone miejsce warto od razu oczyścić i zabezpieczyć farbą zaprawkową, aby wilgoć nie dotarła do stali."
+   ]
+  },
+  {
+   "h2": "Zimowa troska o dach i obciążenie śniegiem",
+   "akapity": [
+    "Z naszych obserwacji na montażach wynika, że tanie wiaty i daszki z marketu są projektowane na minimalne obciążenia. Często widać potem konstrukcje ugięte pod ciężarem mokrego śniegu, co grozi uszkodzeniem zaparkowanego pojazdu. Jeśli pod zadaszeniem stoi wartościowe auto, grubej i zmarzniętej czapy śnieżnej lepiej nie ignorować.",
+    "Podczas usuwania nadmiaru śniegu korzystaj wyłącznie z narzędzi o miękkich, gumowych krawędziach. Metalowe łopaty mogą porysować dach i zerwać warstwę ochronną. Pamiętaj też o regularnym usuwaniu mokrych liści, które zalegają w newralgicznych miejscach i zatrzymują wodę przed nadejściem mrozów."
+   ]
+  },
+  {
+   "h2": "Kontrola kotwienia i stabilności konstrukcji",
+   "akapity": [
+    "Wiata musi zachować sztywność w każdych warunkach pogodowych. Na podwórkach zdarzają się wiaty z marketu przykręcone jedynie do betonowych płyt lub bezpośrednio do kostki. Przy silnej wichurze lekki szkielet potrafi polecieć jak trampolina na działkę sąsiada i wywołać poważne szkody.",
+    "Raz w roku sprawdź stan połączeń śrubowych przy stopach słupów. Oszczędność na fundamencie mści się w trakcie eksploatacji, dlatego kluczowa jest kontrola podłoża wokół wiaty. Jeśli zauważysz obluzowane śruby lub pęknięcia w strefie mocowania, od razu dokręć elementy montażowe."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli chcesz uniknąć problemów z trwałością, wybierz stalową wiatę garażową CarportActive. Konstrukcja powstaje ze stali S235 zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016, a słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu. Oferujemy wymiary bazowe 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m, wersje na wymiar oraz moduły, w tym panel narzędziowy, przęsła żaluzjowe czy Solar Box pod panele PV. Montaż zajmuje zazwyczaj 1 dzień roboczy, a wizualizator AI pokaże wiatę na Twoim podjeździe w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jak często należy myć stalową wiatę garażową?",
+   "odpowiedz": "Wystarczy zrobić to dwa razy w roku, po zimie oraz jesienią, używając wody z łagodnym detergentem."
+  },
+  {
+   "pytanie": "Czym zabezpieczyć zarysowanie na lakierze proszkowym?",
+   "odpowiedz": "Zarysowane miejsce należy oczyścić, odtłuścić i pokryć odpowiednią farbą zaprawkową dopasowaną do odcienia konstrukcji."
+  },
+  {
+   "pytanie": "Dlaczego stabilny fundament ułatwia dbanie o wiatę?",
+   "odpowiedz": "Prawidłowo wykonany fundament poniżej strefy przemarzania zapobiega ruchom słupów i chroni konstrukcję przed zniszczeniem podczas wichury."
+  }
+ ],
+ "nr": 201,
+ "kolejnosc": 220,
+ "temat": "jak dbać o stalową wiatę",
+ "adres": "jak-dbac-o-stalowa-wiate",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

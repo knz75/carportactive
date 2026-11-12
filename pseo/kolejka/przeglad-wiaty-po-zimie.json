@@ -1,0 +1,57 @@
+{
+ "tytul": "Przegląd wiaty po zimie. Na co zwrócić uwagę?",
+ "opis_meta": "Sprawdź, jak krok po kroku zrobić przegląd wiaty po zimie. Dowiedz się, na co zwrócić uwagę przy dachu, słupach i mocowaniach do gruntu.",
+ "wstep": "Zima to najtrudniejszy test dla każdej konstrukcji na Twojej działce. Mokry śnieg, mróz oraz silne porywy wiatru potrafią szybko obnażyć słabe punkty zadaszenia. Sprawdź krok po kroku, jakie elementy warto skontrolować na wiosnę, żeby bezpiecznie stawiać auto pod dachem.",
+ "sekcje": [
+  {
+   "h2": "Sprawdź stan dachu i ugięcia konstrukcji",
+   "akapity": [
+    "Mokry śnieg potrafi ważyć setki kilogramów, zwłaszcza gdy zamarza i odtaja na zmianę. Tanie wiaty i daszki z marketu są zwykle liczone na minimalne obciążenie śniegiem i wiatrem. Podczas montaży nierzadko widzimy marketowe konstrukcje, które po prostu ugięły się pod naporem zimy.",
+    "Wejdź pod wiatę i spójrz wzdłuż profili dachowych oraz samego poszycia. Zwróć uwagę, czy belki nie wygięły się w łuk i czy na dachu nie powstają zastoiska wody. Odkształcony profil traci swoją sztywność i przy kolejnych opadach może stworzyć zagrożenie dla zaparkowanego samochodu."
+   ]
+  },
+  {
+   "h2": "Skontroluj słupy i połączenia śrubowe",
+   "akapity": [
+    "Wiatę da się zrobić z profilu 40 x 40 mm o ściance 2 mm, ale takie słupy wyglądają i zachowują się jak zapałki. Przy mocnych podmuchach wiatru cienka stal może się wygiąć lub pęknąć. Przyjrzyj się pionom każdego słupa oraz punktom łączenia z dachem.",
+    "Zwróć uwagę na śruby oraz spawy. Poluzowane elementy dokręć, a zarysowania lub ubytki w powłoce zabezpiecz przed rdzą. Zimą koła samochodu wnoszą pod zadaszenie sól drogową, która w połączeniu z wilgocią przyspiesza powstawanie korozji."
+   ]
+  },
+  {
+   "h2": "Oceń posadowienie i mocowanie do podłoża",
+   "akapity": [
+    "Zimą zamarzająca woda w gruncie potrafi unosić nawierzchnię i fundamenty. Wiaty z marketu często stoją jedynie przykręcone do betonowych płyt albo samej kostki brukowej. W czasie wichury taka lekka konstrukcja potrafi polecieć jak trampolina z filmików w internecie i narobić szkód u sąsiada.",
+    "Solidne fundamenty wykonuje się poniżej strefy przemarzania gruntu, co w Polsce oznacza około 80 cm głębokości lub więcej. Sprawdź, czy kotwy przy stopach słupów dobrze trzymają, czy beton nie popękał i czy grunt wokół wiaty nie osiadł."
+   ]
+  },
+  {
+   "h2": "Wyczyść rynny i usuń zanieczyszczenia",
+   "akapity": [
+    "Wiosenny przegląd to także dobry moment na usunięcie zalegających liści, igliwia i błota z powierzchni dachu. Zatkane odpływy powodują przelewanie się wody w niekontrolowany sposób, co sprzyja zaciekom na konstrukcji.",
+    "Użyj miękkiej szczotki oraz wody pod umiarkowanym ciśnieniem, aby nie porysować lakieru. Czysta powierzchnia pozwala też od razu dostrzec drobne uszkodzenia mechaniczne powstałe na przykład od spadających gałęzi."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive powstaje ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy kotwimy do stabilnych fundamentów robionych poniżej strefy przemarzania gruntu. Oferujemy wymiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m, a także warianty indywidualne z opcją dołożenia modułów, takich jak przęsła żaluzjowe czy przechowalnia rowerów. Montaż wiaty zajmuje zazwyczaj 1 dzień roboczy, a na stronie możesz wgrać zdjęcie podjazdu, gdzie wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Jak rozpoznać, że dach wiaty ugiął się po zimie?",
+   "odpowiedz": "Wystarczy stanąć pod wiatą i ocenić wzrokiem prostoliniowość belek lub przyłożyć dłuższą łatę. Każde widoczne wygięcie profilu w dół oznacza, że konstrukcja została przeciążona przez śnieg."
+  },
+  {
+   "pytanie": "Co zrobić, gdy kotwy mocujące słupy wiaty są poluzowane?",
+   "odpowiedz": "Należy dokręcić poluzowane śruby i sprawdzić stabilność samego podłoża. Jeśli kotwa rusza się razem z kostką brukową lub popękanym betonem, konieczne jest poprawienie posadowienia konstrukcji."
+  },
+  {
+   "pytanie": "Czy po zimie trzeba zmywać wiatę z brudu i soli?",
+   "odpowiedz": "Tak, dokładne zmycie zanieczyszczeń wodą chroni powłokę lakierniczą przed działaniem soli drogowej i ułatwia dokładne obejrzenie wszystkich elementów konstrukcji."
+  }
+ ],
+ "nr": 213,
+ "kolejnosc": 232,
+ "temat": "przegląd wiaty po zimie",
+ "adres": "przeglad-wiaty-po-zimie",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}

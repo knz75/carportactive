@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata nad wjazdem od strony ulicy - na co uważać przy montażu",
+ "opis_meta": "Planujesz wiatę nad wjazdem od strony ulicy? Sprawdź, jak uniknąć błędów z fundamentami, wiatrem i śniegiem. Praktyczne porady montera.",
+ "wstep": "Budowa wiaty tuż przy wjeździe od strony ulicy to częsty wybór, gdy brakuje miejsca na tradycyjny garaż. W tym miejscu konstrukcja jest jednak bezpośrednio wystawiona na silne podmuchy wiatru oraz opady. Zobacz, na co zwrócić uwagę, aby zadaszenie podjazdu służyło Ci bezpiecznie przez lata.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego wjazd od ulicy wymaga mocnej konstrukcji",
+   "akapity": [
+    "Wjazd na posesję od strony drogi to zazwyczaj otwarta przestrzeń, na której wiatr działa z pełną siłą. Tanie wiaty i daszki z marketu są projektowane pod minimalne obciążenia wiatrem i śniegiem. Z doświadczenia montażowego wiemy, że lekki daszek potrafi ugiąć się pod ciężarem mokrego śniegu, co stwarza bezpośrednie zagrożenie dla zaparkowanego pod nim pojazdu.",
+    "Na rynku można spotkać wiaty zrobione z profilu 40 x 40 mm o ściance zaledwie 2 mm. Takie słupy wyglądają jak zapałki i cała konstrukcja sprawia wątłe wrażenie. Przy mocniejszych porywach wiatru cienkie profile mogą się po prostu złamać. Jeżeli pod zadaszeniem ma stać drogi samochód, warto dokładnie przemyśleć wybór materiału przed zakupem."
+   ]
+  },
+  {
+   "h2": "Kotwienie do kostki to proszenie się o kłopoty",
+   "akapity": [
+    "Wiaty z marketu są bardzo często przykręcane bezpośrednio do betonowych płyt chodnikowych albo do samej kostki brukowej. Podczas wichury taka lekka konstrukcja potrafi zadziałać jak żagiel, unieść się w powietrze niczym trampolina i wylądować na ulicy lub u sąsiada. Warto zadać sobie pytanie, kto zapłaci za powstałe w ten sposób szkody.",
+    "Prawidłowy montaż wymaga wykonania fundamentów sięgających poniżej strefy przemarzania gruntu. W Polsce jest to zazwyczaj około 80 cm głębokości, a w niektórych rejonach nawet więcej. Dopiero do takich stóp fundamentowych kotwi się słupy. Na zalanie jednego punktu pod słup schodzi przeważnie od 5 do 10 worków betonu."
+   ]
+  },
+  {
+   "h2": "Dodatkowe prace brukarskie i ziemne przy wjeździe",
+   "akapity": [
+    "Gdy stawiasz wiatę na gotowym podjeździe z bruku, musisz pamiętać o kosztach i pracach, o których rzadko myśli się na początku. Niezbędne jest rozebranie kostki brukowej w miejscach posadowienia słupów, a po wykonaniu betonu - jej ponowne docięcie i ułożenie.",
+    "Kolejna sprawa to konieczność wykopania dołów oraz wywóz wybranej ziemi i gruzu z podwórka. Alternatywą dla tradycyjnego betonu mogą być pale, jednak ich wkręcanie wymaga użycia specjalistycznego sprzętu. Każda pozorna oszczędność na etapie fundamentu bardzo szybko wychodzi bokiem w trakcie codziennego użytkowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na te wyzwania jest stalowa wiata garażowa CarportActive, produkowana ze stali konstrukcyjnej S235, zabezpieczona ocynkiem ogniowym oraz malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy zawsze kotwimy do stabilnych fundamentów wykonanych poniżej strefy przemarzania gruntu, a cały montaż trwa zazwyczaj 1 dzień roboczy. Do wyboru masz rozmiary bazowe 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m lub wymiary indywidualne, które możesz uzupełnić o przęsła żaluzjowe, moduł sportowy, panel narzędziowy, przechowalnię rowerów, plac zabaw, ogród wertykalny lub Solar Box pod panele PV. Jeśli chcesz zobaczyć, jak wiata wpisze się w Twoją przestrzeń od strony ulicy, wgraj zdjęcie podjazdu, a nasz wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę można zamontować bezpośrednio na kostce brukowej?",
+   "odpowiedz": "Nie, kotwienie wiaty do samej kostki nie zapewnia odporności na wichury. Prawidłowy montaż wymaga rozebrania kostki, wykonania fundamentu na głębokość poniżej strefy przemarzania gruntu (zwykle min. 80 cm) i zakotwienia do niego słupów."
+  },
+  {
+   "pytanie": "Ile czasu zajmuje montaż wiaty stalowej?",
+   "odpowiedz": "W przypadku konstrukcji CarportActive montaż wiaty na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  },
+  {
+   "pytanie": "Jak mogę sprawdzić, czy wiata będzie pasować do wyglądu domu od ulicy?",
+   "odpowiedz": "Wystarczy wgrać zdjęcie swojego podjazdu, a wizualizator AI przygotuje dla Ciebie realistyczny podgląd wiaty na Twojej działce w 3 różnych wariantach."
+  }
+ ],
+ "nr": 194,
+ "kolejnosc": 199,
+ "temat": "wiata nad wjazdem od strony ulicy",
+ "adres": "wiata-nad-wjazdem-od-strony-ulicy",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

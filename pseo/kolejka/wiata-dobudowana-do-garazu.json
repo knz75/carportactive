@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata dobudowana do garażu - jak zrobić to dobrze",
+ "opis_meta": "Planujesz wiatę dobudowaną do garażu? Zobacz praktyczne porady montera dotyczące fundamentów, profili stalowych oraz ochrony przed śniegiem i wiatrem.",
+ "wstep": "Wiata dobudowana do garażu to świetny sposób na drugie zadaszone miejsce dla auta lub przestrzeń roboczą. Zanim jednak połączysz nową konstrukcję z bryłą budynku, musisz zwrócić uwagę na kilka technicznych pułapek. Zobacz, o czym pamiętać, żeby całość stała stabilnie przez lata.",
+ "sekcje": [
+  {
+   "h2": "Mocowanie do ściany i stabilność konstrukcji",
+   "akapity": [
+    "Dobudowanie zadaszenia do ściany garażu wymaga solidnego oparcia z drugiej strony. Tanie rozwiązania z marketu bywają kuszące, ale są projektowane na minimalne obciążenia śniegiem i wiatrem. Nieraz widzieliśmy daszki ugięte pod warstwą mokrego śniegu, co przy zaparkowanym aucie stwarza spore ryzyko.",
+    "Wiatę można teoretycznie poskładać z cienkich profili 40 x 40 mm o ściance 2 mm, ale takie słupy wyglądają jak zapałki. Przy mocnych porywach wiatru wątłe elementy mogą się wygiąć lub złamać. Jeśli pod wiatą ma stać drogi samochód, wybieraj przekroje dające sztywność i poczucie bezpieczeństwa."
+   ]
+  },
+  {
+   "h2": "Dlaczego fundament decyduje o wszystkim",
+   "akapity": [
+    "Częstym błędem jest kotwienie słupów bezpośrednio do ułożonej kostki brukowej lub cienkich płyt betonowych. Podczas silnej wichury lekka konstrukcja potrafi unieść się w powietrze niczym trampolina i wylądować na posesji sąsiada. Warto wtedy zadać sobie pytanie, kto pokryje wyrządzone szkody.",
+    "Prawidłowy montaż wymaga posadowienia poniżej strefy przemarzania gruntu, do którego kotwi się słupy. W Polsce to zwykle około 80 cm głębokości, a w niektórych regionach jeszcze więcej. Na punktowe zabetonowanie jednego słupa schodzi średnio od 5 do 10 worków betonu. Alternatywą są pale wkręcane, jednak ich instalacja wymaga specjalistycznego sprzętu."
+   ]
+  },
+  {
+   "h2": "Ukryte prace przy montażu przy garażu",
+   "akapity": [
+    "Przy planowaniu prac przy ścianie garażu trzeba pamiętać o czynnościach, o których rzadko myśli się na początku. Jeśli podjazd jest już wybrukowany, konieczne staje się rozebranie i ponowne ułożenie kostki wokół każdego nowego słupa.",
+    "Kolejną kwestią jest urobek z wykopów. Zrobienie głębokich dołków pod fundamenty oznacza konieczność wywiezienia ziemi oraz gruzu. Oszczędzanie na pracach ziemnych i solidnym betonie niemal zawsze wychodzi bokiem w trakcie codziennego użytkowania."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego zadaszenia, wybierz stalową wiatę garażową CarportActive ze stali konstrukcyjnej S235, zabezpieczonej ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016. Słupy kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż zajmuje zazwyczaj 1 dzień roboczy. Możesz wybrać rozmiar bazowy 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub wymiar indywidualny, a także dobrać moduły: sportowy, panel narzędziowy, ogród wertykalny, plac zabaw, przechowalnię rowerów, Solar Box lub przęsła żaluzjowe. Wystarczy, że wgrasz zdjęcie podjazdu, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę można przykręcić bezpośrednio do kostki brukowej?",
+   "odpowiedz": "Nie, takie mocowanie nie daje odporności na silny wiatr. Słupy należy zakotwić w betonowych fundamentach sięgających poniżej strefy przemarzania gruntu."
+  },
+  {
+   "pytanie": "Ile czasu zajmuje postawienie wiaty CarportActive?",
+   "odpowiedz": "Montaż samej konstrukcji wiaty CarportActive zajmuje zazwyczaj 1 dzień roboczy."
+  },
+  {
+   "pytanie": "Jak sprawdzić, jak wiata będzie wyglądać przy moim garażu?",
+   "odpowiedz": "Możesz wgrać zdjęcie swojego podjazdu na stronę, a wizualizator AI przygotuje podgląd wiaty na Twoim podwórku w 3 wariantach."
+  }
+ ],
+ "nr": 210,
+ "kolejnosc": 229,
+ "temat": "wiata dobudowana do garażu",
+ "adres": "wiata-dobudowana-do-garazu",
+ "link": "wiata",
+ "wygenerowano": "2026-11-11",
+ "uwagi": []
+}
