@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata konsolowa na dwóch słupach - co trzeba wiedzieć przed budową",
+ "opis_meta": "Zastanawiasz się nad wiatą konsolową na dwóch słupach? Sprawdź, jak wyglądają fundamenty, zużycie stali oraz koszty montażu takiej konstrukcji na podjeździe.",
+ "wstep": "Wiata konsolowa na dwóch słupach wygląda nowocześnie i zapewnia wygodny wjazd bez obawy o uderzenie drzwiami auta w podporę. Taka konstrukcja wspornikowa wymaga jednak zupełnie innego podejścia do statyki niż standardowe zadaszenie na czterech słupach. Zanim zdecydujesz się na ten model, poznaj realne wyzwania techniczne związane z jej montażem.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego wiata na dwóch słupach potrzebuje więcej stali",
+   "akapity": [
+    "Gdy patrzysz na gotową wiatę konsolową, zachwyca jej lekka forma. W rzeczywistości prawa fizyki są bezlitosne, bo cały ciężar dachu oraz zalegający zimą śnieg spoczywają tylko na dwóch punktach podparcia. Z naszych wstępnych wyliczeń dla zadaszenia na jedno auto wynika, że taka konstrukcja potrzebuje około dwa razy więcej stali niż tradycyjna wiata.",
+    "Zastosowanie zbyt cienkich profili, na przykład 40 x 40 mm ze ścianką 2 mm, skończyłoby się katastrofą. Przy mocnym wietrze słupy zadziałałyby jak zapałki i uległy wygięciu lub złamaniu. Jeśli pod zadaszeniem parkujesz drogi samochód, stal musi być gruba, a projekt precyzyjnie przeliczony przez inżyniera."
+   ]
+  },
+  {
+   "h2": "Fundament, który utrzyma ogromną dźwignię",
+   "akapity": [
+    "Dach wiszący w powietrzu działa jak potężna dźwignia. Zwykłe przykręcenie słupów do kostki brukowej lub płyt chodnikowych sprawi, że przy pierwszej wichurze zadaszenie odleci jak trampolina i uszkodzi mienie Twoje lub sąsiada. Fundament musi więc stawić opór potężnym siłom wyrywającym.",
+    "Dla wiaty konsolowej ze słupami z jednej strony potrzebne są masywne stopy fundamentowe o wymiarach około 1,2 x 1,2 x 1,2 m pod każdy słup. Beton musi sięgać poniżej strefy przemarzania gruntu, która w Polsce wynosi zwykle około 80 cm lub głębiej. Oszczędzanie na betonie i kotwieniu w tym wypadku zawsze mści się podczas pierwszych śnieżyc."
+   ]
+  },
+  {
+   "h2": "Sprytny trik: słupy z przeciwwagą",
+   "akapity": [
+    "Czysty wysięgnik, gdzie słupy stoją na samej krawędzi zadaszenia, generuje największe obciążenia. Istnieje jednak sprawdzony sposób, aby nieco odciążyć konstrukcję i zaoszczędzić na materiałach. Wystarczy przesunąć oba słupy o około 1 metr do środka zadaszenia.",
+    "W takim układzie tylna część dachu zaczyna działać jak naturalna przeciwwaga dla frontu. Siły zginające działające na słupy wyraźnie maleją, dzięki czemu cała konstrukcja może być lżejsza, a fundamenty nieco mniejsze. Wjazd autem nadal pozostaje bardzo wygodny, bo podpory nie blokują strefy otwierania drzwi."
+   ]
+  },
+  {
+   "h2": "Ukryte koszty montażu na podjeździe",
+   "akapity": [
+    "Budowa wiaty konsolowej wiąże się ze sporymi pracami ziemnymi. Wykopanie dwóch dołów o kubaturze ponad jednego metra sześciennego każdy oznacza powstanie sporej ilości urobku. Musisz uwzględnić koszt wywozu ziemi oraz gruzu ze swojej posesji.",
+    "Kolejnym etapem jest nawierzchnia wokół podpór. Jeśli masz już ułożony podjazd, konieczne jest rozebranie kostki brukowej na czas robót, a po związaniu betonu jej ponowne docięcie i ułożenie. To czasochłonne prace montażowe, które bezpośrednio wpływają na ostateczny koszt inwestycji."
+   ]
+  }
+ ],
+ "rozwiazanie": "W CarportActive dbamy o pełne bezpieczeństwo Twojego auta, dlatego bazujemy na sprawdzonych rozwiązaniach inżynieryjnych. Nasze wiaty produkujemy ze stali konstrukcyjnej S235 ze słupami z mocnego profilu 100 x 100 x 3 mm, zabezpieczonymi ocynkiem ogniowym i malowaniem proszkowym na kolor antracyt RAL 7016. Słupy zawsze kotwimy do fundamentów sięgających poniżej strefy przemarzania gruntu, a montaż w Warszawie i na Mazowszu realizujemy zazwyczaj w 1 dzień roboczy. Możesz też wgrać zdjęcie swojego podjazdu na naszej stronie, a wizualizator AI pokaże wiatę na Twoim podwórku w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę konsolową na dwóch słupach można przykręcić do kostki brukowej?",
+   "odpowiedz": "Nie, montaż do samej kostki brukowej lub płyt chodnikowych grozi wyrwaniem konstrukcji przy silnym wietrze. Wiata konsolowa generuje dużą siłę dźwigni, dlatego wymaga głębokich, betonowych fundamentów."
+  },
+  {
+   "pytanie": "Jak głęboki musi być fundament pod wiatę konsolową?",
+   "odpowiedz": "Fundament musi sięgać poniżej strefy przemarzania gruntu, czyli w warunkach polskich na głębokość co najmniej około 80 cm. W przypadku wiaty na dwóch słupach z wysięgiem blok betonowy pod każdy słup ma zazwyczaj wymiary około 1,2 x 1,2 x 1,2 m."
+  },
+  {
+   "pytanie": "W jaki sposób można odciążyć wiatę na dwóch słupach?",
+   "odpowiedz": "Dobrym rozwiązaniem technicznym jest przesunięcie słupów o około 1 metr od krawędzi dachu w stronę jego środka. Tylna część zadaszenia działa wówczas jako przeciwwaga, co pozwala zredukować siły działające na słupy i zmniejszyć zużycie stali."
+  }
+ ],
+ "nr": 284,
+ "kolejnosc": 283,
+ "temat": "wiata konsolowa na dwóch słupach - co trzeba wiedzieć",
+ "adres": "wiata-konsolowa-na-dwoch-slupach-co-trzeba-wiedziec",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

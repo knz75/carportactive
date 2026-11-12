@@ -1,0 +1,57 @@
+{
+ "tytul": "Nietypowa wiata na zamówienie - co da się zrobić?",
+ "opis_meta": "Zastanawiasz się, czy da się zrobić nietypową wiatę na wymiar? Sprawdź, jak zaplanować konstrukcję pod kampera, wiatę konsolową i na co uważać przy montażu.",
+ "wstep": "Standardowy prostokąt z marketu często nie pasuje do wąskiej działki, wysokiego auta albo bryły domu. Jeśli Twoje podwórko wymaga innego podejścia, konstrukcję da się zaprojektować od zera. Zobacz z perspektywy montera, jakie nietypowe rozwiązania są technicznie możliwe i o czym trzeba pamiętać przed budową.",
+ "sekcje": [
+  {
+   "h2": "Wysokie pojazdy, kampery i niestandardowe wymiary",
+   "akapity": [
+    "Większość gotowych zadaszeń ma stałą wysokość, która sprawdza się tylko dla aut osobowych. Na zamówienie można jednak dopasować wymiary pod konkretny pojazd, na przykład wysoki kamper, bus czy łódź na przyczepie. W naszej praktyce robiliśmy już zadaszenia pod wysokie kampery oraz dużą wiatę wielostanowiskową dla karetek pogotowia.",
+    "Nietypowy projekt zaczyna się od wizyty na miejscu i dokładnego pomiaru. Inżynier przelicza wtedy obciążenia wiatrem oraz śniegiem dla nowej wysokości i rozpiętości dachu. Przy wyższych konstrukcjach słupy i łączenia muszą znieść znacznie większe siły niż w standardowym garażu."
+   ]
+  },
+  {
+   "h2": "Wiata na dwóch słupach i odważne formy architektoniczne",
+   "akapity": [
+    "Wiata wcale nie musi opierać się na czterech narożnych nogach. Popularnym, choć wymagającym pomysłem jest konstrukcja konsolowa, podparta tylko z jednej strony. Z naszych wyliczeń wynika, że wiata konsolowa na jedno auto potrzebuje około dwa razy więcej stali niż klasyczna, a każdy słup wymaga fundamentu o wymiarach około 1,2 x 1,2 x 1,2 m. Jeśli jednak słupy przesunie się o około metr w stronę środka, tylna część dachu zadziała jak przeciwwaga i odciąży mocowania.",
+    "Zadaszenie to mała forma architektoniczna, którą da się dopasować do otoczenia. Za odpowiedni budżet można zaprojektować konstrukcję o organicznych liniach, przypominającą korony drzew lub liście. Na rynku pojawiają się takie prototypy, a my sami mamy opracowaną koncepcję wiaty w formie stalowych drzew z rozłożystym poszyciem z blachy."
+   ]
+  },
+  {
+   "h2": "Dlaczego odchudzanie konstrukcji kończy się problemami",
+   "akapity": [
+    "Wiatę można teoretycznie poskładać z taniego profilu 40 x 40 mm o ściance 2 mm, ale słupy wyglądają wtedy jak zapałki. Taka wątła konstrukcja pod silnym naporem wiatru może się po prostu wygiąć lub złamać. Tanie daszki projektuje się pod minimalne obciążenia i nieraz widzieliśmy konstrukcje ugięte pod mokrym śniegiem. Z kolei lekkie namioty garażowe potrafią zbierać na dachu wielkie worki z wodą po ulewie, które trzeba wylewać ręcznie.",
+    "Równie ważny jest fundament, na którym wielu próbuje oszczędzać. Tanią wiatę przykręconą tylko do kostki brukowej porywisty wiatr może zerwać i ponieść na posesję sąsiada niczym trampolinę. Prawidłowy montaż wymaga wykopu poniżej strefy przemarzania gruntu, co w Polsce oznacza zwykle minimum 80 cm głębokości. Na jeden solidny słup zużywa się od 5 do 10 worków betonu, a do kosztów prac trzeba doliczyć wywóz urobku oraz rozebranie i docięcie kostki."
+   ]
+  },
+  {
+   "h2": "Funkcje użytkowe wykraczające poza parkowanie auta",
+   "akapity": [
+    "Projekt na zamówienie pozwala zamienić wolną przestrzeń pod dachem w funkcjonalne zaplecze domu. Zamiast stawiać osobny schowek, ścianki wiaty można zabudować przęsłami żaluzjowymi, które osłaniają auto od wiatru i wzroku przechodniów.",
+    "Konstrukcję można też uzupełnić o dedykowane moduły: ściankę narzędziową, pionowy ogród, bezpieczną przechowalnię rowerów, a nawet drabinki sportowe czy elementy placu zabaw dla dzieci. Zamiast zwykłego zadaszenia zyskujesz przestrzeń wielozadaniową dopasowaną do Twojego stylu życia."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jeśli szukasz trwałego zadaszenia dopasowanego do Twojej działki, rozwiązaniem jest stalowa wiata garażowa CarportActive. Konstrukcję wykonujemy ze stali S235 ze słupami 100 x 100 x 3 mm, zabezpieczamy ocynkiem ogniowym oraz malowaniem proszkowym na kolor antracyt RAL 7016. Poza rozmiarami bazowymi 3 x 6 m, 4 x 6 m i 6 x 6 m o wysokości 2,7 m realizujemy indywidualne wymiary, montując całość na Mazowszu w zazwyczaj 1 dzień roboczy. Możesz też wgrać zdjęcie swojego podjazdu do naszego wizualizatora AI, aby zobaczyć wiatę w 3 wariantach na własnym podwórku.",
+ "faq": [
+  {
+   "pytanie": "Czy wiatę da się zaprojektować pod wymiar mojej łodzi lub kampera?",
+   "odpowiedz": "Tak, wykonujemy projekty pod wymiary indywidualne. Można precyzyjnie dobrać wysokość podwyższonego pojazdu lub zaplanować przestrzeń pod łódź z przyczepą."
+  },
+  {
+   "pytanie": "Jak głęboko trzeba osadzić słupy w gruncie?",
+   "odpowiedz": "Fundamenty wykonujemy poniżej strefy przemarzania gruntu, czyli w Polsce zazwyczaj na głębokość około 80 cm lub głębiej, zależnie od regionu. Na jeden słup przypada średnio od 5 do 10 worków betonu."
+  },
+  {
+   "pytanie": "Jakie dodatkowe moduły można zamontować w wiacie CarportActive?",
+   "odpowiedz": "Do konstrukcji można dołożyć panel narzędziowy, moduł sportowy, przechowalnię rowerów, ogród wertykalny, plac zabaw, przęsła żaluzjowe oraz system Solar Box pod panele fotowoltaiczne."
+  }
+ ],
+ "nr": 283,
+ "kolejnosc": 282,
+ "temat": "nietypowa wiata na zamówienie - co da się zrobić",
+ "adres": "nietypowa-wiata-na-zamowienie-co-da-sie-zrobic",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": []
+}

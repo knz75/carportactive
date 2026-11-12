@@ -1,0 +1,52 @@
+{
+ "tytul": "Pokrowiec na samochód czy wiata? Co lepiej wybrać",
+ "opis_meta": "Zastanawiasz się: pokrowiec na samochód czy wiata? Poznaj wady i zalety obu opcji oraz dowiedz się, co najlepiej sprawdzi się na Twoim podjeździe.",
+ "wstep": "Jeśli szukasz ochrony dla swojego auta, wybór między pokrowcem a wiatą sprowadza się do wygody i budżetu. Pokrowiec kosztuje niewiele, ale wymaga codziennego wysiłku i brudzenia rąk. Wiata to większy wydatek na start, ale daje pełną wygodę użytkowania bez względu na pogodę.",
+ "sekcje": [
+  {
+   "h2": "Codzienność z pokrowcem na samochód",
+   "akapity": [
+    "Pokrowiec wydaje się kuszącym rozwiązaniem, bo kupisz go szybko i tanio. Problem pojawia się w momencie, gdy musisz korzystać z samochodu codziennie rano. Plandekę trzeba za każdym razem mozolnie zdjąć, złożyć i gdzieś odłożyć.",
+    "Po deszczu materiał jest mokry, ciężki i oblepiony brudem z podjazdu. Zimą dochodzi do tego przymarznięty śnieg i lód, przez co zdejmowanie płachty staje się udręką. Wielu kierowców po kilku tygodniach takiej szarpaniny po prostu chowa pokrowiec do bagażnika i przestaje go używać."
+   ]
+  },
+  {
+   "h2": "Tanie namioty i daszki z marketu",
+   "akapity": [
+    "Częstym kompromisem bywa lekki namiot garażowy lub daszek z marketu za 3-5 tys. zł. Warto jednak wiedzieć, że namiot pod ciężarem mokrego śniegu potrafi się zapaść, a po ulewie na jego dachu zbiera się woda w postaci ciężkich worków, które trzeba ręcznie spuszczać.",
+    "Tanie wiaty z marketu są z kolei liczone na minimalne obciążenia. Często powstają z wiotkich profili 40 x 40 mm o ściance 2 mm, które wyglądają jak zapałki i uginają się pod śniegiem. Montaż na samych kołkach w kostce brukowej to prosta droga do tego, by cała konstrukcja podczas wichury poleciała do sąsiada niczym ogrodowa trampolina."
+   ]
+  },
+  {
+   "h2": "Solidna wiata jako stałe rozwiązanie",
+   "akapity": [
+    "Przy wiacie po prostu parkujesz, wysiadasz z auta suchą stopą i wchodzisz do domu. Nie tracisz czasu na walkę z mokrym materiałem, a auto ma zapewnioną stałą osłonę przed słońcem, gradem i opadami. Zimą odpada też skrobanie zamarzniętych szyb.",
+    "Kluczem do spokoju na lata jest jednak porządna konstrukcja i fundament. Słupy muszą być zakotwione poniżej strefy przemarzania gruntu, która w Polsce wynosi zwykle około 80 cm. Oszczędzanie na betonie i grubości stali zawsze mści się przy pierwszej gwałtownej burzy."
+   ]
+  }
+ ],
+ "rozwiazanie": "Stalowa wiata garażowa CarportActive to trwałe rozwiązanie z polskiej stali S235 o słupach 100 x 100 x 3 mm, zabezpieczone ocynkiem ogniowym i malowaniem proszkowym w kolorze antracyt RAL 7016. Słupy zawsze kotwimy do solidnych fundamentów poniżej strefy przemarzania, a sam montaż trwa zazwyczaj 1 dzień roboczy. Na terenie Warszawy i Mazowsza oferujemy wymiary bazowe 3 x 6 m, 4 x 6 m, 6 x 6 m o wysokości 2,7 m lub projekty na wymiar, które możesz rozbudować o moduł narzędziowy, stojaki rowerowe czy żaluzje. Wystarczy wgrać zdjęcie swojego podjazdu, aby nasz wizualizator AI przygotował podgląd konstrukcji w 3 wariantach.",
+ "faq": [
+  {
+   "pytanie": "Czy pokrowiec na samochód chroni lakier tak samo jak wiata?",
+   "odpowiedz": "Pokrowiec osłania lakier przed brudem, ale zakładany na zakurzone auto może rysować powłokę przy podmuchach wiatru. Wiata chroni auto z góry i z boków bez bezpośredniego kontaktu z karoserią."
+  },
+  {
+   "pytanie": "Dlaczego fundament pod wiatę musi mieć co najmniej 80 cm głębokości?",
+   "odpowiedz": "Głębokość poniżej strefy przemarzania gruntu zapobiega wysadzaniu fundamentów przez zamarzającą w ziemi wodę i daje gwarancję, że wiata nie przewróci się pod naporem wiatru."
+  },
+  {
+   "pytanie": "Ile czasu trwa montaż solidnej wiaty stalowej?",
+   "odpowiedz": "W przypadku konstrukcji CarportActive montaż na przygotowanym podłożu zajmuje zazwyczaj 1 dzień roboczy."
+  }
+ ],
+ "nr": 279,
+ "kolejnosc": 278,
+ "temat": "pokrowiec na samochód czy wiata",
+ "adres": "pokrowiec-na-samochod-czy-wiata",
+ "link": "wiata",
+ "wygenerowano": "2026-11-12",
+ "uwagi": [
+  "5 tys. zł"
+ ]
+}
