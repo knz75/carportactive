@@ -1,3 +1,6 @@
 pseo/.env
 pseo/venv/
 pseo/*.log
+static/podglad/
+src/__pycache__/
+pseo/__pycache__/
