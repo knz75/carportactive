@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata dwustanowiskowa bez słupa pośrodku - co trzeba wiedzieć",
+ "opis_meta": "Planujesz wiatę na dwa auta bez środkowego słupa? Sprawdź, jak działa konstrukcja wspornikowa, co z fundamentem i jak zaplanować wjazd.",
+ "wstep": "Parkowanie dwóch aut pod zadaszeniem bywa uciążliwe, gdy pośrodku stoi słup utrudniający manewrowanie i otwieranie drzwi. Usunięcie podpory z linii wjazdu daje dużą swobodę, ale wymaga innego podejścia do budowy zadaszenia. Zanim wybierzesz takie rozwiązanie na swojej działce, musisz poznać zasady, które rządzą taką konstrukcją.",
+ "sekcje": [
+  {
+   "h2": "Dlaczego brak środkowego słupa to wyzwanie techniczne",
+   "akapity": [
+    "Gdy rezygnujesz z podparcia pośrodku, całe obciążenie dachu spoczywa na pozostałych elementach ramy. Przy dwóch stanowiskach rozpiętość dachu jest duża, więc konstrukcja musi radzić sobie z siłami, które standardowo rozkładałyby się równomiernie na kilka słupów.",
+    "Z punktu widzenia fizyki dach zaczyna działać jak ramię dźwigni. Zwykłe profile stalowe nie wystarczą w takim układzie, ponieważ każdy metr wysuniętego zadaszenia generuje ogromny nacisk na punkty mocowania."
+   ]
+  },
+  {
+   "h2": "Rola podpór i fundamentu",
+   "akapity": [
+    "W konstrukcjach pozbawionych podpór w świetle wjazdu stosuje się inne metody stabilizacji. Dobrym rozwiązaniem są skośne podpory, które pomagają przenieść obciążenie z wysuniętego dachu wprost na fundament.",
+    "Pamiętaj o prostej zależności: im większy wysięg dachu, tym cięższa konstrukcja i większy fundament. Bez solidnej podstawy w gruncie konstrukcja nie zachowa sztywności, dlatego podłoże i fundamenty są tu tak samo ważne jak sama stal."
+   ]
+  },
+  {
+   "h2": "O czym pamiętać przy aranżacji takiego zadaszenia",
+   "akapity": [
+    "Brak słupów od frontu odsłania całą przestrzeń pod zadaszeniem, co wpływa na estetykę podjazdu. Spód dachu jest wtedy mocno wyeksponowany, dlatego warto zadbać o jego wykończenie.",
+    "Praktycznym dopełnieniem otwartej przestrzeni bywa montaż oświetlenia punktowego, które ułatwia parkowanie po zmroku. Warto też przemyśleć estetyczną podbitkę, która osłoni elementy nośne dachu i nada całości schludny wygląd."
+   ]
+  }
+ ],
+ "rozwiazanie": "Odpowiedzią na ten problem jest Wiata wspornikowa - nowoczesna wiata na samochód, w której słupy stoją z jednej strony, a dach wysuwa się nad miejsce parkingowe, więc od strony wjazdu nie ma słupa. Pokazujemy ją jako wizualizację koncepcyjną i inspirację do nietypowych projektów, dlatego nie jest to wiata z naszej stałej oferty i nie ma gotowej ceny. Przy dużym wysięgu konstrukcja wymaga obliczeń statycznych, a wycena jest w pełni indywidualna. Jeśli planujesz taką wiatę, wyślij do nas opis, orientacyjne wymiary i miejscowość, a odpowiemy w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata bez słupa od frontu jest stabilna?",
+   "odpowiedz": "Tak, stabilność zapewniają skośne podpory oraz odpowiednio zaprojektowane słupy nośne. Przy dużym wysięgu dachu kluczowe są obliczenia statyczne i masywny fundament."
+  },
+  {
+   "pytanie": "Jak można wykończyć dach takiej wiaty od spodu?",
+   "odpowiedz": "Pod dachem może być zamontowana podbitka z drewna albo z imitacji drewna, a w niej oświetlenie punktowe."
+  },
+  {
+   "pytanie": "Od czego zależy cena wiaty wspornikowej?",
+   "odpowiedz": "Cena zależy od wymiarów wiaty i liczby stanowisk, rodzaju i grubości stali, fundamentów i podłoża, pokrycia dachu, odwodnienia, oświetlenia oraz dodatków takich jak podbitka, ściany boczne, przęsła i brama."
+  }
+ ],
+ "nr": 292,
+ "kolejnosc": 103,
+ "temat": "wiata dwustanowiskowa bez słupa pośrodku - co trzeba wiedzieć",
+ "adres": "wiata-dwustanowiskowa-bez-slupa-posrodku-co-trzeba-wiedziec",
+ "link": "inspiracje/wiata-wspornikowa",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

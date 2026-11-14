@@ -1,0 +1,57 @@
+{
+ "tytul": "Wiata na ukosnych podporach - jak to dziala w praktyce",
+ "opis_meta": "Zastanawiasz sie, jak dziala wiata na ukosnych podporach? Sprawdz, na czym polega ta konstrukcja, jak dzialaja sily i co wplywa na projekt.",
+ "wstep": "Wiata na ukosnych podporach zastepuje tradycyjne pionowe slupy zupelnie innym ukladem przenoszenia ciezaru. Zamiast prostego nacisku w dol, konstrukcja musi poradzic sobie z silami zginajacymi. Pokazujemy, jak dziala takie zadaszenie i na co trzeba zwrocic uwage na wlasnej dzialce.",
+ "sekcje": [
+  {
+   "h2": "Jak dzialaja sily w konstrukcji z ukosnymi slupami",
+   "akapity": [
+    "W typowej wiacie pionowy slup przekazuje ciezar dachu prosto w fundament. Kiedy slup jest pochylony, wektor sily rozklada sie na dwa kierunki: pionowy oraz poziomy. Oznacza to, ze podpora nie tylko dzwiga dach, ale jednoczesnie jest zginana pod jego ciezarem.",
+    "Fundament pod ukosna podpora musi powstrzymac nie tylko nacisk z gory, ale tez tendencje do rozsuwania sie lub przesuwania stop fundamentowych. Z tego wzgledu wezly laczace dach ze slupem oraz slup z podlozem musza miec duza sztywnosc. Calosc tworzy uklad, w ktorym kazdy milimetr odchylenia zmienia rozklad naprezen w materiale."
+   ]
+  },
+  {
+   "h2": "Znaczenie kata i przekroju podpory",
+   "akapity": [
+    "Kat pochylenia oraz przekroj podpory to glowne elementy, ktore decyduja o tym, ile stali potrzeba do wykonania konstrukcji. Im wieksze odchylenie slupa od pionu, tym wieksze ramię sily dziala na material. Zwieksza to wymagania dotyczace sztywnosci profilu.",
+    "Jesli podpora ma mocny skos, nie wystarczy zwykly cienkoscienny profil. Konieczne staje sie dobranie odpowiedniego rodzaju i grubosci stali, aby zadaszenie zachowalo stabilnosc pod wplywem wiatru. Kazda zmiana kata oznacza przeliczenie konstrukcji od nowa."
+   ]
+  },
+  {
+   "h2": "Uklad przestrzeni na podjezdzie",
+   "akapity": [
+    "Zastosowanie ukosnych slupow zmienia miejsce, w ktorym konstrukcja styka sie z podlozem, w porownaniu do krawedzi dachu. Podpora moze zaczynac sie blizej ogrodzenia, a jej gorny koniec moze siegac dalej nad podjazd. Daje to inny uklad przestrzenny niz w przypadku slupow pionowych.",
+    "Warto pamietac, ze pochylony element zabiera inna przestrzen na wysokosci lusterek i drzwi auta niz na poziomie kol. Zanim zapadnie decyzja o konkretnym ksztalcie, trzeba dokladnie sprawdzic manewrowanie samochodem i szerokosc przejscia wokol pojazdu."
+   ]
+  },
+  {
+   "h2": "Dlaczego takie zadaszenie wymaga obliczen statycznych",
+   "akapity": [
+    "Nietypowy ksztalt ramy sprawia, ze nie da sie zbudowac takiej wiaty wedlug prostych, powtarzalnych schematow. Kazde zadaszenie tego typu wymaga indywidualnego projektu technicznego i dokladnych obliczen statycznych. Trzeba w nich uwzglednic miedzy innymi mase pokrycia dachowego, opory wiatru oraz lokalne warunki podloza.",
+    "Dokladny ksztalt podpory i gabaryty konstrukcji ustala sie po zebraniu informacji o miejscu montazu. Znaczenie maja wymiary wjazdu, rodzaj gruntu oraz to, czy w poblizu stoja inne budynki oslaniajace podjazd."
+   ]
+  }
+ ],
+ "rozwiazanie": "Wiata na ukosnych podporach z plaskim, cienkim w odbiorze dachem to nasza wizualizacja koncepcyjna i nie stanowi stalej oferty katalogowej. Stalowa konstrukcja moze byc pomalowana proszkowo na ciemny kolor, na przyklad antracyt RAL 7016, a pod dachem mozna umiescic pasy oswietlenia LED. Poniewaz kazdy projekt wymaga indywidualnych obliczen statycznych, wycena zalezy od wymiarow, stali, fundamentow, pokrycia dachu i dodatkow. Przeslij nam krotki opis, orientacyjne wymiary oraz miejscowosc, a odpowiedz z wycena otrzymasz w ciagu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Czy kat pochylenia slupow wplywa na cene wiaty?",
+   "odpowiedz": "Tak, poniewaz kat i przekroj podpor bezposrednio decyduja o tym, ile stali oraz jakich grubosci profili nalezy uzyc do zachowania pelnej stabilnosci."
+  },
+  {
+   "pytanie": "Czy wiata na ukosnych podporach ma staly cennik?",
+   "odpowiedz": "Nie, to nietypowa koncepcja wymagajaca indywidualnego projektu i obliczen statycznych, dlatego kosztorys przygotowuje sie zawsze na zamowienie."
+  },
+  {
+   "pytanie": "Jakie dane sa potrzebne do wyceny takiego zadaszenia?",
+   "odpowiedz": "Wystarczy przeslac opis swoich potrzeb, orientacyjne wymiary planowanej wiaty oraz nazwe miejscowosci, w ktorej ma stanac konstrukcja."
+  }
+ ],
+ "nr": 295,
+ "kolejnosc": 14,
+ "temat": "wiata na ukośnych podporach - jak to działa",
+ "adres": "wiata-na-ukosnych-podporach-jak-to-dziala",
+ "link": "inspiracje/wiata-ukosne-podpory",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

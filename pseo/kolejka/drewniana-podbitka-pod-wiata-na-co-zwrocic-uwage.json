@@ -1,0 +1,57 @@
+{
+ "tytul": "Drewniana podbitka pod wiatą - na co zwrócić uwagę",
+ "opis_meta": "Planujesz drewnianą podbitkę pod wiatą garażową? Sprawdź, na co zwrócić uwagę przy wentylacji dachu, montażu desek i planowaniu punktowego oświetlenia.",
+ "wstep": "Drewniana podbitka pod zadaszeniem wiaty nadaje konstrukcji estetyczny i uporządkowany wygląd. Zanim jednak zamontujesz pierwsze deski, musisz pamiętać o kilku kwestiach technicznych. Błędy na etapie montażu mogą prowadzić do niszczenia materiału lub kłopotów z instalacją elektryczną.",
+ "sekcje": [
+  {
+   "h2": "Wilgoć i swobodny przepływ powietrza",
+   "akapity": [
+    "Pod zadaszeniem na zewnątrz stale dochodzi do zmian temperatury i wilgotności powietrza. Jeśli szczelnie zamkniesz przestrzeń pod dachem bez wentylacji, skraplająca się woda nie będzie miała jak odparować. Drewno zacznie chłonąć wilgoć, co szybko doprowadzi do jego odkształcania, sinienia i gnicia.",
+    "Z tego względu zawsze dbaj o szczeliny dylatacyjne oraz kratki wentylacyjne. Prawidłowy przepływ powietrza nad deskami podbitki pozwala utrzymać drewno w suchym stanie przez wiele lat."
+   ]
+  },
+  {
+   "h2": "Wybór między drewnem a imitacją drewna",
+   "akapity": [
+    "Naturalne deski prezentują się bardzo dobrze, ale wymagają regularnych zabiegów pielęgnacyjnych. Jeśli zależy Ci na naturalnym materiale, musisz pamiętać o okresowej impregnacji oraz zabezpieczeniu powierzchni przed owadami i grzybami.",
+    "Dobrą alternatywą bywa podbitka z imitacji drewna. Tego typu panele dobrze znoszą zmienne warunki atmosferyczne i nie wymagają malowania co kilka sezonów. To praktyczny wybór, gdy zadaszenie jest wysokie, a dostęp do sufitu utrudniony."
+   ]
+  },
+  {
+   "h2": "Wcześniejsze zaplanowanie oświetlenia punktowego",
+   "akapity": [
+    "Podbitka to doskonałe miejsce do schowania przewodów i zamontowania opraw świetlnych. Całą instalację elektryczną musisz jednak rozprowadzić zanim zamkniesz sufit deskami.",
+    "Wybieraj oprawy przystosowane do pracy w warunkach zewnętrznych, odporne na wilgoć oraz wnikanie kurzu. Warto dokładnie zaplanować rozstaw punktów świetlnych, aby po zmroku wygodnie parkować i poruszać się wokół samochodu."
+   ]
+  },
+  {
+   "h2": "Dodatkowy ciężar na konstrukcji zadaszenia",
+   "akapity": [
+    "Stelaż oraz deski podbitki stanowią dodatkowe, stałe obciążenie dla szkieletu wiaty. Zanim przystąpisz do montażu, upewnij się, że belki dachowe bez problemu utrzymają dodatkowe warstwy wykończenia.",
+    "Ma to szczególne znaczenie w okresie zimowym. Konstrukcja musi jednocześnie wytrzymać ciężar podbitki, samego poszycia dachu oraz zalegającego śniegu."
+   ]
+  }
+ ],
+ "rozwiazanie": "Jednym z ciekawych pomysłów na nowoczesne zadaszenie jest wiata wspornikowa, w której słupy stoją z jednej strony, a dach wysuwa się nad miejsce parkingowe bez słupa od strony wjazdu. W takim projekcie skośne podpory przenoszą obciążenie na fundament, a pod dachem może znaleźć się podbitka z drewna lub imitacji drewna oraz oświetlenie punktowe. Konstrukcja stalowa malowana proszkowo, na przykład w ciemnym kolorze antracyt RAL 7016, wymaga jednak dokładnych obliczeń statycznych przy dużym wysięgu. Prezentowane rozwiązanie to wizualizacja koncepcyjna i nie jest to wiata z naszej stałej oferty, dlatego wycena jest indywidualna - prześlij nam opis, orientacyjne wymiary oraz miejscowość, a odpowiedź otrzymasz w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Czy naturalne drewno na podbitce pod wiatą trzeba impregnować?",
+   "odpowiedz": "Tak, drewno naturalne zamontowane na zewnątrz wymaga impregnacji i ochrony przed wilgocią oraz szkodnikami."
+  },
+  {
+   "pytanie": "Kiedy należy położyć kable pod oświetlenie w podbitce?",
+   "odpowiedz": "Wszystkie przewody i punkty elektryczne trzeba zaplanować oraz zamocować na stelażu przed przybiciem desek lub paneli."
+  },
+  {
+   "pytanie": "Jakie są zalety podbitki z imitacji drewna pod wiatą?",
+   "odpowiedz": "Imitacja drewna jest odporna na warunki atmosferyczne i w przeciwieństwie do naturalnego surowca nie wymaga regularnego malowania ani konserwacji."
+  }
+ ],
+ "nr": 290,
+ "kolejnosc": 73,
+ "temat": "drewniana podbitka pod wiatą - na co zwrócić uwagę",
+ "adres": "drewniana-podbitka-pod-wiata-na-co-zwrocic-uwage",
+ "link": "inspiracje/wiata-wspornikowa",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Jak przygotować opis i zdjęcia do wyceny nietypowej wiaty",
+ "opis_meta": "Planujesz nietypową wiatę? Zobacz, jak przygotować zdjęcia i opis działki, aby szybko otrzymać trafną wycenę konstrukcji. Sprawdź nasz poradnik.",
+ "wstep": "Chcesz postawić nietypową wiatę i potrzebujesz rzetelnej wyceny. Zamiast czekać na wizję lokalną, możesz sam przygotować zestaw materiałów dla wykonawcy. Dobre zdjęcia i konkretny opis pozwolą szybko ocenić możliwości montażu na Twojej działce.",
+ "sekcje": [
+  {
+   "h2": "Zrób zdjęcia z odpowiedniej perspektywy",
+   "akapity": [
+    "Pokaż całe miejsce planowanego montażu, a nie tylko wąski fragment podłoża. Stań dalej i zrób ujęcie szerokokątne, na którym widać wjazd, nawierzchnię, pobliskie budynki oraz ogrodzenie. Jeśli w pobliżu rosną drzewa lub stoją słupy, one również powinny znaleźć się w kadrze.",
+    "Dodaj także kilka zdjęć z bliska. Pokaż rodzaj nawierzchni, a także studzienki, krawężniki i spadki terenu. Zrób zdjęcia z co najmniej trzech różnych stron, aby osoba przygotowująca wycenę mogła dokładnie ocenić przestrzeń manewrową."
+   ]
+  },
+  {
+   "h2": "Podaj wymiary i ukształtowanie terenu",
+   "akapity": [
+    "Zmierz orientacyjną szerokość, długość oraz wysokość, jaką ma mieć planowana konstrukcja. Określ, na ile stanowisk samochodowych ma wystarczyć zadaszenie. Wykonawca musi wiedzieć, ile miejsca potrzebujesz na bezpieczne otwieranie drzwi i swobodny wjazd.",
+    "Zwróć uwagę na ukształtowanie podłoża. Napisz, czy teren jest równy, czy występuje spadek w stronę drogi lub ogrodu. Wspomnij też o obecnym podłożu, takim jak kostka brukowa, wylewka betonowa czy grunt rodzimy."
+   ]
+  },
+  {
+   "h2": "Opisz swoje oczekiwania i detale wykończenia",
+   "akapity": [
+    "Nietypowe konstrukcje wymagają jasnych wytycznych. Wskaż, jakie pokrycie dachu Cię interesuje oraz czy potrzebujesz systemu odprowadzania wody. Zastanów się nad dodatkami, takimi jak oświetlenie, ściany boczne, przęsła czy brama.",
+    "Ważna jest również estetyka. Określ, czy zadaszenie ma mieć podbitkę oraz jaki kolor konstrukcji preferujesz. Stal malowana proszkowo na ciemny kolor, na przykład antracyt RAL 7016, to częsty wybór, ale każda decyzja wpływa na dobór materiałów."
+   ]
+  }
+ ],
+ "rozwiazanie": "Ciekawym pomysłem na trudny podjazd jest wiata wspornikowa. W tym rozwiązaniu słupy stoją z jednej strony, a dach wysuwa się nad miejsce parkingowe, więc od strony wjazdu nie ma słupa. Skośne podpory pomagają przenieść obciążenie na fundament, a pod dachem może znaleźć się oświetlenie punktowe oraz podbitka z drewna lub imitacji drewna. Im większy wysięg dachu, tym cięższa konstrukcja i większy fundament, co przy dużym wysięgu wymaga obliczeń statycznych. To nasza wizualizacja koncepcyjna i nie jest to wiata z naszej stałej oferty, dlatego wycena jest indywidualna. Prześlij nam opis, orientacyjne wymiary i miejscowość, a odpowiemy w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Ile zdjęć działki przesłać do wyceny?",
+   "odpowiedz": "Wystarczy od trzech do sześciu zdjęć. Zrób ujęcia z dalszej perspektywy pokazujące cały wjazd oraz zbliżenia na podłoże i ewentualne przeszkody terenowe."
+  },
+  {
+   "pytanie": "Dlaczego do wyceny potrzebna jest miejscowość?",
+   "odpowiedz": "Miejscowość pozwala zaplanować logistykę oraz uwzględnić lokalne strefy obciążenia wiatrem i śniegiem, które są niezbędne do obliczeń statycznych konstrukcji."
+  },
+  {
+   "pytanie": "Od czego zależy ostateczna cena wiaty?",
+   "odpowiedz": "Cena zależy od wymiarów wiaty i liczby stanowisk, rodzaju i grubości stali, fundamentów i podłoża, pokrycia dachu, odwodnienia, oświetlenia oraz dodatków takich jak podbitka, ściany boczne, przęsła i brama."
+  }
+ ],
+ "nr": 294,
+ "kolejnosc": 133,
+ "temat": "jak przygotować opis i zdjęcia do wyceny nietypowej wiaty",
+ "adres": "jak-przygotowac-opis-i-zdjecia-do-wyceny-nietypowej-wiaty",
+ "link": "inspiracje/wiata-wspornikowa",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

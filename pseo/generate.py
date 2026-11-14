@@ -82,7 +82,7 @@ def notes_for(r, f):
 
 def gen_one(client, cfg, r):
     f = FACTS[r["link do"]]
-    prompt = PROMPT.format(temat=r["temat"], produkt=f["h1"], fakty="\n".join("- " + x for x in f["facts"]), notatki=notes_for(r, f))
+    prompt = PROMPT.format(temat=r["temat"], produkt=f["h1"], fakty="\n".join("- " + x for x in f["facts"]), notatki=notes_for(r, f) + (("\n" + f["instrukcja"] + "\n") if f.get("instrukcja") else ""))
     for proba in range(4):
         try:
             resp = client.models.generate_content(model=MODEL, contents=prompt, config=cfg)
@@ -99,6 +99,8 @@ def gen_one(client, cfg, r):
         s["h2"] = clean(s["h2"]); s["akapity"] = [clean(p) for p in s["akapity"]]
     for q in d["faq"]:
         q["pytanie"] = clean(q["pytanie"]); q["odpowiedz"] = clean(q["odpowiedz"])
+    if f.get("dopisek") and f["dopisek"] not in d["rozwiazanie"]:
+        d["rozwiazanie"] = d["rozwiazanie"].rstrip() + " " + f["dopisek"]
     txt = json.dumps(d, ensure_ascii=False).lower()
     uwagi = [w for w in ("pozwoleni", "prawo budowlane", "!") if w in txt]
     uwagi += sorted(set(re.findall(r"\d[\d ,.]*\s?(?:tys\.\s?)?zł", txt)))

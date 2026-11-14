@@ -12,7 +12,7 @@ HEAD = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="/css/site.css">'''
 
 def header(active=""):
-    items = [("/#moduly", "Moduły", "moduly"), ("/realizacje/", "Realizacje", "realizacje"), ("/montaz/", "Montaż", "montaz"), ("/dodatki/ca-stand/", "Stojaki", "stojaki"),
+    items = [("/#moduly", "Moduły", "moduly"), ("/realizacje/", "Realizacje", "realizacje"), ("/inspiracje/", "Inspiracje", "inspiracje"), ("/montaz/", "Montaż", "montaz"), ("/dodatki/ca-stand/", "Stojaki", "stojaki"),
              ("/poradnik/", "Poradnik", "poradnik"), ("/ai/", "Wizualizacja AI", "ai")]
     links = "\n      ".join(f'<a href="{u}"{" aria-current=\"page\"" if k == active else ""}>{t}</a>' for u, t, k in items)
     return f'''<header class="site-head">
@@ -50,6 +50,7 @@ FOOTER = '''<footer class="site-foot">
         <h3>Strona</h3>
         <ul>
           <li><a href="/realizacje/">Realizacje</a></li>
+          <li><a href="/inspiracje/">Inspiracje</a></li>
           <li><a href="/montaz/">Montaż wiat</a></li>
           <li><a href="/okolice/">Obszar działania</a></li>
           <li><a href="/dodatki/ca-stand/">Stojaki CA-Stand</a></li>

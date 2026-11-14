@@ -1,0 +1,50 @@
+{
+ "tytul": "Wiata bez słupa od strony wjazdu - czy to możliwe?",
+ "opis_meta": "Zastanawiasz się, czy wiata bez słupa od strony wjazdu to możliwe rozwiązanie? Sprawdź, jak działa konstrukcja wspornikowa i o czym musisz pamiętać.",
+ "wstep": "Tak, wiata bez słupa od strony wjazdu jest w pełni możliwa do wykonania. W takim układzie stosuje się konstrukcję wspornikową, w której zadaszenie opiera się tylko na jednej linii słupów. Dzięki temu zyskujesz pełną swobodę manewru i parkujesz bez ryzyka zahaczenia o narożną podporę.",
+ "sekcje": [
+  {
+   "h2": "Jak działa wiata bez słupa z przodu",
+   "akapity": [
+    "W klasycznej wiacie dach wspiera się na co najmniej czterech narożnych słupach. Jeśli masz wąski wjazd lub parkujesz pod kątem, słup od strony drogi dojazdowej może bardzo utrudniać codzienne manewry.",
+    "Rozwiązaniem jest układ, w którym słupy stoją tylko z jednej strony, na przykład z tyłu lub z boku stanowiska. Dach wysuwa się bezpośrednio nad miejsce parkingowe, więc cała strefa wjazdu pozostaje otwarta i pozbawiona przeszkód."
+   ]
+  },
+  {
+   "h2": "Wysięg dachu a fundamenty i obciążenia",
+   "akapity": [
+    "Brak słupów podpierających z przodu sprawia, że na konstrukcję działają spore siły. Zasada jest prosta: im większy wysięg dachu, tym cięższa musi być cała konstrukcja i tym większy fundament trzeba pod nią przygotować.",
+    "W takich układach stosuje się skośne podpory, które pomagają przenieść obciążenie na fundament. Przy dużym wysięgu niezbędne są dokładne obliczenia statyczne, które gwarantują stabilność całej wiaty pod wpływem wiatru czy śniegu."
+   ]
+  },
+  {
+   "h2": "O czym warto pamiętać przy planowaniu",
+   "akapity": [
+    "Jeśli planujesz zadaszenie tego typu, kluczowe jest przygotowanie odpowiedniego podłoża. Fundament musi utrzymać ciężar wiaty ze sporym ramieniem wysięgu, dlatego zwykła nawierzchnia z kostki nie wystarczy jako oparcie.",
+    "Warto też od razu zaplanować system odwodnienia oraz kwestie wykończenia. Konstrukcję można wyposażyć w oświetlenie punktowe czy podbitkę, dzięki czemu całość zyskuje uporządkowany wygląd."
+   ]
+  }
+ ],
+ "rozwiazanie": "W naszym dziale Inspiracje prezentujemy taki pomysł jako wariant: Wiata wspornikowa - nowoczesna wiata na samochód. Jest to wizualizacja koncepcyjna nietypowej wiaty ze stali malowanej proszkowo na ciemny kolor, na przykład antracyt RAL 7016, a nie gotowy produkt z naszej stałej oferty. Konstrukcja przy dużym wysięgu wymaga obliczeń statycznych, a jej ostateczna cena zależy od wymiarów, liczby stanowisk, rodzaju i grubości stali, fundamentów, pokrycia dachu, odwodnienia oraz dodatków, takich jak podbitka z drewna lub imitacji drewna, ściany boczne, przęsła czy brama. Jeśli podoba Ci się ten pomysł, prześlij nam opis, orientacyjne wymiary i miejscowość, a przygotujemy indywidualną wycenę w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Czy brak słupa przy wjeździe wpływa na stabilność wiaty?",
+   "odpowiedz": "Nie, jeśli konstrukcja ma odpowiednie parametry. Zastosowanie skośnych podpór oraz powiększonego fundamentu pozwala bezpiecznie przenieść wszystkie obciążenia na podłoże."
+  },
+  {
+   "pytanie": "Czym można wykończyć dach wiaty wspornikowej?",
+   "odpowiedz": "Od spodu dachu można zamontować estetyczną podbitkę z drewna albo z imitacji drewna, a w konstrukcji zaplanować oświetlenie punktowe."
+  },
+  {
+   "pytanie": "Od czego zależy cena wiaty bez przednich słupów?",
+   "odpowiedz": "Koszt zależy między innymi od wymiarów, grubości użytej stali, rodzaju fundamentów, pokrycia dachu, odwodnienia oraz dodatków, takich jak podbitka czy ściany boczne."
+  }
+ ],
+ "nr": 287,
+ "kolejnosc": 28,
+ "temat": "wiata bez słupa od strony wjazdu - czy to możliwe",
+ "adres": "wiata-bez-slupa-od-strony-wjazdu-czy-to-mozliwe",
+ "link": "inspiracje/wiata-wspornikowa",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

@@ -1,0 +1,50 @@
+{
+ "tytul": "Nietypowa wiata od pomysłu do projektu - jak to wygląda",
+ "opis_meta": "Planujesz nietypową wiatę garażową? Zobacz, jak przejść drogę od wstępnego pomysłu i analizy działki do obliczeń konstrukcyjnych. Sprawdź szczegóły.",
+ "wstep": "Chcesz postawić zadaszenie, które różni się od standardowych wiat z katalogu. Nietypowy kształt wymaga jednak innego podejścia do planowania i prac przygotowawczych. Zobacz, jak krok po kroku wygląda droga od pierwszego szkicu do projektu technicznego.",
+ "sekcje": [
+  {
+   "h2": "Od czego zacząć, gdy masz w głowie własny pomysł",
+   "akapity": [
+    "Wszystko zaczyna się od analizy miejsca na Twojej posesji. Zwróć uwagę na ukształtowanie terenu, szerokość wjazdu oraz przestrzeń potrzebną na swobodne otwieranie drzwi samochodu. Warto zrobić prosty szkic i określić, ile stanowisk potrzebujesz oraz jakie funkcje ma spełniać zadaszenie.",
+    "Pamiętaj, że każdy niestandardowy kształt musi współgrać z otoczeniem i bryłą domu. Zastanów się, czy zadaszenie ma stać blisko budynku, czy będzie wolnostojące. Te podstawowe ustalenia pozwolą monterowi i projektantowi ocenić możliwości techniczne Twojej działki."
+   ]
+  },
+  {
+   "h2": "Dlaczego nietypowy kształt wymaga obliczeń statycznych",
+   "akapity": [
+    "O ile prosta wiata na czterech pionowych słupach ma dobrze znany rozkład obciążeń, o tyle skośne elementy lub nietypowe podpory całkowicie zmieniają siły działające na szkielet. W takim przypadku nie wolno budować na oko.",
+    "Konieczne jest wykonanie indywidualnego projektu oraz dokładnych obliczeń statycznych. Konstruktor musi sprawdzić, jak zadaszenie zachowa się pod wpływem śniegu i silnego wiatru. Dopiero te wyliczenia wskazują odpowiedni przekrój elementów nośnych."
+   ]
+  },
+  {
+   "h2": "Co wpływa na ostateczny koszt nietypowej konstrukcji",
+   "akapity": [
+    "Nietypowe projekty nie mają stałego cennika, ponieważ każdy detal wpływa na zużycie surowca. Kluczowe są gabaryty, liczba stanowisk oraz rodzaj i grubość stali. Kąt nachylenia elementów konstrukcyjnych i ich przekrój bezpośrednio decydują o tym, ile materiału trzeba zużyć.",
+    "Na budżet rzutują także rodzaj podłoża i fundamentów, pokrycie dachu, system odwodnienia oraz oświetlenie. Dodatkowy wpływ na cenę mają elementy wykończeniowe, takie jak podbitka dachowa, ściany boczne, przęsła lub brama."
+   ]
+  }
+ ],
+ "rozwiazanie": "Przykładem takiego nietypowego podejścia jest wiata na ukośnych podporach zamiast pionowych słupów, z płaskim, cienkim w odbiorze dachem. To wizualizacja koncepcyjna ze stalową konstrukcją malowaną proszkowo na ciemny kolor, na przykład antracyt RAL 7016, z możliwością montażu pasów LED pod dachem. Ponieważ nie jest to wiata z naszej stałej oferty, wymaga indywidualnych obliczeń statycznych i nie ma stałej ceny. Jeśli interesuje Cię taka koncepcja, prześlij nam opis, orientacyjne wymiary i miejscowość, a wycenę przygotujemy w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Czy wiata na ukośnych podporach znajduje się w stałej ofercie?",
+   "odpowiedz": "Nie, to wizualizacja koncepcyjna i nie jest to wiata z naszej stałej oferty. Każdy taki projekt traktujemy indywidualnie i nie podajemy dla niego stałej ceny w cenniku."
+  },
+  {
+   "pytanie": "Od czego zależy ilość stali w nietypowej wiacie?",
+   "odpowiedz": "Ilość potrzebnej stali zależy przede wszystkim od wymiarów całej konstrukcji, a także od kąta i przekroju zastosowanych podpór."
+  },
+  {
+   "pytanie": "Jakie informacje są potrzebne do przygotowania wyceny?",
+   "odpowiedz": "Żeby przygotować indywidualną wycenę, potrzebujemy opisu Twojego pomysłu, orientacyjnych wymiarów oraz miejscowości, w której ma stanąć wiata. Odpowiedź otrzymasz w ciągu 24 godzin."
+  }
+ ],
+ "nr": 301,
+ "kolejnosc": 104,
+ "temat": "nietypowa wiata od pomysłu do projektu - jak to wygląda",
+ "adres": "nietypowa-wiata-od-pomyslu-do-projektu-jak-to-wyglada",
+ "link": "inspiracje/wiata-ukosne-podpory",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}

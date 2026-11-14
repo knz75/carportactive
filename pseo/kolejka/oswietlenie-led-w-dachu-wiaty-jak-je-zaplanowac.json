@@ -1,0 +1,50 @@
+{
+ "tytul": "Oświetlenie LED w dachu wiaty - jak je zaplanować",
+ "opis_meta": "Planujesz oświetlenie LED w dachu wiaty garażowej? Sprawdź, jak rozmieścić punkty świetlne, ukryć kable i wybrać podbitkę. Praktyczne porady montera.",
+ "wstep": "Dobre oświetlenie pod wiatą ułatwia parkowanie po zmroku i bezpieczne wysiadanie z auta. Zanim zamontujesz dach, zaplanuj rozmieszczenie lamp oraz trasę przewodów elektrycznych. Kilka prostych zasad pozwoli Ci uniknąć widocznych kabli i niedoświetlonych miejsc.",
+ "sekcje": [
+  {
+   "h2": "Zaplanuj instalację przed montażem podbitki",
+   "akapity": [
+    "Przewody elektryczne najlepiej rozprowadzić w trakcie składania zadaszenia. Jeśli zrobisz to wcześniej, ukryjesz całe okablowanie w profilach konstrukcji lub pod wykończeniem dachu.",
+    "Gdy odłożysz ten krok na później, kable trzeba będzie prowadzić po wierzchu konstrukcji w plastikowych korytkach. Warto od razu wyznaczyć miejsca na oprawy i doprowadzić tam zasilanie."
+   ]
+  },
+  {
+   "h2": "Gdzie rozmieścić punkty świetlne",
+   "akapity": [
+    "Najczęstszym błędem jest umieszczenie jednej lampy na środku dachu. Wtedy dach zaparkowanego samochodu zasłania światło i wokół auta nadal jest ciemno.",
+    "Rozmieszczaj oprawy wzdłuż krawędzi stanowiska postojowego. Punkty świetlne powinny oświetlać przestrzeń przy drzwiach kierowcy, przy bagażniku oraz samą drogę dojścia do domu."
+   ]
+  },
+  {
+   "h2": "Wybór opraw i sterowania",
+   "akapity": [
+    "Wiata to przestrzeń otwarta, więc oświetlenie jest narażone na wilgoć, pył i mróz. Wybieraj oprawy zewnętrzne o podwyższonej szczelności oraz przewody przystosowane do pracy na dworze.",
+    "Wygodnym rozwiązaniem jest podłączenie instalacji do czujnika ruchu i zmierzchu. Światło zapali się samo, gdy wjedziesz na podjazd, co jest bardzo praktyczne w deszczowe i ciemne dni."
+   ]
+  }
+ ],
+ "rozwiazanie": "Przykładem nowoczesnego podejścia do zadaszenia jest wiata wspornikowa, w której słupy stoją z jednej strony, a dach wysuwa się nad miejsce parkingowe. Pod dachem można zastosować podbitkę z drewna albo imitacji drewna oraz wbudowane oświetlenie punktowe. Konstrukcja stalowa może być pomalowana proszkowo na kolor antracyt RAL 7016. To wizualizacja koncepcyjna, a każda wycena zależy między innymi od wymiarów, podłoża i dodatków. Prześlij do nas opis, orientacyjne wymiary oraz miejscowość, a przygotujemy indywidualną kalkulację w ciągu 24 godzin. Wizualizacja koncepcyjna, wycena indywidualna.",
+ "faq": [
+  {
+   "pytanie": "Kiedy najlepiej położyć kable do oświetlenia pod wiatą?",
+   "odpowiedz": "Najlepiej zrobić to przed montażem pokrycia dachowego lub podbitki, aby przewody schować wewnątrz konstrukcji."
+  },
+  {
+   "pytanie": "Jakie lampy najlepiej sprawdzają się w dachu wiaty?",
+   "odpowiedz": "Dobre rezultaty daje oświetlenie punktowe zamontowane w podbitce, rozmieszczone wzdłuż boków auta i przy bagażniku."
+  },
+  {
+   "pytanie": "Czy oświetlenie pod wiatą wymaga specjalnych zabezpieczeń?",
+   "odpowiedz": "Tak, oprawy, puszki i przewody muszą być przeznaczone do użytku zewnętrznego, aby były odporne na wilgoć i zmienne temperatury."
+  }
+ ],
+ "nr": 291,
+ "kolejnosc": 88,
+ "temat": "oświetlenie LED w dachu wiaty - jak je zaplanować",
+ "adres": "oswietlenie-led-w-dachu-wiaty-jak-je-zaplanowac",
+ "link": "inspiracje/wiata-wspornikowa",
+ "wygenerowano": "2026-11-14",
+ "uwagi": []
+}
